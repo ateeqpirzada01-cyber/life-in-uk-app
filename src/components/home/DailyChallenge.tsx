@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { useTheme } from '@/src/hooks/useTheme';
@@ -89,8 +89,16 @@ export function DailyChallenge() {
     await progressService.awardXP(user.id, 'daily_challenge');
     await progressService.recordQuestionAnswered(user.id);
 
-    setTimeout(() => setCompleted(true), 2000);
+    completionTimer.current = setTimeout(() => setCompleted(true), 2000);
   };
+
+  // Clean up timer on unmount
+  const completionTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  useEffect(() => {
+    return () => {
+      if (completionTimer.current) clearTimeout(completionTimer.current);
+    };
+  }, []);
 
   if (loading) return null;
 

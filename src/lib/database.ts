@@ -207,10 +207,13 @@ async function initializeDatabase(database: SQLite.SQLiteDatabase) {
     CREATE INDEX IF NOT EXISTS idx_questions_topic ON questions(topic_id);
     CREATE INDEX IF NOT EXISTS idx_attempts_user ON question_attempts(user_id);
     CREATE INDEX IF NOT EXISTS idx_attempts_question ON question_attempts(question_id);
+    CREATE INDEX IF NOT EXISTS idx_attempts_user_created ON question_attempts(user_id, created_at DESC);
     CREATE INDEX IF NOT EXISTS idx_sr_cards_user ON spaced_repetition_cards(user_id);
     CREATE INDEX IF NOT EXISTS idx_sr_cards_review ON spaced_repetition_cards(next_review_date);
+    CREATE INDEX IF NOT EXISTS idx_sr_cards_user_review ON spaced_repetition_cards(user_id, next_review_date);
     CREATE INDEX IF NOT EXISTS idx_streaks_user_date ON daily_streaks(user_id, activity_date);
     CREATE INDEX IF NOT EXISTS idx_exam_user ON exam_sessions(user_id);
+    CREATE INDEX IF NOT EXISTS idx_exam_user_created ON exam_sessions(user_id, created_at DESC);
     CREATE INDEX IF NOT EXISTS idx_starred_user ON starred_questions(user_id);
     CREATE INDEX IF NOT EXISTS idx_starred_question ON starred_questions(question_id);
     CREATE INDEX IF NOT EXISTS idx_flashcard_progress_user ON flashcard_progress(user_id);

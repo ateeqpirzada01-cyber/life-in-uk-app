@@ -1,4 +1,4 @@
-import { getDatabase } from '@/src/lib/database';
+import { getDatabase, safeParse } from '@/src/lib/database';
 import { SpacedRepetitionCard, Question } from '@/src/types';
 import * as Crypto from 'expo-crypto';
 import { format, addDays } from 'date-fns';
@@ -56,8 +56,8 @@ export const spacedRepetitionService = {
 
     return rows.map((row: any) => ({
       ...row,
-      options: typeof row.options === 'string' ? JSON.parse(row.options) : row.options,
-      correct_option_ids: typeof row.correct_option_ids === 'string' ? JSON.parse(row.correct_option_ids) : row.correct_option_ids,
+      options: safeParse(row.options, []),
+      correct_option_ids: safeParse(row.correct_option_ids, []),
     }));
   },
 
@@ -95,14 +95,25 @@ export const spacedRepetitionService = {
   },
 };
 
+// SM-2 quality mapping: correct answers get quality 4 (good), incorrect get quality 1 (poor)
+// This is a simplified but correct SM-2 where we map binary correct/incorrect to quality scores.
+// Quality scale: 0=total blackout, 1=wrong, 2=wrong but close, 3=correct with difficulty, 4=correct, 5=perfect
 function calculateNextReview(
   card: SpacedRepetitionCard,
   isCorrect: boolean
 ): Partial<SpacedRepetitionCard> {
+  const quality = isCorrect ? 4 : 1;
+
+  // SM-2 ease factor formula: EF' = EF + (0.1 - (5 - q) * (0.08 + (5 - q) * 0.02))
+  const easeFactor = Math.max(
+    1.3,
+    card.ease_factor + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02))
+  );
+
   if (!isCorrect) {
-    // Reset on incorrect
+    // Reset repetitions on incorrect, review tomorrow
     return {
-      ease_factor: Math.max(1.3, card.ease_factor - 0.2),
+      ease_factor: easeFactor,
       interval_days: 1,
       repetitions: 0,
       next_review_date: format(addDays(new Date(), 1), 'yyyy-MM-dd'),
@@ -117,10 +128,8 @@ function calculateNextReview(
   } else if (repetitions === 2) {
     interval = 6;
   } else {
-    interval = Math.round(card.interval_days * card.ease_factor);
+    interval = Math.round(card.interval_days * easeFactor);
   }
-
-  const easeFactor = Math.max(1.3, card.ease_factor + 0.1 - 0.08 + 0.02);
 
   return {
     ease_factor: easeFactor,

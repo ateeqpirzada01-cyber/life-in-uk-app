@@ -25,20 +25,22 @@ export const progressService = {
       xp = Math.min(XP_VALUES.daily_streak_base * streakDay, XP_VALUES.daily_streak_max);
     }
 
-    // Update local profile
-    await db.runAsync(
-      'UPDATE user_profile SET total_xp = total_xp + ?, synced = 0 WHERE id = ?',
-      [xp, userId]
-    );
-
-    // Update today's streak record
     const today = format(new Date(), 'yyyy-MM-dd');
-    await db.runAsync(
-      `INSERT INTO daily_streaks (id, user_id, activity_date, xp_earned, questions_answered, synced)
-       VALUES (?, ?, ?, ?, 0, 0)
-       ON CONFLICT(user_id, activity_date) DO UPDATE SET xp_earned = xp_earned + ?, synced = 0`,
-      [Crypto.randomUUID(), userId, today, xp, xp]
-    );
+
+    // Use transaction to keep profile and streak in sync
+    await db.withTransactionAsync(async () => {
+      await db.runAsync(
+        'UPDATE user_profile SET total_xp = total_xp + ?, synced = 0 WHERE id = ?',
+        [xp, userId]
+      );
+
+      await db.runAsync(
+        `INSERT INTO daily_streaks (id, user_id, activity_date, xp_earned, questions_answered, synced)
+         VALUES (?, ?, ?, ?, 0, 0)
+         ON CONFLICT(user_id, activity_date) DO UPDATE SET xp_earned = xp_earned + ?, synced = 0`,
+        [Crypto.randomUUID(), userId, today, xp, xp]
+      );
+    });
 
     return xp;
   },

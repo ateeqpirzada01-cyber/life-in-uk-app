@@ -156,10 +156,13 @@ CREATE TABLE IF NOT EXISTS practice_test_results (
 CREATE INDEX IF NOT EXISTS idx_questions_topic ON questions(topic_id);
 CREATE INDEX IF NOT EXISTS idx_attempts_user ON question_attempts(user_id);
 CREATE INDEX IF NOT EXISTS idx_attempts_question ON question_attempts(question_id);
+CREATE INDEX IF NOT EXISTS idx_attempts_user_created ON question_attempts(user_id, created_at DESC);
 CREATE INDEX IF NOT EXISTS idx_sr_cards_user ON spaced_repetition_cards(user_id);
 CREATE INDEX IF NOT EXISTS idx_sr_cards_review ON spaced_repetition_cards(next_review_date);
+CREATE INDEX IF NOT EXISTS idx_sr_cards_user_review ON spaced_repetition_cards(user_id, next_review_date);
 CREATE INDEX IF NOT EXISTS idx_streaks_user_date ON daily_streaks(user_id, activity_date);
 CREATE INDEX IF NOT EXISTS idx_exam_user ON exam_sessions(user_id);
+CREATE INDEX IF NOT EXISTS idx_exam_user_created ON exam_sessions(user_id, created_at DESC);
 
 -- RLS Policies
 ALTER TABLE profiles ENABLE ROW LEVEL SECURITY;
@@ -184,6 +187,7 @@ CREATE POLICY "Questions are publicly readable" ON questions FOR SELECT USING (t
 -- Question attempts
 CREATE POLICY "Users can view own attempts" ON question_attempts FOR SELECT USING (auth.uid() = user_id);
 CREATE POLICY "Users can insert own attempts" ON question_attempts FOR INSERT WITH CHECK (auth.uid() = user_id);
+CREATE POLICY "Users can delete own attempts" ON question_attempts FOR DELETE USING (auth.uid() = user_id);
 
 -- SR cards
 CREATE POLICY "Users can view own SR cards" ON spaced_repetition_cards FOR SELECT USING (auth.uid() = user_id);
@@ -194,11 +198,13 @@ CREATE POLICY "Users can update own SR cards" ON spaced_repetition_cards FOR UPD
 CREATE POLICY "Users can view own exams" ON exam_sessions FOR SELECT USING (auth.uid() = user_id);
 CREATE POLICY "Users can insert own exams" ON exam_sessions FOR INSERT WITH CHECK (auth.uid() = user_id);
 CREATE POLICY "Users can update own exams" ON exam_sessions FOR UPDATE USING (auth.uid() = user_id);
+CREATE POLICY "Users can delete own exams" ON exam_sessions FOR DELETE USING (auth.uid() = user_id);
 
 -- Daily streaks
 CREATE POLICY "Users can view own streaks" ON daily_streaks FOR SELECT USING (auth.uid() = user_id);
 CREATE POLICY "Users can insert own streaks" ON daily_streaks FOR INSERT WITH CHECK (auth.uid() = user_id);
 CREATE POLICY "Users can update own streaks" ON daily_streaks FOR UPDATE USING (auth.uid() = user_id);
+CREATE POLICY "Users can delete own streaks" ON daily_streaks FOR DELETE USING (auth.uid() = user_id);
 
 -- Achievements: public read
 ALTER TABLE achievements ENABLE ROW LEVEL SECURITY;
@@ -207,10 +213,12 @@ CREATE POLICY "Achievements are publicly readable" ON achievements FOR SELECT US
 -- User achievements
 CREATE POLICY "Users can view own achievements" ON user_achievements FOR SELECT USING (auth.uid() = user_id);
 CREATE POLICY "Users can insert own achievements" ON user_achievements FOR INSERT WITH CHECK (auth.uid() = user_id);
+CREATE POLICY "Users can delete own achievements" ON user_achievements FOR DELETE USING (auth.uid() = user_id);
 
 -- Topics read
 CREATE POLICY "Users can view own topics read" ON topics_read FOR SELECT USING (auth.uid() = user_id);
 CREATE POLICY "Users can insert own topics read" ON topics_read FOR INSERT WITH CHECK (auth.uid() = user_id);
+CREATE POLICY "Users can delete own topics read" ON topics_read FOR DELETE USING (auth.uid() = user_id);
 
 -- Starred questions
 ALTER TABLE starred_questions ENABLE ROW LEVEL SECURITY;
@@ -232,6 +240,7 @@ CREATE POLICY "Users can update own flashcard progress" ON flashcard_progress FO
 ALTER TABLE practice_test_results ENABLE ROW LEVEL SECURITY;
 CREATE POLICY "Users can view own test results" ON practice_test_results FOR SELECT USING (auth.uid() = user_id);
 CREATE POLICY "Users can insert own test results" ON practice_test_results FOR INSERT WITH CHECK (auth.uid() = user_id);
+CREATE POLICY "Users can delete own test results" ON practice_test_results FOR DELETE USING (auth.uid() = user_id);
 
 -- Updated_at trigger for profiles
 CREATE OR REPLACE FUNCTION update_updated_at()
