@@ -1,0 +1,3984 @@
+[
+  {
+    "id": "q_values_124",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following is NOT one of the fundamental values of British life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Democracy"
+      },
+      {
+        "id": "b",
+        "text": "Rule of law"
+      },
+      {
+        "id": "c",
+        "text": "State religion for all citizens"
+      },
+      {
+        "id": "d",
+        "text": "Individual liberty"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The fundamental values of British life are democracy, rule of law, individual liberty, and mutual respect and tolerance of different faiths and beliefs. There is no requirement for citizens to follow a state religion.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_125",
+    "topic_id": "topic_values_1",
+    "question_text": "What does 'mutual respect and tolerance' mean in the context of British values?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Everyone must follow the same religion"
+      },
+      {
+        "id": "b",
+        "text": "People must respect and tolerate the different faiths and beliefs of others"
+      },
+      {
+        "id": "c",
+        "text": "Only British-born citizens deserve respect"
+      },
+      {
+        "id": "d",
+        "text": "Tolerance applies only to political views, not religious ones"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Mutual respect and tolerance means accepting and respecting that others may have different faiths, beliefs, and ways of life, as long as they are within the law.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_126",
+    "topic_id": "topic_values_1",
+    "question_text": "Freedom of speech in the UK means that people can say anything without any restrictions. Is this statement true or false?",
+    "options": [
+      {
+        "id": "a",
+        "text": "True – there are no limits on freedom of speech"
+      },
+      {
+        "id": "b",
+        "text": "False – speech that incites hatred or violence is not protected"
+      },
+      {
+        "id": "c",
+        "text": "True – but only for British citizens"
+      },
+      {
+        "id": "d",
+        "text": "False – freedom of speech does not exist in UK law"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "While freedom of speech is a valued right in the UK, it has legal limits. Speech that incites racial hatred, religious hatred, or violence is illegal.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_127",
+    "topic_id": "topic_values_1",
+    "question_text": "Which principle ensures that everyone in the UK, including the government, must follow the same laws?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parliamentary sovereignty"
+      },
+      {
+        "id": "b",
+        "text": "Rule of law"
+      },
+      {
+        "id": "c",
+        "text": "Individual liberty"
+      },
+      {
+        "id": "d",
+        "text": "Mutual tolerance"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The rule of law means that everyone, including the government and public officials, is subject to the law and must obey it.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_128",
+    "topic_id": "topic_values_1",
+    "question_text": "In the UK, freedom of religion means that:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only Christianity is the officially permitted religion"
+      },
+      {
+        "id": "b",
+        "text": "People can practise any religion, or no religion, within the law"
+      },
+      {
+        "id": "c",
+        "text": "Religious practices are regulated by the state"
+      },
+      {
+        "id": "d",
+        "text": "People must declare a religion when they arrive in the UK"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Freedom of religion in the UK means individuals have the right to practise any religion or no religion at all, and this freedom is protected by law.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_129",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following best describes 'individual liberty' as a British value?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to do anything without any legal consequences"
+      },
+      {
+        "id": "b",
+        "text": "Freedom from government interference in all personal matters"
+      },
+      {
+        "id": "c",
+        "text": "The freedom to live your life as you choose within the limits of the law"
+      },
+      {
+        "id": "d",
+        "text": "The right to override the rights of others for personal benefit"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Individual liberty means people are free to make their own choices and live as they wish, provided they do so within the boundaries set by law.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_130",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following activities would be considered contrary to British values?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Peacefully protesting against a government policy"
+      },
+      {
+        "id": "b",
+        "text": "Attending a religious service of a faith different from your own"
+      },
+      {
+        "id": "c",
+        "text": "Inciting hatred against people of a particular race"
+      },
+      {
+        "id": "d",
+        "text": "Voting in a general election"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Inciting hatred against people because of their race is illegal in the UK and directly contradicts the fundamental value of mutual respect and tolerance.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_131",
+    "topic_id": "topic_values_1",
+    "question_text": "How is democracy expressed in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Through a system where the monarch makes all decisions"
+      },
+      {
+        "id": "b",
+        "text": "Through elected representatives in Parliament who make laws on behalf of the people"
+      },
+      {
+        "id": "c",
+        "text": "Through referendums held every year on all major issues"
+      },
+      {
+        "id": "d",
+        "text": "Through direct voting by all citizens on every law"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK is a representative democracy where citizens elect Members of Parliament who then make laws and decisions on their behalf.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_132",
+    "topic_id": "topic_values_1",
+    "question_text": "Which statement about volunteering in the UK is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Volunteering is compulsory for all UK residents"
+      },
+      {
+        "id": "b",
+        "text": "Volunteering is an important part of community life and is encouraged"
+      },
+      {
+        "id": "c",
+        "text": "Volunteering is only for unemployed people"
+      },
+      {
+        "id": "d",
+        "text": "Volunteers must be paid the minimum wage"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Volunteering is highly valued in the UK as an expression of community spirit and civic responsibility, though it is entirely voluntary.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_133",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following is an example of upholding British democratic values?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Refusing to allow political opponents to speak"
+      },
+      {
+        "id": "b",
+        "text": "Using violence to enforce your political views"
+      },
+      {
+        "id": "c",
+        "text": "Participating in peaceful political debate and voting"
+      },
+      {
+        "id": "d",
+        "text": "Demanding that the government follow only one religion's teachings"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Upholding democratic values means engaging peacefully in political life, including debating ideas and exercising the right to vote.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_134",
+    "topic_id": "topic_values_2",
+    "question_text": "Which of the following is a legal responsibility of people living in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Attending a place of worship weekly"
+      },
+      {
+        "id": "b",
+        "text": "Obeying the law and paying taxes"
+      },
+      {
+        "id": "c",
+        "text": "Joining a political party"
+      },
+      {
+        "id": "d",
+        "text": "Learning to speak Welsh"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "All people living in the UK have legal responsibilities including obeying the law and paying taxes on income and purchases.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_135",
+    "topic_id": "topic_values_2",
+    "question_text": "What is the minimum legal drinking age in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16"
+      },
+      {
+        "id": "b",
+        "text": "17"
+      },
+      {
+        "id": "c",
+        "text": "18"
+      },
+      {
+        "id": "d",
+        "text": "21"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The minimum legal age for purchasing and consuming alcohol in licensed premises in the UK is 18.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_136",
+    "topic_id": "topic_values_2",
+    "question_text": "Jury service in the UK is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Voluntary and you can refuse without consequence"
+      },
+      {
+        "id": "b",
+        "text": "Only for retired people"
+      },
+      {
+        "id": "c",
+        "text": "A civic duty that eligible people can be required to perform"
+      },
+      {
+        "id": "d",
+        "text": "Only required if you have been to university"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Jury service is a civic duty in the UK. Eligible citizens may be summoned to serve on a jury, and it is generally a legal obligation to attend.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_137",
+    "topic_id": "topic_values_2",
+    "question_text": "Which Act of Parliament incorporated the European Convention on Human Rights into UK law?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Bill of Rights 1689"
+      },
+      {
+        "id": "b",
+        "text": "The Human Rights Act 1998"
+      },
+      {
+        "id": "c",
+        "text": "The Equality Act 2010"
+      },
+      {
+        "id": "d",
+        "text": "The Civil Rights Act 2000"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Human Rights Act 1998 incorporated the rights set out in the European Convention on Human Rights directly into UK law.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_138",
+    "topic_id": "topic_values_2",
+    "question_text": "Is it legal to drive a car in the UK after drinking alcohol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, if you feel sober enough"
+      },
+      {
+        "id": "b",
+        "text": "Yes, if you have only had one drink"
+      },
+      {
+        "id": "c",
+        "text": "No, driving over the legal alcohol limit is a criminal offence"
+      },
+      {
+        "id": "d",
+        "text": "Yes, but only on motorways"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Driving while over the legal alcohol limit is a criminal offence in the UK and can result in a fine, driving ban, or imprisonment.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_139",
+    "topic_id": "topic_values_2",
+    "question_text": "What is the minimum age for marriage or civil partnership in England and Wales following the Marriage and Civil Partnership (Minimum Age) Act 2022?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16 with parental consent"
+      },
+      {
+        "id": "b",
+        "text": "17 with parental consent"
+      },
+      {
+        "id": "c",
+        "text": "18 with no exceptions"
+      },
+      {
+        "id": "d",
+        "text": "21 for all parties"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Following the Marriage and Civil Partnership (Minimum Age) Act 2022, the minimum age for marriage or civil partnership in England and Wales is 18 with no exceptions, removing the previous allowance for 16 and 17 year olds to marry with parental consent.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_140",
+    "topic_id": "topic_values_2",
+    "question_text": "Which of the following is an example of antisocial behaviour?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Playing music quietly at home"
+      },
+      {
+        "id": "b",
+        "text": "Repeatedly playing very loud music at night, disturbing neighbours"
+      },
+      {
+        "id": "c",
+        "text": "Parking your car in your own driveway"
+      },
+      {
+        "id": "d",
+        "text": "Walking a dog in a public park"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Antisocial behaviour includes actions that cause harassment, alarm, or distress to others, such as playing excessively loud music at night. Councils and police have powers to deal with antisocial behaviour.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_141",
+    "topic_id": "topic_values_2",
+    "question_text": "Forced marriage is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Legal if both families agree"
+      },
+      {
+        "id": "b",
+        "text": "Legal in some religious communities"
+      },
+      {
+        "id": "c",
+        "text": "Illegal in the UK and is a criminal offence"
+      },
+      {
+        "id": "d",
+        "text": "Legal for those over the age of 21"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Forced marriage is illegal in the UK. It is a criminal offence to force someone into marriage and Forced Marriage Protection Orders can be obtained by victims.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_142",
+    "topic_id": "topic_values_2",
+    "question_text": "Female genital mutilation (FGM) in the UK is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Permitted as a cultural or religious practice"
+      },
+      {
+        "id": "b",
+        "text": "Illegal and a serious criminal offence"
+      },
+      {
+        "id": "c",
+        "text": "Legal if performed by a medical professional"
+      },
+      {
+        "id": "d",
+        "text": "Legal with parental consent for girls under 18"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "FGM is illegal in the UK and is a serious criminal offence. It is also illegal to take a British national or UK resident abroad to have FGM carried out.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_143",
+    "topic_id": "topic_values_2",
+    "question_text": "What should you do if you witness domestic violence?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignore it as it is a private family matter"
+      },
+      {
+        "id": "b",
+        "text": "Report it to the police, as domestic violence is a crime"
+      },
+      {
+        "id": "c",
+        "text": "Only report it if the victim asks you to"
+      },
+      {
+        "id": "d",
+        "text": "Discuss it with the neighbours before deciding"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Domestic violence is a criminal offence in the UK. Anyone who witnesses or suspects domestic violence should report it to the police.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_144",
+    "topic_id": "topic_values_3",
+    "question_text": "Which Act of Parliament brought together and strengthened previous anti-discrimination legislation in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Race Relations Act 1976"
+      },
+      {
+        "id": "b",
+        "text": "The Equality Act 2010"
+      },
+      {
+        "id": "c",
+        "text": "The Sex Discrimination Act 1975"
+      },
+      {
+        "id": "d",
+        "text": "The Human Rights Act 1998"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Equality Act 2010 consolidated and strengthened a number of existing anti-discrimination laws, providing a single legal framework to protect people from discrimination.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_145",
+    "topic_id": "topic_values_3",
+    "question_text": "Which of the following is a protected characteristic under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Political opinion"
+      },
+      {
+        "id": "b",
+        "text": "Accent"
+      },
+      {
+        "id": "c",
+        "text": "Disability"
+      },
+      {
+        "id": "d",
+        "text": "Income level"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Disability is one of the nine protected characteristics under the Equality Act 2010. Employers and service providers must not discriminate against people because of their disability.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_146",
+    "topic_id": "topic_values_3",
+    "question_text": "How many protected characteristics are listed under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "6"
+      },
+      {
+        "id": "b",
+        "text": "9"
+      },
+      {
+        "id": "c",
+        "text": "12"
+      },
+      {
+        "id": "d",
+        "text": "15"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Equality Act 2010 lists nine protected characteristics: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_147",
+    "topic_id": "topic_values_3",
+    "question_text": "Which of the following is NOT a protected characteristic under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Race"
+      },
+      {
+        "id": "b",
+        "text": "Sexual orientation"
+      },
+      {
+        "id": "c",
+        "text": "Nationality of birth"
+      },
+      {
+        "id": "d",
+        "text": "Religion or belief"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Nationality of birth is not a listed protected characteristic under the Equality Act 2010. The nine protected characteristics are age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_148",
+    "topic_id": "topic_values_3",
+    "question_text": "The Equality Act 2010 protects people from discrimination in which of the following settings?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only in the workplace"
+      },
+      {
+        "id": "b",
+        "text": "Only in schools"
+      },
+      {
+        "id": "c",
+        "text": "In the workplace, when accessing goods and services, and in other areas of public life"
+      },
+      {
+        "id": "d",
+        "text": "Only when applying for government jobs"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Equality Act 2010 protects people from discrimination in a wide range of situations including employment, accessing goods and services, education, and other aspects of public life.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_149",
+    "topic_id": "topic_values_3",
+    "question_text": "Same-sex couples in the UK have the legal right to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enter into civil partnerships only, not marriage"
+      },
+      {
+        "id": "b",
+        "text": "Marry and also enter civil partnerships"
+      },
+      {
+        "id": "c",
+        "text": "Neither marry nor enter civil partnerships"
+      },
+      {
+        "id": "d",
+        "text": "Enter informal unions recognised by the state"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Same-sex couples in the UK have the right to both marry and enter into civil partnerships, following the legalisation of same-sex marriage in England and Wales in 2014.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_150",
+    "topic_id": "topic_values_3",
+    "question_text": "Which of the following best describes the concept of diversity in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Everyone must adopt the same cultural practices"
+      },
+      {
+        "id": "b",
+        "text": "The variety of different backgrounds, cultures, beliefs, and identities within society is valued"
+      },
+      {
+        "id": "c",
+        "text": "Only British-born citizens can contribute to society"
+      },
+      {
+        "id": "d",
+        "text": "Diversity applies only to racial differences"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Diversity in the UK is valued as a strength of society, recognising and celebrating the wide range of backgrounds, cultures, beliefs, and identities that people bring.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_151",
+    "topic_id": "topic_values_3",
+    "question_text": "Under the Equality Act 2010, an employer is allowed to ask a job applicant about their health or disability:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freely, at any point during recruitment"
+      },
+      {
+        "id": "b",
+        "text": "Only in very limited circumstances, such as to assess whether they can perform a specific task required for the job"
+      },
+      {
+        "id": "c",
+        "text": "Never, under any circumstances"
+      },
+      {
+        "id": "d",
+        "text": "Only after making a conditional job offer"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Equality Act 2010, employers can only ask about health or disability before a job offer in very limited circumstances, such as to assess whether adjustments need to be made for a required task.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_152",
+    "topic_id": "topic_values_3",
+    "question_text": "Gender reassignment is a protected characteristic under the Equality Act 2010. This means:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only people who have completed medical reassignment procedures are protected"
+      },
+      {
+        "id": "b",
+        "text": "People who are proposing to undergo, are undergoing, or have undergone gender reassignment are protected from discrimination"
+      },
+      {
+        "id": "c",
+        "text": "Only transgender women are protected"
+      },
+      {
+        "id": "d",
+        "text": "Protection only applies in the workplace"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The protection for gender reassignment under the Equality Act 2010 covers people at any stage of the process, including those proposing to undergo, undergoing, or who have undergone gender reassignment.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_153",
+    "topic_id": "topic_values_3",
+    "question_text": "Which of the following statements about racial equality in the UK is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Race discrimination only applies to people from outside the UK"
+      },
+      {
+        "id": "b",
+        "text": "It is illegal to discriminate against someone because of their race, colour, nationality, or ethnic origin"
+      },
+      {
+        "id": "c",
+        "text": "Employers can pay different wages based on race if they have a business reason"
+      },
+      {
+        "id": "d",
+        "text": "Racial discrimination is only illegal in schools"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Equality Act 2010 makes it illegal to discriminate against someone because of their race, which includes colour, nationality, and ethnic or national origins.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_154",
+    "topic_id": "topic_values_4",
+    "question_text": "At what age does criminal responsibility begin in England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "8"
+      },
+      {
+        "id": "b",
+        "text": "10"
+      },
+      {
+        "id": "c",
+        "text": "12"
+      },
+      {
+        "id": "d",
+        "text": "14"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The age of criminal responsibility in England and Wales is 10 years old. Children aged 10 and above can be prosecuted for criminal offences.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_155",
+    "topic_id": "topic_values_4",
+    "question_text": "Which of the following drug-related activities is legal in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Possessing cannabis for personal use"
+      },
+      {
+        "id": "b",
+        "text": "Supplying controlled drugs to others"
+      },
+      {
+        "id": "c",
+        "text": "Buying prescribed medication from a registered pharmacy"
+      },
+      {
+        "id": "d",
+        "text": "Growing cannabis plants at home"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Buying prescribed medication from a registered pharmacy with a valid prescription is legal. Possessing, supplying, or growing controlled drugs such as cannabis is illegal in the UK.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_156",
+    "topic_id": "topic_values_4",
+    "question_text": "What is the role of the police in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To enforce the political views of the government in power"
+      },
+      {
+        "id": "b",
+        "text": "To protect people and property, prevent crime, and maintain public order"
+      },
+      {
+        "id": "c",
+        "text": "To collect taxes on behalf of the government"
+      },
+      {
+        "id": "d",
+        "text": "To manage immigration applications"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The police in the UK are responsible for protecting people and property, preventing and detecting crime, and maintaining public order.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_157",
+    "topic_id": "topic_values_4",
+    "question_text": "Which of the following is true about the legal system in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The monarch has the power to override court decisions"
+      },
+      {
+        "id": "b",
+        "text": "Everyone is equal before the law and entitled to a fair trial"
+      },
+      {
+        "id": "c",
+        "text": "Only citizens can be tried in a UK court"
+      },
+      {
+        "id": "d",
+        "text": "The government can imprison people without trial in peacetime"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A cornerstone of the UK legal system is that everyone is equal before the law and entitled to a fair trial, regardless of their background or status.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_158",
+    "topic_id": "topic_values_4",
+    "question_text": "What is the purpose of an Antisocial Behaviour Order (or its equivalent measures)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To reward people who report antisocial behaviour"
+      },
+      {
+        "id": "b",
+        "text": "To restrict the behaviour of individuals who engage in antisocial activities that cause harm to others"
+      },
+      {
+        "id": "c",
+        "text": "To provide housing to people affected by antisocial behaviour"
+      },
+      {
+        "id": "d",
+        "text": "To fund community centres"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Antisocial behaviour orders and equivalent civil orders are legal tools used to restrict the behaviour of individuals whose conduct causes harassment, alarm, or distress to others in the community.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_159",
+    "topic_id": "topic_values_4",
+    "question_text": "Who can contact emergency services using 999 in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only British citizens"
+      },
+      {
+        "id": "b",
+        "text": "Only people who have lived in the UK for more than a year"
+      },
+      {
+        "id": "c",
+        "text": "Anyone who needs urgent help from police, fire, or ambulance services"
+      },
+      {
+        "id": "d",
+        "text": "Only people registered with a GP"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Anyone in the UK can call 999 to contact emergency services including the police, fire service, or ambulance service when there is an immediate threat to life or property.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_160",
+    "topic_id": "topic_values_4",
+    "question_text": "Which of the following reflects an environmental responsibility of people living in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dumping waste anywhere that is convenient"
+      },
+      {
+        "id": "b",
+        "text": "Recycling waste and disposing of rubbish responsibly"
+      },
+      {
+        "id": "c",
+        "text": "Burning household waste in your garden at any time"
+      },
+      {
+        "id": "d",
+        "text": "Disposing of electrical items in general household waste bins"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "People in the UK are encouraged and in many cases required to recycle and dispose of waste responsibly. Fly-tipping and illegal dumping are criminal offences.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_161",
+    "topic_id": "topic_values_4",
+    "question_text": "In the UK, what is 'fly-tipping'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A form of recycling where items are left for others to collect"
+      },
+      {
+        "id": "b",
+        "text": "The illegal dumping of waste on land that is not licensed to receive it"
+      },
+      {
+        "id": "c",
+        "text": "A council service for collecting large household items"
+      },
+      {
+        "id": "d",
+        "text": "Tipping waitstaff at a restaurant"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Fly-tipping is the illegal dumping of waste on land not licensed to receive it. It is a criminal offence in the UK and can result in a fine or prosecution.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_162",
+    "topic_id": "topic_values_4",
+    "question_text": "Which of the following best describes the principle of 'innocent until proven guilty' in UK law?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A person accused of a crime must prove they are innocent"
+      },
+      {
+        "id": "b",
+        "text": "A person is presumed to be innocent unless the prosecution proves their guilt beyond reasonable doubt"
+      },
+      {
+        "id": "c",
+        "text": "The police decide whether a person is guilty before a trial"
+      },
+      {
+        "id": "d",
+        "text": "Only citizens with no prior convictions are presumed innocent"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A fundamental principle of UK criminal law is that a defendant is presumed innocent until proven guilty. The burden of proof lies with the prosecution to establish guilt beyond reasonable doubt.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_163",
+    "topic_id": "topic_values_4",
+    "question_text": "What does the law in the UK say about carrying a knife in public?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is legal to carry any knife as long as it is concealed"
+      },
+      {
+        "id": "b",
+        "text": "It is legal to carry a penknife with a blade up to 3 inches, but carrying most other knives in public without good reason is illegal"
+      },
+      {
+        "id": "c",
+        "text": "All knives are completely banned in public"
+      },
+      {
+        "id": "d",
+        "text": "Knife laws only apply to people under 18"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "UK law generally prohibits carrying a knife in public without a good reason. Folding pocket knives with blades under 3 inches (7.62 cm) are an exception. Carrying other knives in public is illegal and can lead to prosecution.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_164",
+    "topic_id": "topic_values_2",
+    "question_text": "When was the Human Rights Act passed in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1990"
+      },
+      {
+        "id": "b",
+        "text": "1998"
+      },
+      {
+        "id": "c",
+        "text": "2005"
+      },
+      {
+        "id": "d",
+        "text": "1985"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Human Rights Act was passed in 1998 and came into force in 2000. It incorporated the European Convention on Human Rights (ECHR) into UK law, allowing citizens to bring human rights cases in UK courts.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_165",
+    "topic_id": "topic_values_2",
+    "question_text": "What does the Human Rights Act 1998 protect?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the rights of British-born citizens"
+      },
+      {
+        "id": "b",
+        "text": "Fundamental rights and freedoms of everyone in the UK, including the right to life, freedom from torture, and the right to a fair trial"
+      },
+      {
+        "id": "c",
+        "text": "Only employment rights"
+      },
+      {
+        "id": "d",
+        "text": "Only property rights"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Human Rights Act protects a wide range of rights for everyone in the UK, including the right to life, freedom from torture and inhuman treatment, right to liberty, right to a fair trial, freedom of expression, and freedom of religion.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_166",
+    "topic_id": "topic_values_2",
+    "question_text": "What is the European Convention on Human Rights (ECHR)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A trade agreement between European countries"
+      },
+      {
+        "id": "b",
+        "text": "An international treaty that protects human rights and fundamental freedoms in Europe"
+      },
+      {
+        "id": "c",
+        "text": "An EU law that only applies to EU member states"
+      },
+      {
+        "id": "d",
+        "text": "A UN resolution on global security"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The European Convention on Human Rights (ECHR) is an international treaty drafted by the Council of Europe in 1950. The UK was one of the first countries to sign it. The Human Rights Act 1998 incorporated the ECHR into UK domestic law.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_167",
+    "topic_id": "topic_values_2",
+    "question_text": "Which court hears cases relating to the European Convention on Human Rights?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The International Criminal Court"
+      },
+      {
+        "id": "b",
+        "text": "The European Court of Human Rights in Strasbourg"
+      },
+      {
+        "id": "c",
+        "text": "The Court of Justice of the European Union"
+      },
+      {
+        "id": "d",
+        "text": "The International Court of Justice"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The European Court of Human Rights (ECtHR) is based in Strasbourg, France. It hears cases from individuals who believe their rights under the ECHR have been violated. The UK remains subject to the ECtHR even after leaving the EU, as the ECHR is separate from the EU.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_168",
+    "topic_id": "topic_values_2",
+    "question_text": "The Equality Act 2010 lists how many protected characteristics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "5"
+      },
+      {
+        "id": "b",
+        "text": "7"
+      },
+      {
+        "id": "c",
+        "text": "9"
+      },
+      {
+        "id": "d",
+        "text": "12"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Equality Act 2010 lists nine protected characteristics: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_169",
+    "topic_id": "topic_values_2",
+    "question_text": "Which of the following is a protected characteristic under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Political affiliation"
+      },
+      {
+        "id": "b",
+        "text": "Disability"
+      },
+      {
+        "id": "c",
+        "text": "Social class"
+      },
+      {
+        "id": "d",
+        "text": "Criminal record"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Disability is one of the nine protected characteristics under the Equality Act 2010. The Act makes it unlawful to discriminate against someone because of their disability in employment, education, the provision of goods and services, and other areas.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_170",
+    "topic_id": "topic_values_2",
+    "question_text": "What types of discrimination does the Equality Act 2010 prohibit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only direct discrimination"
+      },
+      {
+        "id": "b",
+        "text": "Direct discrimination, indirect discrimination, harassment, and victimisation"
+      },
+      {
+        "id": "c",
+        "text": "Only discrimination in employment"
+      },
+      {
+        "id": "d",
+        "text": "Only racial discrimination"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Equality Act 2010 prohibits four main types of discrimination: direct discrimination (treating someone less favourably because of a protected characteristic), indirect discrimination (applying policies that disadvantage certain groups), harassment, and victimisation.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_171",
+    "topic_id": "topic_values_2",
+    "question_text": "What is indirect discrimination under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deliberately treating someone badly because of their race"
+      },
+      {
+        "id": "b",
+        "text": "Applying a rule, policy, or practice that puts people with a protected characteristic at a disadvantage"
+      },
+      {
+        "id": "c",
+        "text": "Refusing to hire someone because of their age"
+      },
+      {
+        "id": "d",
+        "text": "Making offensive comments about someone's religion"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Indirect discrimination occurs when an organisation applies a policy or practice equally to everyone but it puts people with a particular protected characteristic at a disadvantage. For example, requiring all employees to work full-time could disadvantage women who are more likely to have caring responsibilities.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_172",
+    "topic_id": "topic_values_2",
+    "question_text": "What is a 'reasonable adjustment' under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A voluntary policy adopted by some employers"
+      },
+      {
+        "id": "b",
+        "text": "A change that employers and service providers must make to ensure disabled people are not disadvantaged"
+      },
+      {
+        "id": "c",
+        "text": "An adjustment to tax rates"
+      },
+      {
+        "id": "d",
+        "text": "A change in working hours for all employees"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Equality Act 2010, employers and service providers have a duty to make 'reasonable adjustments' to remove barriers that disadvantage disabled people. This might include providing wheelchair ramps, adjusting working hours, or providing equipment.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_173",
+    "topic_id": "topic_values_2",
+    "question_text": "What does the right to a fair trial include under the Human Rights Act?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to choose your own judge"
+      },
+      {
+        "id": "b",
+        "text": "The right to a hearing by an independent and impartial tribunal, the presumption of innocence, and the right to legal representation"
+      },
+      {
+        "id": "c",
+        "text": "The right to avoid trial entirely"
+      },
+      {
+        "id": "d",
+        "text": "The right to have all charges dropped"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 6 of the ECHR, incorporated through the Human Rights Act, guarantees the right to a fair trial. This includes the right to a hearing by an independent and impartial tribunal, the presumption of innocence until proven guilty, and the right to legal representation.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_174",
+    "topic_id": "topic_values_2",
+    "question_text": "Under the Human Rights Act, the right to freedom of expression is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Absolute — it cannot be restricted under any circumstances"
+      },
+      {
+        "id": "b",
+        "text": "A qualified right — it can be limited for reasons such as national security, public safety, or to protect others' rights"
+      },
+      {
+        "id": "c",
+        "text": "Only applicable to journalists"
+      },
+      {
+        "id": "d",
+        "text": "Not protected by the Human Rights Act"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Freedom of expression (Article 10 of the ECHR) is a qualified right, meaning it can be restricted in certain circumstances. Restrictions may be justified for national security, public safety, prevention of disorder or crime, protection of health or morals, or protection of the rights of others.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_175",
+    "topic_id": "topic_values_2",
+    "question_text": "What does the right to freedom of religion under the Human Rights Act mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Everyone must follow the Church of England"
+      },
+      {
+        "id": "b",
+        "text": "People have the right to practise their religion, change their religion, or have no religion at all"
+      },
+      {
+        "id": "c",
+        "text": "Religion is banned in public spaces"
+      },
+      {
+        "id": "d",
+        "text": "Only Christianity is protected"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 9 of the ECHR protects the right to freedom of thought, conscience, and religion. This includes the right to practise any religion, to change religion, or to have no religion. The UK is a diverse society that respects religious freedom.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_176",
+    "topic_id": "topic_values_2",
+    "question_text": "What is harassment under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Any disagreement between colleagues"
+      },
+      {
+        "id": "b",
+        "text": "Unwanted conduct related to a protected characteristic that has the purpose or effect of creating an intimidating, hostile, or offensive environment"
+      },
+      {
+        "id": "c",
+        "text": "Constructive criticism from a manager"
+      },
+      {
+        "id": "d",
+        "text": "Any form of workplace communication"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Equality Act 2010, harassment is unwanted conduct related to a protected characteristic that violates a person's dignity or creates an intimidating, hostile, degrading, humiliating, or offensive environment for them.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_177",
+    "topic_id": "topic_values_2",
+    "question_text": "Which organisation enforces equality and human rights legislation in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Home Office"
+      },
+      {
+        "id": "b",
+        "text": "The Equality and Human Rights Commission (EHRC)"
+      },
+      {
+        "id": "c",
+        "text": "The Metropolitan Police"
+      },
+      {
+        "id": "d",
+        "text": "The Supreme Court"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Equality and Human Rights Commission (EHRC) is a statutory body established to promote and enforce equality and non-discrimination laws in England, Scotland, and Wales. It can investigate organisations, take legal action, and publish guidance.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_178",
+    "topic_id": "topic_values_2",
+    "question_text": "What protection does the Equality Act 2010 provide for pregnant women?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No specific protection"
+      },
+      {
+        "id": "b",
+        "text": "It is unlawful to discriminate against a woman because she is pregnant or has recently given birth"
+      },
+      {
+        "id": "c",
+        "text": "Pregnant women can only work part-time"
+      },
+      {
+        "id": "d",
+        "text": "Pregnant women must stop working immediately"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Pregnancy and maternity is a protected characteristic under the Equality Act 2010. It is unlawful to discriminate against a woman because of her pregnancy, pregnancy-related illness, or maternity leave. This protection applies in employment and the provision of services.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_179",
+    "topic_id": "topic_values_4",
+    "question_text": "What happens if you are called for jury service in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "You can simply ignore the summons without consequences"
+      },
+      {
+        "id": "b",
+        "text": "You are legally required to attend unless you have a valid reason for deferral or excusal"
+      },
+      {
+        "id": "c",
+        "text": "Only lawyers can serve on juries"
+      },
+      {
+        "id": "d",
+        "text": "You must serve for a minimum of one year"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Jury service is a civic duty. If summoned, you must attend unless you request a deferral (postponement) and it is approved, or you are formally excused. Failing to attend without a valid reason can result in a fine or contempt of court.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_180",
+    "topic_id": "topic_values_4",
+    "question_text": "Who is eligible for jury service in England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only people with a law degree"
+      },
+      {
+        "id": "b",
+        "text": "People aged 18-76 who are registered on the electoral register"
+      },
+      {
+        "id": "c",
+        "text": "Only homeowners"
+      },
+      {
+        "id": "d",
+        "text": "Only British-born citizens over 21"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In England and Wales, people aged 18 to 75 who are registered on the electoral register and have been a UK resident for at least five years since the age of 13 are eligible for jury service. Some people may be disqualified or excused in certain circumstances.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_181",
+    "topic_id": "topic_values_4",
+    "question_text": "What is civic participation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paying taxes only"
+      },
+      {
+        "id": "b",
+        "text": "Actively engaging in the community through voting, volunteering, and participating in local affairs"
+      },
+      {
+        "id": "c",
+        "text": "Only voting in general elections"
+      },
+      {
+        "id": "d",
+        "text": "Working for the government"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Civic participation includes a range of activities that contribute to community life, such as voting, volunteering, participating in local government, joining community groups, and being a school governor. Active citizenship is valued and encouraged in the UK.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_182",
+    "topic_id": "topic_values_4",
+    "question_text": "Why is volunteering important in UK society?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is compulsory for all adults"
+      },
+      {
+        "id": "b",
+        "text": "It contributes to community wellbeing, helps others, and is a valued part of British civic life"
+      },
+      {
+        "id": "c",
+        "text": "It replaces the work of local councils"
+      },
+      {
+        "id": "d",
+        "text": "It counts as paid employment"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Volunteering is an important part of UK civic life. Millions of people volunteer regularly in areas such as charity shops, hospitals, schools, sports clubs, and community centres. It builds community spirit and helps those in need.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_183",
+    "topic_id": "topic_values_4",
+    "question_text": "What is a school governor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A student who leads the school"
+      },
+      {
+        "id": "b",
+        "text": "A volunteer who helps oversee the management and strategic direction of a school"
+      },
+      {
+        "id": "c",
+        "text": "A government-appointed school inspector"
+      },
+      {
+        "id": "d",
+        "text": "A retired teacher"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "School governors are volunteers who serve on a school's governing body. They help set the strategic direction of the school, oversee finances, and hold the headteacher to account. Being a school governor is a form of civic participation.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_184",
+    "topic_id": "topic_values_4",
+    "question_text": "What is a Neighbourhood Watch scheme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A private security company"
+      },
+      {
+        "id": "b",
+        "text": "A community-led initiative where residents work together to help prevent crime in their area"
+      },
+      {
+        "id": "c",
+        "text": "A government surveillance programme"
+      },
+      {
+        "id": "d",
+        "text": "A form of local council enforcement"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Neighbourhood Watch is a community scheme where local residents work together with the police to prevent crime and antisocial behaviour. Members keep an eye on their neighbourhood and report suspicious activity. It is one of the biggest voluntary movements in the UK.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_185",
+    "topic_id": "topic_values_4",
+    "question_text": "What duty does a juror have during a trial?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To decide the sentence for the defendant"
+      },
+      {
+        "id": "b",
+        "text": "To listen to the evidence and decide whether the defendant is guilty or not guilty"
+      },
+      {
+        "id": "c",
+        "text": "To advise the judge on points of law"
+      },
+      {
+        "id": "d",
+        "text": "To represent the defendant"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A juror's duty is to listen to the evidence presented during the trial and to decide, based on that evidence, whether the defendant is guilty or not guilty. The jury makes this decision together, and their discussions must remain confidential.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_186",
+    "topic_id": "topic_values_4",
+    "question_text": "How many jurors typically sit on a jury in a Crown Court in England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "6"
+      },
+      {
+        "id": "b",
+        "text": "12"
+      },
+      {
+        "id": "c",
+        "text": "15"
+      },
+      {
+        "id": "d",
+        "text": "9"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In England, Wales, and Northern Ireland, a jury in a Crown Court consists of 12 people. In Scotland, criminal juries consist of 15 people. Jurors are randomly selected from the electoral register.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_187",
+    "topic_id": "topic_values_3",
+    "question_text": "What is the largest religious group in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Islam"
+      },
+      {
+        "id": "b",
+        "text": "Christianity"
+      },
+      {
+        "id": "c",
+        "text": "Hinduism"
+      },
+      {
+        "id": "d",
+        "text": "Sikhism"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Christianity is the largest religious group in the UK. The established church in England is the Church of England (Anglican). Scotland has the Church of Scotland (Presbyterian). However, the UK is religiously diverse, with significant Muslim, Hindu, Sikh, Jewish, and Buddhist communities.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_188",
+    "topic_id": "topic_values_3",
+    "question_text": "What is the Church of England, and who is its head?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Catholic church headed by the Pope"
+      },
+      {
+        "id": "b",
+        "text": "The established church in England, with the monarch as its Supreme Governor"
+      },
+      {
+        "id": "c",
+        "text": "A nonconformist church led by elected bishops"
+      },
+      {
+        "id": "d",
+        "text": "An independent church with no formal leader"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Church of England (Anglican) is the established church in England. The British monarch is the Supreme Governor of the Church of England. The spiritual leader is the Archbishop of Canterbury. It has been the established church since the Reformation under Henry VIII.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_189",
+    "topic_id": "topic_values_3",
+    "question_text": "What is the second largest religion in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hinduism"
+      },
+      {
+        "id": "b",
+        "text": "Islam"
+      },
+      {
+        "id": "c",
+        "text": "Sikhism"
+      },
+      {
+        "id": "d",
+        "text": "Judaism"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Islam is the second largest religion in the UK. The Muslim community in Britain has grown significantly and is an important part of British society, contributing to its cultural diversity.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_190",
+    "topic_id": "topic_values_3",
+    "question_text": "What is a mosque?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Jewish place of worship"
+      },
+      {
+        "id": "b",
+        "text": "A Muslim place of worship"
+      },
+      {
+        "id": "c",
+        "text": "A Hindu place of worship"
+      },
+      {
+        "id": "d",
+        "text": "A Sikh place of worship"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A mosque is a Muslim place of worship. There are many mosques throughout the UK. Other places of worship include churches (Christian), synagogues (Jewish), temples (Hindu and Buddhist), and gurdwaras (Sikh).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_191",
+    "topic_id": "topic_values_3",
+    "question_text": "What is a gurdwara?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Buddhist temple"
+      },
+      {
+        "id": "b",
+        "text": "A Sikh place of worship"
+      },
+      {
+        "id": "c",
+        "text": "A Hindu temple"
+      },
+      {
+        "id": "d",
+        "text": "A Jewish synagogue"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A gurdwara is a Sikh place of worship. The Sikh community is one of the significant religious communities in the UK. Gurdwaras also serve as community centres and provide free meals (langar) to all visitors regardless of their faith.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_192",
+    "topic_id": "topic_values_3",
+    "question_text": "Why is interfaith dialogue considered important in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is required by law"
+      },
+      {
+        "id": "b",
+        "text": "It promotes understanding, respect, and peaceful coexistence between different religious communities"
+      },
+      {
+        "id": "c",
+        "text": "It is needed to convert people to one religion"
+      },
+      {
+        "id": "d",
+        "text": "It replaces the need for separate places of worship"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Interfaith dialogue is valued in the UK because it brings together people from different religious backgrounds to promote mutual understanding, respect, and peaceful coexistence. It reflects the British value of tolerance and mutual respect for different faiths and beliefs.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_193",
+    "topic_id": "topic_values_3",
+    "question_text": "The UK census has shown that a growing proportion of people describe themselves as having which religious affiliation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hindu"
+      },
+      {
+        "id": "b",
+        "text": "No religion"
+      },
+      {
+        "id": "c",
+        "text": "Sikh"
+      },
+      {
+        "id": "d",
+        "text": "Buddhist"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Census data shows that a growing proportion of people in the UK describe themselves as having no religion. Despite this, the UK remains religiously diverse, and freedom of religion — including the right to have no religion — is a fundamental value.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_194",
+    "topic_id": "topic_values_1",
+    "question_text": "What was the Magna Carta?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A peace treaty between England and France"
+      },
+      {
+        "id": "b",
+        "text": "A charter of rights agreed in 1215 that limited the power of the King"
+      },
+      {
+        "id": "c",
+        "text": "A religious document written by the Pope"
+      },
+      {
+        "id": "d",
+        "text": "A trade agreement between English merchants"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Magna Carta (Great Charter) was agreed in 1215 between King John and his barons. It established the principle that the King was subject to the law and protected certain rights of the people. It is considered a foundation of democracy and the rule of law.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_195",
+    "topic_id": "topic_values_1",
+    "question_text": "Why is the Magna Carta considered significant to modern democracy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It created the first Parliament"
+      },
+      {
+        "id": "b",
+        "text": "It established the principle that even the monarch must obey the law and that people have rights"
+      },
+      {
+        "id": "c",
+        "text": "It gave all adults the right to vote"
+      },
+      {
+        "id": "d",
+        "text": "It abolished the monarchy"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Magna Carta is significant because it established key principles that underpin modern democracy: that the ruler is not above the law, and that individuals have certain rights that must be respected. These ideas influenced the development of constitutional government worldwide.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_196",
+    "topic_id": "topic_values_1",
+    "question_text": "What did the Bill of Rights 1689 establish?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to free healthcare"
+      },
+      {
+        "id": "b",
+        "text": "The limits of the Crown's power and the rights of Parliament, including free elections and freedom of speech in Parliament"
+      },
+      {
+        "id": "c",
+        "text": "Universal suffrage for all men"
+      },
+      {
+        "id": "d",
+        "text": "The creation of the Church of England"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Bill of Rights 1689 confirmed the limits of the Crown's power and established the rights of Parliament. It guaranteed free elections, freedom of speech in parliamentary debates, and the right to petition the monarch without fear of retribution.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_197",
+    "topic_id": "topic_values_1",
+    "question_text": "The Bill of Rights 1689 is significant because it:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gave power entirely to the monarch"
+      },
+      {
+        "id": "b",
+        "text": "Ensured that the monarch could not raise taxes or maintain a standing army without Parliament's consent"
+      },
+      {
+        "id": "c",
+        "text": "Abolished Parliament completely"
+      },
+      {
+        "id": "d",
+        "text": "Created the United Kingdom"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Bill of Rights 1689 placed clear limits on royal power. It stated that the monarch could not raise taxes or maintain a standing army in peacetime without Parliament's approval. This shifted significant power from the Crown to Parliament.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_198",
+    "topic_id": "topic_values_1",
+    "question_text": "Who were the suffragettes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Women who campaigned for better working conditions in factories"
+      },
+      {
+        "id": "b",
+        "text": "Women who campaigned for the right of women to vote"
+      },
+      {
+        "id": "c",
+        "text": "Women who served in the armed forces during World War I"
+      },
+      {
+        "id": "d",
+        "text": "Women who campaigned against slavery"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The suffragettes were members of the women's suffrage movement who campaigned, sometimes using militant tactics, for the right of women to vote in elections. Key figures included Emmeline Pankhurst and her daughters.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_199",
+    "topic_id": "topic_values_1",
+    "question_text": "Who was a leading figure in the suffragette movement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Florence Nightingale"
+      },
+      {
+        "id": "b",
+        "text": "Emmeline Pankhurst"
+      },
+      {
+        "id": "c",
+        "text": "Queen Victoria"
+      },
+      {
+        "id": "d",
+        "text": "Mary Seacole"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Emmeline Pankhurst was one of the most prominent leaders of the suffragette movement. She founded the Women's Social and Political Union (WSPU) in 1903 and used direct action to campaign for votes for women.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_200",
+    "topic_id": "topic_values_1",
+    "question_text": "In what year were women over the age of 30 first given the right to vote in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1901"
+      },
+      {
+        "id": "b",
+        "text": "1918"
+      },
+      {
+        "id": "c",
+        "text": "1928"
+      },
+      {
+        "id": "d",
+        "text": "1945"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Representation of the People Act 1918 gave the vote to women over the age of 30 who met certain property qualifications. It was not until 1928 that women gained equal voting rights with men at the age of 21.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_201",
+    "topic_id": "topic_values_1",
+    "question_text": "In what year did women in the UK gain equal voting rights with men?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1918"
+      },
+      {
+        "id": "b",
+        "text": "1928"
+      },
+      {
+        "id": "c",
+        "text": "1945"
+      },
+      {
+        "id": "d",
+        "text": "1969"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Equal Franchise Act 1928 gave women the right to vote at the age of 21, the same as men, achieving equal voting rights for women for the first time in the UK.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_202",
+    "topic_id": "topic_values_1",
+    "question_text": "When was the voting age lowered from 21 to 18 in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1945"
+      },
+      {
+        "id": "b",
+        "text": "1960"
+      },
+      {
+        "id": "c",
+        "text": "1969"
+      },
+      {
+        "id": "d",
+        "text": "1979"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The voting age in the UK was lowered from 21 to 18 by the Representation of the People Act 1969. This gave millions more young people the right to participate in democratic elections.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_203",
+    "topic_id": "topic_values_1",
+    "question_text": "What is the current minimum voting age in UK general elections?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16"
+      },
+      {
+        "id": "b",
+        "text": "17"
+      },
+      {
+        "id": "c",
+        "text": "18"
+      },
+      {
+        "id": "d",
+        "text": "21"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The minimum voting age for UK general elections is 18. In Scotland and Wales, the voting age for devolved elections has been lowered to 16, but for UK-wide elections it remains 18.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_204",
+    "topic_id": "topic_values_1",
+    "question_text": "The rule of law means that:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The government can change laws without consulting Parliament"
+      },
+      {
+        "id": "b",
+        "text": "No one, including the government, is above the law, and laws apply equally to everyone"
+      },
+      {
+        "id": "c",
+        "text": "Only citizens must follow the law"
+      },
+      {
+        "id": "d",
+        "text": "The police can arrest people without reason"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The rule of law is a fundamental principle of British democracy. It means that all people and institutions, including the government and public officials, are accountable to laws that are publicly made, equally enforced, and independently adjudicated.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_205",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following is an example of the rule of law in practice?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A police officer arresting a suspect without evidence"
+      },
+      {
+        "id": "b",
+        "text": "A government minister being prosecuted for breaking the law, just like any other citizen"
+      },
+      {
+        "id": "c",
+        "text": "The Prime Minister overruling a court decision"
+      },
+      {
+        "id": "d",
+        "text": "Parliament passing a law that only applies to certain ethnic groups"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The rule of law means that everyone is subject to the same laws and legal processes, regardless of their status or position. A government minister being prosecuted for lawbreaking demonstrates that no one is above the law.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_206",
+    "topic_id": "topic_values_1",
+    "question_text": "Individual liberty in the UK means that people are free to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Do whatever they want without any legal constraints"
+      },
+      {
+        "id": "b",
+        "text": "Make their own choices about how to live, as long as they respect the law and the rights of others"
+      },
+      {
+        "id": "c",
+        "text": "Ignore laws they personally disagree with"
+      },
+      {
+        "id": "d",
+        "text": "Only do things approved by the government"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Individual liberty means the freedom to live your life as you choose, make your own decisions, and hold your own beliefs, provided you respect the law and do not infringe on the rights and freedoms of others.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_207",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following rights is an example of individual liberty?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to drive without a licence"
+      },
+      {
+        "id": "b",
+        "text": "The right to choose your own religion or have no religion"
+      },
+      {
+        "id": "c",
+        "text": "The right to avoid paying taxes"
+      },
+      {
+        "id": "d",
+        "text": "The right to ignore parking regulations"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The freedom to choose your own religion or to have no religion is a fundamental aspect of individual liberty. Other examples include freedom of expression, the right to peaceful protest, and the right to privacy.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_208",
+    "topic_id": "topic_values_1",
+    "question_text": "Mutual tolerance in British values means that:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Everyone must agree with each other's views"
+      },
+      {
+        "id": "b",
+        "text": "People accept and respect that others have different beliefs and ways of life"
+      },
+      {
+        "id": "c",
+        "text": "Only majority views are tolerated"
+      },
+      {
+        "id": "d",
+        "text": "People must give up their own beliefs to fit in"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Mutual tolerance means accepting that people have different faiths, beliefs, and lifestyles, and treating everyone with respect even when you disagree. It does not mean you must agree with everything, but that you respect others' right to hold different views.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_209",
+    "topic_id": "topic_values_1",
+    "question_text": "What does 'mutual respect' require of people living in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Treating others with consideration and valuing their dignity regardless of differences"
+      },
+      {
+        "id": "b",
+        "text": "Only showing respect to people who share your background"
+      },
+      {
+        "id": "c",
+        "text": "Ignoring people from different cultures"
+      },
+      {
+        "id": "d",
+        "text": "Respecting only those in positions of authority"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "Mutual respect means treating all people with consideration and valuing their dignity, regardless of differences in race, religion, gender, or background. It is a two-way process where everyone gives and receives respect.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_210",
+    "topic_id": "topic_values_2",
+    "question_text": "Which article of the European Convention on Human Rights protects the right to life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Article 1"
+      },
+      {
+        "id": "b",
+        "text": "Article 2"
+      },
+      {
+        "id": "c",
+        "text": "Article 5"
+      },
+      {
+        "id": "d",
+        "text": "Article 10"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 2 of the European Convention on Human Rights (ECHR) protects the right to life. It states that everyone's right to life shall be protected by law. This is an absolute right that cannot be limited.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_211",
+    "topic_id": "topic_values_2",
+    "question_text": "Which article of the ECHR protects freedom from torture and inhuman or degrading treatment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Article 2"
+      },
+      {
+        "id": "b",
+        "text": "Article 3"
+      },
+      {
+        "id": "c",
+        "text": "Article 6"
+      },
+      {
+        "id": "d",
+        "text": "Article 8"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 3 of the ECHR prohibits torture and inhuman or degrading treatment or punishment. This is an absolute right -- it cannot be restricted or limited under any circumstances, including in times of war or national emergency.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_212",
+    "topic_id": "topic_values_2",
+    "question_text": "Article 8 of the European Convention on Human Rights protects:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to vote"
+      },
+      {
+        "id": "b",
+        "text": "The right to respect for private and family life"
+      },
+      {
+        "id": "c",
+        "text": "The right to a fair trial"
+      },
+      {
+        "id": "d",
+        "text": "Freedom of religion"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 8 of the ECHR protects the right to respect for private and family life, home, and correspondence. It is a qualified right, meaning it can be limited by the state where necessary and proportionate for reasons such as national security or public safety.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_213",
+    "topic_id": "topic_values_2",
+    "question_text": "The Human Rights Act 1998 allows UK citizens to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only bring human rights cases to the European Court in Strasbourg"
+      },
+      {
+        "id": "b",
+        "text": "Bring human rights cases in UK courts rather than having to go to Strasbourg"
+      },
+      {
+        "id": "c",
+        "text": "Override Acts of Parliament"
+      },
+      {
+        "id": "d",
+        "text": "Ignore EU regulations"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Before the Human Rights Act 1998, UK citizens had to take human rights cases to the European Court of Human Rights in Strasbourg. The Act incorporated the Convention rights into UK law, allowing people to bring cases in domestic courts.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_214",
+    "topic_id": "topic_values_2",
+    "question_text": "Under the Human Rights Act, what is an 'absolute right'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A right that only applies to British citizens"
+      },
+      {
+        "id": "b",
+        "text": "A right that cannot be limited or restricted by the government under any circumstances"
+      },
+      {
+        "id": "c",
+        "text": "A right that is only enforced during peacetime"
+      },
+      {
+        "id": "d",
+        "text": "A right that Parliament can override"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "An absolute right under the Human Rights Act cannot be restricted or limited under any circumstances, even in times of emergency. Examples include the right to life (Article 2) and the prohibition of torture (Article 3).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_215",
+    "topic_id": "topic_values_3",
+    "question_text": "Which of the following is a protected characteristic under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Age"
+      },
+      {
+        "id": "b",
+        "text": "Level of education"
+      },
+      {
+        "id": "c",
+        "text": "Political opinion"
+      },
+      {
+        "id": "d",
+        "text": "Social class"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "Age is one of the nine protected characteristics under the Equality Act 2010. It is unlawful to discriminate against someone in employment, education, or the provision of services because of their age.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_216",
+    "topic_id": "topic_values_3",
+    "question_text": "Which of the following lists ALL nine protected characteristics under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation"
+      },
+      {
+        "id": "b",
+        "text": "Age, disability, ethnicity, income, nationality, political affiliation, race, religion, and sex"
+      },
+      {
+        "id": "c",
+        "text": "Age, citizenship, disability, gender, immigration status, race, religion, sex, and wealth"
+      },
+      {
+        "id": "d",
+        "text": "Age, class, disability, education, gender, nationality, political opinion, race, and religion"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "The Equality Act 2010 identifies exactly nine protected characteristics: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.",
+    "frequently_tested": true,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_217",
+    "topic_id": "topic_values_3",
+    "question_text": "What is 'direct discrimination' under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "When an organisation applies a policy equally to all employees"
+      },
+      {
+        "id": "b",
+        "text": "When someone is treated less favourably because of a protected characteristic"
+      },
+      {
+        "id": "c",
+        "text": "When a company advertises a job"
+      },
+      {
+        "id": "d",
+        "text": "When wages are set according to experience"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Direct discrimination occurs when someone is treated less favourably than another person because of a protected characteristic. For example, refusing to hire someone because of their age or race would be direct discrimination.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_218",
+    "topic_id": "topic_values_3",
+    "question_text": "What is 'victimisation' under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Being the victim of a crime"
+      },
+      {
+        "id": "b",
+        "text": "Being treated badly because you have made or supported a complaint about discrimination"
+      },
+      {
+        "id": "c",
+        "text": "Being made redundant during an economic downturn"
+      },
+      {
+        "id": "d",
+        "text": "Receiving negative feedback at work"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Victimisation under the Equality Act 2010 means being treated badly because you have made or supported a complaint about discrimination, or because you have raised a grievance. The Act protects people from retaliation when they exercise their rights.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_219",
+    "topic_id": "topic_values_3",
+    "question_text": "When did same-sex marriage become legal in England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2004"
+      },
+      {
+        "id": "b",
+        "text": "2010"
+      },
+      {
+        "id": "c",
+        "text": "2014"
+      },
+      {
+        "id": "d",
+        "text": "2019"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Same-sex marriage became legal in England and Wales on 29 March 2014, under the Marriage (Same Sex Couples) Act 2013. It later became legal in Scotland in December 2014 and in Northern Ireland in January 2020.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_220",
+    "topic_id": "topic_values_3",
+    "question_text": "Civil partnerships were first introduced in the UK in which year?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2000"
+      },
+      {
+        "id": "b",
+        "text": "2005"
+      },
+      {
+        "id": "c",
+        "text": "2010"
+      },
+      {
+        "id": "d",
+        "text": "2014"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Civil partnerships were introduced in the UK through the Civil Partnership Act 2004, which came into force in December 2005. They originally gave same-sex couples similar legal rights to married couples. Since 2019, civil partnerships have also been available to opposite-sex couples.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_221",
+    "topic_id": "topic_values_3",
+    "question_text": "What is the minimum age for marriage in England and Wales since 2022?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16 with parental consent"
+      },
+      {
+        "id": "b",
+        "text": "17 with a court order"
+      },
+      {
+        "id": "c",
+        "text": "18 with no exceptions"
+      },
+      {
+        "id": "d",
+        "text": "21"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Marriage and Civil Partnership (Minimum Age) Act 2022 raised the minimum age for marriage and civil partnership in England and Wales to 18 with no exceptions. Previously, 16 and 17-year-olds could marry with parental consent.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_222",
+    "topic_id": "topic_values_1",
+    "question_text": "Freedom of speech in the UK is limited by laws against:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Criticising the government"
+      },
+      {
+        "id": "b",
+        "text": "Hate speech, incitement to violence, and threatening or abusive language"
+      },
+      {
+        "id": "c",
+        "text": "Expressing unpopular opinions in newspapers"
+      },
+      {
+        "id": "d",
+        "text": "Peaceful protest"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "While freedom of speech is protected in the UK, there are legal limits. Speech that constitutes hate speech (e.g., stirring up racial or religious hatred), incitement to violence, or threatening or abusive language is not protected and can be a criminal offence.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_223",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following is an example of speech that would NOT be protected by the right to freedom of expression in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Writing a letter to a newspaper criticising a government policy"
+      },
+      {
+        "id": "b",
+        "text": "Making a speech at a rally that calls for violence against a particular religious group"
+      },
+      {
+        "id": "c",
+        "text": "Expressing a political opinion on social media"
+      },
+      {
+        "id": "d",
+        "text": "Holding a peaceful demonstration outside Parliament"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A speech calling for violence against a religious group would be incitement to violence and potentially an offence under laws against stirring up religious hatred. The right to freedom of expression does not protect speech that threatens violence or incites hatred.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_224",
+    "topic_id": "topic_values_1",
+    "question_text": "What are the legal consequences of hate speech in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "There are no legal consequences as free speech is absolute"
+      },
+      {
+        "id": "b",
+        "text": "Hate speech can lead to prosecution, fines, and imprisonment"
+      },
+      {
+        "id": "c",
+        "text": "Only a verbal warning from police"
+      },
+      {
+        "id": "d",
+        "text": "Deportation from the UK"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hate speech is a criminal offence in the UK. Under various laws including the Public Order Act 1986 and the Crime and Disorder Act 1998, stirring up hatred on the grounds of race, religion, or sexual orientation can result in prosecution, fines, and imprisonment.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_225",
+    "topic_id": "topic_values_4",
+    "question_text": "Who is eligible for jury service in England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only British citizens"
+      },
+      {
+        "id": "b",
+        "text": "People aged 18 to 75 who are registered on the electoral register and have lived in the UK for at least five years since age 13"
+      },
+      {
+        "id": "c",
+        "text": "Anyone over the age of 21"
+      },
+      {
+        "id": "d",
+        "text": "Only people with a university degree"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "To be eligible for jury service in England and Wales, you must be aged 18 to 75, registered on the electoral register, and have lived in the UK, Channel Islands, or Isle of Man for at least five years since the age of 13.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_226",
+    "topic_id": "topic_values_4",
+    "question_text": "Which of the following people would be disqualified from jury service?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A teacher"
+      },
+      {
+        "id": "b",
+        "text": "A person currently serving a prison sentence"
+      },
+      {
+        "id": "c",
+        "text": "A nurse"
+      },
+      {
+        "id": "d",
+        "text": "A retired accountant"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "People who are currently serving a prison sentence, or who have served a sentence of five years or more, are disqualified from jury service. People on bail or those with certain mental health disorders may also be disqualified.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_227",
+    "topic_id": "topic_values_4",
+    "question_text": "What happens if a juror discusses the details of a case outside the courtroom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nothing, jurors are free to discuss cases"
+      },
+      {
+        "id": "b",
+        "text": "They may be held in contempt of court, which is a criminal offence"
+      },
+      {
+        "id": "c",
+        "text": "They will receive a formal warning only"
+      },
+      {
+        "id": "d",
+        "text": "The case will simply be restarted"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Jury deliberations are strictly confidential. Disclosing details of jury discussions outside the courtroom is contempt of court, which is a criminal offence that can result in a fine or imprisonment.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_228",
+    "topic_id": "topic_values_2",
+    "question_text": "What are the rights of UK residents (including non-citizens)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Non-citizens have no legal rights in the UK"
+      },
+      {
+        "id": "b",
+        "text": "The right to be treated fairly, access to justice, protection under the Human Rights Act, and access to public services such as the NHS"
+      },
+      {
+        "id": "c",
+        "text": "Only the right to work"
+      },
+      {
+        "id": "d",
+        "text": "Only the right to emergency medical treatment"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "All UK residents, regardless of citizenship, have fundamental rights including protection under the Human Rights Act, the right to fair treatment, access to justice and legal representation, and access to public services including the NHS and education.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_229",
+    "topic_id": "topic_values_2",
+    "question_text": "Which of the following is a responsibility of all UK residents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Voting in every election"
+      },
+      {
+        "id": "b",
+        "text": "Obeying the law, respecting the rights of others, and treating others with fairness"
+      },
+      {
+        "id": "c",
+        "text": "Serving in the military"
+      },
+      {
+        "id": "d",
+        "text": "Attending religious services"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "All UK residents have responsibilities including obeying the law, respecting the rights and freedoms of others, treating everyone with fairness and respect, paying taxes, and looking after themselves and their families.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_230",
+    "topic_id": "topic_values_2",
+    "question_text": "Which of the following is a civic responsibility but NOT a legal obligation for UK residents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paying income tax"
+      },
+      {
+        "id": "b",
+        "text": "Voting in elections"
+      },
+      {
+        "id": "c",
+        "text": "Having car insurance to drive"
+      },
+      {
+        "id": "d",
+        "text": "Sending children to school"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Voting in the UK is encouraged as a civic responsibility but is not legally compulsory. Paying taxes, having car insurance, and educating children are all legal obligations. Voter registration is technically compulsory, but actually casting a vote is not.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_231",
+    "topic_id": "topic_values_2",
+    "question_text": "What legal obligations do parents in the UK have regarding their children's education?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Education is optional until children are 16"
+      },
+      {
+        "id": "b",
+        "text": "Parents must ensure their children receive a full-time education from the ages of 5 to 18"
+      },
+      {
+        "id": "c",
+        "text": "Only private education is acceptable"
+      },
+      {
+        "id": "d",
+        "text": "Children can leave school at 14 to work"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In England, parents have a legal duty to ensure that their children receive a full-time education from the age of 5. Young people must remain in education or training until the age of 18. Education can be through school attendance or through approved home education.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_232",
+    "topic_id": "topic_values_1",
+    "question_text": "In what year was the Magna Carta signed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1066"
+      },
+      {
+        "id": "b",
+        "text": "1215"
+      },
+      {
+        "id": "c",
+        "text": "1485"
+      },
+      {
+        "id": "d",
+        "text": "1689"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Magna Carta was signed in 1215 at Runnymede, near Windsor. It was an agreement between King John and his rebellious barons that established that the King was not above the law.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_233",
+    "topic_id": "topic_values_1",
+    "question_text": "Which organisation did Emmeline Pankhurst found to campaign for women's suffrage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The National Union of Women's Suffrage Societies (NUWSS)"
+      },
+      {
+        "id": "b",
+        "text": "The Women's Social and Political Union (WSPU)"
+      },
+      {
+        "id": "c",
+        "text": "The Women's Freedom League"
+      },
+      {
+        "id": "d",
+        "text": "The Fawcett Society"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Emmeline Pankhurst founded the Women's Social and Political Union (WSPU) in 1903. The WSPU used militant tactics, including chaining themselves to railings, hunger strikes, and property damage, to draw attention to the cause of women's suffrage.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_234",
+    "topic_id": "topic_values_1",
+    "question_text": "What is a constitutional monarchy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A system where the monarch has absolute power"
+      },
+      {
+        "id": "b",
+        "text": "A system where the monarch is head of state but their powers are limited by law and convention, with government carried out by elected representatives"
+      },
+      {
+        "id": "c",
+        "text": "A system where the monarch is elected by the people"
+      },
+      {
+        "id": "d",
+        "text": "A system where there is no monarch"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK is a constitutional monarchy. The monarch is the head of state but their powers are limited by law and constitutional convention. The government is run by the Prime Minister and Cabinet, who are accountable to the elected Parliament.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_235",
+    "topic_id": "topic_values_1",
+    "question_text": "What is the relationship between the Magna Carta and the rule of law?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Magna Carta has no connection to the rule of law"
+      },
+      {
+        "id": "b",
+        "text": "The Magna Carta established the principle that the King was subject to law, laying a foundation for the rule of law"
+      },
+      {
+        "id": "c",
+        "text": "The Magna Carta abolished the rule of law"
+      },
+      {
+        "id": "d",
+        "text": "The Magna Carta only applied to nobles, not ordinary people"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Magna Carta is often cited as an early foundation of the rule of law. By requiring King John to acknowledge that he was subject to the law of the land, it established a principle that would evolve over centuries into the modern concept that no one is above the law.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_236",
+    "topic_id": "topic_values_2",
+    "question_text": "Under the Human Rights Act 1998, which right protects people from slavery and forced labour?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Article 2"
+      },
+      {
+        "id": "b",
+        "text": "Article 4"
+      },
+      {
+        "id": "c",
+        "text": "Article 8"
+      },
+      {
+        "id": "d",
+        "text": "Article 12"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 4 of the ECHR prohibits slavery and forced labour. No one shall be held in slavery or servitude, and no one shall be required to perform forced or compulsory labour. This is an absolute right.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_237",
+    "topic_id": "topic_values_2",
+    "question_text": "Which right under the ECHR guarantees freedom of peaceful assembly and association?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Article 8"
+      },
+      {
+        "id": "b",
+        "text": "Article 10"
+      },
+      {
+        "id": "c",
+        "text": "Article 11"
+      },
+      {
+        "id": "d",
+        "text": "Article 14"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Article 11 of the ECHR protects the right to freedom of peaceful assembly and freedom of association with others, including the right to form and join trade unions. It is a qualified right and can be restricted in certain circumstances.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_238",
+    "topic_id": "topic_values_3",
+    "question_text": "Which of the following is an example of 'positive action' under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Automatically giving jobs to minorities regardless of qualifications"
+      },
+      {
+        "id": "b",
+        "text": "Taking proportionate steps to encourage or enable disadvantaged groups to participate, such as targeted training programmes"
+      },
+      {
+        "id": "c",
+        "text": "Setting quotas for the number of women in every workplace"
+      },
+      {
+        "id": "d",
+        "text": "Refusing to hire people from overrepresented groups"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Positive action under the Equality Act 2010 allows employers and service providers to take proportionate steps to encourage people from disadvantaged groups to participate. This might include targeted advertising, mentoring schemes, or open days. Positive action is voluntary and different from positive discrimination, which is generally unlawful.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_239",
+    "topic_id": "topic_values_3",
+    "question_text": "A civil partnership gives same-sex and opposite-sex couples:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fewer rights than married couples"
+      },
+      {
+        "id": "b",
+        "text": "Similar legal rights and responsibilities as married couples"
+      },
+      {
+        "id": "c",
+        "text": "No legal rights"
+      },
+      {
+        "id": "d",
+        "text": "Rights only in relation to property"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A civil partnership gives couples similar legal rights and responsibilities as married couples, including in areas of property, inheritance, tax, pensions, and next-of-kin recognition. Since 2019, civil partnerships are available to both same-sex and opposite-sex couples.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_240",
+    "topic_id": "topic_values_1",
+    "question_text": "What does 'representative democracy' mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Citizens vote directly on every law"
+      },
+      {
+        "id": "b",
+        "text": "Citizens elect representatives (Members of Parliament) who make decisions on their behalf"
+      },
+      {
+        "id": "c",
+        "text": "The monarch makes all decisions"
+      },
+      {
+        "id": "d",
+        "text": "Only wealthy citizens can participate in government"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK has a representative democracy, where citizens elect Members of Parliament (MPs) to represent their interests and make decisions on their behalf. MPs debate and vote on legislation in the House of Commons.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_241",
+    "topic_id": "topic_values_1",
+    "question_text": "What is the significance of the Glorious Revolution of 1688?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It led to the creation of the Church of England"
+      },
+      {
+        "id": "b",
+        "text": "It resulted in Parliament gaining more power over the Crown and led to the Bill of Rights 1689"
+      },
+      {
+        "id": "c",
+        "text": "It created the United Kingdom"
+      },
+      {
+        "id": "d",
+        "text": "It introduced universal suffrage"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Glorious Revolution of 1688 was a peaceful overthrow of King James II, who was replaced by William III and Mary II. It strengthened the role of Parliament and led directly to the Bill of Rights 1689, which limited royal power and established parliamentary supremacy.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_242",
+    "topic_id": "topic_values_2",
+    "question_text": "What is the difference between a 'right' and a 'responsibility' in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rights and responsibilities are the same thing"
+      },
+      {
+        "id": "b",
+        "text": "Rights are what you are entitled to; responsibilities are what you are expected to do in return"
+      },
+      {
+        "id": "c",
+        "text": "Only citizens have rights; everyone has responsibilities"
+      },
+      {
+        "id": "d",
+        "text": "Rights are optional; responsibilities are compulsory"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Rights are entitlements guaranteed to individuals, such as freedom of expression and access to justice. Responsibilities are the duties expected in return, such as obeying the law, paying taxes, and treating others with respect. Rights and responsibilities go hand in hand.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_243",
+    "topic_id": "topic_values_2",
+    "question_text": "Which of the following is NOT a responsibility of UK residents?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paying taxes on income"
+      },
+      {
+        "id": "b",
+        "text": "Obeying the law"
+      },
+      {
+        "id": "c",
+        "text": "Belonging to a political party"
+      },
+      {
+        "id": "d",
+        "text": "Treating others with fairness"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Belonging to a political party is a personal choice, not a responsibility. UK residents are expected to obey the law, pay taxes, ensure their children receive an education, treat others fairly, and respect the rights of others.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_244",
+    "topic_id": "topic_values_3",
+    "question_text": "Under the Equality Act 2010, 'sex' as a protected characteristic means protection from discrimination based on:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sexual orientation only"
+      },
+      {
+        "id": "b",
+        "text": "Being a man or a woman"
+      },
+      {
+        "id": "c",
+        "text": "Gender expression"
+      },
+      {
+        "id": "d",
+        "text": "Marital status only"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Equality Act 2010, 'sex' refers to being a man or a woman. It protects individuals from being treated less favourably because of their sex in employment, education, and the provision of goods and services. Sexual orientation is a separate protected characteristic.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_245",
+    "topic_id": "topic_values_4",
+    "question_text": "What is the purpose of a jury in the criminal justice system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To act as legal advisors to the judge"
+      },
+      {
+        "id": "b",
+        "text": "To decide on the facts of the case and whether the defendant is guilty or not guilty"
+      },
+      {
+        "id": "c",
+        "text": "To decide the sentence if the defendant is found guilty"
+      },
+      {
+        "id": "d",
+        "text": "To represent the interests of the victim"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In the UK criminal justice system, the jury's role is to decide on the facts of the case and to determine whether the defendant is guilty or not guilty, based on the evidence presented. The judge decides matters of law and, if the defendant is found guilty, determines the sentence.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_246",
+    "topic_id": "topic_values_4",
+    "question_text": "Can an employer refuse to release an employee for jury service?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, employers can always refuse"
+      },
+      {
+        "id": "b",
+        "text": "No, employers must release employees for jury service, though they can apply to defer it in exceptional circumstances"
+      },
+      {
+        "id": "c",
+        "text": "Only if the employee has worked there for less than a year"
+      },
+      {
+        "id": "d",
+        "text": "Yes, if the business is small"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Employers are legally required to release employees for jury service. It is a criminal offence for an employer to try to prevent someone from serving on a jury. However, employees or employers can apply to defer (postpone) jury service if there are good reasons.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_247",
+    "topic_id": "topic_values_2",
+    "question_text": "What is Article 14 of the European Convention on Human Rights about?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freedom of speech"
+      },
+      {
+        "id": "b",
+        "text": "The prohibition of discrimination in the enjoyment of Convention rights"
+      },
+      {
+        "id": "c",
+        "text": "The right to education"
+      },
+      {
+        "id": "d",
+        "text": "The right to property"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 14 of the ECHR prohibits discrimination in the enjoyment of Convention rights. It states that the rights in the Convention must be secured without discrimination on any ground such as sex, race, colour, language, religion, political opinion, national or social origin.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_248",
+    "topic_id": "topic_values_1",
+    "question_text": "Before 1918, which of these groups could NOT vote in UK elections?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Members of the House of Lords"
+      },
+      {
+        "id": "b",
+        "text": "All women"
+      },
+      {
+        "id": "c",
+        "text": "Men who owned property"
+      },
+      {
+        "id": "d",
+        "text": "Members of the clergy"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Before 1918, no women could vote in UK parliamentary elections regardless of their wealth or social status. The Representation of the People Act 1918 first granted the vote to women over 30 who met certain property qualifications.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_249",
+    "topic_id": "topic_values_2",
+    "question_text": "What is 'freedom of assembly' in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to gather in groups for any purpose, including violence"
+      },
+      {
+        "id": "b",
+        "text": "The right to peaceful protest and to gather together in a public place for a common purpose"
+      },
+      {
+        "id": "c",
+        "text": "A right that only applies to political parties"
+      },
+      {
+        "id": "d",
+        "text": "The requirement to get government permission for any meeting of more than 3 people"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Freedom of assembly is the right to peaceful protest and to gather together with others for a common purpose. It is protected under Article 11 of the ECHR but can be restricted for reasons of public safety or to prevent disorder.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_250",
+    "topic_id": "topic_values_2",
+    "question_text": "What duty do UK residents have with respect to paying tax?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tax is voluntary for residents who are not citizens"
+      },
+      {
+        "id": "b",
+        "text": "All residents who earn above the personal allowance must pay income tax and National Insurance contributions"
+      },
+      {
+        "id": "c",
+        "text": "Only people earning over 50,000 pounds must pay tax"
+      },
+      {
+        "id": "d",
+        "text": "Tax only applies to people who have lived in the UK for more than 10 years"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "All UK residents who earn above the personal allowance have a legal duty to pay income tax and National Insurance contributions, regardless of nationality or citizenship status. Tax fraud is a criminal offence.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_251",
+    "topic_id": "topic_values_3",
+    "question_text": "Is it legal for an employer to pay men and women different rates for the same work?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, if the employer has a business reason"
+      },
+      {
+        "id": "b",
+        "text": "No, the Equality Act 2010 requires equal pay for equal work regardless of sex"
+      },
+      {
+        "id": "c",
+        "text": "Yes, but only in the private sector"
+      },
+      {
+        "id": "d",
+        "text": "Yes, if the employees agree to different rates"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Equality Act 2010, men and women performing equal work (the same work, like work, or work of equal value) must receive equal pay. This includes salary, bonuses, and other contractual terms.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_252",
+    "topic_id": "topic_values_3",
+    "question_text": "What does 'religion or belief' mean as a protected characteristic under the Equality Act 2010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the major world religions are protected"
+      },
+      {
+        "id": "b",
+        "text": "Any religion, religious belief, or philosophical belief is protected, including lack of belief"
+      },
+      {
+        "id": "c",
+        "text": "Only Christianity is protected"
+      },
+      {
+        "id": "d",
+        "text": "Only beliefs recognised by the government"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Equality Act 2010, 'religion or belief' includes any religion, religious or philosophical belief, and also a lack of religion or belief. People cannot be discriminated against whether they follow a major religion, a lesser-known belief, or no belief at all.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_253",
+    "topic_id": "topic_values_1",
+    "question_text": "Which suffragette is famous for dying after being injured at the Epsom Derby in 1913?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Emmeline Pankhurst"
+      },
+      {
+        "id": "b",
+        "text": "Emily Wilding Davison"
+      },
+      {
+        "id": "c",
+        "text": "Millicent Fawcett"
+      },
+      {
+        "id": "d",
+        "text": "Christabel Pankhurst"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Emily Wilding Davison was a suffragette who stepped in front of King George V's horse at the Epsom Derby in June 1913 and died from her injuries four days later. Her death drew significant public attention to the suffragette cause.",
+    "handbook_ref": "Chapter 3: A long and illustrious history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_254",
+    "topic_id": "topic_values_2",
+    "question_text": "Under the Human Rights Act, the right to liberty (Article 5) means that:",
+    "options": [
+      {
+        "id": "a",
+        "text": "No one can ever be arrested or detained"
+      },
+      {
+        "id": "b",
+        "text": "People have the right not to be deprived of their liberty except in accordance with the law, such as after conviction by a court"
+      },
+      {
+        "id": "c",
+        "text": "The police cannot detain suspects"
+      },
+      {
+        "id": "d",
+        "text": "Only citizens have the right to liberty"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 5 protects the right to liberty and security of person. People cannot be deprived of their liberty arbitrarily. Detention is only lawful in specific circumstances set out in the Article, such as lawful arrest or conviction by a competent court.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_255",
+    "topic_id": "topic_values_2",
+    "question_text": "What does the right to marry (Article 12 of the ECHR) guarantee?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right of any two people to marry anywhere in the world"
+      },
+      {
+        "id": "b",
+        "text": "The right of men and women of marriageable age to marry and found a family, according to national laws"
+      },
+      {
+        "id": "c",
+        "text": "The right to marry without any legal formalities"
+      },
+      {
+        "id": "d",
+        "text": "The right to marry at any age"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Article 12 of the ECHR guarantees the right to marry and found a family, subject to national laws governing the exercise of this right. In the UK, both same-sex and opposite-sex couples can marry, subject to meeting age and legal requirements.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_256",
+    "topic_id": "topic_values_3",
+    "question_text": "An employer refuses to promote a woman because she is pregnant. This is an example of:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lawful employer discretion"
+      },
+      {
+        "id": "b",
+        "text": "Direct discrimination based on a protected characteristic (pregnancy and maternity)"
+      },
+      {
+        "id": "c",
+        "text": "Indirect discrimination"
+      },
+      {
+        "id": "d",
+        "text": "Positive action"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Refusing to promote a woman because she is pregnant is direct discrimination on the grounds of pregnancy and maternity, which is a protected characteristic under the Equality Act 2010. It is unlawful.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_257",
+    "topic_id": "topic_values_3",
+    "question_text": "A workplace has a 'no hats' policy that disproportionately affects Sikh employees who wear turbans. This could be an example of:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Direct discrimination"
+      },
+      {
+        "id": "b",
+        "text": "Indirect discrimination based on religion or belief"
+      },
+      {
+        "id": "c",
+        "text": "Harassment"
+      },
+      {
+        "id": "d",
+        "text": "A lawful workplace policy"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "This could be indirect discrimination because the policy, while applying to everyone equally, disproportionately disadvantages Sikh employees whose religion requires them to wear a turban. Unless the employer can show the policy is a proportionate means of achieving a legitimate aim, it would be unlawful.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_258",
+    "topic_id": "topic_values_4",
+    "question_text": "What is a 'hate crime' in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Any crime committed in public"
+      },
+      {
+        "id": "b",
+        "text": "A criminal offence motivated by prejudice towards a person's race, religion, sexual orientation, disability, or transgender identity"
+      },
+      {
+        "id": "c",
+        "text": "Any violent crime"
+      },
+      {
+        "id": "d",
+        "text": "A crime committed online"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A hate crime is any criminal offence that is motivated by hostility or prejudice based on the victim's race, religion, sexual orientation, disability, or transgender identity. Hate crimes can attract more severe sentences because of the motivation behind them.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_259",
+    "topic_id": "topic_values_4",
+    "question_text": "What should you do if you experience or witness a hate crime?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ignore it"
+      },
+      {
+        "id": "b",
+        "text": "Report it to the police or through a third-party reporting service such as True Vision"
+      },
+      {
+        "id": "c",
+        "text": "Only report it if physical violence is involved"
+      },
+      {
+        "id": "d",
+        "text": "Handle it privately without involving authorities"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hate crimes should be reported to the police. You can call 101 for non-emergencies or 999 in an emergency. Reports can also be made through third-party services such as True Vision, which allow anonymous reporting.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_260",
+    "topic_id": "topic_values_1",
+    "question_text": "What does 'parliamentary sovereignty' mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parliament has less power than the monarch"
+      },
+      {
+        "id": "b",
+        "text": "Parliament is the supreme legal authority and can create or end any law, and no body can override or set aside legislation it has made"
+      },
+      {
+        "id": "c",
+        "text": "Parliament can only pass laws proposed by the Prime Minister"
+      },
+      {
+        "id": "d",
+        "text": "Parliament must get permission from the courts before passing new laws"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Parliamentary sovereignty is a key principle of the UK constitution. It means that Parliament is the supreme legal authority in the UK, can pass laws on any subject, and no Parliament can pass laws that a future Parliament cannot change.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_261",
+    "topic_id": "topic_values_2",
+    "question_text": "If a public authority violates your rights under the Human Rights Act 1998, what can you do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nothing -- the Act only applies to the government"
+      },
+      {
+        "id": "b",
+        "text": "Bring a case in a UK court or tribunal"
+      },
+      {
+        "id": "c",
+        "text": "Only appeal to the European Court in Strasbourg"
+      },
+      {
+        "id": "d",
+        "text": "Write a complaint to your MP and wait"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Human Rights Act 1998, if a public authority (such as a government department, local council, or police) has violated your Convention rights, you can bring a case in a UK court or tribunal. You do not need to go to Strasbourg first.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_262",
+    "topic_id": "topic_values_3",
+    "question_text": "Marriage law in the UK requires:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Both parties to be at least 18, for consent to be freely given, and for the marriage to be conducted by an authorised person"
+      },
+      {
+        "id": "b",
+        "text": "Parental consent for anyone under 25"
+      },
+      {
+        "id": "c",
+        "text": "Both parties to be the same religion"
+      },
+      {
+        "id": "d",
+        "text": "Both parties to be UK citizens"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "UK marriage law requires that both parties are at least 18 years old (in England and Wales since 2022), that consent is freely given by both parties, and that the marriage is conducted by an authorised person in an authorised location. Forced marriage is a criminal offence.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_263",
+    "topic_id": "topic_values_4",
+    "question_text": "Why is it important for everyone to understand and follow UK laws?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To avoid being deported"
+      },
+      {
+        "id": "b",
+        "text": "Because the law protects the rights and safety of everyone, maintains order, and ensures fair treatment in society"
+      },
+      {
+        "id": "c",
+        "text": "Only to pass the Life in the UK test"
+      },
+      {
+        "id": "d",
+        "text": "Because ignorance of the law is a valid defence in court"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Understanding and following the law is important because the legal system exists to protect the rights, freedoms, and safety of everyone living in the UK. It maintains public order and ensures that people are treated fairly. Ignorance of the law is not a valid defence.",
+    "difficulty": "easy"
+  }
+]

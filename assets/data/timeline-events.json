@@ -1,0 +1,702 @@
+[
+  {
+    "id": "event_3000bc",
+    "year": -3000,
+    "title": "Construction of Stonehenge Begins",
+    "description": "The construction of Stonehenge in Wiltshire begins. Built in several stages over approximately 1,500 years, it remains one of the most famous prehistoric monuments in the world. Its exact purpose is still debated, though it may have served as a ceremonial or astronomical site.",
+    "image": "1 ROMAN BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Built between approximately 3000 BC and 1500 BC",
+      "Located in Wiltshire, England",
+      "A UNESCO World Heritage Site",
+      "Some stones were transported from Wales, over 150 miles away"
+    ]
+  },
+  {
+    "id": "event_55bc",
+    "year": -55,
+    "title": "Julius Caesar's First Invasion of Britain",
+    "description": "Julius Caesar leads the first Roman expedition to Britain in 55 BC. The invasion was not a full conquest but established contact between Rome and the British Celtic tribes. Caesar returned the following year with a larger force but did not establish permanent control.",
+    "image": "1 ROMAN BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "First Roman contact with Britain",
+      "Caesar returned with a larger force in 54 BC",
+      "Did not result in permanent Roman occupation",
+      "Britain was known to the Romans as 'Britannia'"
+    ]
+  },
+  {
+    "id": "event_43ad",
+    "year": 43,
+    "title": "Roman Conquest of Britain",
+    "description": "Emperor Claudius orders a full invasion of Britain in AD 43, succeeding where Julius Caesar had not. The Romans established control over much of England and Wales, bringing roads, public baths, towns, and a new system of government that would last nearly 400 years.",
+    "image": "11 ROMAN INVASION.png",
+    "category": "history",
+    "key_facts": [
+      "Ordered by Emperor Claudius",
+      "Romans built roads, towns, and public buildings",
+      "Roman rule lasted until AD 410",
+      "Introduced Christianity and Latin to Britain"
+    ]
+  },
+  {
+    "id": "event_122ad",
+    "year": 122,
+    "title": "Construction of Hadrian's Wall",
+    "description": "Emperor Hadrian orders the construction of a wall across northern England to mark the boundary of the Roman Empire and keep out the Picts. The wall stretched 73 miles from coast to coast and included forts, turrets, and milecastles along its length.",
+    "image": "1 ROMAN BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Stretched 73 miles from Wallsend to Bowness-on-Solway",
+      "Built to keep out the Picts (ancestors of the Scottish people)",
+      "Now a UNESCO World Heritage Site",
+      "Parts of the wall still stand today"
+    ]
+  },
+  {
+    "id": "event_410",
+    "year": 410,
+    "title": "Romans Leave Britain",
+    "description": "The Roman army withdraws from Britain around AD 410 to defend other parts of the crumbling Roman Empire. Britain is left without the centralised governance and military protection the Romans had provided, leading to a period of vulnerability to invasion.",
+    "image": "1 ROMAN BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Roman Empire was under pressure from invaders elsewhere",
+      "Left Britain vulnerable to Anglo-Saxon invasions",
+      "Roman infrastructure gradually fell into disrepair",
+      "Marked the end of nearly 400 years of Roman rule"
+    ]
+  },
+  {
+    "id": "event_597",
+    "year": 597,
+    "title": "St Augustine Arrives in Canterbury",
+    "description": "St Augustine is sent by the Pope to convert the Anglo-Saxons to Christianity. He arrives in Canterbury and becomes the first Archbishop of Canterbury, establishing the Church in England. His mission was largely successful, and Christianity spread throughout Anglo-Saxon England.",
+    "image": "2 ANGLO-SAXON BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Sent by Pope Gregory the Great",
+      "Became the first Archbishop of Canterbury",
+      "Successfully converted King Ethelbert of Kent",
+      "Canterbury became the centre of English Christianity"
+    ]
+  },
+  {
+    "id": "event_789",
+    "year": 789,
+    "title": "First Viking Raids on Britain",
+    "description": "The Vikings from Denmark and Norway begin raiding the British coast around AD 789. These raids targeted monasteries and coastal settlements, which were rich but poorly defended. The Vikings would eventually settle in large parts of Britain.",
+    "image": "12 VIKINGS RAID LINISDARNE.png",
+    "category": "history",
+    "key_facts": [
+      "Vikings came from Denmark and Norway",
+      "First raids targeted monasteries like Lindisfarne",
+      "Vikings eventually settled in the Danelaw region",
+      "Led to centuries of conflict and cultural exchange"
+    ]
+  },
+  {
+    "id": "event_1066",
+    "year": 1066,
+    "title": "The Battle of Hastings",
+    "description": "William, Duke of Normandy, defeats King Harold II at the Battle of Hastings on 14 October 1066. Harold was killed during the battle, and William was crowned King of England on Christmas Day at Westminster Abbey. This was the last successful foreign invasion of England.",
+    "image": "13 BATTLE OF HASTINGS.png",
+    "category": "history",
+    "key_facts": [
+      "William the Conqueror defeated King Harold II",
+      "Harold was the last Anglo-Saxon king of England",
+      "William was crowned at Westminster Abbey on Christmas Day 1066",
+      "The Bayeux Tapestry depicts the events leading to the battle"
+    ]
+  },
+  {
+    "id": "event_1086",
+    "year": 1086,
+    "title": "The Domesday Book",
+    "description": "William I commissions the Domesday Book, a comprehensive survey of all land and property in England. It was used to determine how much tax people owed to the king. The Domesday Book still survives today and is kept at the National Archives in Kew.",
+    "image": "14 DOMESDAY BOOK.png",
+    "category": "history",
+    "key_facts": [
+      "Commissioned by William I (William the Conqueror)",
+      "A survey of all land and property in England",
+      "Used to assess and collect taxes",
+      "Still preserved at the National Archives"
+    ]
+  },
+  {
+    "id": "event_1215",
+    "year": 1215,
+    "title": "Magna Carta Signed",
+    "description": "King John signs Magna Carta at Runnymede, forced by rebellious barons. This historic document established the principle that even the king was subject to the law. It is considered one of the most important documents in the development of democracy and constitutional government.",
+    "image": "15 MAGNA CARTA.png",
+    "category": "government",
+    "key_facts": [
+      "Signed by King John at Runnymede in 1215",
+      "Established that the king was not above the law",
+      "Protected certain rights of the barons and the Church",
+      "Influenced the development of constitutional law worldwide"
+    ]
+  },
+  {
+    "id": "event_1264",
+    "year": 1264,
+    "title": "First English Parliament",
+    "description": "Simon de Montfort calls the first English Parliament in 1264, summoning not only barons and bishops but also knights from each county and burgesses from certain towns. This is considered a major step towards representative government in England.",
+    "image": "5 MEIEVAL ENGLAND.png",
+    "category": "government",
+    "key_facts": [
+      "Called by Simon de Montfort, Earl of Leicester",
+      "Included representatives from towns and counties for the first time",
+      "A landmark in the development of parliamentary democracy",
+      "De Montfort was killed at the Battle of Evesham in 1265"
+    ]
+  },
+  {
+    "id": "event_1348",
+    "year": 1348,
+    "title": "The Black Death Arrives in Britain",
+    "description": "The Black Death, a devastating plague, reaches England in 1348. It killed approximately one-third of the population, causing enormous social and economic upheaval. The resulting labour shortage led to significant changes in the feudal system and improved conditions for surviving workers.",
+    "image": "16 BLACK DEATH.png",
+    "category": "history",
+    "key_facts": [
+      "Killed approximately one-third of England's population",
+      "Caused major social and economic changes",
+      "Led to a severe labour shortage",
+      "Contributed to the decline of the feudal system"
+    ]
+  },
+  {
+    "id": "event_1485",
+    "year": 1485,
+    "title": "Battle of Bosworth Field",
+    "description": "Henry Tudor defeats Richard III at the Battle of Bosworth Field in 1485, ending the Wars of the Roses. Henry becomes King Henry VII, founding the Tudor dynasty. Richard III was the last English king to die in battle.",
+    "image": "17 WAR OF ROSES.png",
+    "category": "history",
+    "key_facts": [
+      "Ended the Wars of the Roses between Lancaster and York",
+      "Henry VII founded the Tudor dynasty",
+      "Richard III was the last English king to die in battle",
+      "Richard III's remains were discovered in Leicester in 2012"
+    ]
+  },
+  {
+    "id": "event_1534",
+    "year": 1534,
+    "title": "The Act of Supremacy",
+    "description": "Henry VIII passes the Act of Supremacy, declaring himself Supreme Head of the Church of England. This broke the ties with the Roman Catholic Church and the Pope, primarily so Henry could annul his marriage to Catherine of Aragon. The Reformation transformed religious life in England.",
+    "image": "18 CHURCH OF ENGLAND.png",
+    "category": "history",
+    "key_facts": [
+      "Henry VIII became Supreme Head of the Church of England",
+      "Broke with the Roman Catholic Church and the Pope",
+      "Motivated by Henry's desire to divorce Catherine of Aragon",
+      "Led to the dissolution of the monasteries"
+    ]
+  },
+  {
+    "id": "event_1564",
+    "year": 1564,
+    "title": "William Shakespeare Born",
+    "description": "William Shakespeare is born in Stratford-upon-Avon in 1564. He would become the greatest writer in the English language, producing plays such as Hamlet, Romeo and Juliet, Macbeth, and A Midsummer Night's Dream. His works have been translated into every major language and continue to be performed worldwide.",
+    "image": "6 TUDOR ENGLAND.png",
+    "category": "traditions",
+    "key_facts": [
+      "Born in Stratford-upon-Avon in 1564, died in 1616",
+      "Wrote at least 37 plays and 154 sonnets",
+      "The Globe Theatre was associated with his works",
+      "Widely regarded as the greatest writer in the English language"
+    ]
+  },
+  {
+    "id": "event_1588",
+    "year": 1588,
+    "title": "Defeat of the Spanish Armada",
+    "description": "The English navy, under the reign of Elizabeth I, defeats the Spanish Armada in 1588. King Philip II of Spain had sent a fleet of about 130 ships to invade England, but they were defeated by the English navy and scattered by storms. This victory established England as a major naval power.",
+    "image": "19 SPANISH ARMADA.png",
+    "category": "history",
+    "key_facts": [
+      "The Spanish Armada consisted of about 130 ships",
+      "Sent by Philip II of Spain to invade England",
+      "Defeated by the English navy and bad weather",
+      "Established England as a major naval power"
+    ]
+  },
+  {
+    "id": "event_1605",
+    "year": 1605,
+    "title": "The Gunpowder Plot",
+    "description": "Guy Fawkes and a group of Catholic conspirators attempt to blow up the Houses of Parliament on 5 November 1605. The plot was discovered before it could be carried out. Bonfire Night, celebrated every 5 November with fireworks and bonfires, commemorates this failed plot.",
+    "image": "20 GUNPOWDER PLOT.png",
+    "category": "traditions",
+    "key_facts": [
+      "Planned by a group of Catholic conspirators including Guy Fawkes",
+      "Aimed to blow up the Houses of Parliament during the State Opening",
+      "The plot was discovered and the conspirators were arrested",
+      "Commemorated annually on 5 November (Bonfire Night)"
+    ]
+  },
+  {
+    "id": "event_1642",
+    "year": 1642,
+    "title": "The English Civil War Begins",
+    "description": "The English Civil War breaks out in 1642 between the Royalists (Cavaliers), who supported King Charles I, and the Parliamentarians (Roundheads), led by Oliver Cromwell. The war lasted until 1651 and ended with the defeat of the Royalists.",
+    "image": "21 ENGLISH CIVIL WAR.png",
+    "category": "history",
+    "key_facts": [
+      "Fought between Royalists (Cavaliers) and Parliamentarians (Roundheads)",
+      "Led by Oliver Cromwell on the Parliamentary side",
+      "King Charles I was executed in 1649",
+      "England became a republic (Commonwealth) under Cromwell"
+    ]
+  },
+  {
+    "id": "event_1649",
+    "year": 1649,
+    "title": "Execution of Charles I",
+    "description": "King Charles I is executed on 30 January 1649 after being found guilty of treason. England becomes a republic known as the Commonwealth, with Oliver Cromwell eventually becoming Lord Protector. The monarchy was restored in 1660 when Charles II returned from exile.",
+    "image": "22 EXECUTION OF CHARLES I.png",
+    "category": "government",
+    "key_facts": [
+      "Charles I was found guilty of treason",
+      "Executed on 30 January 1649 at Whitehall",
+      "England became a republic (the Commonwealth)",
+      "The monarchy was restored in 1660 with Charles II"
+    ]
+  },
+  {
+    "id": "event_1689",
+    "year": 1689,
+    "title": "The Bill of Rights",
+    "description": "The Bill of Rights is passed in 1689 following the Glorious Revolution, which saw William of Orange and Mary replace King James II. The Bill of Rights limited the power of the monarchy and established the rights of Parliament, laying foundations for constitutional monarchy.",
+    "image": "7 STUART BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Passed after the Glorious Revolution of 1688",
+      "Limited the power of the monarchy",
+      "Established the rights of Parliament",
+      "A key document in the development of UK democracy"
+    ]
+  },
+  {
+    "id": "event_1707",
+    "year": 1707,
+    "title": "The Act of Union (Scotland)",
+    "description": "The Act of Union in 1707 unites the kingdoms of England and Scotland, creating the Kingdom of Great Britain. The Scottish and English parliaments were merged into the Parliament of Great Britain at Westminster. Scotland retained its own legal system, education system, and national church.",
+    "image": "7 STUART BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "United the kingdoms of England and Scotland",
+      "Created the Kingdom of Great Britain",
+      "Scotland retained its own legal and education systems",
+      "A single Parliament was established at Westminster"
+    ]
+  },
+  {
+    "id": "event_1776",
+    "year": 1776,
+    "title": "American Declaration of Independence",
+    "description": "The 13 British colonies in North America declare independence from Britain on 4 July 1776, leading to the American War of Independence. Britain eventually recognised American independence in 1783. The loss of the American colonies was a significant moment in British imperial history.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "13 colonies declared independence on 4 July 1776",
+      "Led to the American War of Independence (1775-1783)",
+      "Britain recognised American independence in 1783",
+      "The war was partly caused by disputes over taxation"
+    ]
+  },
+  {
+    "id": "event_1807",
+    "year": 1807,
+    "title": "Abolition of the Slave Trade",
+    "description": "The slave trade is abolished throughout the British Empire in 1807, largely due to the campaigning of William Wilberforce and other abolitionists. Slavery itself was later abolished in most of the British Empire in 1833, though it took until 1838 for all enslaved people to be freed.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "values",
+    "key_facts": [
+      "The slave trade was abolished in 1807",
+      "William Wilberforce was a key campaigner",
+      "Slavery itself was abolished in 1833",
+      "Full emancipation came in 1838"
+    ]
+  },
+  {
+    "id": "event_1815",
+    "year": 1815,
+    "title": "Battle of Waterloo",
+    "description": "The Duke of Wellington defeats Napoleon Bonaparte at the Battle of Waterloo in Belgium on 18 June 1815. This decisive battle ended the Napoleonic Wars and confirmed Britain's position as the dominant European power. Napoleon was exiled to the island of Saint Helena.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "The Duke of Wellington led the British forces",
+      "Fought on 18 June 1815 in Belgium",
+      "Ended the Napoleonic Wars",
+      "Napoleon was exiled to Saint Helena"
+    ]
+  },
+  {
+    "id": "event_1832",
+    "year": 1832,
+    "title": "The Great Reform Act",
+    "description": "The Great Reform Act of 1832 was a major step in making Parliament more representative. It gave the vote to more middle-class men and redistributed parliamentary seats to reflect the growing industrial cities. However, it still left the majority of the population without a vote.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Extended the vote to middle-class property owners",
+      "Redistributed seats to reflect population changes",
+      "Reduced corruption in the electoral system",
+      "The first of several Reform Acts in the 19th century"
+    ]
+  },
+  {
+    "id": "event_1837",
+    "year": 1837,
+    "title": "Queen Victoria's Reign Begins",
+    "description": "Queen Victoria becomes queen at the age of 18 in 1837, beginning a reign that would last until 1901. The Victorian era saw enormous industrial growth, the expansion of the British Empire, and significant social reforms. Victoria became the longest-reigning British monarch until surpassed by Elizabeth II.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Became queen in 1837 at age 18",
+      "Reigned for over 63 years until 1901",
+      "The Victorian era saw major industrial and social changes",
+      "The British Empire expanded significantly during her reign"
+    ]
+  },
+  {
+    "id": "event_1863",
+    "year": 1863,
+    "title": "Football Association Founded",
+    "description": "The Football Association (FA) is founded in London in 1863, becoming the oldest football association in the world. The FA standardised the rules of football, separating it from rugby. Football would go on to become the most popular sport in the world.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "traditions",
+    "key_facts": [
+      "Founded in London in 1863",
+      "The oldest football association in the world",
+      "Standardised the rules of association football",
+      "The FA Cup, first held in 1871, is the oldest cup competition in football"
+    ]
+  },
+  {
+    "id": "event_1877",
+    "year": 1877,
+    "title": "First Wimbledon Tennis Championship",
+    "description": "The first Wimbledon Championship is held in 1877, making it the oldest tennis tournament in the world. It was originally held at the All England Croquet Club. Wimbledon remains the only Grand Slam tournament played on grass and is one of the most prestigious sporting events.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "traditions",
+    "key_facts": [
+      "First held in 1877",
+      "The oldest tennis tournament in the world",
+      "The only Grand Slam still played on grass courts",
+      "Held at the All England Club in southwest London"
+    ]
+  },
+  {
+    "id": "event_1901",
+    "year": 1901,
+    "title": "Death of Queen Victoria",
+    "description": "Queen Victoria dies on 22 January 1901 after reigning for over 63 years. Her death marks the end of the Victorian era, a period of great industrial, cultural, and political change. The Edwardian era begins with the accession of her son, Edward VII.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Died on 22 January 1901",
+      "Reigned for over 63 years",
+      "Succeeded by her son, Edward VII",
+      "The Victorian era was one of the most transformative in British history"
+    ]
+  },
+  {
+    "id": "event_1914",
+    "year": 1914,
+    "title": "World War I Begins",
+    "description": "World War I begins in August 1914 when Britain declares war on Germany. The war, which lasted until 11 November 1918, was fought primarily in the trenches of France and Belgium. Over 2 million British casualties were sustained, devastating an entire generation.",
+    "image": "9 WORLD WAR BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Lasted from 1914 to 1918",
+      "Known as 'The Great War'",
+      "Over 2 million British casualties",
+      "Ended on 11 November 1918 (now Remembrance Day)"
+    ]
+  },
+  {
+    "id": "event_1918",
+    "year": 1918,
+    "title": "Women Over 30 Gain the Vote",
+    "description": "The Representation of the People Act 1918 gives the vote to all men over 21 and, for the first time, to women over 30 who met certain property qualifications. This was a major achievement for the suffragette movement, led by Emmeline Pankhurst, which had campaigned for women's voting rights.",
+    "image": "9 WORLD WAR BRITAIN.png",
+    "category": "values",
+    "key_facts": [
+      "All men over 21 and women over 30 gained the vote",
+      "The suffragettes, led by Emmeline Pankhurst, campaigned for this right",
+      "Women had to meet certain property qualifications",
+      "Full equal suffrage came in 1928"
+    ]
+  },
+  {
+    "id": "event_1928",
+    "year": 1928,
+    "title": "Equal Voting Rights for Women",
+    "description": "The Representation of the People (Equal Franchise) Act 1928 gives women the same voting rights as men, allowing all women over 21 to vote. This was the culmination of decades of campaigning by the suffragette and suffragist movements for equal political rights.",
+    "image": "9 WORLD WAR BRITAIN.png",
+    "category": "values",
+    "key_facts": [
+      "Women gained equal voting rights with men at age 21",
+      "Completed the work of the suffragette movement",
+      "The voting age was later lowered to 18 in 1969",
+      "A landmark in the history of British democracy"
+    ]
+  },
+  {
+    "id": "event_1939",
+    "year": 1939,
+    "title": "World War II Begins",
+    "description": "World War II begins on 3 September 1939 when Britain and France declare war on Germany following the invasion of Poland. The war would last until 1945 and was the most destructive conflict in human history. Britain stood alone against Nazi Germany after the fall of France in 1940.",
+    "image": "9 WORLD WAR BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Lasted from 1939 to 1945",
+      "Britain declared war after Germany invaded Poland",
+      "The Blitz saw widespread bombing of British cities",
+      "Winston Churchill led Britain through most of the war"
+    ]
+  },
+  {
+    "id": "event_1940",
+    "year": 1940,
+    "title": "Winston Churchill Becomes Prime Minister",
+    "description": "Winston Churchill becomes Prime Minister in May 1940 at a critical moment in World War II. His inspiring speeches and resolute leadership rallied the British people during the darkest days of the war, including the Battle of Britain and the Blitz. He is widely regarded as one of the greatest British leaders.",
+    "image": "9 WORLD WAR BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Became PM in May 1940",
+      "Led Britain through World War II",
+      "Famous for inspiring wartime speeches",
+      "Voted the greatest Briton of all time in a 2002 BBC poll"
+    ]
+  },
+  {
+    "id": "event_1945",
+    "year": 1945,
+    "title": "End of World War II and Labour Victory",
+    "description": "World War II ends in 1945 with the defeat of Nazi Germany and Japan. In the general election that followed, Clement Attlee's Labour Party won a landslide victory over Churchill's Conservatives. Attlee's government would create the welfare state and the National Health Service.",
+    "image": "9 WORLD WAR BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Germany surrendered on 8 May 1945 (VE Day)",
+      "Japan surrendered on 15 August 1945 (VJ Day)",
+      "Clement Attlee's Labour Party won the 1945 election",
+      "The post-war government created the welfare state"
+    ]
+  },
+  {
+    "id": "event_1948a",
+    "year": 1948,
+    "title": "The NHS is Established",
+    "description": "The National Health Service (NHS) is established on 5 July 1948, providing healthcare that is free at the point of use for all UK residents. Created by Clement Attlee's Labour government based on the Beveridge Report, it is funded through taxation and remains one of the largest employers in the world.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "everyday",
+    "key_facts": [
+      "Established on 5 July 1948",
+      "Based on the Beveridge Report of 1942",
+      "Provides healthcare free at the point of use",
+      "One of the largest employers in the world"
+    ]
+  },
+  {
+    "id": "event_1948b",
+    "year": 1948,
+    "title": "The Windrush Generation Arrives",
+    "description": "The MV Empire Windrush arrives at Tilbury Docks on 22 June 1948, carrying around 500 passengers from Jamaica and other Caribbean islands. They came to help rebuild post-war Britain and fill labour shortages. This marked the beginning of large-scale Caribbean immigration to Britain.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "values",
+    "key_facts": [
+      "The MV Empire Windrush arrived on 22 June 1948",
+      "Carried around 500 passengers from the Caribbean",
+      "Came to help fill labour shortages in post-war Britain",
+      "The 'Windrush generation' became an important part of British society"
+    ]
+  },
+  {
+    "id": "event_1953",
+    "year": 1953,
+    "title": "Coronation of Queen Elizabeth II",
+    "description": "Queen Elizabeth II is crowned at Westminster Abbey on 2 June 1953. The coronation was the first to be televised, watched by over 20 million viewers in the UK. Elizabeth II would go on to become the longest-reigning British monarch, serving for over 70 years.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "history",
+    "key_facts": [
+      "Crowned at Westminster Abbey on 2 June 1953",
+      "First coronation to be televised",
+      "Elizabeth II reigned for over 70 years",
+      "Became the longest-reigning British monarch"
+    ]
+  },
+  {
+    "id": "event_1966",
+    "year": 1966,
+    "title": "England Wins the FIFA World Cup",
+    "description": "England wins the FIFA World Cup at Wembley Stadium on 30 July 1966, defeating West Germany 4-2 in the final. The victory remains one of the proudest moments in English sporting history. The team was captained by Bobby Moore, with Geoff Hurst scoring a hat trick in the final.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "traditions",
+    "key_facts": [
+      "England beat West Germany 4-2 in the final",
+      "Held at Wembley Stadium on 30 July 1966",
+      "Bobby Moore was the team captain",
+      "Geoff Hurst scored the first hat trick in a World Cup final"
+    ]
+  },
+  {
+    "id": "event_1969",
+    "year": 1969,
+    "title": "Voting Age Lowered to 18",
+    "description": "The Representation of the People Act 1969 lowers the voting age from 21 to 18, extending the right to vote to millions more young people. This reflected the changing social attitudes of the 1960s and the growing demand for young people to have a greater say in democratic processes.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Voting age lowered from 21 to 18",
+      "Gave millions more young people the right to vote",
+      "Reflected changing attitudes in the 1960s",
+      "The voting age remains at 18 for UK general elections"
+    ]
+  },
+  {
+    "id": "event_1973",
+    "year": 1973,
+    "title": "Britain Joins the EEC",
+    "description": "Britain joins the European Economic Community (EEC, later the EU) on 1 January 1973. Membership was confirmed by a referendum in 1975 with a two-thirds majority voting to remain. The UK's relationship with Europe would remain a major political issue for decades.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Britain joined the EEC on 1 January 1973",
+      "Membership confirmed by referendum in 1975",
+      "The EEC later became the European Union",
+      "The UK voted to leave the EU in 2016"
+    ]
+  },
+  {
+    "id": "event_1998a",
+    "year": 1998,
+    "title": "The Human Rights Act",
+    "description": "The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law. This means that UK courts can hear human rights cases directly, rather than people having to take cases to the European Court of Human Rights in Strasbourg.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "values",
+    "key_facts": [
+      "Incorporated the European Convention on Human Rights into UK law",
+      "Allowed UK courts to hear human rights cases directly",
+      "Protects rights such as freedom of expression and fair trial",
+      "Came into force in October 2000"
+    ]
+  },
+  {
+    "id": "event_1998b",
+    "year": 1998,
+    "title": "The Good Friday Agreement",
+    "description": "The Good Friday Agreement (Belfast Agreement) is signed on 10 April 1998, bringing an end to decades of conflict in Northern Ireland known as 'The Troubles'. The agreement established a power-sharing government in Northern Ireland and committed all parties to peaceful, democratic means.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Signed on 10 April 1998",
+      "Ended decades of conflict in Northern Ireland",
+      "Established a power-sharing government",
+      "Approved by referendums in both Northern Ireland and the Republic of Ireland"
+    ]
+  },
+  {
+    "id": "event_1999",
+    "year": 1999,
+    "title": "Devolution: Scottish Parliament and Welsh Assembly",
+    "description": "The Scottish Parliament and the National Assembly for Wales (now Senedd Cymru) are established in 1999 following referendums. Devolution transferred certain powers from Westminster to these new bodies, allowing Scotland and Wales to make decisions on matters such as education, health, and transport.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Scottish Parliament and Welsh Assembly established in 1999",
+      "Followed referendums in Scotland and Wales",
+      "Devolved powers include education, health, and transport",
+      "Westminster retained control of defence, foreign affairs, and taxation"
+    ]
+  },
+  {
+    "id": "event_2009",
+    "year": 2009,
+    "title": "The UK Supreme Court Established",
+    "description": "The Supreme Court of the United Kingdom is established in October 2009, replacing the judicial function of the House of Lords. It is the highest court of appeal in the UK for civil cases and for criminal cases in England, Wales, and Northern Ireland. It sits in Middlesex Guildhall, Westminster.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Established in October 2009",
+      "Replaced the judicial function of the House of Lords",
+      "Highest court of appeal for civil cases in the UK",
+      "Located in Middlesex Guildhall, Westminster"
+    ]
+  },
+  {
+    "id": "event_2010",
+    "year": 2010,
+    "title": "The Equality Act",
+    "description": "The Equality Act 2010 consolidates and strengthens previous anti-discrimination legislation. It protects people from discrimination based on nine protected characteristics: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "values",
+    "key_facts": [
+      "Consolidates previous anti-discrimination laws",
+      "Protects nine 'protected characteristics'",
+      "Covers workplace, education, and public services",
+      "Applies throughout England, Scotland, and Wales"
+    ]
+  },
+  {
+    "id": "event_2012",
+    "year": 2012,
+    "title": "London Olympic Games",
+    "description": "London hosts the Olympic and Paralympic Games in the summer of 2012, the third time the city has hosted the Olympics (after 1908 and 1948). The Games were widely praised for their organisation and the opening ceremony directed by Danny Boyle. Team GB won 65 medals, including 29 golds.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "traditions",
+    "key_facts": [
+      "London hosted the Olympics for the third time",
+      "Danny Boyle directed the opening ceremony",
+      "Team GB won 65 medals including 29 golds",
+      "The Olympic Park was built in Stratford, East London"
+    ]
+  },
+  {
+    "id": "event_2016",
+    "year": 2016,
+    "title": "Brexit Referendum",
+    "description": "A referendum is held on 23 June 2016 on whether the UK should remain in or leave the European Union. The result was 51.9% to 48.1% in favour of leaving. The UK formally left the EU on 31 January 2020, ending 47 years of EU membership.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Held on 23 June 2016",
+      "51.9% voted to leave the EU",
+      "The UK formally left the EU on 31 January 2020",
+      "The transition period ended on 31 December 2020"
+    ]
+  },
+  {
+    "id": "event_2022",
+    "year": 2022,
+    "title": "King Charles III Accedes to the Throne",
+    "description": "Following the death of Queen Elizabeth II on 8 September 2022 at Balmoral Castle, her eldest son becomes King Charles III. Elizabeth II had reigned for over 70 years, the longest reign of any British monarch. Charles III's coronation took place at Westminster Abbey on 6 May 2023.",
+    "image": "10 MODERN BRITAIN.png",
+    "category": "government",
+    "key_facts": [
+      "Queen Elizabeth II died on 8 September 2022",
+      "Charles III became King immediately upon her death",
+      "Elizabeth II reigned for over 70 years",
+      "The coronation of Charles III was held on 6 May 2023"
+    ]
+  },
+  {
+    "id": "event_1753",
+    "year": 1753,
+    "title": "The British Museum Founded",
+    "description": "The British Museum is founded in 1753, becoming one of the first public museums in the world. Its collection was initially based on the holdings of Sir Hans Sloane. Today it houses a vast collection of world art and antiquities, including the Rosetta Stone and the Elgin Marbles, and admission remains free.",
+    "image": "8 INDUSTRIAL BRITAIN.png",
+    "category": "traditions",
+    "key_facts": [
+      "Founded in 1753, one of the first public museums in the world",
+      "Based on the collection of Sir Hans Sloane",
+      "Houses over 8 million objects spanning human history",
+      "Admission is free for all visitors"
+    ]
+  }
+]

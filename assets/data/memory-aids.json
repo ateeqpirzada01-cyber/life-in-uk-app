@@ -1,0 +1,125 @@
+[
+  {
+    "id": "wars_of_roses",
+    "title": "Wars of the Roses",
+    "type": "comparison",
+    "icon": "flower",
+    "items": [
+      { "side": "Lancaster", "color": "#e11d48", "symbol": "Red Rose", "key_figures": ["Henry VI"], "outcome": "Lost" },
+      { "side": "York", "color": "#f5f5f5", "symbol": "White Rose", "key_figures": ["Edward IV", "Richard III"], "outcome": "Lost at Bosworth" },
+      { "side": "Tudor", "color": "#059669", "symbol": "Tudor Rose (Red + White)", "key_figures": ["Henry VII"], "outcome": "Won — united both houses" }
+    ]
+  },
+  {
+    "id": "uk_capitals",
+    "title": "UK Countries, Capitals & Patron Saints",
+    "type": "grid",
+    "icon": "flag",
+    "image": "patron-saints.png",
+    "items": [
+      { "country": "England", "capital": "London", "saint": "St George", "day": "23 April", "flower": "Rose" },
+      { "country": "Scotland", "capital": "Edinburgh", "saint": "St Andrew", "day": "30 November", "flower": "Thistle" },
+      { "country": "Wales", "capital": "Cardiff", "saint": "St David", "day": "1 March", "flower": "Daffodil" },
+      { "country": "Northern Ireland", "capital": "Belfast", "saint": "St Patrick", "day": "17 March", "flower": "Shamrock" }
+    ]
+  },
+  {
+    "id": "henry_wives",
+    "title": "Henry VIII's Six Wives",
+    "type": "cards",
+    "icon": "heart",
+    "image": "henry-viii-wives.png",
+    "items": [
+      { "name": "Catherine of Aragon", "fate": "Divorced", "color": "#ef4444", "key_fact": "Mother of Mary I; marriage annulled leading to break with Rome" },
+      { "name": "Anne Boleyn", "fate": "Beheaded", "color": "#dc2626", "key_fact": "Mother of Elizabeth I; executed for treason" },
+      { "name": "Jane Seymour", "fate": "Died", "color": "#6b7280", "key_fact": "Mother of Edward VI; died after childbirth" },
+      { "name": "Anne of Cleves", "fate": "Divorced", "color": "#ef4444", "key_fact": "Marriage annulled after 6 months; called 'The King's Sister'" },
+      { "name": "Catherine Howard", "fate": "Beheaded", "color": "#dc2626", "key_fact": "Executed for treason at age ~19" },
+      { "name": "Catherine Parr", "fate": "Survived", "color": "#10b981", "key_fact": "Outlived Henry VIII; helped reconcile him with his daughters" }
+    ]
+  },
+  {
+    "id": "key_dates",
+    "title": "Key Dates to Remember",
+    "type": "timeline",
+    "icon": "calendar",
+    "items": [
+      { "year": "1066", "event": "Battle of Hastings — Norman Conquest" },
+      { "year": "1215", "event": "Magna Carta signed by King John" },
+      { "year": "1348", "event": "Black Death reaches England" },
+      { "year": "1485", "event": "Battle of Bosworth — Henry VII wins, Tudors begin" },
+      { "year": "1588", "event": "Defeat of the Spanish Armada" },
+      { "year": "1605", "event": "Gunpowder Plot — Guy Fawkes" },
+      { "year": "1642", "event": "English Civil War begins" },
+      { "year": "1649", "event": "Charles I executed" },
+      { "year": "1660", "event": "Restoration of the Monarchy — Charles II" },
+      { "year": "1689", "event": "Bill of Rights — limits royal power" },
+      { "year": "1707", "event": "Act of Union — England and Scotland unite" },
+      { "year": "1801", "event": "Act of Union — Ireland joins Great Britain" },
+      { "year": "1832", "event": "Great Reform Act — extends voting rights" },
+      { "year": "1918", "event": "Women over 30 get the vote" },
+      { "year": "1928", "event": "Equal voting rights for men and women (over 21)" },
+      { "year": "1945", "event": "End of World War II" },
+      { "year": "1948", "event": "NHS established; Windrush arrives" },
+      { "year": "1969", "event": "Voting age lowered to 18" }
+    ]
+  },
+  {
+    "id": "two_elizabeths",
+    "title": "The Two Elizabeths",
+    "type": "comparison",
+    "icon": "people",
+    "items": [
+      {
+        "name": "Elizabeth I",
+        "reign": "1558–1603",
+        "dynasty": "Tudor",
+        "key_achievements": [
+          "Defeated the Spanish Armada (1588)",
+          "Established Protestantism in England",
+          "Golden age of exploration and Shakespeare",
+          "Known as the Virgin Queen — never married"
+        ]
+      },
+      {
+        "name": "Elizabeth II",
+        "reign": "1952–2022",
+        "dynasty": "Windsor",
+        "key_achievements": [
+          "Longest-reigning British monarch (70 years)",
+          "Oversaw decolonisation and growth of the Commonwealth",
+          "Modernised the monarchy",
+          "Celebrated Platinum Jubilee in 2022"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uk_government",
+    "title": "UK Government Structure",
+    "type": "chart",
+    "icon": "business",
+    "items": [
+      { "level": 1, "title": "The Monarch", "description": "Head of State — ceremonial role, opens Parliament" },
+      { "level": 2, "title": "Parliament", "description": "Makes laws — consists of two Houses" },
+      { "level": 3, "title": "House of Commons", "description": "650 elected MPs — makes and debates laws" },
+      { "level": 3, "title": "House of Lords", "description": "Appointed members — reviews and suggests changes to laws" },
+      { "level": 4, "title": "Prime Minister", "description": "Leader of the party with most MPs — heads the government" },
+      { "level": 5, "title": "Cabinet", "description": "Senior ministers — run government departments" }
+    ]
+  },
+  {
+    "id": "uk_map",
+    "title": "UK Geography Quick Facts",
+    "type": "grid",
+    "icon": "map",
+    "image": "uk-countries-map.png",
+    "items": [
+      { "country": "United Kingdom", "capital": "Population ~67 million", "saint": "4 countries", "day": "Crown Dependencies: Jersey, Guernsey, Isle of Man", "flower": "Currency: Pound Sterling (GBP)" },
+      { "country": "England", "capital": "Largest country", "saint": "Major cities: London, Birmingham, Manchester, Leeds, Liverpool", "day": "Borders: Scotland (north), Wales (west)", "flower": "Famous for: Big Ben, Stonehenge, Lake District" },
+      { "country": "Scotland", "capital": "Highlands & Islands", "saint": "Major cities: Edinburgh, Glasgow, Aberdeen, Dundee", "day": "Has its own Parliament (Holyrood)", "flower": "Famous for: Lochs, Edinburgh Castle, Hogmanay" },
+      { "country": "Wales", "capital": "Mountains & Valleys", "saint": "Major cities: Cardiff, Swansea, Newport", "day": "Has its own Senedd (Parliament)", "flower": "Famous for: Snowdonia, Welsh language, castles" },
+      { "country": "Northern Ireland", "capital": "Smallest UK country", "saint": "Major cities: Belfast, Derry/Londonderry", "day": "Has its own Assembly (Stormont)", "flower": "Famous for: Giant's Causeway, Titanic Belfast" }
+    ]
+  }
+]

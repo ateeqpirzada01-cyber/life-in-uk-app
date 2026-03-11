@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "fc_h_001",
+    "category": "history",
+    "front": "When was the Battle of Hastings?",
+    "back": "1066 — William the Conqueror defeated King Harold II",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_002",
+    "category": "history",
+    "front": "What is the Domesday Book?",
+    "back": "A survey of land and property in England ordered by William I in 1086",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_003",
+    "category": "history",
+    "front": "What was the Magna Carta?",
+    "back": "A charter of rights signed by King John in 1215, limiting the power of the king",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_004",
+    "category": "history",
+    "front": "When did the Black Death reach England?",
+    "back": "1348 — killed about one-third of the population",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_005",
+    "category": "history",
+    "front": "What were the Wars of the Roses?",
+    "back": "Civil wars (1455–1485) between Lancaster (red rose) and York (white rose) for the English throne",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_006",
+    "category": "history",
+    "front": "Who won the Battle of Bosworth Field (1485)?",
+    "back": "Henry Tudor (Henry VII), defeating Richard III and starting the Tudor dynasty",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_007",
+    "category": "history",
+    "front": "Why did Henry VIII break with Rome?",
+    "back": "The Pope refused to annul his marriage to Catherine of Aragon; he established the Church of England",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_008",
+    "category": "history",
+    "front": "Name Henry VIII's six wives in order",
+    "back": "Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Parr",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_h_009",
+    "category": "history",
+    "front": "Mnemonic for Henry VIII's wives' fates?",
+    "back": "Divorced, Beheaded, Died, Divorced, Beheaded, Survived",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_010",
+    "category": "history",
+    "front": "When was the Spanish Armada defeated?",
+    "back": "1588 — during the reign of Elizabeth I",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_011",
+    "category": "history",
+    "front": "What was the Gunpowder Plot?",
+    "back": "A failed plot in 1605 by Guy Fawkes and others to blow up the Houses of Parliament and kill James I",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_012",
+    "category": "history",
+    "front": "What was the English Civil War about?",
+    "back": "Conflict (1642–1651) between Parliament and King Charles I over governance and religion",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_013",
+    "category": "history",
+    "front": "Who was Oliver Cromwell?",
+    "back": "Led parliamentary forces in the Civil War; became Lord Protector of the Commonwealth (1653–1658)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_014",
+    "category": "history",
+    "front": "What was the Glorious Revolution?",
+    "back": "In 1688, William of Orange invaded England and replaced James II without significant bloodshed",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_h_015",
+    "category": "history",
+    "front": "What was the Bill of Rights (1689)?",
+    "back": "An Act of Parliament that limited the power of the monarchy and guaranteed Parliament's rights",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_016",
+    "category": "history",
+    "front": "What did the Act of Union 1707 do?",
+    "back": "United the kingdoms of England and Scotland, creating the Kingdom of Great Britain",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_017",
+    "category": "history",
+    "front": "When did the slave trade end in the British Empire?",
+    "back": "The Emancipation Act of 1833 abolished slavery throughout the British Empire",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_018",
+    "category": "history",
+    "front": "What was the significance of the Great Reform Act of 1832?",
+    "back": "Extended voting rights to more men and made the electoral system more representative",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_h_019",
+    "category": "history",
+    "front": "When did women first get the vote in the UK?",
+    "back": "1918 — women over 30 could vote. Full equal voting rights came in 1928 (women over 21)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_020",
+    "category": "history",
+    "front": "What was VE Day?",
+    "back": "8 May 1945 — Victory in Europe Day, marking the end of WWII in Europe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_021",
+    "category": "history",
+    "front": "What was the significance of the SS Empire Windrush?",
+    "back": "In 1948, it brought the first large group of Caribbean migrants to the UK, marking the start of post-war immigration",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_022",
+    "category": "history",
+    "front": "When was the NHS established?",
+    "back": "1948 — providing free healthcare to all UK residents",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_023",
+    "category": "history",
+    "front": "Who were the Suffragettes?",
+    "back": "Women who campaigned for the right to vote. Key figure: Emmeline Pankhurst",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_024",
+    "category": "history",
+    "front": "What was Hadrian's Wall?",
+    "back": "A wall built by the Romans around AD 122 to keep out the Picts (northern tribes) in what is now northern England",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_025",
+    "category": "history",
+    "front": "When did the Romans leave Britain?",
+    "back": "AD 410 — to defend other parts of the Roman Empire",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_026",
+    "category": "history",
+    "front": "Who was the first Norman King of England?",
+    "back": "William I (William the Conqueror) — crowned on Christmas Day 1066",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_027",
+    "category": "history",
+    "front": "What happened at the Battle of Agincourt?",
+    "back": "In 1415, Henry V led a famous English victory against the French during the Hundred Years War",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_h_028",
+    "category": "history",
+    "front": "Who was Elizabeth I?",
+    "back": "The last Tudor monarch (1558–1603), known as the Virgin Queen. Defeated the Spanish Armada, oversaw a cultural golden age",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_029",
+    "category": "history",
+    "front": "What was the Restoration?",
+    "back": "In 1660, Charles II restored the monarchy after the Commonwealth period under Cromwell",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_030",
+    "category": "history",
+    "front": "Who built Stonehenge and when?",
+    "back": "Built in several stages between 3000 BC and 1500 BC. We don't know exactly who built it",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_001",
+    "category": "government",
+    "front": "How many MPs are in the House of Commons?",
+    "back": "650 — each representing a constituency",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_002",
+    "category": "government",
+    "front": "What is the House of Lords?",
+    "back": "The upper house of Parliament. Members are appointed, not elected. It reviews and suggests changes to laws",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_003",
+    "category": "government",
+    "front": "What is the role of the Prime Minister?",
+    "back": "Leader of the political party with the most seats in the House of Commons; heads the government",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_004",
+    "category": "government",
+    "front": "What is the Cabinet?",
+    "back": "A group of senior ministers chosen by the PM, each responsible for a government department",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_005",
+    "category": "government",
+    "front": "Who is the Head of State in the UK?",
+    "back": "The Monarch (currently King Charles III)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_006",
+    "category": "government",
+    "front": "What is a constitutional monarchy?",
+    "back": "A system where the monarch is Head of State but their powers are limited by law; the government is run by elected officials",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_007",
+    "category": "government",
+    "front": "What is a general election?",
+    "back": "An election for all 650 seats in the House of Commons. Must be held at least every 5 years",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_008",
+    "category": "government",
+    "front": "Who can vote in UK general elections?",
+    "back": "UK citizens, Irish citizens, and qualifying Commonwealth citizens aged 18+ who are registered to vote",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_009",
+    "category": "government",
+    "front": "What is devolution?",
+    "back": "The transfer of some powers from central government to Scotland, Wales, and Northern Ireland",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_010",
+    "category": "government",
+    "front": "What is the role of the Speaker?",
+    "back": "The Speaker chairs debates in the House of Commons and ensures rules are followed. They are politically neutral",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_g_011",
+    "category": "government",
+    "front": "What are the main political parties in the UK?",
+    "back": "Conservative, Labour, Liberal Democrats, Scottish National Party (SNP), Plaid Cymru, Green Party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_012",
+    "category": "government",
+    "front": "What is the minimum voting age in the UK?",
+    "back": "18 years old (16 in Scotland and Wales for devolved elections)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_013",
+    "category": "government",
+    "front": "What is the role of local government?",
+    "back": "Provides local services including education, housing, planning, roads, and waste collection",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_014",
+    "category": "government",
+    "front": "What are the fundamental principles of British law?",
+    "back": "Everyone is equal before the law; laws are made in Parliament; laws can be changed through democratic process",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_015",
+    "category": "government",
+    "front": "What is the European Convention on Human Rights?",
+    "back": "An international treaty that protects human rights and fundamental freedoms. The UK was instrumental in drafting it",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_g_016",
+    "category": "government",
+    "front": "What is the role of the judiciary?",
+    "back": "Interprets and applies the law. Judges are independent of the government",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_017",
+    "category": "government",
+    "front": "What is a by-election?",
+    "back": "An election held in a single constituency when the sitting MP dies, resigns, or is disqualified",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_018",
+    "category": "government",
+    "front": "What is the electoral register?",
+    "back": "The list of people registered to vote. You must be on the register to vote in elections",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_019",
+    "category": "government",
+    "front": "What is the Commonwealth?",
+    "back": "A voluntary association of 56 countries, mostly former territories of the British Empire",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_020",
+    "category": "government",
+    "front": "What does 'first past the post' mean?",
+    "back": "The voting system used in UK general elections. The candidate with the most votes in each constituency wins",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_021",
+    "category": "government",
+    "front": "What is Hansard?",
+    "back": "The official written record of everything said in Parliament",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_g_022",
+    "category": "government",
+    "front": "What is a referendum?",
+    "back": "A vote in which the entire electorate is asked to give an opinion on a particular question, like the 2016 EU referendum",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_023",
+    "category": "government",
+    "front": "What is the role of the Opposition?",
+    "back": "The second-largest party in the Commons. The Leader of the Opposition leads an alternative government (Shadow Cabinet)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_024",
+    "category": "government",
+    "front": "Who is the Chancellor of the Exchequer?",
+    "back": "The government minister responsible for financial and economic policy, including the Budget",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_025",
+    "category": "government",
+    "front": "What is a constituency?",
+    "back": "A geographical area represented by one MP in the House of Commons. The UK has 650 constituencies",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_001",
+    "category": "traditions",
+    "front": "What are the patron saints of each UK country?",
+    "back": "England: St George (23 Apr), Scotland: St Andrew (30 Nov), Wales: St David (1 Mar), N. Ireland: St Patrick (17 Mar)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_002",
+    "category": "traditions",
+    "front": "What is Bonfire Night?",
+    "back": "5 November — commemorates the failed Gunpowder Plot of 1605 with fireworks and bonfires",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_003",
+    "category": "traditions",
+    "front": "What is Remembrance Day?",
+    "back": "11 November — commemorates those who died in wars, especially WWI and WWII. People wear red poppies",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_004",
+    "category": "traditions",
+    "front": "What are UK bank holidays?",
+    "back": "Official public holidays: New Year, Easter, Early May, Spring, Summer Bank Holidays, Christmas Day, Boxing Day",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_005",
+    "category": "traditions",
+    "front": "What are the national flowers of the UK?",
+    "back": "England: Rose, Scotland: Thistle, Wales: Daffodil, N. Ireland: Shamrock",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_006",
+    "category": "traditions",
+    "front": "Who wrote Romeo and Juliet?",
+    "back": "William Shakespeare — born in Stratford-upon-Avon in 1564, considered the greatest English playwright",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_007",
+    "category": "traditions",
+    "front": "Name 4 plays by Shakespeare",
+    "back": "Hamlet, Macbeth, A Midsummer Night's Dream, Romeo and Juliet (also: The Tempest, Othello, King Lear)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_008",
+    "category": "traditions",
+    "front": "Who wrote Pride and Prejudice?",
+    "back": "Jane Austen — one of the most famous English novelists, lived 1775–1817",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_009",
+    "category": "traditions",
+    "front": "Who painted The Fighting Temeraire?",
+    "back": "JMW Turner — one of the most celebrated British painters",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_t_010",
+    "category": "traditions",
+    "front": "What is the Proms?",
+    "back": "Annual BBC-hosted classical music concerts at the Royal Albert Hall. The Last Night is a famous celebration",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_011",
+    "category": "traditions",
+    "front": "What sport was invented in England?",
+    "back": "Cricket — also, association football (soccer), rugby, golf (Scotland), and tennis",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_012",
+    "category": "traditions",
+    "front": "What is Hogmanay?",
+    "back": "Scottish New Year's Eve celebration, with traditions like 'first footing'",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_013",
+    "category": "traditions",
+    "front": "What is the Edinburgh Festival?",
+    "back": "An annual arts festival in August, including the Fringe — the largest arts festival in the world",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_014",
+    "category": "traditions",
+    "front": "What is the National Trust?",
+    "back": "A charity that preserves and protects historic places and green spaces in England, Wales, and N. Ireland",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_015",
+    "category": "traditions",
+    "front": "Who was Charles Dickens?",
+    "back": "Victorian novelist — wrote A Christmas Carol, Oliver Twist, Great Expectations, David Copperfield",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_016",
+    "category": "traditions",
+    "front": "What is the Eisteddfod?",
+    "back": "A Welsh cultural festival celebrating poetry, music, and performance. Held annually",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_t_017",
+    "category": "traditions",
+    "front": "Who was Robert Burns?",
+    "back": "Scotland's national poet. Wrote Auld Lang Syne. Burns Night is celebrated on 25 January",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_018",
+    "category": "traditions",
+    "front": "What is the Turner Prize?",
+    "back": "An annual contemporary art prize named after JMW Turner, awarded at Tate Britain",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_t_019",
+    "category": "traditions",
+    "front": "Who designed the Crystal Palace?",
+    "back": "Joseph Paxton — built for the Great Exhibition of 1851 in Hyde Park, London",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_t_020",
+    "category": "traditions",
+    "front": "What is Mothering Sunday?",
+    "back": "The fourth Sunday of Lent — the UK version of Mother's Day",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_021",
+    "category": "traditions",
+    "front": "Who was Florence Nightingale?",
+    "back": "Pioneer of modern nursing who improved hospital conditions during the Crimean War (1853–1856)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_022",
+    "category": "traditions",
+    "front": "What are the Six Nations?",
+    "back": "An annual rugby union championship between England, Scotland, Wales, Ireland, France, and Italy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_023",
+    "category": "traditions",
+    "front": "What is Boxing Day?",
+    "back": "26 December — a UK bank holiday, traditionally a day for giving gifts to servants and the poor",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_024",
+    "category": "traditions",
+    "front": "What is the Brit Awards?",
+    "back": "The main British music awards ceremony, equivalent to the US Grammys",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_025",
+    "category": "traditions",
+    "front": "Who are The Beatles?",
+    "back": "A hugely influential rock band from Liverpool (1960s). Members: John Lennon, Paul McCartney, George Harrison, Ringo Starr",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_001",
+    "category": "values",
+    "front": "What are the fundamental values of British life?",
+    "back": "Democracy, rule of law, individual liberty, tolerance, and mutual respect",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_002",
+    "category": "values",
+    "front": "What is the rule of law?",
+    "back": "Everyone is subject to the law, including the government. No one is above the law",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_003",
+    "category": "values",
+    "front": "What does 'individual liberty' mean in UK values?",
+    "back": "The right to hold your own opinions, beliefs, and to live your life freely within the law",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_004",
+    "category": "values",
+    "front": "What is the Human Rights Act 1998?",
+    "back": "Incorporates the European Convention on Human Rights into UK law. Protects rights like free speech, privacy, and fair trial",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_005",
+    "category": "values",
+    "front": "What does the Equality Act 2010 protect against?",
+    "back": "Discrimination based on age, disability, gender, race, religion, sex, sexual orientation, marriage, pregnancy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_006",
+    "category": "values",
+    "front": "What is Freedom of Speech in the UK?",
+    "back": "The right to express opinions freely, but subject to laws against incitement to hatred, defamation, and threats",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_007",
+    "category": "values",
+    "front": "Is the UK a secular state?",
+    "back": "The UK has an established church (Church of England), but people are free to practise any religion or none",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_008",
+    "category": "values",
+    "front": "What is the minimum age for marriage in England?",
+    "back": "18 years old (16–17 with parental consent was abolished in 2023 in England and Wales)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_009",
+    "category": "values",
+    "front": "What are the responsibilities of a UK resident?",
+    "back": "Obey the law, respect others' rights, pay taxes, serve on a jury if called, vote in elections",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_010",
+    "category": "values",
+    "front": "What is volunteering in the UK?",
+    "back": "An important tradition. About 25% of people volunteer regularly. It is not compulsory but is encouraged",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_011",
+    "category": "values",
+    "front": "What is the Magna Carta's significance today?",
+    "back": "It established the principle that the king is subject to the law and laid the foundation for constitutional governance",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_012",
+    "category": "values",
+    "front": "What age can you buy alcohol in the UK?",
+    "back": "18 years old. You can drink at home from age 5 (with parental permission)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_013",
+    "category": "values",
+    "front": "What is the age of criminal responsibility in England?",
+    "back": "10 years old",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_v_014",
+    "category": "values",
+    "front": "What is antisocial behaviour?",
+    "back": "Behaviour that causes harassment, alarm, or distress. Can include noise, vandalism, and intimidation",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_015",
+    "category": "values",
+    "front": "What rights do EU citizens have in the UK after Brexit?",
+    "back": "Those who applied to the EU Settlement Scheme by 30 June 2021 can continue to live and work in the UK",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_v_016",
+    "category": "values",
+    "front": "What is zero tolerance of domestic violence?",
+    "back": "Domestic violence is a crime in the UK. Anyone experiencing it should report to police or call helplines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_017",
+    "category": "values",
+    "front": "What is forced marriage in UK law?",
+    "back": "Forced marriage is illegal in the UK. Both parties must freely consent to marriage",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_018",
+    "category": "values",
+    "front": "What is FGM in UK law?",
+    "back": "Female Genital Mutilation is a serious criminal offence in the UK, even if performed abroad",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_019",
+    "category": "values",
+    "front": "What is the driving age in the UK?",
+    "back": "17 years old for a car. 16 for a moped",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_020",
+    "category": "values",
+    "front": "What does 'mutual respect and tolerance' mean?",
+    "back": "Respecting others' views, beliefs, and lifestyles even if they differ from your own",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_001",
+    "category": "everyday",
+    "front": "What side of the road do you drive on in the UK?",
+    "back": "The left side",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_002",
+    "category": "everyday",
+    "front": "What is the emergency services number in the UK?",
+    "back": "999 (also 112 from a mobile phone)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_003",
+    "category": "everyday",
+    "front": "What is the NHS?",
+    "back": "National Health Service — provides free healthcare to all UK residents. Founded in 1948",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_004",
+    "category": "everyday",
+    "front": "How do you register with a GP?",
+    "back": "Visit your local GP surgery and ask to register. You will need proof of address and ID",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_005",
+    "category": "everyday",
+    "front": "What is National Insurance?",
+    "back": "A tax on earnings that funds benefits, state pension, and the NHS. You need a NI number to work",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_006",
+    "category": "everyday",
+    "front": "What is Council Tax?",
+    "back": "A local tax based on property value that pays for local services like rubbish collection, police, and fire services",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_007",
+    "category": "everyday",
+    "front": "What is a TV licence?",
+    "back": "Required to watch live TV or use BBC iPlayer. Funds the BBC",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_008",
+    "category": "everyday",
+    "front": "At what age must children attend school in England?",
+    "back": "5 to 18 years old (can do an apprenticeship or training from 16)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_009",
+    "category": "everyday",
+    "front": "What are GCSEs?",
+    "back": "General Certificate of Secondary Education — exams taken at age 15–16 in England, Wales, and N. Ireland",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_010",
+    "category": "everyday",
+    "front": "What are A levels?",
+    "back": "Advanced level qualifications taken at 17–18. Often required for university entry",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_011",
+    "category": "everyday",
+    "front": "What is UCAS?",
+    "back": "Universities and Colleges Admissions Service — handles applications to higher education",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_012",
+    "category": "everyday",
+    "front": "What is the MOT test?",
+    "back": "An annual safety and emissions test required for vehicles over 3 years old",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_013",
+    "category": "everyday",
+    "front": "What documents do you need to drive in the UK?",
+    "back": "A valid driving licence, vehicle insurance, MOT certificate (if car is 3+ years old), and vehicle tax",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_014",
+    "category": "everyday",
+    "front": "What is the currency of the UK?",
+    "back": "Pound sterling (GBP / £). 100 pence = 1 pound",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_015",
+    "category": "everyday",
+    "front": "What is a National Insurance number?",
+    "back": "A unique personal number used for tax and benefits. Format: 2 letters, 6 digits, 1 letter (e.g., QQ 12 34 56 C)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_016",
+    "category": "everyday",
+    "front": "Where can you get legal advice for free?",
+    "back": "Citizens Advice Bureau, Community Legal Service, legal aid (if eligible)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_017",
+    "category": "everyday",
+    "front": "What number do you call for non-emergency police?",
+    "back": "101",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_018",
+    "category": "everyday",
+    "front": "What is a tenancy agreement?",
+    "back": "A legal contract between a landlord and tenant that sets out the terms of renting a property",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_019",
+    "category": "everyday",
+    "front": "What is the State Pension age in the UK?",
+    "back": "66 years old (rising to 67 by 2028)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_020",
+    "category": "everyday",
+    "front": "What is self-assessment?",
+    "back": "A system where self-employed people report their income and pay tax directly to HMRC",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_021",
+    "category": "everyday",
+    "front": "What is Childline?",
+    "back": "A free counselling service for children up to age 19, run by NSPCC. Call 0800 1111",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_022",
+    "category": "everyday",
+    "front": "What is jury service?",
+    "back": "UK residents aged 18–75 can be called to serve on a jury. It is a civic duty and you must attend unless excused",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_023",
+    "category": "everyday",
+    "front": "How can you become a UK citizen?",
+    "back": "Apply for naturalisation — must have lived in UK for 5 years (3 if married to a UK citizen), pass Life in the UK test, and meet English language requirements",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_024",
+    "category": "everyday",
+    "front": "What is the Life in the UK test?",
+    "back": "A computer-based test with 24 questions about British history, values, and traditions. You need 75% to pass",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_025",
+    "category": "everyday",
+    "front": "What is Jobcentre Plus?",
+    "back": "A government agency that helps people find employment and claim benefits",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_031",
+    "category": "history",
+    "front": "Who was Boudicca?",
+    "back": "Queen of the Iceni tribe who led a revolt against the Romans around AD 60–61",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_032",
+    "category": "history",
+    "front": "What were the Crusades?",
+    "back": "Religious wars in the Middle Ages. Richard the Lionheart fought in the Third Crusade (1189–1192)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_h_033",
+    "category": "history",
+    "front": "What was the Peasants' Revolt?",
+    "back": "In 1381, peasants led by Wat Tyler marched on London to protest against a poll tax",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_034",
+    "category": "history",
+    "front": "What was the Great Fire of London?",
+    "back": "In 1666, a fire destroyed much of central London. It started in a bakery in Pudding Lane",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_035",
+    "category": "history",
+    "front": "Who was Isaac Newton?",
+    "back": "Born 1643. Discovered the laws of gravity and motion. One of the greatest scientists in history",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_036",
+    "category": "history",
+    "front": "What was the Industrial Revolution?",
+    "back": "Period from mid-18th century when Britain led the world in manufacturing, powered by steam engines and factories",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_037",
+    "category": "history",
+    "front": "Who was Isambard Kingdom Brunel?",
+    "back": "A great Victorian engineer who designed bridges (Clifton Suspension), tunnels, and the Great Western Railway",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_h_038",
+    "category": "history",
+    "front": "What was the Battle of Trafalgar?",
+    "back": "In 1805, Admiral Nelson defeated the French and Spanish fleets. Nelson died in the battle",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_039",
+    "category": "history",
+    "front": "What was the Battle of Britain?",
+    "back": "In 1940, the RAF defended Britain against the German Luftwaffe, preventing a German invasion",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_040",
+    "category": "history",
+    "front": "Who was Winston Churchill?",
+    "back": "Prime Minister during WWII (1940–1945, 1951–1955). Famous for inspiring speeches and wartime leadership",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_026",
+    "category": "traditions",
+    "front": "What is the Notting Hill Carnival?",
+    "back": "An annual Caribbean-inspired street festival in London, held on August Bank Holiday weekend. The largest in Europe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_027",
+    "category": "traditions",
+    "front": "What is Wimbledon?",
+    "back": "The oldest tennis tournament in the world, held annually in London since 1877. Known for its grass courts",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_028",
+    "category": "traditions",
+    "front": "What is the FA Cup?",
+    "back": "The oldest football cup competition in the world, open to all English football clubs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_029",
+    "category": "traditions",
+    "front": "Who wrote A Christmas Carol?",
+    "back": "Charles Dickens — published in 1843, featuring the character Ebenezer Scrooge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_030",
+    "category": "traditions",
+    "front": "What is the Globe Theatre?",
+    "back": "A theatre in London associated with William Shakespeare. A reconstruction was built in 1997 near the original site",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_051",
+    "category": "history",
+    "front": "When did the Romans first invade Britain?",
+    "back": "55 BC — Julius Caesar led the first Roman expedition to Britain",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_052",
+    "category": "history",
+    "front": "When was Hadrian's Wall built?",
+    "back": "122 AD — Built by Emperor Hadrian to keep out the Picts, stretching 73 miles coast to coast",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_053",
+    "category": "history",
+    "front": "Who led a revolt against the Romans around AD 61?",
+    "back": "Boudicca — Queen of the Iceni tribe in eastern England",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_054",
+    "category": "history",
+    "front": "What was the Domesday Book?",
+    "back": "A great survey of England commissioned by William the Conqueror in 1086 to assess land and wealth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_055",
+    "category": "history",
+    "front": "When did the Great Fire of London occur?",
+    "back": "1666 — Destroyed much of the City of London; led to rebuilding in stone including St Paul's Cathedral",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_h_056",
+    "category": "history",
+    "front": "What was the Blitz?",
+    "back": "German bombing campaign against British cities 1940-1941 during WWII. London was bombed for 57 consecutive nights.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_057",
+    "category": "history",
+    "front": "Who was Robert the Bruce?",
+    "back": "King of Scots who defeated the English at the Battle of Bannockburn (1314) and secured Scottish independence",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_058",
+    "category": "history",
+    "front": "What was the Easter Rising?",
+    "back": "1916 — An armed rebellion in Dublin against British rule, a key event leading to Irish independence",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_h_059",
+    "category": "history",
+    "front": "What was the Good Friday Agreement?",
+    "back": "1998 peace agreement that largely ended The Troubles in Northern Ireland. Established power-sharing government.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_h_060",
+    "category": "history",
+    "front": "Who was Isambard Kingdom Brunel?",
+    "back": "Victorian engineer who built the Great Western Railway, Clifton Suspension Bridge, and SS Great Britain",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_026",
+    "category": "government",
+    "front": "Where does the Scottish Parliament meet?",
+    "back": "Holyrood, Edinburgh. The Scottish Parliament has powers over education, health, and law.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_027",
+    "category": "government",
+    "front": "What is the Welsh Senedd?",
+    "back": "The Welsh Parliament (formerly Welsh Assembly), based in Cardiff. Has powers over education, health, and transport in Wales.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_028",
+    "category": "government",
+    "front": "How does a Bill become an Act of Parliament?",
+    "back": "A Bill passes through readings and debates in both Commons and Lords, then receives Royal Assent to become law.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_g_029",
+    "category": "government",
+    "front": "What is the role of the Speaker?",
+    "back": "The Speaker chairs debates in the House of Commons, maintains order, and is politically impartial.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_030",
+    "category": "government",
+    "front": "What is a by-election?",
+    "back": "An election held between general elections when a seat in Parliament becomes vacant (e.g., due to death or resignation of an MP).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_031",
+    "category": "government",
+    "front": "What is the electoral register?",
+    "back": "The official list of people eligible to vote. You must be on it to vote in elections. Registration is a legal requirement.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_032",
+    "category": "government",
+    "front": "How many countries are in the Commonwealth?",
+    "back": "56 countries. The King is Head of the Commonwealth. Members cooperate on trade, development and democracy.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_033",
+    "category": "government",
+    "front": "What is the role of the Chancellor of the Exchequer?",
+    "back": "Responsible for economic and financial matters. Presents the annual Budget to Parliament.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_g_034",
+    "category": "government",
+    "front": "What does 'first past the post' mean?",
+    "back": "The UK's voting system where the candidate with the most votes in each constituency wins the seat.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_g_035",
+    "category": "government",
+    "front": "What is the Northern Ireland Assembly?",
+    "back": "The devolved legislature at Stormont, Belfast. Operates on a power-sharing basis between unionist and nationalist parties.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_t_031",
+    "category": "traditions",
+    "front": "When is Bonfire Night and what does it celebrate?",
+    "back": "5 November — Celebrates the failure of the Gunpowder Plot (1605) when Guy Fawkes tried to blow up Parliament.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_032",
+    "category": "traditions",
+    "front": "When is Remembrance Day?",
+    "back": "11 November — Honours those who died in wars. A two-minute silence at 11am. People wear red poppies.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_033",
+    "category": "traditions",
+    "front": "What is Hogmanay?",
+    "back": "Scottish New Year's Eve celebration on 31 December. Traditions include first-footing and singing Auld Lang Syne.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_034",
+    "category": "traditions",
+    "front": "What is the Edinburgh Festival Fringe?",
+    "back": "The world's largest arts festival, held annually in Edinburgh in August. Features theatre, comedy, and music.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_035",
+    "category": "traditions",
+    "front": "What is the Notting Hill Carnival?",
+    "back": "Annual Caribbean carnival held in London on August bank holiday weekend. Largest street festival in Europe.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_036",
+    "category": "traditions",
+    "front": "What is the Eisteddfod?",
+    "back": "A Welsh festival of literature, music, and performance. The National Eisteddfod is held in Welsh.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_t_037",
+    "category": "traditions",
+    "front": "Where is Wimbledon and what sport is it famous for?",
+    "back": "Wimbledon in London hosts the oldest and most prestigious tennis tournament in the world (since 1877).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_038",
+    "category": "traditions",
+    "front": "What is The Ashes in cricket?",
+    "back": "A test cricket series between England and Australia. Named after the symbolic 'ashes' of English cricket.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_t_039",
+    "category": "traditions",
+    "front": "Who wrote Oliver Twist and Great Expectations?",
+    "back": "Charles Dickens — One of Britain's greatest novelists, writing about Victorian social conditions.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_t_040",
+    "category": "traditions",
+    "front": "What is the Turner Prize?",
+    "back": "A prestigious annual contemporary art award, named after the painter JMW Turner.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_v_021",
+    "category": "values",
+    "front": "What is the Human Rights Act 1998?",
+    "back": "Incorporates the European Convention on Human Rights into UK law. Protects rights like freedom of expression and fair trial.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_022",
+    "category": "values",
+    "front": "What is the Equality Act 2010?",
+    "back": "Protects people from discrimination based on 9 protected characteristics including age, race, sex, and disability.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_023",
+    "category": "values",
+    "front": "What are the fundamental British values?",
+    "back": "Democracy, the rule of law, individual liberty, and mutual respect and tolerance of different faiths and beliefs.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_024",
+    "category": "values",
+    "front": "At what age can you vote in UK general elections?",
+    "back": "18 years old. The voting age was lowered from 21 to 18 in 1969.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_025",
+    "category": "values",
+    "front": "What is jury service?",
+    "back": "A civic duty where citizens help decide court cases. Most UK residents aged 18-75 on the electoral register can be called.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_026",
+    "category": "values",
+    "front": "What did the suffragettes campaign for?",
+    "back": "The right for women to vote. Led by Emmeline Pankhurst. Women over 30 got the vote in 1918; all women over 21 in 1928.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_v_027",
+    "category": "values",
+    "front": "What is the minimum age for marriage in the UK?",
+    "back": "18 years old (raised from 16 in England and Wales).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_028",
+    "category": "values",
+    "front": "When was same-sex marriage legalised?",
+    "back": "2014 in England, Wales and Scotland. Civil partnerships have been available since 2004.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_v_029",
+    "category": "values",
+    "front": "What is the age of criminal responsibility in England?",
+    "back": "10 years old — below this age, children cannot be charged with a criminal offence.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc_v_030",
+    "category": "values",
+    "front": "What is the Rule of Law?",
+    "back": "The principle that no one is above the law, including the government. Laws apply equally to everyone.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_026",
+    "category": "everyday",
+    "front": "What number do you call in an emergency?",
+    "back": "999 (or 112). For non-emergency medical help, call 111. For non-emergency police, call 101.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_027",
+    "category": "everyday",
+    "front": "What is the approximate population of the UK?",
+    "back": "About 67 million people.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_028",
+    "category": "everyday",
+    "front": "What are the four countries of the UK and their capitals?",
+    "back": "England (London), Scotland (Edinburgh), Wales (Cardiff), Northern Ireland (Belfast).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_029",
+    "category": "everyday",
+    "front": "What side of the road do you drive on in the UK?",
+    "back": "The left side. The UK is one of the few countries that drives on the left.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_030",
+    "category": "everyday",
+    "front": "What ages is primary school in England?",
+    "back": "Ages 5 to 11 (Reception to Year 6).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_031",
+    "category": "everyday",
+    "front": "What are GCSEs?",
+    "back": "General Certificate of Secondary Education — exams taken at age 15-16 in England, Wales and Northern Ireland.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_032",
+    "category": "everyday",
+    "front": "How do you register with a GP?",
+    "back": "Visit your local GP surgery and complete a registration form. You can find your nearest surgery on the NHS website.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc_e_033",
+    "category": "everyday",
+    "front": "What is the current national minimum wage age?",
+    "back": "Workers aged 23+ receive the National Living Wage. Lower rates apply for younger workers and apprentices.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_034",
+    "category": "everyday",
+    "front": "What is council tax?",
+    "back": "A tax paid to your local authority for local services like rubbish collection, police, and fire services. Based on property value.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc_e_035",
+    "category": "everyday",
+    "front": "What is a National Insurance number?",
+    "back": "A unique personal number used for tax and benefits. Format: two letters, six numbers, one letter (e.g., AB 12 34 56 C).",
+    "difficulty": "medium"
+  }
+]

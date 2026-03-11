@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "q_history_1",
+    "topic_id": "topic_history_1",
+    "question_text": "What is the name of the prehistoric monument in Wiltshire that was built in several stages?",
+    "options": [
+      { "id": "a", "text": "Hadrian's Wall" },
+      { "id": "b", "text": "Stonehenge" },
+      { "id": "c", "text": "The Tower of London" },
+      { "id": "d", "text": "Skara Brae" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Stonehenge is a prehistoric monument in Wiltshire, built in several stages between about 3000 BC and 1500 BC. It is one of the most famous landmarks in the world.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_2",
+    "topic_id": "topic_history_1",
+    "question_text": "When did the Romans first attempt to invade Britain?",
+    "options": [
+      { "id": "a", "text": "AD 43" },
+      { "id": "b", "text": "AD 410" },
+      { "id": "c", "text": "55 BC" },
+      { "id": "d", "text": "100 BC" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Julius Caesar led the first Roman invasion attempt in 55 BC. The successful invasion came later in AD 43 under Emperor Claudius.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_3",
+    "topic_id": "topic_history_1",
+    "question_text": "Why was Hadrian's Wall built?",
+    "options": [
+      { "id": "a", "text": "To mark the border between England and Wales" },
+      { "id": "b", "text": "To keep out the Picts" },
+      { "id": "c", "text": "To protect London from invasion" },
+      { "id": "d", "text": "To serve as a major road" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Hadrian's Wall was built on the orders of Emperor Hadrian to keep out the Picts, who were the ancestors of the Scottish people.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_4",
+    "topic_id": "topic_history_1",
+    "question_text": "When did the Romans leave Britain?",
+    "options": [
+      { "id": "a", "text": "AD 43" },
+      { "id": "b", "text": "AD 200" },
+      { "id": "c", "text": "AD 410" },
+      { "id": "d", "text": "AD 500" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Roman rule in Britain lasted until AD 410, when the Roman army left to defend other parts of the Empire.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_5",
+    "topic_id": "topic_history_1",
+    "question_text": "Which emperor ordered the successful Roman invasion of Britain in AD 43?",
+    "options": [
+      { "id": "a", "text": "Julius Caesar" },
+      { "id": "b", "text": "Emperor Hadrian" },
+      { "id": "c", "text": "Emperor Claudius" },
+      { "id": "d", "text": "Emperor Nero" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The successful Roman invasion of Britain came in AD 43 under Emperor Claudius. Julius Caesar had attempted an invasion earlier in 55 BC but it was not successful.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_history_6",
+    "topic_id": "topic_history_2",
+    "question_text": "Who was the first Archbishop of Canterbury?",
+    "options": [
+      { "id": "a", "text": "St Patrick" },
+      { "id": "b", "text": "St Augustine" },
+      { "id": "c", "text": "St Columba" },
+      { "id": "d", "text": "St David" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "St Augustine was sent to Canterbury by the Christian Church in AD 597 to convert the Anglo-Saxons to Christianity. He became the first Archbishop of Canterbury.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_7",
+    "topic_id": "topic_history_2",
+    "question_text": "Which English king is the only one to be called 'Great'?",
+    "options": [
+      { "id": "a", "text": "King Harold" },
+      { "id": "b", "text": "King Canute" },
+      { "id": "c", "text": "King Alfred" },
+      { "id": "d", "text": "King Edward" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "King Alfred the Great of Wessex is the only English king to be called 'Great'. He fought against the Vikings and united the Anglo-Saxon kingdoms.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_8",
+    "topic_id": "topic_history_2",
+    "question_text": "Where did the Jutes, Angles, and Saxons come from?",
+    "options": [
+      { "id": "a", "text": "France and Spain" },
+      { "id": "b", "text": "Italy and Greece" },
+      { "id": "c", "text": "Denmark and Germany" },
+      { "id": "d", "text": "Norway and Sweden" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Jutes, Angles, and Saxons came from areas that are now Denmark and Germany. The Angles gave England its name ('Angle-land').",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_9",
+    "topic_id": "topic_history_2",
+    "question_text": "What was the area of eastern and northern England settled by the Vikings known as?",
+    "options": [
+      { "id": "a", "text": "Wessex" },
+      { "id": "b", "text": "The Danelaw" },
+      { "id": "c", "text": "Mercia" },
+      { "id": "d", "text": "Northumbria" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The area of eastern and northern England settled by the Vikings was known as the Danelaw, as it was governed under Danish law.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_history_10",
+    "topic_id": "topic_history_3",
+    "question_text": "In what year was the Battle of Hastings fought?",
+    "options": [
+      { "id": "a", "text": "1016" },
+      { "id": "b", "text": "1066" },
+      { "id": "c", "text": "1086" },
+      { "id": "d", "text": "1100" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Battle of Hastings was fought in 1066. William, Duke of Normandy, defeated King Harold II and became King of England.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_11",
+    "topic_id": "topic_history_3",
+    "question_text": "What was the Domesday Book?",
+    "options": [
+      { "id": "a", "text": "A religious text" },
+      { "id": "b", "text": "A record of all land and property in England" },
+      { "id": "c", "text": "A book of laws" },
+      { "id": "d", "text": "A history of the Norman kings" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Domesday Book was commissioned by William I in 1086. It was a detailed survey of all the land and property in England, used to determine how much tax people owed.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_12",
+    "topic_id": "topic_history_3",
+    "question_text": "When was Magna Carta signed?",
+    "options": [
+      { "id": "a", "text": "1066" },
+      { "id": "b", "text": "1215" },
+      { "id": "c", "text": "1264" },
+      { "id": "d", "text": "1348" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Magna Carta was signed by King John in 1215 at Runnymede. It established the principle that even the king was subject to the law.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_13",
+    "topic_id": "topic_history_3",
+    "question_text": "What killed approximately one-third of the population of England in 1348?",
+    "options": [
+      { "id": "a", "text": "The Hundred Years War" },
+      { "id": "b", "text": "The Crusades" },
+      { "id": "c", "text": "The Black Death" },
+      { "id": "d", "text": "The Wars of the Roses" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Black Death (1348) was a plague that killed approximately one-third of the population of England.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_14",
+    "topic_id": "topic_history_3",
+    "question_text": "Who called the first English Parliament in 1264?",
+    "options": [
+      { "id": "a", "text": "King John" },
+      { "id": "b", "text": "William the Conqueror" },
+      { "id": "c", "text": "Simon de Montfort" },
+      { "id": "d", "text": "King Henry III" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The first English Parliament was called in 1264 by Simon de Montfort, a nobleman who led a rebellion against King Henry III.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_history_15",
+    "topic_id": "topic_history_4",
+    "question_text": "How many wives did Henry VIII have?",
+    "options": [
+      { "id": "a", "text": "Four" },
+      { "id": "b", "text": "Five" },
+      { "id": "c", "text": "Six" },
+      { "id": "d", "text": "Seven" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Henry VIII had six wives: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, and Catherine Parr.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_16",
+    "topic_id": "topic_history_4",
+    "question_text": "Why did Henry VIII establish the Church of England?",
+    "options": [
+      { "id": "a", "text": "He disagreed with Catholic theology" },
+      { "id": "b", "text": "He wanted to divorce his first wife" },
+      { "id": "c", "text": "Parliament forced him to" },
+      { "id": "d", "text": "The Pope asked him to" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Henry VIII broke away from the Catholic Church and established the Church of England so he could divorce his first wife, Catherine of Aragon, in order to marry Anne Boleyn.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_17",
+    "topic_id": "topic_history_4",
+    "question_text": "Why was Elizabeth I known as the 'Virgin Queen'?",
+    "options": [
+      { "id": "a", "text": "She was born in Virginia" },
+      { "id": "b", "text": "She never married" },
+      { "id": "c", "text": "She founded a religious order" },
+      { "id": "d", "text": "She was a patron of the arts" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Elizabeth I never married and was known as the 'Virgin Queen'. The state of Virginia in America was named in her honour.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_18",
+    "topic_id": "topic_history_4",
+    "question_text": "When was the Spanish Armada defeated?",
+    "options": [
+      { "id": "a", "text": "1558" },
+      { "id": "b", "text": "1577" },
+      { "id": "c", "text": "1588" },
+      { "id": "d", "text": "1603" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Spanish Armada was defeated in 1588. The Spanish fleet was sent by Philip II of Spain to invade England, but was defeated by the English navy and bad weather.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_19",
+    "topic_id": "topic_history_4",
+    "question_text": "Who led the Parliamentarians during the English Civil War?",
+    "options": [
+      { "id": "a", "text": "King Charles I" },
+      { "id": "b", "text": "King James I" },
+      { "id": "c", "text": "Oliver Cromwell" },
+      { "id": "d", "text": "William of Orange" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Oliver Cromwell led the Parliamentarians (Roundheads) during the English Civil War (1642-1651). They defeated the Royalists (Cavaliers) who supported King Charles I.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_20",
+    "topic_id": "topic_history_5",
+    "question_text": "Who campaigned for the abolition of the slave trade?",
+    "options": [
+      { "id": "a", "text": "James Watt" },
+      { "id": "b", "text": "William Wilberforce" },
+      { "id": "c", "text": "Isambard Kingdom Brunel" },
+      { "id": "d", "text": "Robert Peel" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "William Wilberforce was a key campaigner for the abolition of the slave trade. The slave trade was abolished in the British Empire in 1807, and slavery itself was abolished in 1833.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_21",
+    "topic_id": "topic_history_5",
+    "question_text": "When was the NHS established?",
+    "options": [
+      { "id": "a", "text": "1942" },
+      { "id": "b", "text": "1945" },
+      { "id": "c", "text": "1948" },
+      { "id": "d", "text": "1951" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The NHS was established in 1948 by Clement Attlee's Labour government. It provides healthcare that is free at the point of use.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_history_22",
+    "topic_id": "topic_history_5",
+    "question_text": "Who was the Prime Minister during most of World War II?",
+    "options": [
+      { "id": "a", "text": "Clement Attlee" },
+      { "id": "b", "text": "Neville Chamberlain" },
+      { "id": "c", "text": "Winston Churchill" },
+      { "id": "d", "text": "Anthony Eden" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Winston Churchill was Prime Minister during most of World War II (1940-1945). He is remembered for his inspirational leadership and speeches.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_23",
+    "topic_id": "topic_history_5",
+    "question_text": "When did Britain join the European Economic Community (EEC)?",
+    "options": [
+      { "id": "a", "text": "1957" },
+      { "id": "b", "text": "1963" },
+      { "id": "c", "text": "1973" },
+      { "id": "d", "text": "1979" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Britain joined the European Economic Community (EEC) in 1973. The UK later voted to leave the European Union in a referendum on 23 June 2016.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_history_24",
+    "topic_id": "topic_history_5",
+    "question_text": "In what year did the UK vote to leave the European Union?",
+    "options": [
+      { "id": "a", "text": "2014" },
+      { "id": "b", "text": "2015" },
+      { "id": "c", "text": "2016" },
+      { "id": "d", "text": "2017" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK voted to leave the European Union in a referendum held on 23 June 2016, commonly known as the Brexit referendum.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_history_25",
+    "topic_id": "topic_history_3",
+    "question_text": "Where was Magna Carta signed?",
+    "options": [
+      { "id": "a", "text": "Westminster" },
+      { "id": "b", "text": "Canterbury" },
+      { "id": "c", "text": "Runnymede" },
+      { "id": "d", "text": "Windsor" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Magna Carta was signed by King John at Runnymede in 1215. It is one of the most important documents in constitutional history.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_1",
+    "topic_id": "topic_government_1",
+    "question_text": "How many Members of Parliament (MPs) are there in the House of Commons?",
+    "options": [
+      { "id": "a", "text": "500" },
+      { "id": "b", "text": "600" },
+      { "id": "c", "text": "650" },
+      { "id": "d", "text": "700" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The House of Commons has 650 Members of Parliament (MPs), each representing a constituency in the UK.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_2",
+    "topic_id": "topic_government_1",
+    "question_text": "Where is the UK Parliament based?",
+    "options": [
+      { "id": "a", "text": "Buckingham Palace" },
+      { "id": "b", "text": "10 Downing Street" },
+      { "id": "c", "text": "The Palace of Westminster" },
+      { "id": "d", "text": "The Tower of London" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK Parliament is based at the Palace of Westminster in London, commonly known as the Houses of Parliament.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_3",
+    "topic_id": "topic_government_1",
+    "question_text": "When do Prime Minister's Questions (PMQs) take place?",
+    "options": [
+      { "id": "a", "text": "Every Monday" },
+      { "id": "b", "text": "Every Wednesday" },
+      { "id": "c", "text": "Every Friday" },
+      { "id": "d", "text": "Every day" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Prime Minister's Questions (PMQs) take place every Wednesday when Parliament is sitting. It is a chance for MPs to question the Prime Minister.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_4",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the role of the Speaker of the House of Commons?",
+    "options": [
+      { "id": "a", "text": "To lead the government" },
+      { "id": "b", "text": "To chair debates and keep order" },
+      { "id": "c", "text": "To represent the UK abroad" },
+      { "id": "d", "text": "To write new laws" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Speaker of the House of Commons is chosen by other MPs to chair debates and keep order. The Speaker is politically neutral and does not vote on issues.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_5",
+    "topic_id": "topic_government_1",
+    "question_text": "How often must general elections be held?",
+    "options": [
+      { "id": "a", "text": "At least every 3 years" },
+      { "id": "b", "text": "At least every 4 years" },
+      { "id": "c", "text": "At least every 5 years" },
+      { "id": "d", "text": "At least every 6 years" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "General elections must be held at least every 5 years. The Prime Minister can call an election sooner with the agreement of Parliament.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_6",
+    "topic_id": "topic_government_1",
+    "question_text": "Who is the official leader of the Opposition?",
+    "options": [
+      { "id": "a", "text": "The Speaker of the House" },
+      { "id": "b", "text": "The leader of the second largest party in the House of Commons" },
+      { "id": "c", "text": "The Lord Chancellor" },
+      { "id": "d", "text": "The leader of the House of Lords" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Leader of the Opposition is the leader of the second largest party in the House of Commons. They lead the scrutiny of the government.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_7",
+    "topic_id": "topic_government_2",
+    "question_text": "Does the UK have a written constitution?",
+    "options": [
+      { "id": "a", "text": "Yes, it was written in 1215" },
+      { "id": "b", "text": "Yes, it was written after World War II" },
+      { "id": "c", "text": "No, the UK does not have a single written constitution" },
+      { "id": "d", "text": "Yes, it was written in 1689" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK does not have a single written constitution. Instead, the constitution is made up of statute law, common law, conventions, and works of authority.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_8",
+    "topic_id": "topic_government_2",
+    "question_text": "What type of government does the UK have?",
+    "options": [
+      { "id": "a", "text": "A republic" },
+      { "id": "b", "text": "An absolute monarchy" },
+      { "id": "c", "text": "A constitutional monarchy" },
+      { "id": "d", "text": "A federal state" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK is a constitutional monarchy. The monarch is the head of state but has limited powers. The real political power lies with the Prime Minister and Cabinet.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_9",
+    "topic_id": "topic_government_2",
+    "question_text": "Who became King after Queen Elizabeth II?",
+    "options": [
+      { "id": "a", "text": "King William" },
+      { "id": "b", "text": "King Charles III" },
+      { "id": "c", "text": "King George VII" },
+      { "id": "d", "text": "King Henry IX" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "King Charles III became King in September 2022 following the death of Queen Elizabeth II, who reigned for over 70 years.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_10",
+    "topic_id": "topic_government_2",
+    "question_text": "What does the monarch do at the State Opening of Parliament?",
+    "options": [
+      { "id": "a", "text": "Vetoes bills" },
+      { "id": "b", "text": "Reads a speech outlining the government's policies" },
+      { "id": "c", "text": "Appoints new MPs" },
+      { "id": "d", "text": "Dissolves the House of Lords" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "At the State Opening of Parliament, the monarch reads the King's/Queen's Speech, which outlines the government's plans and proposed legislation for the coming session.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_11",
+    "topic_id": "topic_government_3",
+    "question_text": "What voting system is used for UK general elections?",
+    "options": [
+      { "id": "a", "text": "Proportional representation" },
+      { "id": "b", "text": "First past the post" },
+      { "id": "c", "text": "Alternative vote" },
+      { "id": "d", "text": "Single transferable vote" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The UK uses 'first past the post' for general elections. The candidate with the most votes in each constituency wins, even without a majority.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_12",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the minimum age to vote in a UK general election?",
+    "options": [
+      { "id": "a", "text": "16" },
+      { "id": "b", "text": "17" },
+      { "id": "c", "text": "18" },
+      { "id": "d", "text": "21" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "You must be 18 or over on the day of the election to vote in a UK general election.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_13",
+    "topic_id": "topic_government_3",
+    "question_text": "In what year did women gain equal voting rights with men?",
+    "options": [
+      { "id": "a", "text": "1918" },
+      { "id": "b", "text": "1928" },
+      { "id": "c", "text": "1945" },
+      { "id": "d", "text": "1969" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "In 1928, women gained equal voting rights with men at age 21. In 1918, only women over 30 had been given the right to vote.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_14",
+    "topic_id": "topic_government_3",
+    "question_text": "Who led the suffragette campaign for women's right to vote?",
+    "options": [
+      { "id": "a", "text": "Florence Nightingale" },
+      { "id": "b", "text": "Emmeline Pankhurst" },
+      { "id": "c", "text": "Mary Seacole" },
+      { "id": "d", "text": "Elizabeth Fry" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Emmeline Pankhurst led the suffragette campaign for women's right to vote in the early 20th century. The campaign included protests, hunger strikes, and civil disobedience.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_15",
+    "topic_id": "topic_government_3",
+    "question_text": "When was the voting age lowered to 18?",
+    "options": [
+      { "id": "a", "text": "1928" },
+      { "id": "b", "text": "1948" },
+      { "id": "c", "text": "1969" },
+      { "id": "d", "text": "1979" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The voting age was lowered from 21 to 18 in 1969 by the Representation of the People Act.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_16",
+    "topic_id": "topic_government_4",
+    "question_text": "What is the highest court of appeal in the UK for civil cases?",
+    "options": [
+      { "id": "a", "text": "The Crown Court" },
+      { "id": "b", "text": "The High Court" },
+      { "id": "c", "text": "The House of Lords" },
+      { "id": "d", "text": "The Supreme Court" }
+    ],
+    "correct_option_ids": ["d"],
+    "explanation": "The Supreme Court of the United Kingdom is the highest court of appeal for civil cases. It replaced the judicial function of the House of Lords in 2009.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_17",
+    "topic_id": "topic_government_4",
+    "question_text": "How many separate legal systems does the UK have?",
+    "options": [
+      { "id": "a", "text": "One" },
+      { "id": "b", "text": "Two" },
+      { "id": "c", "text": "Three" },
+      { "id": "d", "text": "Four" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK has three separate legal systems: one for England and Wales, one for Scotland, and one for Northern Ireland.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_18",
+    "topic_id": "topic_government_4",
+    "question_text": "Where are less serious criminal cases tried?",
+    "options": [
+      { "id": "a", "text": "The Supreme Court" },
+      { "id": "b", "text": "The Crown Court" },
+      { "id": "c", "text": "Magistrates' Courts" },
+      { "id": "d", "text": "The High Court" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Less serious criminal cases are tried in Magistrates' Courts. More serious offences are tried in Crown Courts.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_19",
+    "topic_id": "topic_government_4",
+    "question_text": "Which principle means that everyone, including the government, must obey the law?",
+    "options": [
+      { "id": "a", "text": "Democracy" },
+      { "id": "b", "text": "Habeas corpus" },
+      { "id": "c", "text": "The rule of law" },
+      { "id": "d", "text": "Parliamentary sovereignty" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The rule of law means that no one is above the law. Everyone, including the government and public officials, must obey the law.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_20",
+    "topic_id": "topic_government_4",
+    "question_text": "In the UK legal system, a person is considered what until proven guilty?",
+    "options": [
+      { "id": "a", "text": "Suspicious" },
+      { "id": "b", "text": "Guilty" },
+      { "id": "c", "text": "Innocent" },
+      { "id": "d", "text": "Accused" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "In the UK legal system, a person is innocent until proven guilty. This is a fundamental principle of justice.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_21",
+    "topic_id": "topic_government_1",
+    "question_text": "What are the two chambers of Parliament?",
+    "options": [
+      { "id": "a", "text": "The House of Commons and the Supreme Court" },
+      { "id": "b", "text": "The House of Commons and the House of Lords" },
+      { "id": "c", "text": "The Senate and the House of Representatives" },
+      { "id": "d", "text": "The House of Lords and the Privy Council" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Parliament is made up of two chambers: the House of Commons and the House of Lords. The House of Commons is the more important of the two as it is elected by the people.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_22",
+    "topic_id": "topic_government_2",
+    "question_text": "What is Royal Assent?",
+    "options": [
+      { "id": "a", "text": "The monarch's agreement to a bill, making it law" },
+      { "id": "b", "text": "A royal decree" },
+      { "id": "c", "text": "The monarch's veto power" },
+      { "id": "d", "text": "An appointment by the monarch" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "Royal Assent is the monarch's agreement to a bill passed by Parliament, making it law. In practice, this is a formality and is never refused.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_23",
+    "topic_id": "topic_government_3",
+    "question_text": "Which of the following is NOT required to vote in a UK general election?",
+    "options": [
+      { "id": "a", "text": "Being 18 or over" },
+      { "id": "b", "text": "Being registered on the electoral register" },
+      { "id": "c", "text": "Being a UK resident for at least 5 years" },
+      { "id": "d", "text": "Being a British, Commonwealth, or Irish Republic citizen" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "There is no requirement to have been a UK resident for a specific number of years. To vote you must be 18+, be registered, and be a British, qualifying Commonwealth, or Irish Republic citizen.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_24",
+    "topic_id": "topic_government_4",
+    "question_text": "When did the Supreme Court replace the judicial function of the House of Lords?",
+    "options": [
+      { "id": "a", "text": "1998" },
+      { "id": "b", "text": "2005" },
+      { "id": "c", "text": "2009" },
+      { "id": "d", "text": "2012" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Supreme Court of the United Kingdom was established in 2009, replacing the judicial function of the House of Lords as the highest court of appeal.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_1",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What does Bonfire Night (5 November) commemorate?",
+    "options": [
+      { "id": "a", "text": "The end of World War I" },
+      { "id": "b", "text": "The Great Fire of London" },
+      { "id": "c", "text": "The failed Gunpowder Plot of 1605" },
+      { "id": "d", "text": "The Battle of Trafalgar" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Bonfire Night commemorates the failed Gunpowder Plot of 1605, when Guy Fawkes and other conspirators attempted to blow up the Houses of Parliament.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_2",
+    "topic_id": "topic_traditions_1",
+    "question_text": "On what date is Remembrance Day?",
+    "options": [
+      { "id": "a", "text": "5 November" },
+      { "id": "b", "text": "11 November" },
+      { "id": "c", "text": "25 December" },
+      { "id": "d", "text": "1 January" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Remembrance Day is held on 11 November to honour members of the armed forces who have died in the line of duty. People wear poppies and observe a two-minute silence at 11am.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_3",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Who is the patron saint of Wales?",
+    "options": [
+      { "id": "a", "text": "St George" },
+      { "id": "b", "text": "St Andrew" },
+      { "id": "c", "text": "St Patrick" },
+      { "id": "d", "text": "St David" }
+    ],
+    "correct_option_ids": ["d"],
+    "explanation": "St David is the patron saint of Wales. St David's Day is celebrated on 1 March.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_4",
+    "topic_id": "topic_traditions_1",
+    "question_text": "When is St George's Day?",
+    "options": [
+      { "id": "a", "text": "1 March" },
+      { "id": "b", "text": "17 March" },
+      { "id": "c", "text": "23 April" },
+      { "id": "d", "text": "30 November" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "St George's Day is 23 April. St George is the patron saint of England.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_5",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What is Burns Night?",
+    "options": [
+      { "id": "a", "text": "A celebration of the Great Fire of London" },
+      { "id": "b", "text": "A celebration of Scottish poet Robert Burns" },
+      { "id": "c", "text": "A bonfire tradition in Wales" },
+      { "id": "d", "text": "A harvest festival" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Burns Night, celebrated on 25 January, is a celebration of the life and poetry of Robert Burns, Scotland's national poet.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_6",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Where does the main Remembrance Day ceremony take place?",
+    "options": [
+      { "id": "a", "text": "Buckingham Palace" },
+      { "id": "b", "text": "Westminster Abbey" },
+      { "id": "c", "text": "The Cenotaph in Whitehall" },
+      { "id": "d", "text": "Trafalgar Square" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The main Remembrance Day ceremony takes place at the Cenotaph in Whitehall, London.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_7",
+    "topic_id": "topic_traditions_2",
+    "question_text": "When was the Football Association (FA) founded?",
+    "options": [
+      { "id": "a", "text": "1823" },
+      { "id": "b", "text": "1863" },
+      { "id": "c", "text": "1877" },
+      { "id": "d", "text": "1900" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Football Association was founded in 1863 and is the oldest football association in the world.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_8",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Where did rugby originate?",
+    "options": [
+      { "id": "a", "text": "London" },
+      { "id": "b", "text": "Manchester" },
+      { "id": "c", "text": "Rugby School in Warwickshire" },
+      { "id": "d", "text": "Edinburgh" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Rugby was invented at Rugby School in Warwickshire in 1823. According to tradition, William Webb Ellis picked up the ball during a football match and ran with it.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_9",
+    "topic_id": "topic_traditions_2",
+    "question_text": "What is the oldest tennis tournament in the world?",
+    "options": [
+      { "id": "a", "text": "The US Open" },
+      { "id": "b", "text": "The French Open" },
+      { "id": "c", "text": "Wimbledon" },
+      { "id": "d", "text": "The Australian Open" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Wimbledon is the oldest tennis tournament in the world, first held in 1877. It is the only Grand Slam tournament still played on grass courts.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_10",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Where did golf originate?",
+    "options": [
+      { "id": "a", "text": "England" },
+      { "id": "b", "text": "Scotland" },
+      { "id": "c", "text": "Ireland" },
+      { "id": "d", "text": "Wales" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Golf originated in Scotland. The Royal and Ancient Golf Club of St Andrews was founded in 1754 and is one of the oldest golf clubs in the world.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_11",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Where is the Grand National horse race held?",
+    "options": [
+      { "id": "a", "text": "Ascot" },
+      { "id": "b", "text": "Cheltenham" },
+      { "id": "c", "text": "Aintree, Liverpool" },
+      { "id": "d", "text": "Epsom" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Grand National is a famous horse race held at Aintree, Liverpool. It is one of the most well-known steeplechases in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_12",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Who is widely regarded as the greatest writer in the English language?",
+    "options": [
+      { "id": "a", "text": "Charles Dickens" },
+      { "id": "b", "text": "Jane Austen" },
+      { "id": "c", "text": "William Shakespeare" },
+      { "id": "d", "text": "Geoffrey Chaucer" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "William Shakespeare (1564-1616) is widely regarded as the greatest writer in the English language. His works include Hamlet, Romeo and Juliet, and Macbeth.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_13",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which music group from Liverpool is the best-selling of all time?",
+    "options": [
+      { "id": "a", "text": "The Rolling Stones" },
+      { "id": "b", "text": "The Beatles" },
+      { "id": "c", "text": "The Who" },
+      { "id": "d", "text": "Led Zeppelin" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Beatles, from Liverpool, are the best-selling music group of all time. They had an enormous impact on popular music and culture worldwide.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_14",
+    "topic_id": "topic_traditions_3",
+    "question_text": "When was the British Museum founded?",
+    "options": [
+      { "id": "a", "text": "1653" },
+      { "id": "b", "text": "1753" },
+      { "id": "c", "text": "1853" },
+      { "id": "d", "text": "1900" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The British Museum was founded in 1753 and houses a vast collection of world art and antiquities. Admission is free.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_15",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Where are the Proms (BBC Promenade Concerts) held?",
+    "options": [
+      { "id": "a", "text": "The O2 Arena" },
+      { "id": "b", "text": "The Royal Festival Hall" },
+      { "id": "c", "text": "The Royal Albert Hall" },
+      { "id": "d", "text": "The Barbican Centre" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Proms (BBC Promenade Concerts) are held at the Royal Albert Hall every summer. They are a major classical music festival.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_16",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Who painted the works that the Turner Prize is named after?",
+    "options": [
+      { "id": "a", "text": "John Constable" },
+      { "id": "b", "text": "Thomas Gainsborough" },
+      { "id": "c", "text": "J.M.W. Turner" },
+      { "id": "d", "text": "William Hogarth" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Turner Prize is named after the painter J.M.W. Turner. It is an important contemporary art award given to a British visual artist.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_17",
+    "topic_id": "topic_traditions_3",
+    "question_text": "What is the Edinburgh Festival?",
+    "options": [
+      { "id": "a", "text": "The world's largest food festival" },
+      { "id": "b", "text": "The world's largest arts festival" },
+      { "id": "c", "text": "A Scottish sports competition" },
+      { "id": "d", "text": "A film festival" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Edinburgh Festival is the world's largest arts festival. It takes place every August and attracts performers and audiences from around the world.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_18",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Who is said to have started the tradition of afternoon tea?",
+    "options": [
+      { "id": "a", "text": "Queen Victoria" },
+      { "id": "b", "text": "Anna, Duchess of Bedford" },
+      { "id": "c", "text": "Catherine of Aragon" },
+      { "id": "d", "text": "Queen Elizabeth I" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Afternoon tea is said to have been started by Anna, Duchess of Bedford, in the 1840s. It typically includes sandwiches, scones, and cakes, served with tea.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_19",
+    "topic_id": "topic_traditions_4",
+    "question_text": "What is haggis?",
+    "options": [
+      { "id": "a", "text": "A Welsh cheese dish" },
+      { "id": "b", "text": "An English dessert" },
+      { "id": "c", "text": "A Scottish dish made from sheep's offal mixed with oatmeal" },
+      { "id": "d", "text": "An Irish stew" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Haggis is a traditional Scottish dish made from sheep's offal (heart, liver, and lungs) mixed with oatmeal, onions, and spices, traditionally cooked in a sheep's stomach.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_20",
+    "topic_id": "topic_traditions_4",
+    "question_text": "What is the Notting Hill Carnival?",
+    "options": [
+      { "id": "a", "text": "A traditional English fair" },
+      { "id": "b", "text": "Europe's largest street festival, celebrating Caribbean culture" },
+      { "id": "c", "text": "A Scottish Highland Games event" },
+      { "id": "d", "text": "A music festival in Wales" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Notting Hill Carnival is Europe's largest street festival. It takes place in London every August bank holiday weekend and celebrates Caribbean culture.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_21",
+    "topic_id": "topic_traditions_4",
+    "question_text": "What is Welsh rarebit?",
+    "options": [
+      { "id": "a", "text": "A type of rabbit stew" },
+      { "id": "b", "text": "A cheese sauce served on toast" },
+      { "id": "c", "text": "A fruit loaf" },
+      { "id": "d", "text": "A vegetable soup" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Welsh rarebit is a traditional Welsh dish consisting of a cheese sauce served on toast. Despite its name, it does not contain rabbit.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_22",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Who is the patron saint of Scotland?",
+    "options": [
+      { "id": "a", "text": "St George" },
+      { "id": "b", "text": "St David" },
+      { "id": "c", "text": "St Patrick" },
+      { "id": "d", "text": "St Andrew" }
+    ],
+    "correct_option_ids": ["d"],
+    "explanation": "St Andrew is the patron saint of Scotland. St Andrew's Day is celebrated on 30 November.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_23",
+    "topic_id": "topic_traditions_2",
+    "question_text": "What is the Ashes in cricket?",
+    "options": [
+      { "id": "a", "text": "A series between England and India" },
+      { "id": "b", "text": "A series between England and Australia" },
+      { "id": "c", "text": "A series between England and South Africa" },
+      { "id": "d", "text": "A series between England and the West Indies" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Ashes is a famous cricket series played between England and Australia. It is one of the most celebrated rivalries in international cricket.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_24",
+    "topic_id": "topic_traditions_4",
+    "question_text": "What is considered an important part of British social customs?",
+    "options": [
+      { "id": "a", "text": "Cutting in line" },
+      { "id": "b", "text": "Queuing (waiting in line)" },
+      { "id": "c", "text": "Arriving late" },
+      { "id": "d", "text": "Not tipping in restaurants" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Queuing (waiting in line) is considered very important in British culture. It is seen as a matter of fairness and politeness.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_1",
+    "topic_id": "topic_values_1",
+    "question_text": "What type of democracy is the UK?",
+    "options": [
+      { "id": "a", "text": "A direct democracy" },
+      { "id": "b", "text": "A parliamentary democracy" },
+      { "id": "c", "text": "A presidential democracy" },
+      { "id": "d", "text": "A federal democracy" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The UK is a parliamentary democracy. The people elect representatives (Members of Parliament) to make decisions on their behalf.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_2",
+    "topic_id": "topic_values_1",
+    "question_text": "What does 'the rule of law' mean?",
+    "options": [
+      { "id": "a", "text": "The government makes all the laws" },
+      { "id": "b", "text": "Only citizens must obey the law" },
+      { "id": "c", "text": "No one is above the law, including the government" },
+      { "id": "d", "text": "The monarch decides what is legal" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The rule of law means that no one is above the law. Everyone, including the government and public officials, must obey the law.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_3",
+    "topic_id": "topic_values_1",
+    "question_text": "Which document established the principle that even the king was subject to the law?",
+    "options": [
+      { "id": "a", "text": "The Bill of Rights" },
+      { "id": "b", "text": "Magna Carta" },
+      { "id": "c", "text": "The Domesday Book" },
+      { "id": "d", "text": "The Act of Union" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Magna Carta, signed by King John in 1215, established the principle that even the king was subject to the law. It is one of the most important documents in constitutional history.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_4",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following is a key principle of UK democracy?",
+    "options": [
+      { "id": "a", "text": "The government controls the media" },
+      { "id": "b", "text": "Free and fair elections held regularly" },
+      { "id": "c", "text": "Only landowners can vote" },
+      { "id": "d", "text": "The monarch chooses the government" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Free and fair elections held regularly is a key principle of UK democracy. All eligible adults can vote and elections are conducted fairly.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_5",
+    "topic_id": "topic_values_1",
+    "question_text": "When was the Bill of Rights enacted?",
+    "options": [
+      { "id": "a", "text": "1215" },
+      { "id": "b", "text": "1534" },
+      { "id": "c", "text": "1689" },
+      { "id": "d", "text": "1776" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Bill of Rights was enacted in 1689. It was a key milestone in the development of democracy in the UK, limiting the power of the monarchy.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_6",
+    "topic_id": "topic_values_2",
+    "question_text": "What did the Human Rights Act 1998 do?",
+    "options": [
+      { "id": "a", "text": "Created the Supreme Court" },
+      { "id": "b", "text": "Incorporated the European Convention on Human Rights into UK law" },
+      { "id": "c", "text": "Established the NHS" },
+      { "id": "d", "text": "Abolished the death penalty" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law, allowing UK courts to hear human rights cases directly.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_7",
+    "topic_id": "topic_values_2",
+    "question_text": "What does the Equality Act 2010 protect people from?",
+    "options": [
+      { "id": "a", "text": "Unemployment" },
+      { "id": "b", "text": "Discrimination" },
+      { "id": "c", "text": "Crime" },
+      { "id": "d", "text": "Poverty" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Equality Act 2010 protects people from discrimination based on age, disability, gender reassignment, marriage, pregnancy, race, religion, sex, and sexual orientation.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_8",
+    "topic_id": "topic_values_2",
+    "question_text": "Which of the following is NOT a protected characteristic under the Equality Act 2010?",
+    "options": [
+      { "id": "a", "text": "Age" },
+      { "id": "b", "text": "Political opinion" },
+      { "id": "c", "text": "Race" },
+      { "id": "d", "text": "Religion or belief" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Political opinion is not one of the protected characteristics under the Equality Act 2010. The Act protects: age, disability, gender reassignment, marriage, pregnancy, race, religion, sex, and sexual orientation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_9",
+    "topic_id": "topic_values_2",
+    "question_text": "What is individual liberty?",
+    "options": [
+      { "id": "a", "text": "The right to do anything without consequences" },
+      { "id": "b", "text": "Freedom to make your own choices as long as you don't break the law or harm others" },
+      { "id": "c", "text": "Freedom from paying taxes" },
+      { "id": "d", "text": "The right to own property" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Individual liberty is the principle that everyone should be free to make their own choices, as long as they do not break the law or harm others.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_10",
+    "topic_id": "topic_values_3",
+    "question_text": "What is meant by mutual respect and tolerance?",
+    "options": [
+      { "id": "a", "text": "Everyone must have the same religion" },
+      { "id": "b", "text": "Accepting that other people may have different views and ways of life" },
+      { "id": "c", "text": "Agreeing with everyone" },
+      { "id": "d", "text": "Avoiding people who are different" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Mutual respect and tolerance means accepting that other people may have different views and ways of life. It is a fundamental British value.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_11",
+    "topic_id": "topic_values_3",
+    "question_text": "Who were the Huguenots?",
+    "options": [
+      { "id": "a", "text": "German migrants" },
+      { "id": "b", "text": "French Protestants who came to the UK" },
+      { "id": "c", "text": "Irish settlers" },
+      { "id": "d", "text": "Spanish traders" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Huguenots were French Protestants who came to Britain in the 17th century to escape religious persecution in France.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_12",
+    "topic_id": "topic_values_3",
+    "question_text": "What is a hate crime?",
+    "options": [
+      { "id": "a", "text": "Any violent crime" },
+      { "id": "b", "text": "A crime motivated by prejudice against someone's identity" },
+      { "id": "c", "text": "An online crime" },
+      { "id": "d", "text": "A crime committed in anger" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A hate crime is a crime motivated by prejudice against someone's identity, such as their race, religion, sexual orientation, or disability. They are treated very seriously by the police and courts.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_13",
+    "topic_id": "topic_values_3",
+    "question_text": "What is the Windrush generation?",
+    "options": [
+      { "id": "a", "text": "Irish settlers in the 19th century" },
+      { "id": "b", "text": "People from the Caribbean who came to the UK after World War II" },
+      { "id": "c", "text": "European refugees from World War I" },
+      { "id": "d", "text": "Australian immigrants in the 1960s" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Windrush generation refers to people from Caribbean countries who came to the UK after World War II, named after the ship MV Empire Windrush that arrived in 1948.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_14",
+    "topic_id": "topic_values_3",
+    "question_text": "Which body monitors and enforces equality laws in the UK?",
+    "options": [
+      { "id": "a", "text": "The Home Office" },
+      { "id": "b", "text": "The Supreme Court" },
+      { "id": "c", "text": "The Equality and Human Rights Commission" },
+      { "id": "d", "text": "The Citizens Advice Bureau" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Equality and Human Rights Commission monitors and enforces equality laws in the UK, promoting fairness and equal treatment for all.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_15",
+    "topic_id": "topic_values_4",
+    "question_text": "What happens at a British citizenship ceremony?",
+    "options": [
+      { "id": "a", "text": "You take a written exam" },
+      { "id": "b", "text": "You swear loyalty to the monarch and pledge to respect the laws of the UK" },
+      { "id": "c", "text": "You receive a British passport" },
+      { "id": "d", "text": "You meet the Prime Minister" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "At a citizenship ceremony, you swear or affirm loyalty to the monarch and pledge to respect the rights, freedoms, and laws of the UK.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_16",
+    "topic_id": "topic_values_4",
+    "question_text": "Which of the following is a responsibility of UK residents?",
+    "options": [
+      { "id": "a", "text": "Joining a political party" },
+      { "id": "b", "text": "Serving in the armed forces" },
+      { "id": "c", "text": "Serving on a jury if called to do so" },
+      { "id": "d", "text": "Attending a place of worship" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Serving on a jury if called to do so is a responsibility of UK residents. Other responsibilities include obeying the law and paying taxes.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_17",
+    "topic_id": "topic_values_4",
+    "question_text": "Is it a legal requirement to vote in UK elections?",
+    "options": [
+      { "id": "a", "text": "Yes, it is mandatory" },
+      { "id": "b", "text": "No, but it is encouraged" },
+      { "id": "c", "text": "Yes, you can be fined for not voting" },
+      { "id": "d", "text": "Only in general elections" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Voting is not legally required in the UK, but it is encouraged as an important civic duty and a way to participate in democracy.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_18",
+    "topic_id": "topic_values_4",
+    "question_text": "What is 'civic participation'?",
+    "options": [
+      { "id": "a", "text": "Paying taxes" },
+      { "id": "b", "text": "Working for the government" },
+      { "id": "c", "text": "Volunteering and contributing to the community" },
+      { "id": "d", "text": "Obeying the law" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Civic participation includes volunteering and contributing to the community. Millions of people in the UK regularly volunteer for charities and community projects.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_19",
+    "topic_id": "topic_values_1",
+    "question_text": "Which of the following is NOT one of the fundamental British values?",
+    "options": [
+      { "id": "a", "text": "Democracy" },
+      { "id": "b", "text": "The rule of law" },
+      { "id": "c", "text": "Individual liberty" },
+      { "id": "d", "text": "Economic prosperity" }
+    ],
+    "correct_option_ids": ["d"],
+    "explanation": "The fundamental British values are: democracy, the rule of law, individual liberty, and mutual respect and tolerance. Economic prosperity, while important, is not listed as a fundamental value.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_values_20",
+    "topic_id": "topic_values_2",
+    "question_text": "Freedom of thought, conscience, and religion means you can:",
+    "options": [
+      { "id": "a", "text": "Practise any religion or no religion" },
+      { "id": "b", "text": "Force others to follow your religion" },
+      { "id": "c", "text": "Ignore the law if it conflicts with your beliefs" },
+      { "id": "d", "text": "Discriminate based on religious beliefs" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "Freedom of thought, conscience, and religion means you can practise any religion or no religion. However, you cannot force your beliefs on others or break the law.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_21",
+    "topic_id": "topic_values_3",
+    "question_text": "Is discrimination on the basis of sexual orientation legal in the UK?",
+    "options": [
+      { "id": "a", "text": "Yes, in some circumstances" },
+      { "id": "b", "text": "No, it is illegal" },
+      { "id": "c", "text": "Only in the workplace" },
+      { "id": "d", "text": "It depends on the region" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Discrimination on the basis of sexual orientation is illegal in the UK under the Equality Act 2010.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_22",
+    "topic_id": "topic_values_4",
+    "question_text": "Which of the following is NOT a responsibility of UK citizens?",
+    "options": [
+      { "id": "a", "text": "Obeying the law" },
+      { "id": "b", "text": "Paying taxes" },
+      { "id": "c", "text": "Learning the English language" },
+      { "id": "d", "text": "Treating others with fairness" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "While learning English is helpful, it is not listed as a formal responsibility. Key responsibilities include obeying the law, paying taxes, and treating others with fairness and respect.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_values_23",
+    "topic_id": "topic_values_1",
+    "question_text": "Who holds the real political power in the UK?",
+    "options": [
+      { "id": "a", "text": "The monarch" },
+      { "id": "b", "text": "The House of Lords" },
+      { "id": "c", "text": "The Prime Minister and Cabinet" },
+      { "id": "d", "text": "The judiciary" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "In the UK's constitutional monarchy, the real political power lies with the Prime Minister and Cabinet, not the monarch.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_values_24",
+    "topic_id": "topic_values_2",
+    "question_text": "What is the right to a fair trial?",
+    "options": [
+      { "id": "a", "text": "The right to choose your judge" },
+      { "id": "b", "text": "The right to be heard by an impartial court with proper legal process" },
+      { "id": "c", "text": "The right to avoid prosecution" },
+      { "id": "d", "text": "The right to appeal indefinitely" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The right to a fair trial means the right to be heard by an impartial court with proper legal process. It is a fundamental human right protected by UK law.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_1",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What number should you call for emergency services?",
+    "options": [
+      { "id": "a", "text": "111" },
+      { "id": "b", "text": "101" },
+      { "id": "c", "text": "999" },
+      { "id": "d", "text": "911" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The emergency telephone number in the UK is 999 (you can also use 112). Call this number for police, fire, or ambulance emergencies.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_2",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What does GP stand for?",
+    "options": [
+      { "id": "a", "text": "General Physician" },
+      { "id": "b", "text": "General Practitioner" },
+      { "id": "c", "text": "Government Physician" },
+      { "id": "d", "text": "Graduate Practitioner" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "GP stands for General Practitioner. Your GP is usually your first point of contact for non-emergency health issues.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_3",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the NHS non-emergency medical helpline number?",
+    "options": [
+      { "id": "a", "text": "999" },
+      { "id": "b", "text": "101" },
+      { "id": "c", "text": "111" },
+      { "id": "d", "text": "112" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "NHS 111 is the non-emergency medical helpline. You can call it when you need medical help but it is not a life-threatening situation.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_4",
+    "topic_id": "topic_everyday_1",
+    "question_text": "In which parts of the UK are prescriptions free?",
+    "options": [
+      { "id": "a", "text": "England only" },
+      { "id": "b", "text": "Scotland, Wales, and Northern Ireland" },
+      { "id": "c", "text": "All parts of the UK" },
+      { "id": "d", "text": "Wales only" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Prescriptions are free in Scotland, Wales, and Northern Ireland. In England, there are prescription charges, although many people are exempt.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_5",
+    "topic_id": "topic_everyday_1",
+    "question_text": "How is the NHS funded?",
+    "options": [
+      { "id": "a", "text": "Through private insurance" },
+      { "id": "b", "text": "Through taxation" },
+      { "id": "c", "text": "Through patient fees" },
+      { "id": "d", "text": "Through charitable donations" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The NHS is funded through taxation. Healthcare is free at the point of use for all UK residents.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_6",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What does A&E stand for?",
+    "options": [
+      { "id": "a", "text": "Aid and Emergency" },
+      { "id": "b", "text": "Accident and Emergency" },
+      { "id": "c", "text": "Acute and Emergency" },
+      { "id": "d", "text": "Assessment and Emergency" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A&E stands for Accident and Emergency. It is the department in a hospital that provides immediate treatment for serious injuries and illnesses.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_7",
+    "topic_id": "topic_everyday_2",
+    "question_text": "At what age is education compulsory in England?",
+    "options": [
+      { "id": "a", "text": "4 to 16" },
+      { "id": "b", "text": "5 to 16" },
+      { "id": "c", "text": "5 to 18" },
+      { "id": "d", "text": "6 to 18" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Education is compulsory in England for all children between the ages of 5 and 18.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_8",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What are GCSEs?",
+    "options": [
+      { "id": "a", "text": "University entrance exams" },
+      { "id": "b", "text": "General Certificate of Secondary Education exams taken at age 16" },
+      { "id": "c", "text": "Primary school tests" },
+      { "id": "d", "text": "Professional qualifications" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "GCSEs (General Certificate of Secondary Education) are examinations taken by students in England, Wales, and Northern Ireland at age 16.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_9",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Which two universities are collectively known as 'Oxbridge'?",
+    "options": [
+      { "id": "a", "text": "Oxford and Edinburgh" },
+      { "id": "b", "text": "Oxford and Cambridge" },
+      { "id": "c", "text": "Cambridge and St Andrews" },
+      { "id": "d", "text": "Oxford and Imperial College" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The University of Oxford and the University of Cambridge are collectively known as 'Oxbridge'. They are among the oldest universities in the world.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_10",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Do Scottish students pay tuition fees when studying in Scotland?",
+    "options": [
+      { "id": "a", "text": "Yes, the same as in England" },
+      { "id": "b", "text": "Yes, but at a reduced rate" },
+      { "id": "c", "text": "No, tuition is free for Scottish students in Scotland" },
+      { "id": "d", "text": "Only for postgraduate courses" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Scottish students studying at Scottish universities do not pay tuition fees. In England, tuition fees can be up to £9,250 per year.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_11",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is the Scottish equivalent of GCSEs?",
+    "options": [
+      { "id": "a", "text": "A-Levels" },
+      { "id": "b", "text": "National 5s" },
+      { "id": "c", "text": "Standard Grades" },
+      { "id": "d", "text": "Scottish Certificates" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "In Scotland, the equivalent qualifications to GCSEs are National 5s. The equivalent of A-Levels in Scotland are Highers.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_12",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is Council Tax?",
+    "options": [
+      { "id": "a", "text": "A national income tax" },
+      { "id": "b", "text": "A local tax to pay for local services" },
+      { "id": "c", "text": "A tax on buying a house" },
+      { "id": "d", "text": "A tax on businesses" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Council Tax is a local tax collected by local authorities to pay for local services such as education, roads, rubbish collection, and libraries.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_13",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is a National Insurance number used for?",
+    "options": [
+      { "id": "a", "text": "To identify you for health insurance" },
+      { "id": "b", "text": "To help pay for state benefits and the NHS through contributions" },
+      { "id": "c", "text": "To register for school" },
+      { "id": "d", "text": "To get a driving licence" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Everyone who works in the UK must have a National Insurance number. National Insurance contributions help pay for state benefits and the NHS.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_14",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What does PAYE stand for?",
+    "options": [
+      { "id": "a", "text": "Pay And Yield Earnings" },
+      { "id": "b", "text": "Pay As You Earn" },
+      { "id": "c", "text": "Payment Authority for Your Employment" },
+      { "id": "d", "text": "Personal Annual Yearly Earnings" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "PAYE stands for Pay As You Earn. It is the system by which income tax is automatically deducted from employees' wages.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_15",
+    "topic_id": "topic_everyday_3",
+    "question_text": "How many days paid holiday are employees entitled to per year?",
+    "options": [
+      { "id": "a", "text": "20 days" },
+      { "id": "b", "text": "25 days" },
+      { "id": "c", "text": "28 days" },
+      { "id": "d", "text": "30 days" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Employees in the UK are entitled to a minimum of 28 days paid holiday per year, including bank holidays.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_16",
+    "topic_id": "topic_everyday_3",
+    "question_text": "Who collects income tax in the UK?",
+    "options": [
+      { "id": "a", "text": "The Bank of England" },
+      { "id": "b", "text": "Local councils" },
+      { "id": "c", "text": "HM Revenue and Customs (HMRC)" },
+      { "id": "d", "text": "The Treasury" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Income tax is collected by HM Revenue and Customs (HMRC). Most employees pay tax through the PAYE system.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_17",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the minimum age to drive a car in the UK?",
+    "options": [
+      { "id": "a", "text": "16" },
+      { "id": "b", "text": "17" },
+      { "id": "c", "text": "18" },
+      { "id": "d", "text": "21" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "You must be at least 17 years old to drive a car in the UK. You must also have a valid driving licence and insurance.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_18",
+    "topic_id": "topic_everyday_4",
+    "question_text": "On which side of the road do people drive in the UK?",
+    "options": [
+      { "id": "a", "text": "The right-hand side" },
+      { "id": "b", "text": "The left-hand side" },
+      { "id": "c", "text": "It varies by region" },
+      { "id": "d", "text": "Either side" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "People in the UK drive on the left-hand side of the road. This is different from most other countries in the world.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_19",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is an MOT certificate?",
+    "options": [
+      { "id": "a", "text": "A driving licence" },
+      { "id": "b", "text": "A vehicle safety test certificate for cars over 3 years old" },
+      { "id": "c", "text": "An insurance document" },
+      { "id": "d", "text": "A road tax receipt" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "An MOT certificate confirms that a vehicle has passed a safety test. It is required for vehicles over 3 years old and must be renewed annually.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_20",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the Citizens Advice Bureau?",
+    "options": [
+      { "id": "a", "text": "A government department" },
+      { "id": "b", "text": "A private law firm" },
+      { "id": "c", "text": "An organisation providing free advice on legal, financial, and other matters" },
+      { "id": "d", "text": "A job centre" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Citizens Advice Bureau provides free advice on legal, financial, and other matters. It is a charity that helps people resolve problems.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_21",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Do you need a TV licence to watch live TV in the UK?",
+    "options": [
+      { "id": "a", "text": "No, TV is free for everyone" },
+      { "id": "b", "text": "Yes, you must have a TV licence" },
+      { "id": "c", "text": "Only if you watch BBC" },
+      { "id": "d", "text": "Only if you have a satellite dish" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "You must have a TV licence to watch or record live TV programmes in the UK, regardless of which channel you are watching or what device you use.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_22",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the drink-driving blood alcohol limit in Scotland?",
+    "options": [
+      { "id": "a", "text": "80mg per 100ml of blood" },
+      { "id": "b", "text": "50mg per 100ml of blood" },
+      { "id": "c", "text": "Zero tolerance" },
+      { "id": "d", "text": "100mg per 100ml of blood" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The drink-driving limit in Scotland is 50mg of alcohol per 100ml of blood, which is lower than the limit in England, Wales, and Northern Ireland (80mg).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_23",
+    "topic_id": "topic_everyday_1",
+    "question_text": "When was the NHS established?",
+    "options": [
+      { "id": "a", "text": "1945" },
+      { "id": "b", "text": "1948" },
+      { "id": "c", "text": "1950" },
+      { "id": "d", "text": "1955" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The National Health Service (NHS) was established in 1948 by Clement Attlee's Labour government.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_24",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What does SSP stand for?",
+    "options": [
+      { "id": "a", "text": "Standard Salary Payment" },
+      { "id": "b", "text": "State Security Plan" },
+      { "id": "c", "text": "Statutory Sick Pay" },
+      { "id": "d", "text": "Social Services Payment" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "SSP stands for Statutory Sick Pay. It is available to employees who are too ill to work.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_25",
+    "topic_id": "topic_everyday_2",
+    "question_text": "At what age do children start primary school in the UK?",
+    "options": [
+      { "id": "a", "text": "3 or 4" },
+      { "id": "b", "text": "4 or 5" },
+      { "id": "c", "text": "5 or 6" },
+      { "id": "d", "text": "6 or 7" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Children start primary school at age 4 or 5 in the UK. Primary school runs until age 11.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_26",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What number should you call for non-emergency police matters?",
+    "options": [
+      { "id": "a", "text": "999" },
+      { "id": "b", "text": "111" },
+      { "id": "c", "text": "101" },
+      { "id": "d", "text": "112" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "101 is the non-emergency police number. Call it to report a crime that is not currently happening, or for other police matters that are not emergencies.",
+    "difficulty": "medium"
+  }
+]

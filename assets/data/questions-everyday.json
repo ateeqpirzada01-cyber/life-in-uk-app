@@ -1,0 +1,4520 @@
+[
+  {
+    "id": "q_everyday_124",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What tax must most people in rented or owned properties pay to their local council to fund local services?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Income tax"
+      },
+      {
+        "id": "b",
+        "text": "Council tax"
+      },
+      {
+        "id": "c",
+        "text": "National Insurance"
+      },
+      {
+        "id": "d",
+        "text": "Value Added Tax"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Council tax is paid to the local council and funds local services such as rubbish collection, street lighting, and libraries. It is based on the value of the property.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_125",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which currency is used in the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The euro"
+      },
+      {
+        "id": "b",
+        "text": "The dollar"
+      },
+      {
+        "id": "c",
+        "text": "The pound sterling"
+      },
+      {
+        "id": "d",
+        "text": "The franc"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The United Kingdom uses the pound sterling (£) as its currency. The UK did not adopt the euro when it was introduced across much of Europe.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_126",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the maximum deposit a landlord in England can charge for a tenancy where annual rent is under £50,000?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Three weeks' rent"
+      },
+      {
+        "id": "b",
+        "text": "Four weeks' rent"
+      },
+      {
+        "id": "c",
+        "text": "Five weeks' rent"
+      },
+      {
+        "id": "d",
+        "text": "Six weeks' rent"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Under the Tenant Fees Act 2019, security deposits in England are capped at five weeks' rent for tenancies where the annual rent is under £50,000.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_127",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is National Insurance used to fund?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Local road maintenance only"
+      },
+      {
+        "id": "b",
+        "text": "State benefits, the NHS, and the state pension"
+      },
+      {
+        "id": "c",
+        "text": "Defence and foreign aid"
+      },
+      {
+        "id": "d",
+        "text": "Public housing construction"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "National Insurance contributions fund state benefits such as Jobseeker's Allowance, the NHS, and the state pension. Both employees and employers make contributions.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_128",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which organisation provides social housing at below-market rents to people who need it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Citizens Advice Bureau"
+      },
+      {
+        "id": "b",
+        "text": "Housing associations"
+      },
+      {
+        "id": "c",
+        "text": "The Department for Work and Pensions"
+      },
+      {
+        "id": "d",
+        "text": "The Crown Estate"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Housing associations are not-for-profit organisations that provide rented accommodation at below-market rates, particularly for people on lower incomes or with specific housing needs.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_129",
+    "topic_id": "topic_everyday_1",
+    "question_text": "If you are self-employed, how must you pay your income tax?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Through the PAYE system deducted by an employer"
+      },
+      {
+        "id": "b",
+        "text": "By completing a self-assessment tax return"
+      },
+      {
+        "id": "c",
+        "text": "Through council tax payments"
+      },
+      {
+        "id": "d",
+        "text": "It is automatically deducted from your bank account"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Self-employed people must register with HM Revenue and Customs (HMRC) and complete a self-assessment tax return each year to declare their income and pay the tax owed.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_130",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What does a landlord's inventory typically document at the start of a tenancy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The tenant's employment history"
+      },
+      {
+        "id": "b",
+        "text": "The condition and contents of the property"
+      },
+      {
+        "id": "c",
+        "text": "The landlord's mortgage details"
+      },
+      {
+        "id": "d",
+        "text": "The area's council tax band"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "An inventory records the condition of the property and its contents at the start of a tenancy. It protects both landlord and tenant in any dispute about the deposit at the end of the tenancy.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_131",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which of the following statements about income tax in the UK is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Everyone pays the same flat rate regardless of earnings"
+      },
+      {
+        "id": "b",
+        "text": "People pay more tax as a proportion of income as they earn more"
+      },
+      {
+        "id": "c",
+        "text": "Income tax only applies to people earning over £50,000"
+      },
+      {
+        "id": "d",
+        "text": "Income tax is optional for UK residents"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK has a progressive income tax system with different rates applied to different bands of income, so higher earners pay a greater proportion of their income in tax.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_132",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Where can you get free, confidential advice about financial problems, housing, and legal issues?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jobcentre Plus"
+      },
+      {
+        "id": "b",
+        "text": "The Citizens Advice Bureau"
+      },
+      {
+        "id": "c",
+        "text": "The Home Office"
+      },
+      {
+        "id": "d",
+        "text": "The Electoral Commission"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Citizens Advice Bureau provides free, independent, and confidential advice on a wide range of issues including debt, housing, benefits, and legal matters.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_133",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is a National Insurance number used for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To identify your GP registration"
+      },
+      {
+        "id": "b",
+        "text": "To record your tax and National Insurance contributions"
+      },
+      {
+        "id": "c",
+        "text": "To access the internet in public libraries"
+      },
+      {
+        "id": "d",
+        "text": "To register to vote"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A National Insurance number is a unique personal reference number that ensures your tax and National Insurance contributions are properly recorded against your name. You need one to work legally in the UK.",
+    "handbook_ref": "Chapter 6: Everyday needs",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_134",
+    "topic_id": "topic_everyday_2",
+    "question_text": "At what age are children in England required to start school?",
+    "options": [
+      {
+        "id": "a",
+        "text": "4"
+      },
+      {
+        "id": "b",
+        "text": "5"
+      },
+      {
+        "id": "c",
+        "text": "6"
+      },
+      {
+        "id": "d",
+        "text": "7"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Children in England must start full-time education by the age of 5. Many children attend nursery or reception class earlier, but compulsory education begins at age 5.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_135",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Up to what age are young people in England required to be in some form of education or training?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16"
+      },
+      {
+        "id": "b",
+        "text": "17"
+      },
+      {
+        "id": "c",
+        "text": "18"
+      },
+      {
+        "id": "d",
+        "text": "21"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Since 2015, young people in England must stay in some form of education or training until the age of 18. This can include sixth form, college, or an apprenticeship.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_136",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What are GCSEs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Government-Certified Skills Examinations taken at age 21"
+      },
+      {
+        "id": "b",
+        "text": "General Certificate of Secondary Education qualifications taken around age 16"
+      },
+      {
+        "id": "c",
+        "text": "Advanced-level qualifications required for university entry"
+      },
+      {
+        "id": "d",
+        "text": "Vocational training certificates awarded by employers"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "GCSEs (General Certificate of Secondary Education) are qualifications typically taken by students in England, Wales, and Northern Ireland at around age 16, at the end of secondary school.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_137",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What system do students in the UK use to apply to university?",
+    "options": [
+      {
+        "id": "a",
+        "text": "UCAS (Universities and Colleges Admissions Service)"
+      },
+      {
+        "id": "b",
+        "text": "The National Student Register"
+      },
+      {
+        "id": "c",
+        "text": "The Higher Education Licensing Authority"
+      },
+      {
+        "id": "d",
+        "text": "Jobcentre Plus education division"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "UCAS (Universities and Colleges Admissions Service) is the central organisation that manages applications to higher education courses in the UK.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_138",
+    "topic_id": "topic_everyday_2",
+    "question_text": "How do you register with a GP (General Practitioner) in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "You must pay a registration fee at a private clinic"
+      },
+      {
+        "id": "b",
+        "text": "You contact a local GP surgery and fill in a registration form"
+      },
+      {
+        "id": "c",
+        "text": "You attend Accident and Emergency and request registration"
+      },
+      {
+        "id": "d",
+        "text": "Registration is done automatically when you pay council tax"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "To see a GP you should register at a local GP surgery by filling in a registration form. The NHS is free at the point of use for UK residents.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_139",
+    "topic_id": "topic_everyday_2",
+    "question_text": "When should you go to Accident and Emergency (A&E)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "For routine check-ups and general health advice"
+      },
+      {
+        "id": "b",
+        "text": "When you cannot get a GP appointment within a week"
+      },
+      {
+        "id": "c",
+        "text": "Only for serious injuries or life-threatening emergencies"
+      },
+      {
+        "id": "d",
+        "text": "To collect NHS prescriptions"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "A&E departments are for serious injuries, accidents, and life-threatening emergencies. Using A&E for minor ailments puts pressure on the service and delays care for those who truly need it.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_140",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Which of the following groups receives free NHS prescriptions in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All adults regardless of age or income"
+      },
+      {
+        "id": "b",
+        "text": "Children under 16, people over 60, and those on certain benefits"
+      },
+      {
+        "id": "c",
+        "text": "Only people who are unemployed"
+      },
+      {
+        "id": "d",
+        "text": "Only EU citizens living in England"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Free NHS prescriptions in England are available to children under 16, people aged 60 and over, pregnant women, and those receiving certain means-tested benefits, among other groups.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_141",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What are A levels, and at what age are they typically taken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Primary school assessments taken at age 11"
+      },
+      {
+        "id": "b",
+        "text": "Advanced qualifications taken at around age 18, often for university entry"
+      },
+      {
+        "id": "c",
+        "text": "Apprenticeship qualifications taken after age 21"
+      },
+      {
+        "id": "d",
+        "text": "Postgraduate degrees awarded after university"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A levels (Advanced Level qualifications) are typically studied between the ages of 16 and 18 and are the main qualification used for entry into higher education in England, Wales, and Northern Ireland.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_142",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is an apprenticeship?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A short holiday programme for university students"
+      },
+      {
+        "id": "b",
+        "text": "A way to gain a qualification while working and earning a wage"
+      },
+      {
+        "id": "c",
+        "text": "A government grant given to school leavers"
+      },
+      {
+        "id": "d",
+        "text": "A voluntary placement with no pay or qualification"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Apprenticeships allow people to earn a wage while learning on the job and working towards a nationally recognised qualification. They are available to people of all ages.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_143",
+    "topic_id": "topic_everyday_2",
+    "question_text": "NHS dentist treatment in England requires patients to pay a charge. Which group is exempt from dental charges?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All NHS patients automatically"
+      },
+      {
+        "id": "b",
+        "text": "Children under 18, pregnant women, and new mothers up to 12 months after birth"
+      },
+      {
+        "id": "c",
+        "text": "People who have visited the dentist more than twice in a year"
+      },
+      {
+        "id": "d",
+        "text": "Adults over the age of 40"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "NHS dental treatment is free for children under 18, pregnant women, and women who have had a baby in the last 12 months. Other patients pay a charge based on the treatment band required.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_144",
+    "topic_id": "topic_everyday_3",
+    "question_text": "On which side of the road do vehicles drive in the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right side"
+      },
+      {
+        "id": "b",
+        "text": "The left side"
+      },
+      {
+        "id": "c",
+        "text": "Either side depending on the road type"
+      },
+      {
+        "id": "d",
+        "text": "The centre of the road"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In the United Kingdom, vehicles drive on the left-hand side of the road. This is the opposite of most continental European countries.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_145",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the minimum age to apply for a car driving licence in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "16"
+      },
+      {
+        "id": "b",
+        "text": "17"
+      },
+      {
+        "id": "c",
+        "text": "18"
+      },
+      {
+        "id": "d",
+        "text": "21"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The minimum age to apply for a provisional driving licence and begin learning to drive a car on public roads in the UK is 17 years old.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_146",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the purpose of an MOT test for vehicles in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To check the vehicle is roadworthy and meets safety standards"
+      },
+      {
+        "id": "b",
+        "text": "To register the vehicle with the local council"
+      },
+      {
+        "id": "c",
+        "text": "To renew the driver's licence"
+      },
+      {
+        "id": "d",
+        "text": "To calculate road tax based on vehicle age"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "The MOT test is an annual roadworthiness test for vehicles over three years old. It checks that the vehicle meets road safety and environmental standards.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_147",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is an Oyster card primarily used for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paying for groceries in London supermarkets"
+      },
+      {
+        "id": "b",
+        "text": "Paying for public transport in London"
+      },
+      {
+        "id": "c",
+        "text": "Accessing the National Rail network across the UK"
+      },
+      {
+        "id": "d",
+        "text": "A prepaid credit card accepted across the UK"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Oyster card is a contactless smartcard used to pay for public transport in London, including the Underground, buses, trams, and some National Rail services within the zones.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_148",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the non-emergency police telephone number in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "999"
+      },
+      {
+        "id": "b",
+        "text": "112"
+      },
+      {
+        "id": "c",
+        "text": "101"
+      },
+      {
+        "id": "d",
+        "text": "111"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "101 is the non-emergency police number for reporting crimes that do not require an immediate response. For life-threatening emergencies, always call 999 or 112.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_149",
+    "topic_id": "topic_everyday_3",
+    "question_text": "Which two numbers can be dialled to reach the emergency services in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "999 and 112"
+      },
+      {
+        "id": "b",
+        "text": "101 and 999"
+      },
+      {
+        "id": "c",
+        "text": "111 and 999"
+      },
+      {
+        "id": "d",
+        "text": "112 and 101"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "In the UK, both 999 and 112 connect you to the emergency services (police, fire, ambulance, coastguard). The number 112 also works across the European Union.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_150",
+    "topic_id": "topic_everyday_3",
+    "question_text": "Is it a legal requirement to have motor insurance in order to drive on UK roads?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No, it is optional but recommended"
+      },
+      {
+        "id": "b",
+        "text": "Yes, at least third-party insurance is legally required"
+      },
+      {
+        "id": "c",
+        "text": "Only if the car is over five years old"
+      },
+      {
+        "id": "d",
+        "text": "Only for drivers under the age of 25"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "It is a legal requirement to have at least third-party motor insurance to drive on public roads in the UK. Driving without insurance is a criminal offence.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_151",
+    "topic_id": "topic_everyday_3",
+    "question_text": "Why is a TV licence required in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To pay for local television advertising"
+      },
+      {
+        "id": "b",
+        "text": "To fund the BBC's public broadcasting services"
+      },
+      {
+        "id": "c",
+        "text": "To receive satellite channels legally"
+      },
+      {
+        "id": "d",
+        "text": "To register your television with the government"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A TV licence is required to watch live television or use BBC iPlayer in the UK. The licence fee funds the BBC, which is a public broadcaster.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_152",
+    "topic_id": "topic_everyday_3",
+    "question_text": "Who operates the main long-distance rail network in Great Britain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TfL (Transport for London)"
+      },
+      {
+        "id": "b",
+        "text": "National Rail"
+      },
+      {
+        "id": "c",
+        "text": "The Department for Transport directly"
+      },
+      {
+        "id": "d",
+        "text": "Eurostar"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "National Rail is the brand name used by train operating companies in Great Britain that operate passenger rail services across the national network, covering intercity and regional routes.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_153",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What are most households in the UK required to do with their household waste?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Take all waste to a central disposal site themselves"
+      },
+      {
+        "id": "b",
+        "text": "Sort waste for recycling as directed by their local council"
+      },
+      {
+        "id": "c",
+        "text": "Pay a private company to collect and dispose of all waste"
+      },
+      {
+        "id": "d",
+        "text": "Burn all non-recyclable waste in their garden"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Most local councils in the UK provide separate bins or collections for recyclable materials such as paper, glass, and plastics. Residents are expected to sort their waste accordingly.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_154",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the National Minimum Wage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The amount the government recommends employers pay, but it is not enforceable"
+      },
+      {
+        "id": "b",
+        "text": "The lowest hourly rate that employers are legally required to pay workers"
+      },
+      {
+        "id": "c",
+        "text": "A wage paid only to government employees"
+      },
+      {
+        "id": "d",
+        "text": "The standard wage for part-time workers only"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The National Minimum Wage is the minimum hourly rate that employers must legally pay their workers. The rate varies by age, and a higher National Living Wage applies to workers aged 21 and over.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_155",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is Jobcentre Plus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A private recruitment agency for professional roles"
+      },
+      {
+        "id": "b",
+        "text": "A government service that helps people find work and access benefits"
+      },
+      {
+        "id": "c",
+        "text": "An organisation that provides vocational training courses"
+      },
+      {
+        "id": "d",
+        "text": "A trade union that represents unemployed workers"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Jobcentre Plus is a government service run by the Department for Work and Pensions. It helps people find employment and administers benefits for those who are out of work.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_156",
+    "topic_id": "topic_everyday_4",
+    "question_text": "At what age can people currently claim the UK State Pension?",
+    "options": [
+      {
+        "id": "a",
+        "text": "60"
+      },
+      {
+        "id": "b",
+        "text": "63"
+      },
+      {
+        "id": "c",
+        "text": "65"
+      },
+      {
+        "id": "d",
+        "text": "66"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "The current State Pension age in the UK is 66 for both men and women. This age is subject to review and is expected to rise in coming decades.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_157",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What document must an employer provide to an employee that sets out the terms and conditions of their employment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A tenancy agreement"
+      },
+      {
+        "id": "b",
+        "text": "A written statement of employment particulars (contract)"
+      },
+      {
+        "id": "c",
+        "text": "A National Insurance certificate"
+      },
+      {
+        "id": "d",
+        "text": "A self-assessment tax form"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Employees are legally entitled to receive a written statement of employment particulars from their employer, which outlines key terms such as pay, working hours, and holiday entitlement.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_158",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is Legal Aid?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A service where lawyers volunteer their time for free"
+      },
+      {
+        "id": "b",
+        "text": "Government funding that helps people who cannot afford legal representation"
+      },
+      {
+        "id": "c",
+        "text": "A free legal advice line run by the Citizens Advice Bureau"
+      },
+      {
+        "id": "d",
+        "text": "Financial support given to law students during their studies"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Legal Aid is government-funded financial assistance that helps people who cannot afford to pay for legal advice or representation. Eligibility depends on the type of case and the applicant's financial circumstances.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_159",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Which of the following is a key employment right for workers in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right to choose their own working hours regardless of the employer's needs"
+      },
+      {
+        "id": "b",
+        "text": "The right to a safe and healthy working environment"
+      },
+      {
+        "id": "c",
+        "text": "The right to a company car after one year of service"
+      },
+      {
+        "id": "d",
+        "text": "The right to work from home at all times"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Employers have a legal duty under health and safety law to provide a safe working environment. Workers have the right to refuse work that they reasonably believe poses a serious risk to their health and safety.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_160",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is Universal Credit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A credit card issued by the government to low-income families"
+      },
+      {
+        "id": "b",
+        "text": "A single payment that combines several means-tested benefits for working-age people"
+      },
+      {
+        "id": "c",
+        "text": "A pension top-up for people over 66"
+      },
+      {
+        "id": "d",
+        "text": "A business loan scheme for self-employed people"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Universal Credit is a means-tested benefit that replaced several previous benefits including Jobseeker's Allowance and Housing Benefit. It supports working-age people who are on a low income or out of work.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_161",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the role of a trade union?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To represent employers in disputes with the government"
+      },
+      {
+        "id": "b",
+        "text": "To represent workers and negotiate pay and conditions with employers"
+      },
+      {
+        "id": "c",
+        "text": "To set the National Minimum Wage each year"
+      },
+      {
+        "id": "d",
+        "text": "To inspect workplaces for health and safety compliance"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Trade unions are organisations that represent the interests of workers. They negotiate with employers over pay, working conditions, and other employment matters, and can support members in disputes.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_162",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Which government agency is responsible for health and safety regulation in UK workplaces?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Health and Safety Executive (HSE)"
+      },
+      {
+        "id": "b",
+        "text": "The Department for Work and Pensions (DWP)"
+      },
+      {
+        "id": "c",
+        "text": "HM Revenue and Customs (HMRC)"
+      },
+      {
+        "id": "d",
+        "text": "The Competition and Markets Authority (CMA)"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "The Health and Safety Executive (HSE) is the national regulator for workplace health, safety, and welfare in Great Britain. It investigates accidents and can prosecute employers who breach health and safety law.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_163",
+    "topic_id": "topic_everyday_4",
+    "question_text": "How does Pay As You Earn (PAYE) work for employees?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Employees pay tax and National Insurance directly to HMRC at the end of the year"
+      },
+      {
+        "id": "b",
+        "text": "Income tax and National Insurance are deducted from wages by the employer before payment"
+      },
+      {
+        "id": "c",
+        "text": "Employees choose how much tax to pay each month"
+      },
+      {
+        "id": "d",
+        "text": "Tax is only deducted if the employee earns over £30,000 per year"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the PAYE system, employers deduct income tax and National Insurance contributions from an employee's wages before paying them. The employer then pays these deductions directly to HMRC.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_164",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the longest river in the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Thames"
+      },
+      {
+        "id": "b",
+        "text": "The Severn"
+      },
+      {
+        "id": "c",
+        "text": "The Trent"
+      },
+      {
+        "id": "d",
+        "text": "The Mersey"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The River Severn is the longest river in the United Kingdom at approximately 220 miles (354 km). It flows through Wales and England. The River Thames is the longest river entirely in England at about 215 miles (346 km).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_165",
+    "topic_id": "topic_everyday_4",
+    "question_text": "The River Thames flows through which capital city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Edinburgh"
+      },
+      {
+        "id": "b",
+        "text": "Cardiff"
+      },
+      {
+        "id": "c",
+        "text": "London"
+      },
+      {
+        "id": "d",
+        "text": "Belfast"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The River Thames flows through London, England's capital city. It is one of the most famous rivers in the world and has been central to London's history and development for centuries.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_166",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the highest mountain in the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Snowdon (Yr Wyddfa)"
+      },
+      {
+        "id": "b",
+        "text": "Scafell Pike"
+      },
+      {
+        "id": "c",
+        "text": "Ben Nevis"
+      },
+      {
+        "id": "d",
+        "text": "Slieve Donard"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Ben Nevis in Scotland is the highest mountain in the United Kingdom at 1,345 metres (4,413 feet). It is located near Fort William in the Scottish Highlands and attracts many climbers and walkers each year.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_167",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the highest mountain in Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ben Nevis"
+      },
+      {
+        "id": "b",
+        "text": "Scafell Pike"
+      },
+      {
+        "id": "c",
+        "text": "Snowdon (Yr Wyddfa)"
+      },
+      {
+        "id": "d",
+        "text": "Cadair Idris"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Snowdon (known in Welsh as Yr Wyddfa) is the highest mountain in Wales at 1,085 metres (3,560 feet). It is located in Snowdonia National Park (Eryri) and is one of the most popular mountains in the UK for walkers.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_168",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the highest mountain in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Helvellyn"
+      },
+      {
+        "id": "b",
+        "text": "Scafell Pike"
+      },
+      {
+        "id": "c",
+        "text": "Skiddaw"
+      },
+      {
+        "id": "d",
+        "text": "Pen-y-ghent"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Scafell Pike in the Lake District, Cumbria, is the highest mountain in England at 978 metres (3,209 feet). It is part of the Lake District National Park, which is a UNESCO World Heritage Site.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_169",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Which of the following is a National Park in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hyde Park"
+      },
+      {
+        "id": "b",
+        "text": "The Lake District"
+      },
+      {
+        "id": "c",
+        "text": "Regent's Park"
+      },
+      {
+        "id": "d",
+        "text": "Richmond Park"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Lake District in Cumbria is one of England's National Parks and a UNESCO World Heritage Site. It is famous for its stunning lakes, mountains, and literary connections including the poet William Wordsworth and children's author Beatrix Potter.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_170",
+    "topic_id": "topic_everyday_4",
+    "question_text": "The Cairngorms National Park is located in which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "Scotland"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Cairngorms National Park is in the Scottish Highlands and is the largest national park in the United Kingdom. It is known for its mountain landscapes, ancient forests, and diverse wildlife including red squirrels, golden eagles, and ospreys.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_171",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What are the four capital cities of the countries that make up the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "London, Glasgow, Swansea, Derry"
+      },
+      {
+        "id": "b",
+        "text": "London, Edinburgh, Cardiff, Belfast"
+      },
+      {
+        "id": "c",
+        "text": "London, Aberdeen, Newport, Belfast"
+      },
+      {
+        "id": "d",
+        "text": "London, Inverness, Bangor, Armagh"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The four capital cities are London (England), Edinburgh (Scotland), Cardiff (Wales), and Belfast (Northern Ireland). Each serves as the seat of its respective national government or devolved administration.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_172",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Which river flows through the city of Nottingham and is the third longest river in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Mersey"
+      },
+      {
+        "id": "b",
+        "text": "The Trent"
+      },
+      {
+        "id": "c",
+        "text": "The Avon"
+      },
+      {
+        "id": "d",
+        "text": "The Great Ouse"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The River Trent is the third longest river in the UK and flows through the Midlands, passing through cities including Stoke-on-Trent and Nottingham before joining the Humber estuary.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_173",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Which national park includes England's largest natural lake, Windermere?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Peak District"
+      },
+      {
+        "id": "b",
+        "text": "The Lake District"
+      },
+      {
+        "id": "c",
+        "text": "The Yorkshire Dales"
+      },
+      {
+        "id": "d",
+        "text": "The North York Moors"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Windermere, England's largest natural lake, is located in the Lake District National Park. The Lake District is famous for its lakes, mountains, and forests, and was designated a UNESCO World Heritage Site in 2017.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_174",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Loch Lomond, the largest lake in Great Britain by surface area, is located in which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "Scotland"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Loch Lomond is the largest lake in Great Britain by surface area and is located in Scotland. It is part of the Loch Lomond and The Trossachs National Park, Scotland's first national park.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_175",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What are the regions of England commonly referred to as?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Provinces"
+      },
+      {
+        "id": "b",
+        "text": "States"
+      },
+      {
+        "id": "c",
+        "text": "Counties and regions (e.g., the North East, Midlands, South West)"
+      },
+      {
+        "id": "d",
+        "text": "Territories"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "England is divided into counties and regions. The main regions include the North East, North West, Yorkshire and the Humber, East Midlands, West Midlands, East of England, London, South East, and South West.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_176",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Lough Neagh, the largest lake in the British Isles, is located in which part of the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "Northern Ireland"
+      },
+      {
+        "id": "d",
+        "text": "England"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Lough Neagh in Northern Ireland is the largest lake in the British Isles by area. It covers approximately 151 square miles (392 square km) and is an important site for birdwatching and fishing.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_177",
+    "topic_id": "topic_everyday_4",
+    "question_text": "The Yorkshire Dales and the Peak District are examples of what type of protected area?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Royal parks"
+      },
+      {
+        "id": "b",
+        "text": "National Parks"
+      },
+      {
+        "id": "c",
+        "text": "Private estates"
+      },
+      {
+        "id": "d",
+        "text": "Nature reserves"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Yorkshire Dales and the Peak District are both National Parks in England. National Parks are protected areas of countryside that are conserved for their natural beauty, wildlife, and cultural heritage. England has ten National Parks.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_178",
+    "topic_id": "topic_everyday_4",
+    "question_text": "The Highlands are a major geographical region in which part of the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wales"
+      },
+      {
+        "id": "b",
+        "text": "Northern England"
+      },
+      {
+        "id": "c",
+        "text": "Scotland"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Scottish Highlands are a historic region of Scotland known for their rugged mountain landscapes, lochs, and dramatic scenery. The Highlands are separated from the Lowlands by the Highland Boundary Fault.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_179",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the currency of the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The euro"
+      },
+      {
+        "id": "b",
+        "text": "The pound sterling"
+      },
+      {
+        "id": "c",
+        "text": "The dollar"
+      },
+      {
+        "id": "d",
+        "text": "The crown"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The pound sterling (symbolised as £ or GBP) is the official currency of the United Kingdom. It is one of the oldest currencies still in use and is managed by the Bank of England.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_180",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the Bank of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A high-street bank where people can open accounts"
+      },
+      {
+        "id": "b",
+        "text": "The UK's central bank, responsible for issuing banknotes and setting monetary policy"
+      },
+      {
+        "id": "c",
+        "text": "A savings bank owned by the government"
+      },
+      {
+        "id": "d",
+        "text": "A charity that provides loans to small businesses"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Bank of England is the UK's central bank, founded in 1694. It is responsible for issuing banknotes in England and Wales, setting interest rates, maintaining financial stability, and managing monetary policy.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_181",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is income tax?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A tax on goods you buy in shops"
+      },
+      {
+        "id": "b",
+        "text": "A tax paid on money earned from employment, self-employment, pensions, and some savings"
+      },
+      {
+        "id": "c",
+        "text": "A tax on property ownership"
+      },
+      {
+        "id": "d",
+        "text": "A tax paid only by businesses"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Income tax is a tax paid on income earned from employment, self-employment, pensions, and some savings and investments. The amount of tax paid depends on how much income is earned. Everyone has a personal allowance — an amount they can earn tax-free.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_182",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is National Insurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of car insurance"
+      },
+      {
+        "id": "b",
+        "text": "Contributions paid by workers and employers to fund the State Pension, NHS, and other benefits"
+      },
+      {
+        "id": "c",
+        "text": "An optional savings scheme"
+      },
+      {
+        "id": "d",
+        "text": "Insurance for your home against fire and flood"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "National Insurance (NI) is a system of contributions paid by workers and employers. It helps fund the State Pension, the NHS, and other state benefits. Each worker has a unique National Insurance number, which is needed for employment and to claim benefits.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_183",
+    "topic_id": "topic_everyday_3",
+    "question_text": "Which government department is responsible for collecting taxes in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Home Office"
+      },
+      {
+        "id": "b",
+        "text": "HM Revenue and Customs (HMRC)"
+      },
+      {
+        "id": "c",
+        "text": "The Department for Work and Pensions"
+      },
+      {
+        "id": "d",
+        "text": "The Bank of England"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "HM Revenue and Customs (HMRC) is the UK government department responsible for collecting taxes, including income tax, National Insurance, VAT, and corporation tax. It also administers certain benefits such as child benefit.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_184",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is VAT (Value Added Tax)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A tax on property"
+      },
+      {
+        "id": "b",
+        "text": "A tax added to most goods and services at the point of sale"
+      },
+      {
+        "id": "c",
+        "text": "A tax on savings"
+      },
+      {
+        "id": "d",
+        "text": "A tax on inheritance"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "VAT (Value Added Tax) is a consumption tax added to most goods and services sold in the UK. The standard rate is 20%. Some items are zero-rated (e.g., most food and children's clothing) or reduced rate (e.g., domestic fuel).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_185",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What does a personal tax allowance mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The maximum amount of tax you can pay"
+      },
+      {
+        "id": "b",
+        "text": "The amount of income you can earn before you start paying income tax"
+      },
+      {
+        "id": "c",
+        "text": "A refund you receive from HMRC"
+      },
+      {
+        "id": "d",
+        "text": "A loan from the government"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The personal tax allowance is the amount of income a person can earn in a tax year before they start paying income tax. This allowance is set by the government and can change from year to year.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_186",
+    "topic_id": "topic_everyday_3",
+    "question_text": "Scottish banknotes are issued by which banks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Bank of England only"
+      },
+      {
+        "id": "b",
+        "text": "The Royal Bank of Scotland, Bank of Scotland, and Clydesdale Bank"
+      },
+      {
+        "id": "c",
+        "text": "The Scottish Government"
+      },
+      {
+        "id": "d",
+        "text": "All UK high street banks"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In Scotland, three banks have the right to issue banknotes: the Royal Bank of Scotland, the Bank of Scotland, and the Clydesdale Bank. These notes are legal currency throughout the UK, although they are not always readily accepted in other parts of the country.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_187",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is Citizens Advice?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A government department for immigration"
+      },
+      {
+        "id": "b",
+        "text": "A network of independent charities providing free, confidential advice on legal, financial, and other matters"
+      },
+      {
+        "id": "c",
+        "text": "A private law firm"
+      },
+      {
+        "id": "d",
+        "text": "A court of law"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Citizens Advice is a network of independent charities that provides free, confidential, and impartial advice to people on a wide range of issues including benefits, housing, employment, debt, consumer problems, and legal matters.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_188",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What services do public libraries in the UK typically offer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only book lending"
+      },
+      {
+        "id": "b",
+        "text": "Book lending, free internet access, children's activities, and community events"
+      },
+      {
+        "id": "c",
+        "text": "Only paid internet access"
+      },
+      {
+        "id": "d",
+        "text": "Only children's services"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Public libraries in the UK offer a wide range of free services including book lending, internet access, newspapers and magazines, audiobooks, DVDs, children's story times, reading groups, and community events. Library membership is free.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_189",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the role of charities in UK society?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They replace government services entirely"
+      },
+      {
+        "id": "b",
+        "text": "They provide support and services in areas such as health, education, homelessness, and the environment, funded by donations"
+      },
+      {
+        "id": "c",
+        "text": "They are profit-making businesses"
+      },
+      {
+        "id": "d",
+        "text": "They only operate internationally"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Charities play a major role in UK society, providing vital services and support in areas including health, education, poverty, homelessness, animal welfare, and the environment. They are funded by public donations, grants, and fundraising activities.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_190",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Which organisation regulates charities in England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Home Office"
+      },
+      {
+        "id": "b",
+        "text": "The Charity Commission"
+      },
+      {
+        "id": "c",
+        "text": "The NHS"
+      },
+      {
+        "id": "d",
+        "text": "The Bank of England"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Charity Commission is the independent regulator of charities in England and Wales. It registers and regulates charities, ensures they meet their legal requirements, and protects charitable assets.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_191",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What are some well-known British charities?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The BBC and ITV"
+      },
+      {
+        "id": "b",
+        "text": "The National Trust, Oxfam, and the RSPCA"
+      },
+      {
+        "id": "c",
+        "text": "Tesco, Sainsbury's, and Marks & Spencer"
+      },
+      {
+        "id": "d",
+        "text": "The Royal Mail and BT"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Well-known British charities include the National Trust (heritage conservation), Oxfam (poverty relief), the RSPCA (animal welfare), Cancer Research UK, the British Red Cross, and Shelter (homelessness). Charity shops are a common sight on UK high streets.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_192",
+    "topic_id": "topic_everyday_4",
+    "question_text": "Where can people get free legal advice in the UK if they cannot afford a lawyer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only from friends and family"
+      },
+      {
+        "id": "b",
+        "text": "From Citizens Advice, law centres, and through Legal Aid"
+      },
+      {
+        "id": "c",
+        "text": "From the police station only"
+      },
+      {
+        "id": "d",
+        "text": "There is no free legal advice available"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "People who cannot afford a lawyer can get free legal advice from Citizens Advice, law centres, and through the Legal Aid scheme. Legal Aid provides funding for legal representation to people who meet certain financial criteria.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_193",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the National Trust?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A government department"
+      },
+      {
+        "id": "b",
+        "text": "A charity that protects and opens to the public historic houses, gardens, and areas of natural beauty"
+      },
+      {
+        "id": "c",
+        "text": "A bank that provides mortgages"
+      },
+      {
+        "id": "d",
+        "text": "A building society"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The National Trust is one of Europe's largest conservation charities. It protects and opens to the public over 500 historic houses, castles, gardens, and areas of natural beauty across England, Wales, and Northern Ireland. It relies on membership fees, donations, and volunteers.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_194",
+    "topic_id": "topic_everyday_1",
+    "question_text": "How many countries make up the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "5"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland. Together they form the United Kingdom of Great Britain and Northern Ireland.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_195",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the capital city of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Glasgow"
+      },
+      {
+        "id": "b",
+        "text": "Aberdeen"
+      },
+      {
+        "id": "c",
+        "text": "Edinburgh"
+      },
+      {
+        "id": "d",
+        "text": "Dundee"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Edinburgh is the capital city of Scotland. It is the seat of the Scottish Parliament and Scottish Government. Glasgow is Scotland's largest city by population.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_196",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the capital city of Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Swansea"
+      },
+      {
+        "id": "b",
+        "text": "Cardiff"
+      },
+      {
+        "id": "c",
+        "text": "Newport"
+      },
+      {
+        "id": "d",
+        "text": "Bangor"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Cardiff is the capital city of Wales and the seat of the Senedd (Welsh Parliament). It is the largest city in Wales and a major commercial and cultural centre.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_197",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the capital city of Northern Ireland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Derry/Londonderry"
+      },
+      {
+        "id": "b",
+        "text": "Armagh"
+      },
+      {
+        "id": "c",
+        "text": "Belfast"
+      },
+      {
+        "id": "d",
+        "text": "Lisburn"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Belfast is the capital city of Northern Ireland and the seat of the Northern Ireland Assembly at Stormont. It is Northern Ireland's largest city and an important industrial and cultural centre.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_198",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the approximate population of the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "About 50 million"
+      },
+      {
+        "id": "b",
+        "text": "About 67 million"
+      },
+      {
+        "id": "c",
+        "text": "About 80 million"
+      },
+      {
+        "id": "d",
+        "text": "About 100 million"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The population of the United Kingdom is approximately 67 million people. England is the most populous country within the UK, with about 56 million, followed by Scotland (about 5.5 million), Wales (about 3.1 million), and Northern Ireland (about 1.9 million).",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_199",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which is the largest of the four UK countries by population?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "England"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "England is by far the largest UK country by population, with about 56 million of the UK's approximately 67 million residents. It is also the largest by area.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_200",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the national flower of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Thistle"
+      },
+      {
+        "id": "b",
+        "text": "Shamrock"
+      },
+      {
+        "id": "c",
+        "text": "Rose"
+      },
+      {
+        "id": "d",
+        "text": "Daffodil"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The rose is the national flower of England. Scotland's national flower is the thistle, Wales's is the daffodil, and Northern Ireland's is the shamrock.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_201",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the national flower of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rose"
+      },
+      {
+        "id": "b",
+        "text": "Daffodil"
+      },
+      {
+        "id": "c",
+        "text": "Shamrock"
+      },
+      {
+        "id": "d",
+        "text": "Thistle"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "The thistle is the national flower of Scotland. It is one of the oldest national emblems and is said to have helped save Scotland from a Norse invasion when an attacker stepped on one barefoot and cried out in pain.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_202",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the national flower of Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rose"
+      },
+      {
+        "id": "b",
+        "text": "Daffodil"
+      },
+      {
+        "id": "c",
+        "text": "Thistle"
+      },
+      {
+        "id": "d",
+        "text": "Bluebell"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The daffodil is the national flower of Wales. The leek is also a well-known national emblem of Wales. Both are traditionally worn on St David's Day (1 March).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_203",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which seas surround the United Kingdom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Mediterranean Sea and the Atlantic Ocean"
+      },
+      {
+        "id": "b",
+        "text": "The North Sea, the English Channel, the Irish Sea, and the Atlantic Ocean"
+      },
+      {
+        "id": "c",
+        "text": "The Baltic Sea and the North Sea"
+      },
+      {
+        "id": "d",
+        "text": "The Pacific Ocean and the Arctic Ocean"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK is an island nation surrounded by the North Sea (to the east), the English Channel (to the south), the Irish Sea (between Great Britain and Ireland), and the Atlantic Ocean (to the west and north).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_204",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which major English cities are located in the north of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brighton and Southampton"
+      },
+      {
+        "id": "b",
+        "text": "Manchester, Leeds, and Newcastle"
+      },
+      {
+        "id": "c",
+        "text": "Bristol and Plymouth"
+      },
+      {
+        "id": "d",
+        "text": "Cambridge and Oxford"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Manchester, Leeds, and Newcastle are major cities in the north of England. Other important northern cities include Liverpool, Sheffield, and York. The north of England has a rich industrial heritage.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_205",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the flag of the United Kingdom called?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Royal Standard"
+      },
+      {
+        "id": "b",
+        "text": "The Union Jack (or Union Flag)"
+      },
+      {
+        "id": "c",
+        "text": "The St George's Cross"
+      },
+      {
+        "id": "d",
+        "text": "The Red Ensign"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The flag of the United Kingdom is known as the Union Jack or Union Flag. It combines the crosses of St George (England), St Andrew (Scotland), and St Patrick (Ireland) to represent the union of these nations.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_206",
+    "topic_id": "topic_everyday_1",
+    "question_text": "The Cross of St George (a red cross on a white background) is the flag of:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "England"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Cross of St George -- a red cross on a white background -- is the flag of England. St George is the patron saint of England, and his feast day is 23 April.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_207",
+    "topic_id": "topic_everyday_1",
+    "question_text": "The Saltire (a white diagonal cross on a blue background) is the flag of:",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Scotland"
+      },
+      {
+        "id": "c",
+        "text": "Wales"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Saltire -- a white diagonal cross (X-shape) on a blue background -- is the flag of Scotland. It represents St Andrew, the patron saint of Scotland.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_208",
+    "topic_id": "topic_everyday_1",
+    "question_text": "The Welsh flag features which animal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A lion"
+      },
+      {
+        "id": "b",
+        "text": "An eagle"
+      },
+      {
+        "id": "c",
+        "text": "A red dragon"
+      },
+      {
+        "id": "d",
+        "text": "A unicorn"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Welsh flag features a red dragon (Y Ddraig Goch) on a white and green background. The dragon has been associated with Wales for centuries and is one of the oldest national symbols in use.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_209",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What number should you call for a life-threatening medical emergency in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "111"
+      },
+      {
+        "id": "b",
+        "text": "101"
+      },
+      {
+        "id": "c",
+        "text": "999 or 112"
+      },
+      {
+        "id": "d",
+        "text": "0800 111 222"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "For life-threatening emergencies, call 999 or 112 to reach the emergency services (ambulance, fire, police, coastguard). The number 111 is for non-emergency medical advice.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_210",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is NHS 111?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The number to call for a life-threatening emergency"
+      },
+      {
+        "id": "b",
+        "text": "A non-emergency medical helpline for advice when it is not a 999 emergency"
+      },
+      {
+        "id": "c",
+        "text": "A number to register with a GP"
+      },
+      {
+        "id": "d",
+        "text": "A dental appointment booking service"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "NHS 111 is the non-emergency medical helpline in England. You can call 111 when you have an urgent medical concern that is not a life-threatening emergency. Trained advisers can give medical advice, direct you to the right service, or arrange an out-of-hours GP appointment.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_211",
+    "topic_id": "topic_everyday_2",
+    "question_text": "How do you register with a GP (General Practitioner)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By visiting A&E and asking to be referred"
+      },
+      {
+        "id": "b",
+        "text": "By contacting a local GP surgery and completing a registration form"
+      },
+      {
+        "id": "c",
+        "text": "By paying a registration fee online"
+      },
+      {
+        "id": "d",
+        "text": "It is done automatically when you pay council tax"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "To register with a GP, you contact a local GP surgery and fill in a registration form (GMS1). You do not need proof of address or immigration status to register. Everyone in England is entitled to register with a GP and receive NHS primary care.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_212",
+    "topic_id": "topic_everyday_2",
+    "question_text": "In which parts of the UK are NHS prescriptions free for everyone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England and Wales only"
+      },
+      {
+        "id": "b",
+        "text": "Scotland, Wales, and Northern Ireland"
+      },
+      {
+        "id": "c",
+        "text": "All parts of the UK"
+      },
+      {
+        "id": "d",
+        "text": "None -- there is a charge everywhere"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "NHS prescriptions are free for everyone in Scotland, Wales, and Northern Ireland. In England, there is a prescription charge, but many groups are exempt, including children under 16, people over 60, and those on certain benefits.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_213",
+    "topic_id": "topic_everyday_2",
+    "question_text": "How can you save money on prescriptions in England if you need regular medication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By going to a private pharmacy"
+      },
+      {
+        "id": "b",
+        "text": "By purchasing a Prescription Prepayment Certificate (PPC)"
+      },
+      {
+        "id": "c",
+        "text": "By visiting A&E instead of a GP"
+      },
+      {
+        "id": "d",
+        "text": "Prescriptions are free for everyone"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In England, if you need regular prescriptions, you can buy a Prescription Prepayment Certificate (PPC) from the NHS. This covers all your prescriptions for a set period (3 or 12 months) and can save money if you need more than a few items per year.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_214",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Are NHS dental treatments in England free for all patients?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, all dental treatments on the NHS are free"
+      },
+      {
+        "id": "b",
+        "text": "No, most adults pay a charge based on the treatment band, but some groups are exempt"
+      },
+      {
+        "id": "c",
+        "text": "Dental treatment is not available on the NHS"
+      },
+      {
+        "id": "d",
+        "text": "Only emergency dental treatment is free"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "NHS dental treatment in England involves patient charges based on three treatment bands. However, some groups are exempt, including children under 18, pregnant women, and people on certain means-tested benefits.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_215",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Who is entitled to a free NHS eye test in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All UK residents"
+      },
+      {
+        "id": "b",
+        "text": "Children under 16, people over 60, those receiving certain benefits, and people with specific eye conditions"
+      },
+      {
+        "id": "c",
+        "text": "Only people over 70"
+      },
+      {
+        "id": "d",
+        "text": "No one -- eye tests always require a fee"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Free NHS eye tests in England are available to children under 16 (or under 19 in full-time education), people aged 60 and over, people receiving certain benefits, those with diabetes or glaucoma, and those at risk of glaucoma.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_216",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What should you do if you have a medical problem that is urgent but not life-threatening?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Go to A&E"
+      },
+      {
+        "id": "b",
+        "text": "Call NHS 111 for advice or visit an urgent care centre or walk-in centre"
+      },
+      {
+        "id": "c",
+        "text": "Wait for your next GP appointment"
+      },
+      {
+        "id": "d",
+        "text": "Call the police"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "For urgent but non-life-threatening medical issues, call NHS 111 for advice. They may direct you to a walk-in centre, urgent care centre, or out-of-hours GP. A&E should only be used for serious, life-threatening emergencies.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_217",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is the official established church in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Roman Catholic Church"
+      },
+      {
+        "id": "b",
+        "text": "The Church of England (Anglican)"
+      },
+      {
+        "id": "c",
+        "text": "The Methodist Church"
+      },
+      {
+        "id": "d",
+        "text": "The Church of Scotland"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Church of England (Anglican Church) is the official established church in England. The monarch is its Supreme Governor and the Archbishop of Canterbury is the spiritual leader. In Scotland, the national church is the Church of Scotland (Presbyterian).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_218",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Which major religions are practised in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only Christianity"
+      },
+      {
+        "id": "b",
+        "text": "Christianity, Islam, Hinduism, Sikhism, Judaism, Buddhism, and others"
+      },
+      {
+        "id": "c",
+        "text": "Only Christianity and Islam"
+      },
+      {
+        "id": "d",
+        "text": "Only Protestantism and Catholicism"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK is a religiously diverse country. While Christianity is the largest religion, there are also significant communities of Muslims, Hindus, Sikhs, Jews, and Buddhists. Freedom of religion is a fundamental right in the UK.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_219",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What age range covers primary school education in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ages 3 to 9"
+      },
+      {
+        "id": "b",
+        "text": "Ages 5 to 11"
+      },
+      {
+        "id": "c",
+        "text": "Ages 7 to 13"
+      },
+      {
+        "id": "d",
+        "text": "Ages 4 to 10"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Primary school in England covers children aged 5 to 11 (Years 1 to 6). Children may also attend a reception class from age 4. At age 11, children transfer to secondary school.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_220",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What age range covers secondary school education in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ages 9 to 15"
+      },
+      {
+        "id": "b",
+        "text": "Ages 11 to 16"
+      },
+      {
+        "id": "c",
+        "text": "Ages 12 to 18"
+      },
+      {
+        "id": "d",
+        "text": "Ages 10 to 14"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Secondary school in England covers students aged 11 to 16 (Years 7 to 11). Students typically take GCSE examinations at the end of Year 11 (age 16). They must then continue in education or training until age 18.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_221",
+    "topic_id": "topic_everyday_2",
+    "question_text": "At what age do students typically sit GCSE examinations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "14"
+      },
+      {
+        "id": "b",
+        "text": "15"
+      },
+      {
+        "id": "c",
+        "text": "16"
+      },
+      {
+        "id": "d",
+        "text": "18"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Students in England, Wales, and Northern Ireland typically sit their GCSE (General Certificate of Secondary Education) examinations at the age of 15 or 16, at the end of Year 11. GCSEs are the main qualifications taken at the end of compulsory secondary education.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_222",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What qualifications do students typically study between ages 16 and 18 for university entry?",
+    "options": [
+      {
+        "id": "a",
+        "text": "GCSEs"
+      },
+      {
+        "id": "b",
+        "text": "A levels (or equivalent qualifications such as BTECs or Scottish Highers)"
+      },
+      {
+        "id": "c",
+        "text": "A Master's degree"
+      },
+      {
+        "id": "d",
+        "text": "NVQs only"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Between ages 16 and 18, students in England, Wales, and Northern Ireland typically study A levels (Advanced Level qualifications), which are the main route to university entry. Alternative qualifications include BTECs and T Levels. In Scotland, students take Highers and Advanced Highers.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_223",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is the typical duration of a bachelor's degree at a UK university?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2 years"
+      },
+      {
+        "id": "b",
+        "text": "3 years (4 in Scotland)"
+      },
+      {
+        "id": "c",
+        "text": "5 years"
+      },
+      {
+        "id": "d",
+        "text": "1 year"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A bachelor's degree in England, Wales, and Northern Ireland typically takes 3 years of full-time study. In Scotland, it usually takes 4 years. Some courses, such as medicine, take longer.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_224",
+    "topic_id": "topic_everyday_3",
+    "question_text": "On which side of the road do people drive in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The right side"
+      },
+      {
+        "id": "b",
+        "text": "The left side"
+      },
+      {
+        "id": "c",
+        "text": "It depends on the road"
+      },
+      {
+        "id": "d",
+        "text": "The centre of the road"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In the United Kingdom, vehicles drive on the left-hand side of the road. This means the driver's seat is on the right side of the vehicle. This is the opposite of most countries in continental Europe and the Americas.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_225",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What three taxes do most working people in the UK pay?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Income tax, council tax, and inheritance tax"
+      },
+      {
+        "id": "b",
+        "text": "Income tax, National Insurance, and council tax"
+      },
+      {
+        "id": "c",
+        "text": "VAT, stamp duty, and capital gains tax"
+      },
+      {
+        "id": "d",
+        "text": "Corporation tax, income tax, and VAT"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Most working people in the UK pay income tax (on earnings), National Insurance contributions (which fund the NHS and state pension), and council tax (a local tax based on property value that funds local services).",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_226",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is council tax?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A tax on income paid to the local council"
+      },
+      {
+        "id": "b",
+        "text": "A local tax based on the value of your property, used to fund local services"
+      },
+      {
+        "id": "c",
+        "text": "A tax on goods bought from local shops"
+      },
+      {
+        "id": "d",
+        "text": "A tax paid only by homeowners, not tenants"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Council tax is a local tax based on the estimated value of your property. It is collected by local councils to fund services such as rubbish collection, street lighting, libraries, and local policing. Both homeowners and tenants are liable to pay it.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_227",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the difference between renting and buying a home in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "There is no difference"
+      },
+      {
+        "id": "b",
+        "text": "When renting, you pay a landlord to live in their property; when buying, you own the property, usually with a mortgage"
+      },
+      {
+        "id": "c",
+        "text": "Renting is only available through the government"
+      },
+      {
+        "id": "d",
+        "text": "Buying a home does not require any financial commitment"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "When renting, you pay a landlord a monthly rent to live in their property under a tenancy agreement. When buying, you purchase the property and own it. Most buyers take out a mortgage (a long-term loan) to fund the purchase and repay it over many years.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_228",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is a mortgage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A type of insurance for your home"
+      },
+      {
+        "id": "b",
+        "text": "A loan from a bank or building society used to buy a property, repaid over a long period"
+      },
+      {
+        "id": "c",
+        "text": "A government grant to help first-time buyers"
+      },
+      {
+        "id": "d",
+        "text": "Monthly rent paid to a landlord"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A mortgage is a long-term loan (typically 25-35 years) from a bank or building society used to purchase a property. The property acts as security for the loan. Borrowers make monthly repayments of capital and interest.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_229",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What must a tenant's deposit be protected in, in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The landlord's personal bank account"
+      },
+      {
+        "id": "b",
+        "text": "A government-approved tenancy deposit protection scheme"
+      },
+      {
+        "id": "c",
+        "text": "A solicitor's trust account"
+      },
+      {
+        "id": "d",
+        "text": "The local council's holding account"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In England, landlords must protect a tenant's deposit in one of three government-approved tenancy deposit protection schemes within 30 days of receiving it. This protects the tenant's money and provides a dispute resolution service.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_230",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the National Minimum Wage in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A voluntary guideline for employers"
+      },
+      {
+        "id": "b",
+        "text": "The legal minimum hourly rate that employers must pay workers, with rates varying by age"
+      },
+      {
+        "id": "c",
+        "text": "A flat rate the same for all workers regardless of age"
+      },
+      {
+        "id": "d",
+        "text": "A rate that only applies to full-time workers"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The National Minimum Wage is the legal minimum hourly rate that employers must pay workers. Rates vary by age, with a higher rate (the National Living Wage) applying to workers aged 21 and over. Employers who pay below the minimum wage are breaking the law.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_231",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the National Living Wage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A voluntary wage recommended by charities"
+      },
+      {
+        "id": "b",
+        "text": "The higher rate of minimum wage that applies to workers aged 21 and over"
+      },
+      {
+        "id": "c",
+        "text": "A wage paid only to government employees"
+      },
+      {
+        "id": "d",
+        "text": "The average wage across the UK"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The National Living Wage is the higher rate of the National Minimum Wage that applies to workers aged 21 and over. It is a legally enforceable minimum. Workers under 21 and apprentices have lower minimum rates.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_232",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the maximum number of hours per week that most workers can be asked to work under UK law?",
+    "options": [
+      {
+        "id": "a",
+        "text": "35 hours"
+      },
+      {
+        "id": "b",
+        "text": "40 hours"
+      },
+      {
+        "id": "c",
+        "text": "48 hours"
+      },
+      {
+        "id": "d",
+        "text": "60 hours"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Under the Working Time Regulations, most workers cannot be required to work more than 48 hours per week on average (calculated over a 17-week period). Workers can choose to opt out of this limit voluntarily, but they cannot be forced to do so.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_233",
+    "topic_id": "topic_everyday_4",
+    "question_text": "How many days of paid holiday are full-time workers entitled to per year in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "20 days"
+      },
+      {
+        "id": "b",
+        "text": "28 days (including bank holidays)"
+      },
+      {
+        "id": "c",
+        "text": "14 days"
+      },
+      {
+        "id": "d",
+        "text": "35 days"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Full-time workers in the UK are legally entitled to a minimum of 28 days (5.6 weeks) of paid annual leave per year, which can include bank holidays. Part-time workers receive a pro-rata entitlement.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_234",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is statutory sick pay (SSP)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A voluntary payment made by some employers"
+      },
+      {
+        "id": "b",
+        "text": "The legal minimum amount an employer must pay an employee who is off work due to illness"
+      },
+      {
+        "id": "c",
+        "text": "A government benefit paid directly by the Department for Work and Pensions"
+      },
+      {
+        "id": "d",
+        "text": "A payment made only to NHS employees"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Statutory Sick Pay (SSP) is the legal minimum an employer must pay to eligible employees who are off work sick. It is paid by the employer for up to 28 weeks. Some employers offer more generous sick pay schemes.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_235",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What protection do employees have against unfair dismissal in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No protection -- employers can dismiss anyone at any time"
+      },
+      {
+        "id": "b",
+        "text": "After a qualifying period, employees can claim unfair dismissal if they are sacked without a fair reason or fair procedure"
+      },
+      {
+        "id": "c",
+        "text": "Protection only applies to government employees"
+      },
+      {
+        "id": "d",
+        "text": "Only workers in trade unions are protected"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "After a qualifying period of employment (generally two years), employees in the UK have the right not to be unfairly dismissed. Employers must have a fair reason (such as conduct, capability, or redundancy) and follow a fair procedure.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_236",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What consumer rights do you have when buying goods in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "None -- all sales are final"
+      },
+      {
+        "id": "b",
+        "text": "Goods must be of satisfactory quality, fit for purpose, and as described; you can return faulty goods for a refund, repair, or replacement"
+      },
+      {
+        "id": "c",
+        "text": "You can only exchange goods, never get a refund"
+      },
+      {
+        "id": "d",
+        "text": "Consumer rights only apply to online purchases"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Under the Consumer Rights Act 2015, goods must be of satisfactory quality, fit for purpose, and as described. If goods are faulty, consumers have the right to a refund (within 30 days), repair, or replacement.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_237",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the small claims court used for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Criminal cases involving minor offences"
+      },
+      {
+        "id": "b",
+        "text": "Civil disputes involving relatively small amounts of money, such as consumer complaints or minor contract disputes"
+      },
+      {
+        "id": "c",
+        "text": "Family law cases only"
+      },
+      {
+        "id": "d",
+        "text": "Immigration appeals"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The small claims track (part of the County Court) handles civil disputes involving smaller amounts of money (generally up to 10,000 pounds in England and Wales). It is designed to be simple and inexpensive, so people can represent themselves without a solicitor.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_238",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What types of visa allow people to come to the UK for work?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only tourist visas"
+      },
+      {
+        "id": "b",
+        "text": "Skilled Worker visa, Health and Care Worker visa, and other work-related visas"
+      },
+      {
+        "id": "c",
+        "text": "Only student visas"
+      },
+      {
+        "id": "d",
+        "text": "Work visas are no longer available"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK has a points-based immigration system. Work visas include the Skilled Worker visa (for those with a job offer from a licensed sponsor), the Health and Care Worker visa, the Global Talent visa, and others. Each has specific eligibility requirements.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_239",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is Indefinite Leave to Remain (ILR)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A temporary visa that must be renewed annually"
+      },
+      {
+        "id": "b",
+        "text": "Permission to live and work in the UK permanently without any time restrictions"
+      },
+      {
+        "id": "c",
+        "text": "A travel document for visiting other countries"
+      },
+      {
+        "id": "d",
+        "text": "A student visa for long courses"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Indefinite Leave to Remain (ILR), also known as settlement, is an immigration status that allows a person to live and work in the UK permanently without any time restrictions. It is usually obtained after living in the UK for a qualifying period on an eligible visa.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_240",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the naturalisation ceremony?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A ceremony held when someone gets married"
+      },
+      {
+        "id": "b",
+        "text": "A ceremony where new British citizens take an oath of allegiance to the Crown and receive their certificate of British citizenship"
+      },
+      {
+        "id": "c",
+        "text": "A graduation ceremony at university"
+      },
+      {
+        "id": "d",
+        "text": "A ceremony held when someone receives Indefinite Leave to Remain"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A naturalisation (citizenship) ceremony is a formal event where people who have been granted British citizenship make an oath of allegiance to the Crown and a pledge to the UK. They receive their certificate of British citizenship at the ceremony.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_241",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What emergency services can be reached by calling 999?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the police"
+      },
+      {
+        "id": "b",
+        "text": "Police, fire and rescue, ambulance, and coastguard"
+      },
+      {
+        "id": "c",
+        "text": "Only police and ambulance"
+      },
+      {
+        "id": "d",
+        "text": "Only the fire service"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "By calling 999 (or 112), you can reach four emergency services: the police, fire and rescue service, ambulance service, and coastguard (for emergencies at sea or on the coast). The operator will ask which service you need.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_242",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the non-emergency police number?",
+    "options": [
+      {
+        "id": "a",
+        "text": "999"
+      },
+      {
+        "id": "b",
+        "text": "111"
+      },
+      {
+        "id": "c",
+        "text": "101"
+      },
+      {
+        "id": "d",
+        "text": "112"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The non-emergency police number is 101. You should call 101 to report a crime that is not an emergency, to give information to the police, or to make general enquiries. For emergencies, always call 999 or 112.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_243",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is a Neighbourhood Watch scheme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A private security company"
+      },
+      {
+        "id": "b",
+        "text": "A community initiative where residents work together with police to prevent crime and keep their area safe"
+      },
+      {
+        "id": "c",
+        "text": "A government CCTV programme"
+      },
+      {
+        "id": "d",
+        "text": "A police patrol unit"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Neighbourhood Watch is one of the biggest and most successful crime prevention initiatives in the UK. Local residents work together with police to look out for suspicious activity, share information, and help keep their neighbourhood safe.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_244",
+    "topic_id": "topic_everyday_3",
+    "question_text": "How should you report a non-emergency crime to the police?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Call 999"
+      },
+      {
+        "id": "b",
+        "text": "Call 101 or report online through the local police force website"
+      },
+      {
+        "id": "c",
+        "text": "Visit your local council offices"
+      },
+      {
+        "id": "d",
+        "text": "Call NHS 111"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Non-emergency crimes can be reported by calling 101 or through the local police force's website. Some crimes, such as fraud, should be reported to Action Fraud. For crimes in progress or where there is danger to life, always call 999.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_245",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which body of water separates Great Britain from mainland Europe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Irish Sea"
+      },
+      {
+        "id": "b",
+        "text": "The English Channel"
+      },
+      {
+        "id": "c",
+        "text": "The North Sea only"
+      },
+      {
+        "id": "d",
+        "text": "The Atlantic Ocean"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The English Channel separates the south coast of England from the north coast of France. At its narrowest point (the Strait of Dover), it is only about 21 miles (34 km) wide. The Channel Tunnel runs beneath it, connecting England and France by rail.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_246",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which city is the largest in the UK by population?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Birmingham"
+      },
+      {
+        "id": "b",
+        "text": "Manchester"
+      },
+      {
+        "id": "c",
+        "text": "London"
+      },
+      {
+        "id": "d",
+        "text": "Glasgow"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "London is by far the largest city in the UK by population, with approximately 9 million people in Greater London. It is the capital of England and the United Kingdom, and serves as the country's main financial, cultural, and political centre.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_247",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Birmingham is located in which part of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The South East"
+      },
+      {
+        "id": "b",
+        "text": "The West Midlands"
+      },
+      {
+        "id": "c",
+        "text": "The North East"
+      },
+      {
+        "id": "d",
+        "text": "The South West"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Birmingham is located in the West Midlands region of England. It is England's second largest city and a major centre of commerce, industry, and culture. It played a key role in the Industrial Revolution.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_248",
+    "topic_id": "topic_everyday_2",
+    "question_text": "Which of the following is a correct match between a religion and its place of worship?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sikhs worship in a synagogue"
+      },
+      {
+        "id": "b",
+        "text": "Hindus worship in a temple (mandir)"
+      },
+      {
+        "id": "c",
+        "text": "Muslims worship in a church"
+      },
+      {
+        "id": "d",
+        "text": "Jews worship in a gurdwara"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hindus worship in a temple called a mandir. Christians worship in churches, Muslims in mosques, Jews in synagogues, Sikhs in gurdwaras, and Buddhists in temples or viharas.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_249",
+    "topic_id": "topic_everyday_2",
+    "question_text": "According to census data, what proportion of the UK population identifies as Christian?",
+    "options": [
+      {
+        "id": "a",
+        "text": "About 90%"
+      },
+      {
+        "id": "b",
+        "text": "About 46%"
+      },
+      {
+        "id": "c",
+        "text": "About 25%"
+      },
+      {
+        "id": "d",
+        "text": "About 10%"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "According to the 2021 Census, about 46% of people in England and Wales identified as Christian, down from 59% in 2011. The proportion of people reporting no religion rose to about 37%. The UK is becoming more religiously diverse and more secular.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_250",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What are SATs in the context of English education?",
+    "options": [
+      {
+        "id": "a",
+        "text": "University entrance exams"
+      },
+      {
+        "id": "b",
+        "text": "Standard Assessment Tests taken by primary school children at ages 7 and 11"
+      },
+      {
+        "id": "c",
+        "text": "A-level equivalent examinations"
+      },
+      {
+        "id": "d",
+        "text": "Vocational qualifications for apprentices"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "SATs (Standard Assessment Tests) are national assessments taken by children in state schools in England at the end of Key Stage 1 (age 7) and Key Stage 2 (age 11). They measure pupils' attainment in reading, writing, and mathematics.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_251",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What must you have before you can legally drive a car on UK roads?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only a car"
+      },
+      {
+        "id": "b",
+        "text": "A valid driving licence, motor insurance, and the vehicle must have a valid MOT (if over 3 years old) and be taxed"
+      },
+      {
+        "id": "c",
+        "text": "Only a driving licence"
+      },
+      {
+        "id": "d",
+        "text": "Only motor insurance"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "To drive legally on UK roads, you need a valid driving licence, at least third-party motor insurance, and the vehicle must be taxed (Vehicle Excise Duty) and have a valid MOT certificate if it is over 3 years old.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_252",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is a tenancy agreement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A mortgage document"
+      },
+      {
+        "id": "b",
+        "text": "A legal contract between a landlord and a tenant setting out the terms and conditions of renting a property"
+      },
+      {
+        "id": "c",
+        "text": "A government certificate to buy a house"
+      },
+      {
+        "id": "d",
+        "text": "An insurance policy for the property"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A tenancy agreement is a legal contract between a landlord and tenant. It sets out the terms of the rental, including the rent amount, deposit, duration, and responsibilities of both parties. It provides legal protection for both landlord and tenant.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_253",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the minimum amount of statutory maternity leave in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "26 weeks"
+      },
+      {
+        "id": "b",
+        "text": "39 weeks"
+      },
+      {
+        "id": "c",
+        "text": "52 weeks"
+      },
+      {
+        "id": "d",
+        "text": "12 weeks"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Eligible employees are entitled to up to 52 weeks of statutory maternity leave. The first 26 weeks are ordinary maternity leave and the next 26 weeks are additional maternity leave. Statutory Maternity Pay is paid for up to 39 of those weeks.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_254",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What does ACAS stand for and what does it do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Advisory, Conciliation and Arbitration Service -- it helps resolve workplace disputes"
+      },
+      {
+        "id": "b",
+        "text": "Association of Chartered Accountants and Solicitors -- it regulates professionals"
+      },
+      {
+        "id": "c",
+        "text": "Automated Credit Assessment Service -- it checks credit scores"
+      },
+      {
+        "id": "d",
+        "text": "Agency for Consumer and Advertising Standards -- it regulates advertising"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "ACAS (Advisory, Conciliation and Arbitration Service) is a government-funded body that provides free and impartial advice on workplace relations and employment law. It helps employers and employees resolve disputes, and early conciliation through ACAS is required before making an employment tribunal claim.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_255",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What must happen before a person can become a naturalised British citizen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They must simply live in the UK for one year"
+      },
+      {
+        "id": "b",
+        "text": "They must have lived in the UK for a qualifying period, pass the Life in the UK test, meet English language requirements, and be of good character"
+      },
+      {
+        "id": "c",
+        "text": "They must own property in the UK"
+      },
+      {
+        "id": "d",
+        "text": "They must have been born in the UK"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "To become a naturalised British citizen, a person must have lived in the UK for a qualifying period (usually 5 years, or 3 years if married to a British citizen), pass the Life in the UK test, meet English language requirements, be of good character, and intend to continue living in the UK.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_256",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the name for the group of islands that includes Great Britain, Ireland, and surrounding smaller islands?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The United Kingdom"
+      },
+      {
+        "id": "b",
+        "text": "The British Isles"
+      },
+      {
+        "id": "c",
+        "text": "The Commonwealth"
+      },
+      {
+        "id": "d",
+        "text": "The British Empire"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The British Isles is a geographical term for the group of islands that includes Great Britain, Ireland, and many smaller surrounding islands. The UK is a political entity consisting of England, Scotland, Wales, and Northern Ireland.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_257",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the difference between 'Great Britain' and the 'United Kingdom'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are the same thing"
+      },
+      {
+        "id": "b",
+        "text": "Great Britain is England, Scotland, and Wales; the United Kingdom also includes Northern Ireland"
+      },
+      {
+        "id": "c",
+        "text": "Great Britain includes Northern Ireland but the UK does not"
+      },
+      {
+        "id": "d",
+        "text": "Great Britain is the island; the UK is England only"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Great Britain refers to the island containing England, Scotland, and Wales. The United Kingdom (full name: the United Kingdom of Great Britain and Northern Ireland) includes these three countries plus Northern Ireland.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_258",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is the Church of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A branch of the Church of England"
+      },
+      {
+        "id": "b",
+        "text": "The national church of Scotland, which is Presbyterian in governance"
+      },
+      {
+        "id": "c",
+        "text": "A Roman Catholic church in Scotland"
+      },
+      {
+        "id": "d",
+        "text": "A Methodist church"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Church of Scotland is the national church of Scotland. Unlike the Church of England, it is Presbyterian in governance (run by elders rather than bishops) and the monarch is not its head. It is sometimes known as 'the Kirk'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_259",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What percentage of the UK population described themselves as having no religion in the 2021 Census for England and Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "About 15%"
+      },
+      {
+        "id": "b",
+        "text": "About 25%"
+      },
+      {
+        "id": "c",
+        "text": "About 37%"
+      },
+      {
+        "id": "d",
+        "text": "About 50%"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "In the 2021 Census for England and Wales, about 37% of people described themselves as having no religion, up from 25% in 2011. This reflects a growing trend towards secularism in the UK, though freedom of religion remains a protected right.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_260",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is UCAS?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A government body that inspects schools"
+      },
+      {
+        "id": "b",
+        "text": "The Universities and Colleges Admissions Service, which manages university applications"
+      },
+      {
+        "id": "c",
+        "text": "A charity that provides student loans"
+      },
+      {
+        "id": "d",
+        "text": "An organisation that sets university fees"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "UCAS (Universities and Colleges Admissions Service) is the central organisation that processes applications for undergraduate courses at UK universities and colleges. Students apply through UCAS, listing up to five course choices.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_261",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is Ofsted?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A teachers' trade union"
+      },
+      {
+        "id": "b",
+        "text": "The Office for Standards in Education -- it inspects and regulates schools and childcare providers in England"
+      },
+      {
+        "id": "c",
+        "text": "A school funding body"
+      },
+      {
+        "id": "d",
+        "text": "A university admissions service"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Ofsted (Office for Standards in Education, Children's Services and Skills) is the government body responsible for inspecting and regulating schools, colleges, and childcare providers in England. It publishes inspection reports rating them as Outstanding, Good, Requires Improvement, or Inadequate.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_262",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the penalty for driving without motor insurance in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A verbal warning"
+      },
+      {
+        "id": "b",
+        "text": "A fixed penalty of 300 pounds and 6 penalty points, or the vehicle may be seized and court prosecution may follow"
+      },
+      {
+        "id": "c",
+        "text": "A 50-pound fine"
+      },
+      {
+        "id": "d",
+        "text": "A one-month driving ban only"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Driving without motor insurance is a serious offence. The police can issue a fixed penalty of 300 pounds and 6 penalty points on your licence. In more serious cases, the vehicle can be seized and the driver can be taken to court, where an unlimited fine and a driving disqualification may be imposed.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_263",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the speed limit on most UK motorways?",
+    "options": [
+      {
+        "id": "a",
+        "text": "50 mph"
+      },
+      {
+        "id": "b",
+        "text": "60 mph"
+      },
+      {
+        "id": "c",
+        "text": "70 mph"
+      },
+      {
+        "id": "d",
+        "text": "80 mph"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The national speed limit on motorways in the UK is 70 mph (approximately 113 km/h). The speed limit on single carriageway roads is 60 mph, and in built-up areas it is usually 30 mph, unless signs indicate otherwise.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_264",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the speed limit in most built-up areas (towns and cities) in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "20 mph"
+      },
+      {
+        "id": "b",
+        "text": "30 mph"
+      },
+      {
+        "id": "c",
+        "text": "40 mph"
+      },
+      {
+        "id": "d",
+        "text": "50 mph"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The default speed limit in most built-up areas in the UK is 30 mph, unless signs indicate otherwise. Some residential areas now have 20 mph limits. Exceeding the speed limit is a criminal offence and can result in fines, penalty points, and disqualification.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_265",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the Consumer Rights Act 2015?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A law that regulates advertising only"
+      },
+      {
+        "id": "b",
+        "text": "A law that sets out consumer rights when buying goods, services, and digital content"
+      },
+      {
+        "id": "c",
+        "text": "A law about data protection"
+      },
+      {
+        "id": "d",
+        "text": "A law about employment rights"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Consumer Rights Act 2015 sets out the rights of consumers when buying goods, services, and digital content. It requires goods to be of satisfactory quality, fit for purpose, and as described. It also covers unfair contract terms and gives consumers the right to a refund, repair, or replacement.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_266",
+    "topic_id": "topic_everyday_4",
+    "question_text": "If you buy a faulty product, how long do you have to return it for a full refund?",
+    "options": [
+      {
+        "id": "a",
+        "text": "7 days"
+      },
+      {
+        "id": "b",
+        "text": "14 days"
+      },
+      {
+        "id": "c",
+        "text": "30 days"
+      },
+      {
+        "id": "d",
+        "text": "90 days"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Under the Consumer Rights Act 2015, if a product is faulty, you have up to 30 days from purchase to return it for a full refund. After 30 days and up to 6 months, the retailer must be given one opportunity to repair or replace the item before you can claim a refund.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_267",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the points-based immigration system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A loyalty points system for frequent travellers"
+      },
+      {
+        "id": "b",
+        "text": "A system where people must meet specific criteria and accumulate points to qualify for a UK visa"
+      },
+      {
+        "id": "c",
+        "text": "A system that gives penalty points to immigrants who break rules"
+      },
+      {
+        "id": "d",
+        "text": "A credit score system for immigrants"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The UK's points-based immigration system requires people applying for certain visas to meet specific criteria and accumulate enough points to qualify. Points are awarded for factors such as having a job offer from a licensed sponsor, meeting salary thresholds, and English language ability.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_268",
+    "topic_id": "topic_everyday_4",
+    "question_text": "How long must someone typically live in the UK before they can apply for British citizenship through naturalisation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 year"
+      },
+      {
+        "id": "b",
+        "text": "3 years"
+      },
+      {
+        "id": "c",
+        "text": "5 years"
+      },
+      {
+        "id": "d",
+        "text": "10 years"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "To apply for British citizenship by naturalisation, you must normally have lived in the UK for at least 5 years and have had Indefinite Leave to Remain (ILR) for at least 12 months. If you are married to a British citizen, the qualifying period is usually 3 years.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_269",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the role of the fire and rescue service in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only fighting fires"
+      },
+      {
+        "id": "b",
+        "text": "Fighting fires, rescuing people from road traffic accidents, flooding and other emergencies, and fire prevention education"
+      },
+      {
+        "id": "c",
+        "text": "Only rescuing cats from trees"
+      },
+      {
+        "id": "d",
+        "text": "Only inspecting buildings"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The fire and rescue service has a broad role including fighting fires, attending road traffic accidents, responding to flooding and chemical spills, rescuing people trapped in buildings or vehicles, and conducting fire safety inspections and public education campaigns.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_270",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What should you do if you see a crime happening?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Intervene physically to stop it"
+      },
+      {
+        "id": "b",
+        "text": "Call 999 immediately and provide as much information as you can to the operator"
+      },
+      {
+        "id": "c",
+        "text": "Report it the next day on 101"
+      },
+      {
+        "id": "d",
+        "text": "Post about it on social media"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "If you witness a crime in progress or believe someone is in immediate danger, call 999 immediately. Stay safe, do not put yourself at risk, and provide the operator with as much detail as possible, including location, descriptions, and the nature of the incident.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_271",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Which country of the UK has the smallest population?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wales"
+      },
+      {
+        "id": "b",
+        "text": "Scotland"
+      },
+      {
+        "id": "c",
+        "text": "Northern Ireland"
+      },
+      {
+        "id": "d",
+        "text": "England"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Northern Ireland has the smallest population of the four UK countries, with approximately 1.9 million people. Wales has about 3.1 million, Scotland about 5.5 million, and England about 56 million.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_272",
+    "topic_id": "topic_everyday_1",
+    "question_text": "What is the North Sea?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A lake in northern England"
+      },
+      {
+        "id": "b",
+        "text": "The sea to the east of the UK, between Britain, Scandinavia, and continental Europe"
+      },
+      {
+        "id": "c",
+        "text": "A river in Scotland"
+      },
+      {
+        "id": "d",
+        "text": "The sea between England and Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The North Sea lies to the east of the United Kingdom, between Britain and the coasts of Norway, Denmark, Germany, the Netherlands, Belgium, and France. It is important for shipping, fishing, and oil and gas production.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_273",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What qualifications do Scottish students typically take instead of GCSEs and A levels?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SATs and BTECs"
+      },
+      {
+        "id": "b",
+        "text": "National 5s (equivalent to GCSEs) and Highers/Advanced Highers (equivalent to A levels)"
+      },
+      {
+        "id": "c",
+        "text": "The International Baccalaureate"
+      },
+      {
+        "id": "d",
+        "text": "NVQs only"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In Scotland, the education system is different from England. Students typically take National 5 qualifications (roughly equivalent to GCSEs) at age 15-16, then Highers at age 16-17, and Advanced Highers at age 17-18 for university entry.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_274",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is the legal alcohol limit for driving in England, Wales, and Northern Ireland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zero -- no alcohol at all"
+      },
+      {
+        "id": "b",
+        "text": "80 milligrammes of alcohol per 100 millilitres of blood"
+      },
+      {
+        "id": "c",
+        "text": "50 milligrammes of alcohol per 100 millilitres of blood"
+      },
+      {
+        "id": "d",
+        "text": "There is no specific limit"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "In England, Wales, and Northern Ireland, the legal alcohol limit for driving is 80 milligrammes of alcohol per 100 millilitres of blood. In Scotland, the limit is lower at 50 milligrammes. Driving over the limit is a criminal offence.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_275",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What rights do employees have regarding trade union membership?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Employers can prevent employees from joining a trade union"
+      },
+      {
+        "id": "b",
+        "text": "Employees have the right to join or not join a trade union, and it is illegal for employers to discriminate against employees for union membership"
+      },
+      {
+        "id": "c",
+        "text": "Trade union membership is compulsory in all workplaces"
+      },
+      {
+        "id": "d",
+        "text": "Only full-time employees can join a trade union"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "UK employment law gives workers the right to join a trade union and to take part in union activities. It is unlawful for an employer to dismiss or discriminate against an employee because they are a member of a trade union or take part in union activities.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_276",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is an employment tribunal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A criminal court for workplace offences"
+      },
+      {
+        "id": "b",
+        "text": "An independent judicial body that resolves disputes between employers and employees, such as unfair dismissal and discrimination claims"
+      },
+      {
+        "id": "c",
+        "text": "A government department that sets employment policy"
+      },
+      {
+        "id": "d",
+        "text": "A body that issues work permits"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "An employment tribunal is an independent judicial body that hears claims from employees and workers about employment rights. Common claims include unfair dismissal, discrimination, unpaid wages, and redundancy pay. Before making a claim, you must go through ACAS early conciliation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_277",
+    "topic_id": "topic_everyday_2",
+    "question_text": "What is a state school?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A school that charges fees to attend"
+      },
+      {
+        "id": "b",
+        "text": "A school funded by the government that provides free education"
+      },
+      {
+        "id": "c",
+        "text": "A school only for children of government employees"
+      },
+      {
+        "id": "d",
+        "text": "A school that teaches only science and technology"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "State schools are funded by the government through taxation and provide free education to children. The vast majority of children in the UK attend state schools. Parents can also choose to send their children to independent (private) schools, which charge fees.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_278",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What is stamp duty (Stamp Duty Land Tax)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A tax on posting letters"
+      },
+      {
+        "id": "b",
+        "text": "A tax paid when buying a property over a certain price in England and Northern Ireland"
+      },
+      {
+        "id": "c",
+        "text": "A tax on renting a property"
+      },
+      {
+        "id": "d",
+        "text": "A tax on selling a car"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Stamp Duty Land Tax (SDLT) is a tax paid when buying a property or land over a certain price in England and Northern Ireland. Scotland has a similar tax called Land and Buildings Transaction Tax, and Wales has Land Transaction Tax.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_279",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What types of settlement visas are available in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "There is only one type of settlement visa"
+      },
+      {
+        "id": "b",
+        "text": "Indefinite Leave to Remain (ILR) can be obtained through various routes including work, family, and long residence"
+      },
+      {
+        "id": "c",
+        "text": "Settlement is only available to EU citizens"
+      },
+      {
+        "id": "d",
+        "text": "Settlement is automatic after entering the UK"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Indefinite Leave to Remain (ILR) or settlement can be obtained through various routes including after qualifying periods on work visas, family visas, or through long residence (typically 10 years of continuous lawful residence). Each route has specific requirements.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_everyday_280",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What oath do new British citizens take at the citizenship ceremony?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An oath to the Prime Minister"
+      },
+      {
+        "id": "b",
+        "text": "An oath of allegiance to the Crown (the King or Queen) and a pledge to respect the UK's rights, freedoms, and laws"
+      },
+      {
+        "id": "c",
+        "text": "An oath to their employer"
+      },
+      {
+        "id": "d",
+        "text": "An oath to the United Nations"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "At the citizenship ceremony, new British citizens take an oath (or affirmation) of allegiance to the Crown and a pledge to respect the rights, freedoms, and laws of the United Kingdom. They also promise to fulfil their duties and responsibilities as a British citizen.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_281",
+    "topic_id": "topic_everyday_1",
+    "question_text": "Glasgow is the largest city in which UK country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Scotland"
+      },
+      {
+        "id": "c",
+        "text": "Wales"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Glasgow is the largest city in Scotland by population. Although Edinburgh is the capital, Glasgow is the bigger city and was historically a major industrial and shipbuilding centre. It is now known for its cultural scene, architecture, and universities.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_everyday_282",
+    "topic_id": "topic_everyday_3",
+    "question_text": "What does Crimestoppers do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is a police force"
+      },
+      {
+        "id": "b",
+        "text": "An independent charity that allows people to give information about crime and criminals anonymously"
+      },
+      {
+        "id": "c",
+        "text": "A government body that prosecutes criminals"
+      },
+      {
+        "id": "d",
+        "text": "A TV programme about crime"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Crimestoppers is an independent charity that allows people to give information about crime and criminals anonymously. You can contact them on 0800 555 111 or through their website. They pass the information to the relevant authorities.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_everyday_283",
+    "topic_id": "topic_everyday_4",
+    "question_text": "What is the Life in the UK test?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A driving theory test"
+      },
+      {
+        "id": "b",
+        "text": "A test of knowledge about British values, history, traditions, and everyday life, required for settlement and citizenship"
+      },
+      {
+        "id": "c",
+        "text": "An English language test"
+      },
+      {
+        "id": "d",
+        "text": "A medical examination"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Life in the UK test is a computer-based test consisting of 24 questions about British values, history, traditions, and everyday life. It must be passed by anyone applying for Indefinite Leave to Remain or British citizenship. The pass mark is 75% (18 out of 24 questions correct).",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  }
+]

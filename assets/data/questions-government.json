@@ -1,0 +1,2350 @@
+[
+  {
+    "id": "q_government_124",
+    "topic_id": "topic_government_1",
+    "question_text": "How many Members of Parliament (MPs) are there in the House of Commons?",
+    "options": [
+      { "id": "a", "text": "600" },
+      { "id": "b", "text": "650" },
+      { "id": "c", "text": "700" },
+      { "id": "d", "text": "750" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The House of Commons has 650 elected Members of Parliament, each representing a constituency in the UK.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_125",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the maximum term between UK general elections?",
+    "options": [
+      { "id": "a", "text": "4 years" },
+      { "id": "b", "text": "5 years" },
+      { "id": "c", "text": "6 years" },
+      { "id": "d", "text": "3 years" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "General elections must be held at least every 5 years, though they can be called earlier by the Prime Minister.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_126",
+    "topic_id": "topic_government_1",
+    "question_text": "What is a by-election?",
+    "options": [
+      { "id": "a", "text": "An election held every two years" },
+      { "id": "b", "text": "An election to choose a new MP for a constituency when the seat becomes vacant" },
+      { "id": "c", "text": "An election held alongside a local council election" },
+      { "id": "d", "text": "An election for members of the House of Lords" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A by-election is held when a sitting MP dies or resigns, creating a vacancy that must be filled between general elections.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_127",
+    "topic_id": "topic_government_1",
+    "question_text": "What voting system is used in UK general elections?",
+    "options": [
+      { "id": "a", "text": "Proportional representation" },
+      { "id": "b", "text": "Alternative vote" },
+      { "id": "c", "text": "First past the post" },
+      { "id": "d", "text": "Single transferable vote" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "UK general elections use the first past the post system, where the candidate with the most votes in each constituency wins the seat.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_128",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the role of the Speaker of the House of Commons?",
+    "options": [
+      { "id": "a", "text": "To lead the majority party in debates" },
+      { "id": "b", "text": "To chair debates in the Commons and maintain order" },
+      { "id": "c", "text": "To represent the monarch in Parliament" },
+      { "id": "d", "text": "To manage the government's legislative agenda" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Speaker of the House of Commons chairs debates, maintains order, and is politically neutral once elected to the role.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_129",
+    "topic_id": "topic_government_1",
+    "question_text": "What is Hansard?",
+    "options": [
+      { "id": "a", "text": "The official record of proceedings in Parliament" },
+      { "id": "b", "text": "The name of the House of Lords chamber" },
+      { "id": "c", "text": "A parliamentary committee that scrutinises legislation" },
+      { "id": "d", "text": "The register of MPs' financial interests" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "Hansard is the official written record of all debates and proceedings in both Houses of Parliament.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_130",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the role of parliamentary whips?",
+    "options": [
+      { "id": "a", "text": "To enforce parliamentary security" },
+      { "id": "b", "text": "To manage their party's MPs and ensure they vote as directed" },
+      { "id": "c", "text": "To draft new legislation on behalf of the government" },
+      { "id": "d", "text": "To chair select committees" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Whips are party officials who manage their party's MPs, ensuring discipline and that members attend and vote in line with party policy.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_131",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the Shadow Cabinet?",
+    "options": [
+      { "id": "a", "text": "A secret advisory group to the Prime Minister" },
+      { "id": "b", "text": "The main opposition party's senior team that mirrors the government Cabinet" },
+      { "id": "c", "text": "A committee of senior civil servants" },
+      { "id": "d", "text": "The Cabinet that meets during emergencies" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Shadow Cabinet is formed by the main opposition party, with each member shadowing and scrutinising a government Cabinet minister.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_132",
+    "topic_id": "topic_government_1",
+    "question_text": "Who is the Leader of the Opposition?",
+    "options": [
+      { "id": "a", "text": "The leader of the smallest party in Parliament" },
+      { "id": "b", "text": "The leader of the largest party not in government" },
+      { "id": "c", "text": "A senior minister appointed by the Prime Minister" },
+      { "id": "d", "text": "The Speaker of the House of Commons" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Leader of the Opposition is the leader of the largest political party that is not part of the governing administration.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_133",
+    "topic_id": "topic_government_1",
+    "question_text": "Which two chambers make up the UK Parliament?",
+    "options": [
+      { "id": "a", "text": "The Senate and the House of Representatives" },
+      { "id": "b", "text": "The House of Commons and the House of Lords" },
+      { "id": "c", "text": "The House of Commons and the Privy Council" },
+      { "id": "d", "text": "The Lords and the Assembly" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The UK Parliament consists of two chambers: the elected House of Commons and the largely appointed House of Lords.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_134",
+    "topic_id": "topic_government_1",
+    "question_text": "How are most members of the House of Lords appointed?",
+    "options": [
+      { "id": "a", "text": "They are elected by the public" },
+      { "id": "b", "text": "They inherit their seats" },
+      { "id": "c", "text": "They are appointed, often on the recommendation of the Prime Minister" },
+      { "id": "d", "text": "They are chosen by the House of Commons" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Most Lords are life peers appointed by the monarch on the recommendation of the Prime Minister or an independent appointments commission.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_135",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the Cabinet?",
+    "options": [
+      { "id": "a", "text": "The full body of elected MPs" },
+      { "id": "b", "text": "A group of senior government ministers who make key policy decisions" },
+      { "id": "c", "text": "A committee of civil servants who advise the Prime Minister" },
+      { "id": "d", "text": "The body that approves all new laws before they become Acts" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Cabinet is a group of the most senior government ministers, led by the Prime Minister, who collectively make major policy decisions.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_136",
+    "topic_id": "topic_government_1",
+    "question_text": "What happens if no single party wins a majority in a general election?",
+    "options": [
+      { "id": "a", "text": "The election is held again the following month" },
+      { "id": "b", "text": "A coalition or minority government may be formed" },
+      { "id": "c", "text": "The reigning monarch selects the Prime Minister" },
+      { "id": "d", "text": "The previous government remains in power indefinitely" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "When no party wins an overall majority, parties may form a coalition government by working together, or a minority government may attempt to govern alone.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_137",
+    "topic_id": "topic_government_1",
+    "question_text": "Which committee investigates the work of government departments in the House of Commons?",
+    "options": [
+      { "id": "a", "text": "Standing committees" },
+      { "id": "b", "text": "Select committees" },
+      { "id": "c", "text": "Grand committees" },
+      { "id": "d", "text": "Joint committees" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Select committees are cross-party groups of MPs that scrutinise the work, spending, and policy of specific government departments.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_138",
+    "topic_id": "topic_government_1",
+    "question_text": "What must happen before a Bill becomes an Act of Parliament?",
+    "options": [
+      { "id": "a", "text": "It must be approved only by the House of Commons" },
+      { "id": "b", "text": "It must receive Royal Assent from the monarch" },
+      { "id": "c", "text": "It must be approved by a public referendum" },
+      { "id": "d", "text": "It must be signed by the Prime Minister" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "After passing through both Houses of Parliament, a Bill must receive Royal Assent — the formal approval of the monarch — to become law.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_139",
+    "topic_id": "topic_government_2",
+    "question_text": "What type of monarchy does the United Kingdom have?",
+    "options": [
+      { "id": "a", "text": "Absolute monarchy" },
+      { "id": "b", "text": "Constitutional monarchy" },
+      { "id": "c", "text": "Federal monarchy" },
+      { "id": "d", "text": "Elective monarchy" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The UK is a constitutional monarchy, meaning the monarch is the head of state but their powers are limited by a constitutional framework.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_140",
+    "topic_id": "topic_government_2",
+    "question_text": "Which of the following is NOT a devolved administration in the UK?",
+    "options": [
+      { "id": "a", "text": "Scottish Parliament" },
+      { "id": "b", "text": "Welsh Senedd" },
+      { "id": "c", "text": "Northern Ireland Assembly" },
+      { "id": "d", "text": "English Parliament" }
+    ],
+    "correct_option_ids": ["d"],
+    "explanation": "England does not have its own devolved parliament; legislation for England is handled by the UK Parliament at Westminster.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_141",
+    "topic_id": "topic_government_2",
+    "question_text": "Where does the Scottish Parliament meet?",
+    "options": [
+      { "id": "a", "text": "Edinburgh Castle" },
+      { "id": "b", "text": "Holyrood, Edinburgh" },
+      { "id": "c", "text": "Glasgow City Chambers" },
+      { "id": "d", "text": "Stirling Castle" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Scottish Parliament meets at the Holyrood building in Edinburgh, which opened in 2004.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_142",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the Welsh devolved legislature called?",
+    "options": [
+      { "id": "a", "text": "Welsh Assembly" },
+      { "id": "b", "text": "Welsh Parliament" },
+      { "id": "c", "text": "Senedd" },
+      { "id": "d", "text": "Dail" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Welsh devolved legislature is officially called the Senedd (also known as the Welsh Parliament), which has law-making powers over devolved matters.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_143",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the principle of parliamentary sovereignty?",
+    "options": [
+      { "id": "a", "text": "Parliament can pass any law it chooses and no court can overrule it" },
+      { "id": "b", "text": "The monarch has ultimate authority over Parliament" },
+      { "id": "c", "text": "The Supreme Court has the final say on all legislation" },
+      { "id": "d", "text": "The Prime Minister can govern without consulting Parliament" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "Parliamentary sovereignty means that Parliament is the supreme legal authority in the UK and can create or end any law.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_144",
+    "topic_id": "topic_government_2",
+    "question_text": "Which document, signed in 1215, established for the first time that the king was subject to the rule of law?",
+    "options": [
+      { "id": "a", "text": "The Bill of Rights" },
+      { "id": "b", "text": "The Magna Carta" },
+      { "id": "c", "text": "The Act of Union" },
+      { "id": "d", "text": "The Petition of Right" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Magna Carta (Great Charter), signed in 1215, was a landmark document establishing that even the king must abide by the law.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_145",
+    "topic_id": "topic_government_2",
+    "question_text": "The UK constitution is best described as which of the following?",
+    "options": [
+      { "id": "a", "text": "A single codified document" },
+      { "id": "b", "text": "Uncodified, drawn from statutes, conventions, and case law" },
+      { "id": "c", "text": "Based solely on Acts of Parliament" },
+      { "id": "d", "text": "Written in a document ratified by public referendum" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Unlike many countries, the UK does not have a single written constitution; instead it is made up of statutes, common law, and constitutional conventions.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_146",
+    "topic_id": "topic_government_2",
+    "question_text": "Which Act formally united England and Scotland into one kingdom in 1707?",
+    "options": [
+      { "id": "a", "text": "The Act of Settlement" },
+      { "id": "b", "text": "The Act of Union" },
+      { "id": "c", "text": "The Treaty of Edinburgh" },
+      { "id": "d", "text": "The Scotland Act" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Act of Union 1707 united the Kingdom of England and the Kingdom of Scotland to form the Kingdom of Great Britain.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_147",
+    "topic_id": "topic_government_2",
+    "question_text": "What does devolution mean in the context of UK politics?",
+    "options": [
+      { "id": "a", "text": "The transfer of powers from central government to regional governments" },
+      { "id": "b", "text": "The process of the UK leaving international organisations" },
+      { "id": "c", "text": "The abolition of the monarchy" },
+      { "id": "d", "text": "The reduction of the number of MPs in Parliament" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "Devolution refers to the transfer of certain legislative and executive powers from Westminster to the Scottish Parliament, Welsh Senedd, and Northern Ireland Assembly.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_148",
+    "topic_id": "topic_government_2",
+    "question_text": "The Human Rights Act 1998 incorporated which international agreement into UK law?",
+    "options": [
+      { "id": "a", "text": "The Universal Declaration of Human Rights" },
+      { "id": "b", "text": "The European Convention on Human Rights" },
+      { "id": "c", "text": "The Geneva Convention" },
+      { "id": "d", "text": "The International Covenant on Civil and Political Rights" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Human Rights Act 1998 incorporated the rights contained in the European Convention on Human Rights (ECHR) into UK domestic law.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_149",
+    "topic_id": "topic_government_2",
+    "question_text": "Which of the following is a key role of the monarch in the UK constitution?",
+    "options": [
+      { "id": "a", "text": "To set government policy" },
+      { "id": "b", "text": "To formally appoint the Prime Minister and grant Royal Assent to legislation" },
+      { "id": "c", "text": "To chair Cabinet meetings" },
+      { "id": "d", "text": "To veto Bills passed by the House of Commons" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The monarch formally appoints the Prime Minister and must give Royal Assent to Bills before they become law, though these are largely ceremonial functions.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_150",
+    "topic_id": "topic_government_2",
+    "question_text": "The Northern Ireland Assembly was established as part of which agreement?",
+    "options": [
+      { "id": "a", "text": "The Sunningdale Agreement" },
+      { "id": "b", "text": "The Good Friday Agreement" },
+      { "id": "c", "text": "The Anglo-Irish Treaty" },
+      { "id": "d", "text": "The Hillsborough Castle Agreement" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Northern Ireland Assembly was created following the Good Friday Agreement (Belfast Agreement) of 1998, which helped bring peace to Northern Ireland.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_151",
+    "topic_id": "topic_government_2",
+    "question_text": "Which of the following best describes the Equality Act 2010?",
+    "options": [
+      { "id": "a", "text": "It sets out the rights of citizens to vote in elections" },
+      { "id": "b", "text": "It consolidates anti-discrimination law, protecting people from unfair treatment" },
+      { "id": "c", "text": "It establishes equal pay only for men and women" },
+      { "id": "d", "text": "It gives Parliament powers to override European human rights laws" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Equality Act 2010 consolidated previous anti-discrimination legislation, protecting people from discrimination based on characteristics such as age, gender, race, and disability.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_152",
+    "topic_id": "topic_government_2",
+    "question_text": "Which historical document of 1689 confirmed the supremacy of Parliament over the Crown?",
+    "options": [
+      { "id": "a", "text": "Magna Carta" },
+      { "id": "b", "text": "The Petition of Right" },
+      { "id": "c", "text": "The Bill of Rights" },
+      { "id": "d", "text": "The Reform Act" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Bill of Rights 1689 established the constitutional principle of parliamentary supremacy and limited the powers of the Crown after the Glorious Revolution.",
+    "frequently_tested": true,
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_153",
+    "topic_id": "topic_government_2",
+    "question_text": "How many members does the Scottish Parliament have?",
+    "options": [
+      { "id": "a", "text": "99" },
+      { "id": "b", "text": "129" },
+      { "id": "c", "text": "150" },
+      { "id": "d", "text": "108" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Scottish Parliament has 129 Members of the Scottish Parliament (MSPs), elected using a form of proportional representation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_154",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the highest court in the United Kingdom?",
+    "options": [
+      { "id": "a", "text": "The Court of Appeal" },
+      { "id": "b", "text": "The House of Lords" },
+      { "id": "c", "text": "The Supreme Court" },
+      { "id": "d", "text": "The European Court of Human Rights" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK Supreme Court, established in 2009, is the highest court in the United Kingdom and replaced the judicial function of the House of Lords.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_155",
+    "topic_id": "topic_government_3",
+    "question_text": "What type of court handles minor criminal offences in England, Wales, and Northern Ireland?",
+    "options": [
+      { "id": "a", "text": "Crown Court" },
+      { "id": "b", "text": "Magistrates' Court" },
+      { "id": "c", "text": "County Court" },
+      { "id": "d", "text": "High Court" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Magistrates' Courts deal with minor (summary) criminal offences and some civil matters; they are presided over by magistrates or district judges.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_156",
+    "topic_id": "topic_government_3",
+    "question_text": "Which court in England and Wales deals with serious criminal cases tried before a jury?",
+    "options": [
+      { "id": "a", "text": "County Court" },
+      { "id": "b", "text": "Magistrates' Court" },
+      { "id": "c", "text": "Crown Court" },
+      { "id": "d", "text": "Family Court" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Crown Court handles serious (indictable) criminal offences, with cases heard before a judge and jury.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_157",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the role of a magistrate in the UK?",
+    "options": [
+      { "id": "a", "text": "A fully qualified lawyer who presides over Crown Court trials" },
+      { "id": "b", "text": "A volunteer member of the public who hears minor cases in Magistrates' Courts" },
+      { "id": "c", "text": "An appointed official who manages local council disputes" },
+      { "id": "d", "text": "A senior barrister who advises the judge in complex cases" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Most magistrates are unpaid volunteers from the local community who hear minor criminal and civil cases; they do not need formal legal qualifications.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_158",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the principle of the rule of law?",
+    "options": [
+      { "id": "a", "text": "Parliament can change any law at any time" },
+      { "id": "b", "text": "Everyone, including the government, is subject to and equal before the law" },
+      { "id": "c", "text": "The courts must follow government instructions in legal decisions" },
+      { "id": "d", "text": "Judges are elected by the public to ensure accountability" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The rule of law means that everyone — including governments and public officials — must obey the law and no one is above it.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_159",
+    "topic_id": "topic_government_3",
+    "question_text": "What type of court deals with civil disputes such as personal injury or breach of contract in England and Wales?",
+    "options": [
+      { "id": "a", "text": "Crown Court" },
+      { "id": "b", "text": "Magistrates' Court" },
+      { "id": "c", "text": "County Court" },
+      { "id": "d", "text": "Coroner's Court" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "County Courts in England and Wales handle a wide range of civil disputes, including personal injury claims, debt recovery, and contract disputes.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_160",
+    "topic_id": "topic_government_3",
+    "question_text": "What distinguishes criminal law from civil law?",
+    "options": [
+      { "id": "a", "text": "Criminal law deals with disputes between individuals; civil law punishes offenders" },
+      { "id": "b", "text": "Criminal law involves the state prosecuting offenders; civil law resolves disputes between individuals or organisations" },
+      { "id": "c", "text": "Criminal law is only for adults; civil law also covers children" },
+      { "id": "d", "text": "Civil law carries prison sentences; criminal law results in fines only" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "In criminal law, the state prosecutes individuals accused of crimes; civil law handles disputes between private parties seeking compensation or remedies.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_161",
+    "topic_id": "topic_government_3",
+    "question_text": "What is judicial independence?",
+    "options": [
+      { "id": "a", "text": "The power of judges to create new laws independently of Parliament" },
+      { "id": "b", "text": "The principle that judges make decisions free from government interference" },
+      { "id": "c", "text": "The right of judges to refuse to hear government cases" },
+      { "id": "d", "text": "The system by which judges are elected independently by the public" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Judicial independence means that judges must be free to make decisions based on the law without pressure or interference from the government or other parties.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_162",
+    "topic_id": "topic_government_3",
+    "question_text": "The European Court of Human Rights is based in which city?",
+    "options": [
+      { "id": "a", "text": "Brussels" },
+      { "id": "b", "text": "Geneva" },
+      { "id": "c", "text": "Strasbourg" },
+      { "id": "d", "text": "Luxembourg" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The European Court of Human Rights is based in Strasbourg, France, and adjudicates cases brought under the European Convention on Human Rights.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_163",
+    "topic_id": "topic_government_3",
+    "question_text": "In Scotland, serious criminal cases are heard in which court?",
+    "options": [
+      { "id": "a", "text": "The Crown Court" },
+      { "id": "b", "text": "The High Court of Justiciary" },
+      { "id": "c", "text": "The Sheriff Court" },
+      { "id": "d", "text": "The Court of Session" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "In Scotland, serious criminal cases are heard in the High Court of Justiciary, which is the supreme criminal court in Scotland.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_164",
+    "topic_id": "topic_government_3",
+    "question_text": "What is common law?",
+    "options": [
+      { "id": "a", "text": "Laws that apply equally to all citizens" },
+      { "id": "b", "text": "Law developed through judges' decisions in court cases over time" },
+      { "id": "c", "text": "Laws passed by local councils" },
+      { "id": "d", "text": "International laws agreed between countries" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Common law is the body of law developed through judicial decisions and precedents established in court cases, rather than through legislation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_165",
+    "topic_id": "topic_government_3",
+    "question_text": "What right does someone have when they are arrested in the UK?",
+    "options": [
+      { "id": "a", "text": "The right to be released immediately if they cannot afford bail" },
+      { "id": "b", "text": "The right to remain silent and the right to legal advice" },
+      { "id": "c", "text": "The right to have their case heard within 24 hours" },
+      { "id": "d", "text": "The right to choose their own judge" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "When arrested, a person has the right to remain silent (to avoid self-incrimination) and the right to legal advice, including from a duty solicitor if needed.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_166",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the small claims court used for in England and Wales?",
+    "options": [
+      { "id": "a", "text": "Minor criminal offences involving fines under £500" },
+      { "id": "b", "text": "Civil disputes involving relatively small amounts of money, typically under £10,000" },
+      { "id": "c", "text": "Employment tribunals for workers claiming unfair dismissal" },
+      { "id": "d", "text": "Family disputes about child custody" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The small claims track within the County Court handles lower-value civil disputes, providing a simpler and cheaper process for claiming smaller sums.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_167",
+    "topic_id": "topic_government_3",
+    "question_text": "Which Act protects individuals from unfair treatment by public authorities in the UK?",
+    "options": [
+      { "id": "a", "text": "The Civil Rights Act" },
+      { "id": "b", "text": "The Human Rights Act 1998" },
+      { "id": "c", "text": "The Data Protection Act" },
+      { "id": "d", "text": "The Freedom of Information Act" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Human Rights Act 1998 makes it unlawful for public authorities to act in ways incompatible with rights protected by the European Convention on Human Rights.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_168",
+    "topic_id": "topic_government_4",
+    "question_text": "At what age can a person vote in a UK general election?",
+    "options": [
+      { "id": "a", "text": "16" },
+      { "id": "b", "text": "17" },
+      { "id": "c", "text": "18" },
+      { "id": "d", "text": "21" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The minimum voting age for UK general elections is 18. In Scottish Parliament and Welsh Senedd elections, 16-year-olds can vote.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_169",
+    "topic_id": "topic_government_4",
+    "question_text": "What must a person do before they can vote in a UK election?",
+    "options": [
+      { "id": "a", "text": "Apply for a national insurance number" },
+      { "id": "b", "text": "Register on the electoral register" },
+      { "id": "c", "text": "Obtain a polling card from their local MP" },
+      { "id": "d", "text": "Provide proof of employment to the electoral authority" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "To vote in the UK, a person must first register on the electoral register, which is maintained by local councils.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_170",
+    "topic_id": "topic_government_4",
+    "question_text": "Which of the following groups CANNOT vote in a UK general election?",
+    "options": [
+      { "id": "a", "text": "British citizens aged 18 or over" },
+      { "id": "b", "text": "Irish citizens resident in the UK aged 18 or over" },
+      { "id": "c", "text": "Commonwealth citizens with the right to reside in the UK aged 18 or over" },
+      { "id": "d", "text": "Citizens of EU countries (other than Ireland) resident in the UK" }
+    ],
+    "correct_option_ids": ["d"],
+    "explanation": "Citizens of EU countries (other than Ireland and qualifying Commonwealth nations) cannot vote in UK general elections; only British, Irish, and eligible Commonwealth citizens can.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_171",
+    "topic_id": "topic_government_4",
+    "question_text": "What is jury service?",
+    "options": [
+      { "id": "a", "text": "The duty to report crimes to the police" },
+      { "id": "b", "text": "The civic duty to serve on a jury when summoned to decide a criminal case" },
+      { "id": "c", "text": "A voluntary scheme for citizens to assist magistrates in court" },
+      { "id": "d", "text": "Community service carried out instead of a prison sentence" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Jury service is a legal obligation where eligible citizens are called to serve on a jury of 12 people to reach a verdict in a serious criminal trial.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_172",
+    "topic_id": "topic_government_4",
+    "question_text": "What is council tax used for?",
+    "options": [
+      { "id": "a", "text": "To fund national defence and the armed forces" },
+      { "id": "b", "text": "To pay for local services such as refuse collection, libraries, and schools" },
+      { "id": "c", "text": "To fund the National Health Service" },
+      { "id": "d", "text": "To contribute to the national pension fund" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Council tax is a local tax collected by local councils to fund local services, including waste collection, street lighting, parks, and local schools.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_173",
+    "topic_id": "topic_government_4",
+    "question_text": "What is the Commonwealth?",
+    "options": [
+      { "id": "a", "text": "A military alliance led by the United Kingdom" },
+      { "id": "b", "text": "A voluntary association of mostly former territories of the British Empire" },
+      { "id": "c", "text": "An economic union similar to the European Union" },
+      { "id": "d", "text": "An international court that resolves disputes between nations" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Commonwealth is a voluntary association of 56 countries, most of which were formerly part of the British Empire, working together on shared goals.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_174",
+    "topic_id": "topic_government_4",
+    "question_text": "What does NATO stand for?",
+    "options": [
+      { "id": "a", "text": "National Authority for Trade Overseas" },
+      { "id": "b", "text": "North Atlantic Treaty Organisation" },
+      { "id": "c", "text": "Northern Alliance of Trading Operations" },
+      { "id": "d", "text": "National Allied Treaty Organisation" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "NATO stands for the North Atlantic Treaty Organisation, a military alliance formed in 1949 of which the UK is a founding member.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_175",
+    "topic_id": "topic_government_4",
+    "question_text": "What is the primary role of local government in the UK?",
+    "options": [
+      { "id": "a", "text": "To pass national legislation on behalf of Parliament" },
+      { "id": "b", "text": "To deliver local services and manage local issues within their area" },
+      { "id": "c", "text": "To appoint local magistrates and judges" },
+      { "id": "d", "text": "To manage immigration applications within their region" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Local governments (councils) are responsible for delivering services in their area, such as planning, housing, social care, and refuse collection.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_176",
+    "topic_id": "topic_government_4",
+    "question_text": "The United Nations was founded after which major world event?",
+    "options": [
+      { "id": "a", "text": "The First World War" },
+      { "id": "b", "text": "The Second World War" },
+      { "id": "c", "text": "The Cold War" },
+      { "id": "d", "text": "The Korean War" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The United Nations was established in 1945 after the Second World War to promote international peace, security, and cooperation.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_177",
+    "topic_id": "topic_government_4",
+    "question_text": "Which of the following is a responsibility of a UK citizen or permanent resident?",
+    "options": [
+      { "id": "a", "text": "To vote in all elections" },
+      { "id": "b", "text": "To pay taxes on earnings and to obey the law" },
+      { "id": "c", "text": "To join the armed forces when required" },
+      { "id": "d", "text": "To attend public consultations held by local councils" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Key civic responsibilities include obeying the law and paying taxes; voting and military service are not compulsory in the UK.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_178",
+    "topic_id": "topic_government_4",
+    "question_text": "How are local councillors in the UK chosen?",
+    "options": [
+      { "id": "a", "text": "They are appointed by the central government" },
+      { "id": "b", "text": "They are elected by local residents" },
+      { "id": "c", "text": "They are selected by the local council leader" },
+      { "id": "d", "text": "They are chosen from a pool of civil servants" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Local councillors are democratically elected by residents in their local ward to represent them on the council and make decisions about local services.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_179",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the Scottish Parliament and where does it sit?",
+    "options": [
+      { "id": "a", "text": "A local council that meets in Glasgow" },
+      { "id": "b", "text": "The devolved legislature for Scotland, which sits at Holyrood in Edinburgh" },
+      { "id": "c", "text": "A committee of the UK Parliament based in Westminster" },
+      { "id": "d", "text": "An advisory body that meets in Aberdeen" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Scottish Parliament was re-established in 1999 following devolution. It sits at Holyrood in Edinburgh and has powers over areas such as health, education, law, and the environment in Scotland.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_180",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the Welsh Senedd (formerly the Welsh Assembly)?",
+    "options": [
+      { "id": "a", "text": "A committee within the UK Parliament" },
+      { "id": "b", "text": "The devolved parliament of Wales, based in Cardiff Bay" },
+      { "id": "c", "text": "A local council for the city of Cardiff" },
+      { "id": "d", "text": "An advisory body for Welsh culture" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Senedd Cymru (Welsh Parliament), formerly the National Assembly for Wales, is the devolved parliament for Wales. It is based in Cardiff Bay and has powers over areas including health, education, and the Welsh language.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_181",
+    "topic_id": "topic_government_2",
+    "question_text": "The Northern Ireland Assembly was established following which historic agreement?",
+    "options": [
+      { "id": "a", "text": "The Act of Union 1801" },
+      { "id": "b", "text": "The Good Friday (Belfast) Agreement 1998" },
+      { "id": "c", "text": "The Treaty of Versailles 1919" },
+      { "id": "d", "text": "The Maastricht Treaty 1992" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Northern Ireland Assembly was established as part of the Good Friday (Belfast) Agreement of 1998, which helped bring peace after decades of conflict known as 'the Troubles'. It operates on a power-sharing basis between unionist and nationalist parties.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_182",
+    "topic_id": "topic_government_2",
+    "question_text": "Where does the Northern Ireland Assembly meet?",
+    "options": [
+      { "id": "a", "text": "Belfast City Hall" },
+      { "id": "b", "text": "Stormont, in Belfast" },
+      { "id": "c", "text": "Westminster, London" },
+      { "id": "d", "text": "Derry Guildhall" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Northern Ireland Assembly meets at Stormont, officially known as Parliament Buildings, located in the Stormont Estate in east Belfast. It has 90 elected members (MLAs).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_183",
+    "topic_id": "topic_government_2",
+    "question_text": "Which of the following is a power devolved to the Scottish Parliament, Welsh Senedd, and Northern Ireland Assembly?",
+    "options": [
+      { "id": "a", "text": "Defence and foreign policy" },
+      { "id": "b", "text": "Health and education" },
+      { "id": "c", "text": "Immigration" },
+      { "id": "d", "text": "Currency and monetary policy" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Health and education are devolved matters, meaning the Scottish Parliament, Welsh Senedd, and Northern Ireland Assembly can make their own laws in these areas. Defence, foreign affairs, immigration, and currency remain reserved to the UK Parliament.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_184",
+    "topic_id": "topic_government_2",
+    "question_text": "Which powers are 'reserved' to the UK Parliament at Westminster and NOT devolved?",
+    "options": [
+      { "id": "a", "text": "Education and health" },
+      { "id": "b", "text": "Defence, foreign policy, and immigration" },
+      { "id": "c", "text": "Local roads and housing" },
+      { "id": "d", "text": "The Welsh language and Scottish law" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Reserved powers — those kept by the UK Parliament — include defence, foreign affairs, immigration, social security, and the constitution. The devolved administrations handle areas such as health, education, and transport within their territories.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_185",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the Commonwealth of Nations?",
+    "options": [
+      { "id": "a", "text": "A group of countries that were all once part of the British Empire, working together on shared goals" },
+      { "id": "b", "text": "Another name for the European Union" },
+      { "id": "c", "text": "A military alliance led by Britain" },
+      { "id": "d", "text": "A trade agreement between Britain and its former colonies" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "The Commonwealth of Nations is a voluntary association of 56 independent countries, most of which were formerly part of the British Empire. Members work together on shared values including democracy, human rights, and the rule of law.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_186",
+    "topic_id": "topic_government_2",
+    "question_text": "Approximately how many member states does the Commonwealth of Nations have?",
+    "options": [
+      { "id": "a", "text": "27" },
+      { "id": "b", "text": "56" },
+      { "id": "c", "text": "100" },
+      { "id": "d", "text": "15" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Commonwealth of Nations has 56 member states spanning Africa, Asia, the Americas, Europe, and the Pacific. Together, Commonwealth countries represent about 2.5 billion people, nearly a third of the world's population.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_187",
+    "topic_id": "topic_government_2",
+    "question_text": "Who is the Head of the Commonwealth?",
+    "options": [
+      { "id": "a", "text": "The Prime Minister of the United Kingdom" },
+      { "id": "b", "text": "The Secretary-General of the United Nations" },
+      { "id": "c", "text": "The British monarch" },
+      { "id": "d", "text": "The President of the Commonwealth" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Head of the Commonwealth is the British monarch. This role is symbolic and is not hereditary by right — it is by agreement of the Commonwealth member states. King Charles III is the current Head of the Commonwealth.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_188",
+    "topic_id": "topic_government_2",
+    "question_text": "Which of the following countries is a member of the Commonwealth?",
+    "options": [
+      { "id": "a", "text": "France" },
+      { "id": "b", "text": "India" },
+      { "id": "c", "text": "China" },
+      { "id": "d", "text": "Brazil" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "India is one of the largest member states of the Commonwealth. Other notable members include Australia, Canada, South Africa, Nigeria, and New Zealand. France, China, and Brazil were never part of the British Empire and are not members.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_189",
+    "topic_id": "topic_government_2",
+    "question_text": "What are the Commonwealth Games?",
+    "options": [
+      { "id": "a", "text": "A political summit held annually" },
+      { "id": "b", "text": "A multi-sport event held every four years for Commonwealth member countries" },
+      { "id": "c", "text": "A trade fair for Commonwealth businesses" },
+      { "id": "d", "text": "A cultural festival" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Commonwealth Games are a multi-sport event held every four years, bringing together athletes from Commonwealth member countries. They are one of the largest multi-sport events in the world after the Olympic Games.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_190",
+    "topic_id": "topic_government_2",
+    "question_text": "The Scottish Parliament has the power to vary income tax rates in Scotland. What is this power called?",
+    "options": [
+      { "id": "a", "text": "The Barnett Formula" },
+      { "id": "b", "text": "Tax-varying power" },
+      { "id": "c", "text": "The Scottish tax rebate" },
+      { "id": "d", "text": "Revenue sharing" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Scottish Parliament has tax-varying powers that allow it to set different income tax rates and bands from the rest of the UK. These powers were enhanced by the Scotland Act 2016, giving Holyrood significant control over Scottish tax policy.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_191",
+    "topic_id": "topic_government_2",
+    "question_text": "How does devolution differ from independence?",
+    "options": [
+      { "id": "a", "text": "They mean exactly the same thing" },
+      { "id": "b", "text": "Devolution transfers some powers from central government while the UK Parliament retains overall sovereignty" },
+      { "id": "c", "text": "Devolution means the country is completely separate from the UK" },
+      { "id": "d", "text": "Devolution only applies to financial matters" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Devolution is the transfer of certain powers from the UK Parliament to national or regional assemblies, while the UK Parliament retains overall sovereignty. Unlike independence, the devolved nations remain part of the United Kingdom.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_192",
+    "topic_id": "topic_government_2",
+    "question_text": "How many Members of the Senedd (MS) sit in the Welsh Parliament?",
+    "options": [
+      { "id": "a", "text": "40" },
+      { "id": "b", "text": "60" },
+      { "id": "c", "text": "90" },
+      { "id": "d", "text": "129" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Welsh Senedd has 60 Members of the Senedd (MS), who are elected using a mixed system of constituency seats (first past the post) and regional seats (proportional representation).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_193",
+    "topic_id": "topic_government_1",
+    "question_text": "What services are local councils responsible for in the UK?",
+    "options": [
+      { "id": "a", "text": "Defence and foreign affairs" },
+      { "id": "b", "text": "Local services such as rubbish collection, local roads, libraries, and social care" },
+      { "id": "c", "text": "Running the NHS" },
+      { "id": "d", "text": "Setting national tax rates" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Local councils are responsible for providing many local services including waste collection, local road maintenance, libraries, social care, planning permission, parks, and environmental health. They are funded through council tax and central government grants.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_194",
+    "topic_id": "topic_government_1",
+    "question_text": "How are local councils funded?",
+    "options": [
+      { "id": "a", "text": "Entirely through donations" },
+      { "id": "b", "text": "Through council tax collected from residents and grants from central government" },
+      { "id": "c", "text": "Only through national income tax" },
+      { "id": "d", "text": "Through voluntary contributions from businesses" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Local councils are funded through a combination of council tax (paid by local residents), business rates, and grants from central government. Council tax rates are set by each council based on its spending needs.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_195",
+    "topic_id": "topic_government_1",
+    "question_text": "What is a directly elected mayor?",
+    "options": [
+      { "id": "a", "text": "A mayor appointed by the Prime Minister" },
+      { "id": "b", "text": "A mayor elected directly by voters in a city or region" },
+      { "id": "c", "text": "A ceremonial role with no real power" },
+      { "id": "d", "text": "A title given to the longest-serving councillor" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Some cities and regions in England have directly elected mayors, chosen by voters in local elections. They have executive powers to make decisions about local services, transport, planning, and policing in their area. London's Mayor is the most well-known example.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_196",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the role of a parish or town council in England?",
+    "options": [
+      { "id": "a", "text": "To collect national taxes" },
+      { "id": "b", "text": "To manage very local matters such as allotments, village halls, and local footpaths" },
+      { "id": "c", "text": "To run schools and hospitals" },
+      { "id": "d", "text": "To appoint Members of Parliament" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Parish and town councils are the lowest tier of local government in England. They deal with very local matters such as maintaining allotments, parks, bus shelters, village halls, and local footpaths. Councillors are elected by local residents.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_197",
+    "topic_id": "topic_government_1",
+    "question_text": "How often are local council elections typically held in England?",
+    "options": [
+      { "id": "a", "text": "Every year" },
+      { "id": "b", "text": "Every two years" },
+      { "id": "c", "text": "Every four years, though some councils elect by thirds" },
+      { "id": "d", "text": "Every five years" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Local council elections in England are typically held every four years. However, some councils elect a third of their members each year over a four-year cycle. The voting system used is first past the post in most areas.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_198",
+    "topic_id": "topic_government_1",
+    "question_text": "Who can stand as a candidate in local council elections?",
+    "options": [
+      { "id": "a", "text": "Only Members of Parliament" },
+      { "id": "b", "text": "UK, Irish, or qualifying Commonwealth citizens over 18 who live or work in the area" },
+      { "id": "c", "text": "Anyone in the world over the age of 21" },
+      { "id": "d", "text": "Only people who own property in the area" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "To stand for local council election, a person must be at least 18 years old and be a British, Irish, or qualifying Commonwealth citizen. They must also have a connection to the area, such as living or working there.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_199",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the Greater London Authority (GLA)?",
+    "options": [
+      { "id": "a", "text": "A national government department" },
+      { "id": "b", "text": "The devolved government for London, consisting of the Mayor and London Assembly" },
+      { "id": "c", "text": "A charity for London residents" },
+      { "id": "d", "text": "The police authority for London" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Greater London Authority consists of the directly elected Mayor of London and the London Assembly (25 members). It is responsible for strategic planning, transport (through Transport for London), policing, fire services, and economic development across London.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_200",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the difference between a ceremonial mayor and an elected mayor?",
+    "options": [
+      { "id": "a", "text": "They are exactly the same" },
+      { "id": "b", "text": "A ceremonial mayor is chosen by councillors for civic duties; an elected mayor is voted in by the public and has executive powers" },
+      { "id": "c", "text": "A ceremonial mayor has more power" },
+      { "id": "d", "text": "An elected mayor is appointed by the government" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A ceremonial mayor is chosen by fellow councillors for a one-year term and performs civic and ceremonial duties. An elected mayor is directly voted in by the public and has real executive powers to make decisions about local services, budgets, and planning.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_201",
+    "topic_id": "topic_government_2",
+    "question_text": "What is NATO and what is the UK's role in it?",
+    "options": [
+      { "id": "a", "text": "A trade organisation; the UK is an observer" },
+      { "id": "b", "text": "The North Atlantic Treaty Organization — a military alliance of which the UK is a founding member" },
+      { "id": "c", "text": "A United Nations peacekeeping force" },
+      { "id": "d", "text": "A European economic union" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "NATO (the North Atlantic Treaty Organization) is a military alliance formed in 1949. The UK was a founding member. NATO's principle is collective defence — an attack on one member is considered an attack on all. It currently has 32 member states.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_202",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the United Nations (UN) and when was it founded?",
+    "options": [
+      { "id": "a", "text": "A European trade body founded in 1957" },
+      { "id": "b", "text": "An international organization founded in 1945 to maintain peace and security" },
+      { "id": "c", "text": "A military alliance founded after WWI" },
+      { "id": "d", "text": "A charity set up by the Commonwealth" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The United Nations was founded in 1945 after World War II to maintain international peace and security, promote human rights, and foster cooperation between countries. The UK is a permanent member of the UN Security Council.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_203",
+    "topic_id": "topic_government_2",
+    "question_text": "The UK is a permanent member of which important UN body?",
+    "options": [
+      { "id": "a", "text": "The UN General Assembly" },
+      { "id": "b", "text": "The UN Security Council" },
+      { "id": "c", "text": "The International Court of Justice" },
+      { "id": "d", "text": "The UN Economic and Social Council" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The UK is one of five permanent members of the UN Security Council (along with the USA, France, Russia, and China). Permanent members have the power to veto any substantive Security Council resolution.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_204",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the UK's current relationship with the European Union?",
+    "options": [
+      { "id": "a", "text": "The UK is a full member of the EU" },
+      { "id": "b", "text": "The UK left the EU on 31 January 2020 (Brexit)" },
+      { "id": "c", "text": "The UK is an associate member of the EU" },
+      { "id": "d", "text": "The UK has applied to rejoin the EU" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The UK left the European Union on 31 January 2020, following a referendum held in June 2016 in which 52% voted to leave. This process is commonly known as Brexit. The UK now has a Trade and Cooperation Agreement with the EU.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_205",
+    "topic_id": "topic_government_2",
+    "question_text": "When was the EU referendum held in the UK?",
+    "options": [
+      { "id": "a", "text": "23 June 2015" },
+      { "id": "b", "text": "23 June 2016" },
+      { "id": "c", "text": "29 March 2017" },
+      { "id": "d", "text": "31 January 2020" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The EU referendum was held on 23 June 2016. The result was 51.9% in favour of leaving and 48.1% in favour of remaining. The UK formally left the EU on 31 January 2020.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_206",
+    "topic_id": "topic_government_2",
+    "question_text": "Which international treaty established the collective defence principle that 'an attack on one member is an attack on all'?",
+    "options": [
+      { "id": "a", "text": "The Treaty of Rome" },
+      { "id": "b", "text": "The North Atlantic Treaty (NATO Treaty)" },
+      { "id": "c", "text": "The United Nations Charter" },
+      { "id": "d", "text": "The Lisbon Treaty" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Article 5 of the North Atlantic Treaty (1949) established the principle of collective defence, stating that an armed attack against one member shall be considered an attack against all. This principle is the cornerstone of NATO.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_207",
+    "topic_id": "topic_government_2",
+    "question_text": "What are the Crown Dependencies of the UK?",
+    "options": [
+      { "id": "a", "text": "Scotland, Wales, and Northern Ireland" },
+      { "id": "b", "text": "Jersey, Guernsey, and the Isle of Man" },
+      { "id": "c", "text": "The Falkland Islands and Gibraltar" },
+      { "id": "d", "text": "Canada, Australia, and New Zealand" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Crown Dependencies are Jersey, Guernsey, and the Isle of Man. They are not part of the UK but are self-governing territories for which the UK is responsible for defence and international relations. They have their own governments and legal systems.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_208",
+    "topic_id": "topic_government_2",
+    "question_text": "Which of the following is a British Overseas Territory?",
+    "options": [
+      { "id": "a", "text": "Malta" },
+      { "id": "b", "text": "Gibraltar" },
+      { "id": "c", "text": "Hong Kong" },
+      { "id": "d", "text": "Cyprus" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Gibraltar is one of 14 British Overseas Territories. Others include the Falkland Islands, Bermuda, and the Cayman Islands. These territories are under the sovereignty of the UK but are not part of the UK itself and have their own local governments.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_209",
+    "topic_id": "topic_government_1",
+    "question_text": "How many constituencies are there in the UK for general elections?",
+    "options": [
+      { "id": "a", "text": "500" },
+      { "id": "b", "text": "600" },
+      { "id": "c", "text": "650" },
+      { "id": "d", "text": "700" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "There are 650 constituencies in the UK, each electing one MP to the House of Commons using the first past the post system.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_210",
+    "topic_id": "topic_government_1",
+    "question_text": "Each constituency in the UK elects how many Members of Parliament?",
+    "options": [
+      { "id": "a", "text": "One" },
+      { "id": "b", "text": "Two" },
+      { "id": "c", "text": "Three" },
+      { "id": "d", "text": "It varies by population" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "Each constituency elects one MP to represent it in the House of Commons. The candidate who receives the most votes wins the seat.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_211",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the main function of the House of Lords?",
+    "options": [
+      { "id": "a", "text": "To elect the Prime Minister" },
+      { "id": "b", "text": "To suggest amendments to Bills and scrutinise the work of government" },
+      { "id": "c", "text": "To set the national budget" },
+      { "id": "d", "text": "To manage local government" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The House of Lords reviews and amends legislation proposed by the House of Commons. It acts as a revising chamber, scrutinising Bills and holding the government to account through questions and debates.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_212",
+    "topic_id": "topic_government_1",
+    "question_text": "Can the House of Lords permanently block a Bill passed by the House of Commons?",
+    "options": [
+      { "id": "a", "text": "Yes, the Lords have an absolute veto" },
+      { "id": "b", "text": "No, the Lords can delay but not permanently block most Bills under the Parliament Acts" },
+      { "id": "c", "text": "Only if the monarch agrees" },
+      { "id": "d", "text": "Only on financial Bills" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Under the Parliament Acts of 1911 and 1949, the House of Lords can delay most Bills for up to one year but cannot permanently block them. Money Bills can only be delayed for one month.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_213",
+    "topic_id": "topic_government_1",
+    "question_text": "Who appoints the Prime Minister of the United Kingdom?",
+    "options": [
+      { "id": "a", "text": "Members of Parliament in a secret ballot" },
+      { "id": "b", "text": "The monarch" },
+      { "id": "c", "text": "The House of Lords" },
+      { "id": "d", "text": "The public in a direct election" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The monarch formally appoints the Prime Minister. By convention, the monarch invites the leader of the political party that can command a majority in the House of Commons to form a government.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_214",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the Cabinet?",
+    "options": [
+      { "id": "a", "text": "A group of all Members of Parliament from the governing party" },
+      { "id": "b", "text": "A committee of about 20 senior ministers chosen by the Prime Minister" },
+      { "id": "c", "text": "The group of permanent civil servants who run government departments" },
+      { "id": "d", "text": "An advisory body appointed by the monarch" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Cabinet is made up of about 20 senior ministers chosen by the Prime Minister. They are responsible for major government departments and collectively make key policy decisions.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_215",
+    "topic_id": "topic_government_1",
+    "question_text": "The Prime Minister must be a member of which House of Parliament?",
+    "options": [
+      { "id": "a", "text": "The House of Lords" },
+      { "id": "b", "text": "The House of Commons" },
+      { "id": "c", "text": "Either House" },
+      { "id": "d", "text": "Neither — the PM does not need to be in Parliament" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "By modern convention, the Prime Minister must be a member of the House of Commons and must be able to command a majority there. The last PM from the Lords was the Marquess of Salisbury in 1902.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_216",
+    "topic_id": "topic_government_1",
+    "question_text": "What happens if the Speaker of the House of Commons is an MP?",
+    "options": [
+      { "id": "a", "text": "The Speaker continues to vote on all matters as a normal MP" },
+      { "id": "b", "text": "The Speaker does not vote except to break a tie, and must remain politically neutral" },
+      { "id": "c", "text": "The Speaker is replaced by a new MP for their constituency" },
+      { "id": "d", "text": "The Speaker joins the House of Lords" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Speaker remains an MP but must be politically impartial. They do not vote in debates except to break a tie, and by convention they cast a deciding vote to maintain the status quo.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_217",
+    "topic_id": "topic_government_1",
+    "question_text": "Which of these best describes the role of the Prime Minister?",
+    "options": [
+      { "id": "a", "text": "Head of state who represents the UK abroad" },
+      { "id": "b", "text": "Head of government who leads the executive and directs policy" },
+      { "id": "c", "text": "Head of the judiciary who oversees the courts" },
+      { "id": "d", "text": "A ceremonial role with no real power" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Prime Minister is the head of government and leads the executive branch. They set government policy, chair the Cabinet, appoint ministers, and represent the UK government domestically and internationally.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_218",
+    "topic_id": "topic_government_1",
+    "question_text": "What is collective Cabinet responsibility?",
+    "options": [
+      { "id": "a", "text": "The requirement for all ministers to attend every Cabinet meeting" },
+      { "id": "b", "text": "The convention that all Cabinet ministers must publicly support government decisions, or resign" },
+      { "id": "c", "text": "The duty of the Cabinet to consult Parliament before making decisions" },
+      { "id": "d", "text": "The obligation for Cabinet members to share one official residence" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Collective Cabinet responsibility means that once a decision is made by the Cabinet, all ministers must publicly support it regardless of any private disagreements. A minister who cannot support a decision is expected to resign.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_219",
+    "topic_id": "topic_government_1",
+    "question_text": "Where does the Prime Minister officially reside?",
+    "options": [
+      { "id": "a", "text": "Buckingham Palace" },
+      { "id": "b", "text": "10 Downing Street" },
+      { "id": "c", "text": "The Palace of Westminster" },
+      { "id": "d", "text": "Kensington Palace" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Prime Minister's official residence is 10 Downing Street in London. It has been the home of the Prime Minister since 1735.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_220",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the Chancellor of the Exchequer responsible for?",
+    "options": [
+      { "id": "a", "text": "Defence and the armed forces" },
+      { "id": "b", "text": "The economy and government finances" },
+      { "id": "c", "text": "Foreign affairs and diplomacy" },
+      { "id": "d", "text": "Education and schools" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Chancellor of the Exchequer is the government minister responsible for the economy, government finances, and the Treasury. They present the annual Budget to Parliament.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_221",
+    "topic_id": "topic_government_1",
+    "question_text": "Which of these is NOT a responsibility of the Cabinet?",
+    "options": [
+      { "id": "a", "text": "Deciding major government policies" },
+      { "id": "b", "text": "Coordinating the work of government departments" },
+      { "id": "c", "text": "Ruling on legal disputes between citizens" },
+      { "id": "d", "text": "Discussing matters of national importance" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Ruling on legal disputes is the role of the judiciary, not the Cabinet. The Cabinet is responsible for making key policy decisions, coordinating government departments, and discussing matters of national importance.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_222",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the process by which a Bill becomes an Act of Parliament?",
+    "options": [
+      { "id": "a", "text": "A Bill must be approved by the Prime Minister alone" },
+      { "id": "b", "text": "A Bill must pass through both the House of Commons and House of Lords, then receive Royal Assent" },
+      { "id": "c", "text": "A Bill only needs to pass through the House of Commons" },
+      { "id": "d", "text": "A Bill must be approved by the Supreme Court" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "To become law, a Bill must pass through several stages in both Houses of Parliament (Commons and Lords), including readings, committee stages, and report stages, and then receive Royal Assent from the monarch.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_223",
+    "topic_id": "topic_government_2",
+    "question_text": "What is Royal Assent?",
+    "options": [
+      { "id": "a", "text": "The monarch's power to dissolve Parliament" },
+      { "id": "b", "text": "The formal approval by the monarch that turns a Bill into an Act of Parliament" },
+      { "id": "c", "text": "The monarch's speech at the opening of Parliament" },
+      { "id": "d", "text": "A royal pardon granted to convicted criminals" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Royal Assent is the final step in the legislative process. Once a Bill has been approved by both Houses of Parliament, the monarch gives formal approval (Royal Assent), and it becomes an Act of Parliament (law).",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_224",
+    "topic_id": "topic_government_2",
+    "question_text": "What is a government Bill?",
+    "options": [
+      { "id": "a", "text": "A proposal for a new law introduced by a backbench MP" },
+      { "id": "b", "text": "A proposal for a new law introduced by the government, usually by a Cabinet minister" },
+      { "id": "c", "text": "An invoice sent by the government for council tax" },
+      { "id": "d", "text": "A financial statement produced by the Treasury" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A government Bill (also called a public Bill) is introduced by a government minister and reflects the policies of the governing party. Most Bills that become law are government Bills.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_225",
+    "topic_id": "topic_government_2",
+    "question_text": "What is a Private Member's Bill?",
+    "options": [
+      { "id": "a", "text": "A Bill that only applies to private companies" },
+      { "id": "b", "text": "A Bill introduced by an individual MP or Lord who is not a government minister" },
+      { "id": "c", "text": "A secret Bill discussed behind closed doors" },
+      { "id": "d", "text": "A Bill that concerns the private life of the monarch" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A Private Member's Bill is introduced by an MP or Lord who is not a government minister. These Bills allow backbenchers to propose new legislation, though they have less chance of becoming law without government support.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_226",
+    "topic_id": "topic_government_2",
+    "question_text": "What are the main stages a Bill goes through in the House of Commons?",
+    "options": [
+      { "id": "a", "text": "Royal Assent, then committee stage, then final vote" },
+      { "id": "b", "text": "First reading, second reading, committee stage, report stage, and third reading" },
+      { "id": "c", "text": "Introduction, debate, and public referendum" },
+      { "id": "d", "text": "Proposal, ministerial approval, and monarch's signature" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A Bill passes through five main stages in each House: first reading (introduction), second reading (general debate), committee stage (detailed examination), report stage (further amendments), and third reading (final vote).",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_227",
+    "topic_id": "topic_government_3",
+    "question_text": "What are the three branches of government in the UK?",
+    "options": [
+      { "id": "a", "text": "The monarchy, the Church, and Parliament" },
+      { "id": "b", "text": "The legislature, the executive, and the judiciary" },
+      { "id": "c", "text": "The Commons, the Lords, and the Cabinet" },
+      { "id": "d", "text": "Local government, national government, and devolved government" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The three branches of government are the legislature (Parliament, which makes laws), the executive (the government, which implements laws), and the judiciary (the courts, which interpret and apply laws).",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_228",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the separation of powers?",
+    "options": [
+      { "id": "a", "text": "The division of the UK into four nations" },
+      { "id": "b", "text": "The principle that the legislature, executive, and judiciary should operate independently of each other" },
+      { "id": "c", "text": "The sharing of powers between the UK and the EU" },
+      { "id": "d", "text": "The transfer of powers from the monarch to Parliament" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The separation of powers is the principle that the three branches of government — legislature, executive, and judiciary — should be separate and independent to prevent any one branch from becoming too powerful.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_229",
+    "topic_id": "topic_government_3",
+    "question_text": "Which branch of government is responsible for making laws in the UK?",
+    "options": [
+      { "id": "a", "text": "The executive" },
+      { "id": "b", "text": "The judiciary" },
+      { "id": "c", "text": "The legislature (Parliament)" },
+      { "id": "d", "text": "The civil service" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The legislature — Parliament, consisting of the House of Commons and the House of Lords — is responsible for debating and passing laws. The executive proposes most laws, but Parliament must approve them.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_230",
+    "topic_id": "topic_government_3",
+    "question_text": "Which branch of government interprets and applies the law?",
+    "options": [
+      { "id": "a", "text": "The legislature" },
+      { "id": "b", "text": "The executive" },
+      { "id": "c", "text": "The judiciary" },
+      { "id": "d", "text": "The Cabinet" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The judiciary — the system of courts and judges — is responsible for interpreting and applying the law. Judges must be independent of the government and Parliament.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_231",
+    "topic_id": "topic_government_3",
+    "question_text": "When was the UK Supreme Court established?",
+    "options": [
+      { "id": "a", "text": "1999" },
+      { "id": "b", "text": "2005" },
+      { "id": "c", "text": "2009" },
+      { "id": "d", "text": "2015" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK Supreme Court was established in 2009, taking over the judicial functions previously held by the Law Lords in the House of Lords. This strengthened the separation of powers between the legislature and the judiciary.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_232",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the role of the executive branch of government?",
+    "options": [
+      { "id": "a", "text": "To make laws" },
+      { "id": "b", "text": "To interpret laws and settle disputes" },
+      { "id": "c", "text": "To implement laws and run government departments" },
+      { "id": "d", "text": "To elect the Speaker" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The executive branch — the Prime Minister, Cabinet, and government departments — is responsible for implementing and enforcing laws passed by Parliament and running the day-to-day affairs of the country.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_233",
+    "topic_id": "topic_government_3",
+    "question_text": "In Scotland, what is the equivalent of the Crown Court for serious criminal cases?",
+    "options": [
+      { "id": "a", "text": "The Sheriff Court" },
+      { "id": "b", "text": "The High Court of Justiciary" },
+      { "id": "c", "text": "The Court of Session" },
+      { "id": "d", "text": "The Supreme Court" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "In Scotland, the High Court of Justiciary handles the most serious criminal cases such as murder. It is the supreme criminal court in Scotland, and there is no appeal from it to the UK Supreme Court on criminal matters.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_234",
+    "topic_id": "topic_government_4",
+    "question_text": "What is the electoral register?",
+    "options": [
+      { "id": "a", "text": "A list of all political parties in the UK" },
+      { "id": "b", "text": "A list of everyone who is registered to vote in elections" },
+      { "id": "c", "text": "A record of how people voted in previous elections" },
+      { "id": "d", "text": "A list of candidates standing for election" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The electoral register (also called the electoral roll) is a list of everyone who is registered to vote. To vote in any UK election, a person must be on the electoral register. Local councils maintain it.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_235",
+    "topic_id": "topic_government_4",
+    "question_text": "Who is responsible for maintaining the electoral register?",
+    "options": [
+      { "id": "a", "text": "The national government" },
+      { "id": "b", "text": "Local electoral registration offices (local councils)" },
+      { "id": "c", "text": "The police" },
+      { "id": "d", "text": "Members of Parliament" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The electoral register is maintained by local electoral registration offices, which are part of local councils. Every household receives a form annually asking them to confirm or update their details on the register.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_236",
+    "topic_id": "topic_government_4",
+    "question_text": "Under the first past the post system, how is the winner of an election decided?",
+    "options": [
+      { "id": "a", "text": "The candidate who wins more than 50% of votes" },
+      { "id": "b", "text": "The candidate who gets the most votes, even without a majority" },
+      { "id": "c", "text": "A run-off between the top two candidates" },
+      { "id": "d", "text": "A panel of judges decides" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "In the first past the post system, the candidate with the most votes wins, even if they do not have an overall majority (more than 50%). This system is used for UK general elections and most local elections in England and Wales.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_237",
+    "topic_id": "topic_government_4",
+    "question_text": "When can a by-election be triggered in the UK?",
+    "options": [
+      { "id": "a", "text": "When the Prime Minister calls one for any constituency" },
+      { "id": "b", "text": "When an MP dies, resigns, or is disqualified" },
+      { "id": "c", "text": "Every two years for each constituency" },
+      { "id": "d", "text": "When a petition is signed by local residents" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A by-election is held when a seat in the House of Commons becomes vacant, typically because an MP has died, resigned, or been disqualified. It allows the constituency to elect a new representative between general elections.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_238",
+    "topic_id": "topic_government_4",
+    "question_text": "At what age can you vote in Scottish Parliament and Welsh Senedd elections?",
+    "options": [
+      { "id": "a", "text": "15" },
+      { "id": "b", "text": "16" },
+      { "id": "c", "text": "17" },
+      { "id": "d", "text": "18" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Since 2015 in Scotland and 2020 in Wales, 16- and 17-year-olds have been able to vote in Scottish Parliament and Welsh Senedd elections. The voting age for UK general elections remains 18.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_239",
+    "topic_id": "topic_government_2",
+    "question_text": "What article of the Treaty on European Union was used to trigger the UK's departure from the EU?",
+    "options": [
+      { "id": "a", "text": "Article 7" },
+      { "id": "b", "text": "Article 50" },
+      { "id": "c", "text": "Article 13" },
+      { "id": "d", "text": "Article 100" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Article 50 of the Treaty on European Union provides the process for a member state to leave the EU. The UK government triggered Article 50 on 29 March 2017, starting a two-year negotiation period.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_240",
+    "topic_id": "topic_government_2",
+    "question_text": "When did the UK formally leave the European Union?",
+    "options": [
+      { "id": "a", "text": "23 June 2016" },
+      { "id": "b", "text": "29 March 2017" },
+      { "id": "c", "text": "31 January 2020" },
+      { "id": "d", "text": "31 December 2020" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The UK formally left the EU on 31 January 2020. A transition period then ran until 31 December 2020, during which the UK and EU negotiated their future relationship. 23 June 2016 was the referendum date.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_241",
+    "topic_id": "topic_government_2",
+    "question_text": "What percentage of voters chose to leave the EU in the 2016 referendum?",
+    "options": [
+      { "id": "a", "text": "48%" },
+      { "id": "b", "text": "50%" },
+      { "id": "c", "text": "52%" },
+      { "id": "d", "text": "55%" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "In the 2016 EU referendum, 51.9% (approximately 52%) voted to leave and 48.1% voted to remain. The turnout was 72.2%, making it one of the highest turnouts for a UK-wide vote.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_242",
+    "topic_id": "topic_government_2",
+    "question_text": "Which of the following is a devolved matter that the Scottish Parliament can legislate on?",
+    "options": [
+      { "id": "a", "text": "Foreign affairs" },
+      { "id": "b", "text": "Immigration" },
+      { "id": "c", "text": "Education" },
+      { "id": "d", "text": "The currency" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Education is a devolved matter, meaning the Scottish Parliament can make its own laws about schools and universities in Scotland. Foreign affairs, immigration, and the currency are reserved to the UK Parliament at Westminster.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_243",
+    "topic_id": "topic_government_2",
+    "question_text": "How many Members of the Legislative Assembly (MLAs) sit in the Northern Ireland Assembly?",
+    "options": [
+      { "id": "a", "text": "60" },
+      { "id": "b", "text": "72" },
+      { "id": "c", "text": "90" },
+      { "id": "d", "text": "108" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Northern Ireland Assembly has 90 MLAs, elected from 18 constituencies using the single transferable vote system of proportional representation. The Assembly operates on a power-sharing basis.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_244",
+    "topic_id": "topic_government_2",
+    "question_text": "What is power-sharing in the context of the Northern Ireland Assembly?",
+    "options": [
+      { "id": "a", "text": "The Assembly shares power with the Republic of Ireland" },
+      { "id": "b", "text": "Executive positions are shared between unionist and nationalist parties" },
+      { "id": "c", "text": "Power is shared equally between the Assembly and Westminster" },
+      { "id": "d", "text": "All parties must agree on every vote" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Power-sharing in Northern Ireland means that the Executive (government) must include ministers from both unionist and nationalist communities. The First Minister and deputy First Minister must come from different communities, ensuring cross-community participation.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_245",
+    "topic_id": "topic_government_1",
+    "question_text": "What types of local councils exist in England?",
+    "options": [
+      { "id": "a", "text": "Only county councils" },
+      { "id": "b", "text": "County councils, district councils, unitary authorities, metropolitan boroughs, and London boroughs" },
+      { "id": "c", "text": "Only metropolitan councils and rural councils" },
+      { "id": "d", "text": "Parish councils only" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "England has several types of local councils: county councils, district councils, unitary authorities (which combine county and district functions), metropolitan borough councils, and London borough councils. Parish and town councils are the lowest tier.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_246",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the role of the Mayor of London?",
+    "options": [
+      { "id": "a", "text": "To run individual London borough councils" },
+      { "id": "b", "text": "To provide strategic leadership for London on transport, policing, housing, and economic development" },
+      { "id": "c", "text": "To represent London in the UK Parliament" },
+      { "id": "d", "text": "To manage London's hospitals and schools" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Mayor of London is directly elected and provides strategic citywide leadership on transport (through TfL), policing, fire services, housing strategy, and economic development. Individual borough councils manage local services.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_247",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the London Assembly?",
+    "options": [
+      { "id": "a", "text": "A national committee for London affairs" },
+      { "id": "b", "text": "A body of 25 elected members that scrutinises the Mayor of London's activities" },
+      { "id": "c", "text": "The governing body of the City of London" },
+      { "id": "d", "text": "A committee of London MPs" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The London Assembly consists of 25 elected members who hold the Mayor of London to account. They examine the Mayor's budget, strategies, and decisions, and can investigate issues of importance to Londoners.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_248",
+    "topic_id": "topic_government_4",
+    "question_text": "How many countries are members of the Commonwealth of Nations?",
+    "options": [
+      { "id": "a", "text": "28" },
+      { "id": "b", "text": "42" },
+      { "id": "c", "text": "56" },
+      { "id": "d", "text": "72" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Commonwealth has 56 member countries. Together, they represent about 2.5 billion people across Africa, Asia, the Americas, Europe, and the Pacific. Membership is voluntary.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_249",
+    "topic_id": "topic_government_4",
+    "question_text": "Who is the Head of the Commonwealth?",
+    "options": [
+      { "id": "a", "text": "The UK Prime Minister" },
+      { "id": "b", "text": "The Secretary-General of the Commonwealth" },
+      { "id": "c", "text": "The British monarch" },
+      { "id": "d", "text": "The President of India" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "The Head of the Commonwealth is the British monarch. King Charles III became Head of the Commonwealth in 2022. The role is not automatically inherited — it is by agreement of the member states.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_250",
+    "topic_id": "topic_government_4",
+    "question_text": "What does council tax pay for?",
+    "options": [
+      { "id": "a", "text": "Income tax and VAT" },
+      { "id": "b", "text": "Local services such as police, fire services, rubbish collection, and street lighting" },
+      { "id": "c", "text": "The National Health Service only" },
+      { "id": "d", "text": "Pensions and benefits" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Council tax is a local tax that funds local services including police, fire services, waste collection, street lighting, libraries, parks, and local road maintenance. The amount depends on the value of the property.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_251",
+    "topic_id": "topic_government_4",
+    "question_text": "How is the amount of council tax determined for a household?",
+    "options": [
+      { "id": "a", "text": "By the number of people living in the property" },
+      { "id": "b", "text": "Based on the estimated value of the property, placed into a band" },
+      { "id": "c", "text": "By the income of the household" },
+      { "id": "d", "text": "It is the same for every household in the UK" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Council tax is based on the estimated value of the property as of 1 April 1991 (in England and Scotland) or 2003 (in Wales). Properties are placed into bands (A to H), and the council sets the rate for each band.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_252",
+    "topic_id": "topic_government_2",
+    "question_text": "Which voting system is used for Scottish Parliament elections?",
+    "options": [
+      { "id": "a", "text": "First past the post" },
+      { "id": "b", "text": "Additional Member System (a form of proportional representation)" },
+      { "id": "c", "text": "Alternative vote" },
+      { "id": "d", "text": "Single non-transferable vote" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Scottish Parliament elections use the Additional Member System (AMS). Voters cast two votes: one for a constituency MSP (using first past the post) and one for a regional list (using proportional representation).",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_253",
+    "topic_id": "topic_government_2",
+    "question_text": "What voting system is used for the Northern Ireland Assembly?",
+    "options": [
+      { "id": "a", "text": "First past the post" },
+      { "id": "b", "text": "Additional Member System" },
+      { "id": "c", "text": "Single transferable vote (STV)" },
+      { "id": "d", "text": "Supplementary vote" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "Northern Ireland Assembly elections use the single transferable vote (STV) system, a form of proportional representation where voters rank candidates in order of preference. This helps ensure fair representation across communities.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_254",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the official name for a proposed new law being considered by Parliament?",
+    "options": [
+      { "id": "a", "text": "An Act" },
+      { "id": "b", "text": "A statute" },
+      { "id": "c", "text": "A Bill" },
+      { "id": "d", "text": "A decree" }
+    ],
+    "correct_option_ids": ["c"],
+    "explanation": "A proposed new law is called a Bill while it is being considered by Parliament. Once it has been approved by both Houses and received Royal Assent, it becomes an Act of Parliament.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_255",
+    "topic_id": "topic_government_1",
+    "question_text": "What are life peers?",
+    "options": [
+      { "id": "a", "text": "MPs who have served for more than 20 years" },
+      { "id": "b", "text": "Members of the House of Lords appointed for their lifetime, whose titles cannot be inherited" },
+      { "id": "c", "text": "Judges who serve on the Supreme Court for life" },
+      { "id": "d", "text": "Retired Prime Ministers" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Life peers are members of the House of Lords who hold their titles for their lifetime only — the title is not passed on to their children. Most are appointed on the recommendation of the Prime Minister or the House of Lords Appointments Commission.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_256",
+    "topic_id": "topic_government_1",
+    "question_text": "What are hereditary peers in the House of Lords?",
+    "options": [
+      { "id": "a", "text": "Peers who inherited their titles and the right to sit in the Lords" },
+      { "id": "b", "text": "Peers elected by the public" },
+      { "id": "c", "text": "Bishops who sit in the House of Lords" },
+      { "id": "d", "text": "Former Prime Ministers" }
+    ],
+    "correct_option_ids": ["a"],
+    "explanation": "Hereditary peers inherited their titles and traditionally had an automatic right to sit in the House of Lords. The House of Lords Act 1999 removed most hereditary peers, leaving only 92 who were elected by their fellow hereditary peers to remain.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_257",
+    "topic_id": "topic_government_1",
+    "question_text": "Who are the Lords Spiritual?",
+    "options": [
+      { "id": "a", "text": "Former Prime Ministers who sit in the House of Lords" },
+      { "id": "b", "text": "Senior bishops of the Church of England who sit in the House of Lords" },
+      { "id": "c", "text": "Representatives of all UK religions in Parliament" },
+      { "id": "d", "text": "Members of the Privy Council" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Lords Spiritual are the 26 most senior bishops of the Church of England, including the Archbishops of Canterbury and York, who have seats in the House of Lords. They represent the established church in Parliament.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_258",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the small claims procedure?",
+    "options": [
+      { "id": "a", "text": "A criminal court for minor offences" },
+      { "id": "b", "text": "An informal court process for resolving low-value civil disputes" },
+      { "id": "c", "text": "A system for claiming state benefits" },
+      { "id": "d", "text": "A procedure for filing tax returns" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The small claims procedure is an informal way to resolve low-value civil disputes (usually up to £10,000 in England and Wales) in the County Court. It is designed to be simple enough for people to represent themselves without a lawyer.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_259",
+    "topic_id": "topic_government_3",
+    "question_text": "Why was the creation of the UK Supreme Court in 2009 significant for the separation of powers?",
+    "options": [
+      { "id": "a", "text": "It gave the government more control over the judiciary" },
+      { "id": "b", "text": "It separated the highest court from the House of Lords, strengthening judicial independence" },
+      { "id": "c", "text": "It abolished the House of Lords" },
+      { "id": "d", "text": "It allowed judges to be elected by the public" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Before 2009, the highest court sat within the House of Lords (the Law Lords). Creating a separate Supreme Court physically and institutionally separated the judiciary from the legislature, strengthening the separation of powers.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_260",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the role of a solicitor in the UK legal system?",
+    "options": [
+      { "id": "a", "text": "To preside over court cases" },
+      { "id": "b", "text": "To provide legal advice and handle legal matters for clients, and represent them in lower courts" },
+      { "id": "c", "text": "To investigate crimes on behalf of the police" },
+      { "id": "d", "text": "To enforce court orders" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Solicitors provide legal advice, prepare legal documents, and handle day-to-day legal matters for clients. They can represent clients in lower courts. For higher court cases, they may instruct a barrister to argue the case.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_261",
+    "topic_id": "topic_government_3",
+    "question_text": "What is the role of a barrister?",
+    "options": [
+      { "id": "a", "text": "To patrol the streets and prevent crime" },
+      { "id": "b", "text": "To specialise in courtroom advocacy and represent clients in higher courts" },
+      { "id": "c", "text": "To administer wills and manage property" },
+      { "id": "d", "text": "To write new laws for Parliament" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Barristers are specialist legal advocates who represent clients in court, particularly in higher courts such as the Crown Court and Court of Appeal. They are usually instructed by solicitors on behalf of their clients.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_262",
+    "topic_id": "topic_government_4",
+    "question_text": "Is it a legal requirement to register to vote in the UK?",
+    "options": [
+      { "id": "a", "text": "No, it is entirely voluntary" },
+      { "id": "b", "text": "Yes, it is a legal requirement if you are eligible" },
+      { "id": "c", "text": "Only for people over 21" },
+      { "id": "d", "text": "Only for homeowners" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "It is a legal requirement for eligible people to register to vote when asked to do so by the electoral registration officer. Failure to register can result in a fine of up to £1,000. However, voting itself is not compulsory.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_263",
+    "topic_id": "topic_government_4",
+    "question_text": "Is voting compulsory in the UK?",
+    "options": [
+      { "id": "a", "text": "Yes, everyone must vote or face a fine" },
+      { "id": "b", "text": "No, voting is voluntary, but registering to vote is a legal requirement" },
+      { "id": "c", "text": "Yes, but only in general elections" },
+      { "id": "d", "text": "It depends on which part of the UK you live in" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Voting in the UK is not compulsory — no one can be forced to vote. However, registering to vote is a legal requirement for eligible people. Individuals can choose whether or not to cast their vote on election day.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_264",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the monarch's role in the legislative process?",
+    "options": [
+      { "id": "a", "text": "The monarch drafts all new laws" },
+      { "id": "b", "text": "The monarch gives Royal Assent to Bills passed by Parliament, and opens each new session of Parliament" },
+      { "id": "c", "text": "The monarch debates Bills in the House of Lords" },
+      { "id": "d", "text": "The monarch has no role in legislation" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The monarch's legislative role includes giving Royal Assent (formal approval) to Bills and opening each new session of Parliament with the King's Speech, which outlines the government's planned legislation. By convention, Royal Assent is never refused.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_265",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the King's Speech (formerly Queen's Speech)?",
+    "options": [
+      { "id": "a", "text": "A broadcast message on Christmas Day" },
+      { "id": "b", "text": "A speech at the State Opening of Parliament outlining the government's planned legislation" },
+      { "id": "c", "text": "A speech given by the Prime Minister after winning an election" },
+      { "id": "d", "text": "A speech given at Trooping the Colour" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The King's Speech is delivered at the State Opening of Parliament and outlines the government's legislative programme for the coming session. Although read by the monarch, it is written by the government.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_266",
+    "topic_id": "topic_government_1",
+    "question_text": "What is a 'whipped vote' in Parliament?",
+    "options": [
+      { "id": "a", "text": "A vote that must be approved by the monarch" },
+      { "id": "b", "text": "A vote where party members are expected to follow the party line, enforced by whips" },
+      { "id": "c", "text": "A vote held in secret" },
+      { "id": "d", "text": "A vote on private members' Bills only" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A whipped vote is one where party whips instruct MPs to vote a certain way. A 'three-line whip' is the strongest instruction and means MPs are expected to attend and vote as directed, or face disciplinary action.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_267",
+    "topic_id": "topic_government_1",
+    "question_text": "What is a free vote in Parliament?",
+    "options": [
+      { "id": "a", "text": "A vote open to the public" },
+      { "id": "b", "text": "A vote where MPs are not instructed by their party and can vote according to their own conscience" },
+      { "id": "c", "text": "A vote with no opposition" },
+      { "id": "d", "text": "A vote held at the start of each Parliament" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A free vote is one where the party whips do not give instructions, allowing MPs to vote according to their own conscience. Free votes are commonly held on ethical matters such as assisted dying, fox hunting, or same-sex marriage.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_268",
+    "topic_id": "topic_government_2",
+    "question_text": "Where does the Welsh Senedd meet?",
+    "options": [
+      { "id": "a", "text": "Cardiff Castle" },
+      { "id": "b", "text": "The Senedd building in Cardiff Bay" },
+      { "id": "c", "text": "Swansea Civic Centre" },
+      { "id": "d", "text": "Westminster, London" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Welsh Senedd meets in the Senedd building in Cardiff Bay. The building was designed by Richard Rogers and opened in 2006. It is the home of Welsh democracy.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_269",
+    "topic_id": "topic_government_2",
+    "question_text": "What powers does the Welsh Senedd have?",
+    "options": [
+      { "id": "a", "text": "Powers over defence and foreign affairs" },
+      { "id": "b", "text": "Powers over education, health, the environment, and the Welsh language" },
+      { "id": "c", "text": "Powers over immigration and the currency" },
+      { "id": "d", "text": "No legislative powers — it is advisory only" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The Welsh Senedd has powers over devolved matters including education, health, the environment, transport, the Welsh language, agriculture, and local government in Wales. Reserved matters like defence and foreign affairs remain with Westminster.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_270",
+    "topic_id": "topic_government_1",
+    "question_text": "What does it mean when Parliament is 'dissolved'?",
+    "options": [
+      { "id": "a", "text": "Parliament is permanently closed" },
+      { "id": "b", "text": "All seats in the House of Commons become vacant ahead of a general election" },
+      { "id": "c", "text": "The House of Lords is abolished" },
+      { "id": "d", "text": "The Prime Minister loses power" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Dissolving Parliament means that all seats in the House of Commons are vacated and there are no longer any MPs. This happens before a general election, giving time for candidates to campaign. The House of Lords is not affected by dissolution.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_271",
+    "topic_id": "topic_government_1",
+    "question_text": "What is Question Time in the House of Commons?",
+    "options": [
+      { "id": "a", "text": "A TV quiz show filmed in Parliament" },
+      { "id": "b", "text": "A regular session where MPs can question government ministers about their policies and actions" },
+      { "id": "c", "text": "A session where the public can ask questions to MPs" },
+      { "id": "d", "text": "A meeting of the Cabinet" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Question Time is a regular parliamentary session where MPs can put questions to government ministers. Prime Minister's Questions (PMQs) takes place every Wednesday and is the most high-profile session, where the PM answers questions from MPs.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_272",
+    "topic_id": "topic_government_1",
+    "question_text": "What is Prime Minister's Questions (PMQs)?",
+    "options": [
+      { "id": "a", "text": "A weekly press conference given by the Prime Minister" },
+      { "id": "b", "text": "A weekly session in the House of Commons where the PM answers questions from MPs" },
+      { "id": "c", "text": "A quarterly report to the House of Lords" },
+      { "id": "d", "text": "A private meeting between the PM and the Leader of the Opposition" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Prime Minister's Questions takes place every Wednesday when Parliament is sitting. The Leader of the Opposition is allowed six questions, and other MPs can ask questions too. It is a key mechanism for holding the Prime Minister to account.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_273",
+    "topic_id": "topic_government_4",
+    "question_text": "What role do Commonwealth countries play in UK elections?",
+    "options": [
+      { "id": "a", "text": "Commonwealth countries have no connection to UK elections" },
+      { "id": "b", "text": "Qualifying Commonwealth citizens resident in the UK can vote in UK elections" },
+      { "id": "c", "text": "Commonwealth countries must approve UK election results" },
+      { "id": "d", "text": "Only Australia and Canada can participate in UK elections" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Qualifying Commonwealth citizens who are resident in the UK and have leave to remain (or do not require it) are eligible to vote in all UK elections, including general elections. This is a unique aspect of the UK's relationship with Commonwealth nations.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_274",
+    "topic_id": "topic_government_2",
+    "question_text": "What happened on 29 March 2017 in relation to Brexit?",
+    "options": [
+      { "id": "a", "text": "The EU referendum was held" },
+      { "id": "b", "text": "The UK government triggered Article 50, formally starting the process of leaving the EU" },
+      { "id": "c", "text": "The UK officially left the EU" },
+      { "id": "d", "text": "The Brexit transition period ended" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "On 29 March 2017, the UK government formally triggered Article 50 of the Treaty on European Union, starting the two-year negotiation period for the UK's withdrawal from the EU.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_275",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the First Minister of Scotland?",
+    "options": [
+      { "id": "a", "text": "A minister in the UK Cabinet responsible for Scottish affairs" },
+      { "id": "b", "text": "The head of the Scottish Government, elected by the Scottish Parliament" },
+      { "id": "c", "text": "The Scottish representative in the House of Lords" },
+      { "id": "d", "text": "A judge in the Scottish court system" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The First Minister of Scotland is the head of the Scottish Government, nominated by the Scottish Parliament and formally appointed by the monarch. They lead the devolved government and set policy on devolved matters in Scotland.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_276",
+    "topic_id": "topic_government_2",
+    "question_text": "What is the First Minister of Wales?",
+    "options": [
+      { "id": "a", "text": "A Welsh MP in the House of Commons" },
+      { "id": "b", "text": "The head of the Welsh Government, elected by Members of the Senedd" },
+      { "id": "c", "text": "The Secretary of State for Wales" },
+      { "id": "d", "text": "A member of the UK Cabinet" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The First Minister of Wales leads the Welsh Government and is elected by the Members of the Senedd. They are responsible for devolved policy areas in Wales, including health, education, and the Welsh language.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_277",
+    "topic_id": "topic_government_3",
+    "question_text": "What is legal aid?",
+    "options": [
+      { "id": "a", "text": "Free legal advice provided by MPs" },
+      { "id": "b", "text": "Government-funded legal assistance for people who cannot afford to pay for legal representation" },
+      { "id": "c", "text": "A tax paid to fund the court system" },
+      { "id": "d", "text": "Insurance that covers legal costs" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Legal aid is financial assistance from the government to help people who cannot afford to pay for legal advice or representation. Eligibility depends on the person's income and the nature of the legal problem.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_278",
+    "topic_id": "topic_government_3",
+    "question_text": "In Scotland, what court handles most civil cases?",
+    "options": [
+      { "id": "a", "text": "The High Court of Justiciary" },
+      { "id": "b", "text": "The Sheriff Court" },
+      { "id": "c", "text": "The Crown Court" },
+      { "id": "d", "text": "The Magistrates' Court" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "In Scotland, the Sheriff Court handles most civil and criminal cases. For civil matters, the Court of Session in Edinburgh is the highest civil court. Scotland has its own distinct legal system separate from England and Wales.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_government_279",
+    "topic_id": "topic_government_4",
+    "question_text": "What is a general election?",
+    "options": [
+      { "id": "a", "text": "An election for the House of Lords" },
+      { "id": "b", "text": "An election in which voters in every constituency choose their MP, held at least every five years" },
+      { "id": "c", "text": "An election for local councils" },
+      { "id": "d", "text": "An election held only when the monarch calls one" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A general election is a nationwide election in which voters in all 650 constituencies choose their MP. General elections must be held at least every five years. The party that wins the most seats usually forms the government.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_government_280",
+    "topic_id": "topic_government_4",
+    "question_text": "What is a hung parliament?",
+    "options": [
+      { "id": "a", "text": "A parliament where all MPs agree on every issue" },
+      { "id": "b", "text": "A parliament where no single party has an overall majority of seats" },
+      { "id": "c", "text": "A parliament that has been dissolved" },
+      { "id": "d", "text": "A parliament that sits for more than five years" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A hung parliament occurs when no single party wins more than half (326) of the 650 seats in the House of Commons. The largest party may try to form a minority government or a coalition with another party to command a majority.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_281",
+    "topic_id": "topic_government_4",
+    "question_text": "What is a coalition government?",
+    "options": [
+      { "id": "a", "text": "A government formed by the losing party" },
+      { "id": "b", "text": "A government formed by two or more parties who agree to work together" },
+      { "id": "c", "text": "A temporary government formed during a national emergency" },
+      { "id": "d", "text": "A government run by the civil service" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "A coalition government is formed when two or more political parties agree to work together, usually because no single party has won enough seats for an overall majority. The 2010-2015 Conservative-Liberal Democrat government was a recent example.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_282",
+    "topic_id": "topic_government_1",
+    "question_text": "What is a select committee?",
+    "options": [
+      { "id": "a", "text": "A committee that selects candidates for election" },
+      { "id": "b", "text": "A cross-party group of MPs or Lords that scrutinises government departments or specific topics" },
+      { "id": "c", "text": "A Cabinet sub-committee" },
+      { "id": "d", "text": "A committee that chooses the Speaker" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "Select committees are made up of MPs from different parties. They examine the work of government departments, investigate specific issues, and hold ministers and officials to account. Their reports and recommendations can influence government policy.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_government_283",
+    "topic_id": "topic_government_1",
+    "question_text": "What is the role of the civil service?",
+    "options": [
+      { "id": "a", "text": "To represent political parties in Parliament" },
+      { "id": "b", "text": "To implement government policy and run government departments, remaining politically neutral" },
+      { "id": "c", "text": "To write new laws for Parliament" },
+      { "id": "d", "text": "To manage local council elections" }
+    ],
+    "correct_option_ids": ["b"],
+    "explanation": "The civil service implements government policy and manages the day-to-day running of government departments. Civil servants are politically neutral — they serve whichever party is in government and do not change when the government changes.",
+    "handbook_ref": "Chapter 5: The UK government, the law and your role",
+    "difficulty": "medium"
+  }
+]

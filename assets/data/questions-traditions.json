@@ -1,0 +1,5171 @@
+[
+  {
+    "id": "q_traditions_86",
+    "topic_id": "topic_traditions_1",
+    "question_text": "On which date is Christmas Day celebrated in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "24 December"
+      },
+      {
+        "id": "b",
+        "text": "25 December"
+      },
+      {
+        "id": "c",
+        "text": "26 December"
+      },
+      {
+        "id": "d",
+        "text": "1 January"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Christmas Day is celebrated on 25 December each year. It is a public holiday in the UK and celebrates the birth of Jesus Christ. It is also widely observed as a secular cultural festival.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_87",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which traditional Christmas custom involves exchanging wrapped gifts on 25 December?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Trick-or-treating"
+      },
+      {
+        "id": "b",
+        "text": "Pulling Christmas crackers and opening presents"
+      },
+      {
+        "id": "c",
+        "text": "Lighting a menorah"
+      },
+      {
+        "id": "d",
+        "text": "Carving a pumpkin"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "On Christmas Day, families traditionally exchange gifts, pull Christmas crackers, and eat a roast dinner including turkey. Christmas crackers, a British invention, contain a paper hat, a joke, and a small gift.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_88",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What is Boxing Day and when does it fall?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A boxing competition held on 24 December"
+      },
+      {
+        "id": "b",
+        "text": "A public holiday on 26 December, the day after Christmas Day"
+      },
+      {
+        "id": "c",
+        "text": "A charity event held on New Year's Day"
+      },
+      {
+        "id": "d",
+        "text": "A sporting event held on the last Sunday of December"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Boxing Day is a public holiday on 26 December. It is thought to originate from the tradition of giving gifts (Christmas boxes) to servants and tradespeople. Today it is associated with shopping sales and sporting fixtures.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_89",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Easter is a Christian holiday that celebrates which event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The birth of Jesus Christ"
+      },
+      {
+        "id": "b",
+        "text": "The resurrection of Jesus Christ"
+      },
+      {
+        "id": "c",
+        "text": "The baptism of Jesus Christ"
+      },
+      {
+        "id": "d",
+        "text": "The last supper of Jesus Christ"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Easter celebrates the resurrection of Jesus Christ from the dead. It takes place in March or April and includes Good Friday and Easter Monday, both of which are public holidays in the UK.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_90",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which of the following are public holidays associated with Easter in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ash Wednesday and Palm Sunday"
+      },
+      {
+        "id": "b",
+        "text": "Good Friday and Easter Monday"
+      },
+      {
+        "id": "c",
+        "text": "Shrove Tuesday and Easter Sunday"
+      },
+      {
+        "id": "d",
+        "text": "Easter Saturday and Whit Monday"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Good Friday and Easter Monday are both public holidays in the UK. Good Friday marks the crucifixion of Jesus and Easter Monday follows Easter Sunday, which celebrates the resurrection.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_91",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What is traditionally given to children at Easter in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Christmas crackers"
+      },
+      {
+        "id": "b",
+        "text": "Chocolate eggs"
+      },
+      {
+        "id": "c",
+        "text": "Pumpkins"
+      },
+      {
+        "id": "d",
+        "text": "Sparklers"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Chocolate eggs are traditionally given to children at Easter. The egg is a symbol of new life and the resurrection. Many families also take part in Easter egg hunts.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_92",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Bonfire Night is celebrated on 5 November. What is another name for this event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Remembrance Night"
+      },
+      {
+        "id": "b",
+        "text": "Guy Fawkes Night"
+      },
+      {
+        "id": "c",
+        "text": "Burns Night"
+      },
+      {
+        "id": "d",
+        "text": "May Day"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Bonfire Night is also known as Guy Fawkes Night. It commemorates the failed Gunpowder Plot of 1605, when Guy Fawkes and other conspirators attempted to blow up the Houses of Parliament.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_93",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What activities traditionally take place on Bonfire Night?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Egg hunts and carol singing"
+      },
+      {
+        "id": "b",
+        "text": "Bonfires, fireworks, and burning an effigy of Guy Fawkes"
+      },
+      {
+        "id": "c",
+        "text": "Maypole dancing and flower crowns"
+      },
+      {
+        "id": "d",
+        "text": "Trick-or-treating and pumpkin carving"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "On Bonfire Night (5 November), people light bonfires and set off fireworks. Traditionally an effigy of Guy Fawkes is placed on top of the bonfire and burned. Toffee apples and other seasonal treats are also enjoyed.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_94",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Remembrance Day on 11 November commemorates those who died in which conflicts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only World War One"
+      },
+      {
+        "id": "b",
+        "text": "All conflicts involving British and Commonwealth armed forces since World War One"
+      },
+      {
+        "id": "c",
+        "text": "Only World War Two"
+      },
+      {
+        "id": "d",
+        "text": "The English Civil War"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Remembrance Day commemorates those who have died in all conflicts involving British and Commonwealth forces since World War One. The date of 11 November marks the armistice that ended World War One in 1918.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_95",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What happens at 11am on 11 November each year in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Church bells ring for one hour"
+      },
+      {
+        "id": "b",
+        "text": "A two-minute silence is observed"
+      },
+      {
+        "id": "c",
+        "text": "The national anthem is played on the radio"
+      },
+      {
+        "id": "d",
+        "text": "Schools hold a special assembly"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A two-minute silence is observed at 11am on 11 November to remember those who have died in conflict. The time marks the moment the armistice was signed to end World War One on 11 November 1918.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_96",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Burns Night on 25 January celebrates the birthday of which person?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Robert the Bruce, King of Scotland"
+      },
+      {
+        "id": "b",
+        "text": "Robert Burns, Scottish national poet"
+      },
+      {
+        "id": "c",
+        "text": "Rabbie Wallace, a Scottish freedom fighter"
+      },
+      {
+        "id": "d",
+        "text": "Sir Walter Scott, Scottish novelist"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Burns Night celebrates the birthday of Robert Burns (1759-1796), Scotland's national poet. Celebrations include a supper of haggis, neeps and tatties, recitation of Burns' poetry, and Scottish music and dancing.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_97",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What is Hogmanay?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Scottish term for Christmas Eve"
+      },
+      {
+        "id": "b",
+        "text": "The Scottish celebration of New Year's Eve"
+      },
+      {
+        "id": "c",
+        "text": "A traditional Scottish harvest festival"
+      },
+      {
+        "id": "d",
+        "text": "A Highland Games competition"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hogmanay is the Scottish word for New Year's Eve (31 December). It is a major celebration in Scotland, often larger than Christmas. Edinburgh's Hogmanay street party is one of the biggest New Year celebrations in the world.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_98",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which Scottish tradition involves the first person to cross your threshold after midnight on New Year's Eve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Carol singing"
+      },
+      {
+        "id": "b",
+        "text": "First-footing"
+      },
+      {
+        "id": "c",
+        "text": "Wassailing"
+      },
+      {
+        "id": "d",
+        "text": "Morris dancing"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "First-footing is a Hogmanay tradition where the first person to enter a home after midnight on New Year's Eve brings gifts such as coal, bread, salt, and whisky for good luck. Ideally the first-footer should be a tall, dark-haired man.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_99",
+    "topic_id": "topic_traditions_1",
+    "question_text": "St Patrick's Day, celebrating the patron saint of Ireland and Northern Ireland, falls on which date?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 March"
+      },
+      {
+        "id": "b",
+        "text": "23 April"
+      },
+      {
+        "id": "c",
+        "text": "17 March"
+      },
+      {
+        "id": "d",
+        "text": "30 November"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "St Patrick's Day is celebrated on 17 March. St Patrick is the patron saint of Ireland and Northern Ireland. It is a public holiday in Northern Ireland and is celebrated with parades and wearing of green.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_100",
+    "topic_id": "topic_traditions_1",
+    "question_text": "St Andrew's Day, the patron saint's day of Scotland, is celebrated on which date?",
+    "options": [
+      {
+        "id": "a",
+        "text": "25 January"
+      },
+      {
+        "id": "b",
+        "text": "1 March"
+      },
+      {
+        "id": "c",
+        "text": "23 April"
+      },
+      {
+        "id": "d",
+        "text": "30 November"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "St Andrew's Day is on 30 November. St Andrew is the patron saint of Scotland, and his saltire (diagonal white cross on a blue background) appears on the Scottish flag and forms part of the Union Flag.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_101",
+    "topic_id": "topic_traditions_1",
+    "question_text": "St David's Day, the patron saint's day of Wales, is celebrated on which date?",
+    "options": [
+      {
+        "id": "a",
+        "text": "17 March"
+      },
+      {
+        "id": "b",
+        "text": "1 March"
+      },
+      {
+        "id": "c",
+        "text": "30 November"
+      },
+      {
+        "id": "d",
+        "text": "23 April"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "St David's Day is celebrated on 1 March. St David (Dewi Sant) is the patron saint of Wales. People in Wales celebrate by wearing daffodils or leeks, the national symbols of Wales.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_102",
+    "topic_id": "topic_traditions_1",
+    "question_text": "St George's Day, the patron saint's day of England, falls on which date?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 March"
+      },
+      {
+        "id": "b",
+        "text": "17 March"
+      },
+      {
+        "id": "c",
+        "text": "23 April"
+      },
+      {
+        "id": "d",
+        "text": "30 November"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "St George's Day is celebrated on 23 April. St George is the patron saint of England and his emblem, a red cross on a white background, is the flag of England. The same date is also the anniversary of Shakespeare's death in 1616.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_103",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which of the following correctly matches each patron saint to their country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St George – Scotland, St Andrew – England"
+      },
+      {
+        "id": "b",
+        "text": "St David – Wales, St Patrick – Northern Ireland"
+      },
+      {
+        "id": "c",
+        "text": "St Patrick – Wales, St David – Ireland"
+      },
+      {
+        "id": "d",
+        "text": "St Andrew – England, St George – Scotland"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The patron saints are: St George for England (23 April), St Andrew for Scotland (30 November), St David for Wales (1 March), and St Patrick for Northern Ireland (17 March).",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_104",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which song is traditionally sung at midnight on New Year's Eve in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "God Save the King"
+      },
+      {
+        "id": "b",
+        "text": "Jerusalem"
+      },
+      {
+        "id": "c",
+        "text": "Auld Lang Syne"
+      },
+      {
+        "id": "d",
+        "text": "Land of Hope and Glory"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Auld Lang Syne, a poem by Robert Burns set to a traditional folk melody, is sung at midnight on New Year's Eve. The phrase means 'old long since' or 'days gone by' in Scots.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_105",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Shakespeare play features the characters Romeo and Juliet from warring families in Verona?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Othello"
+      },
+      {
+        "id": "b",
+        "text": "Romeo and Juliet"
+      },
+      {
+        "id": "c",
+        "text": "The Tempest"
+      },
+      {
+        "id": "d",
+        "text": "Twelfth Night"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Romeo and Juliet is one of Shakespeare's most famous tragedies. It tells the story of two young lovers from feuding families, the Montagues and Capulets, in Verona, Italy.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_106",
+    "topic_id": "topic_traditions_3",
+    "question_text": "In which Shakespeare play does the title character, a Prince of Denmark, contemplate life and death with the words 'To be, or not to be'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Macbeth"
+      },
+      {
+        "id": "b",
+        "text": "King Lear"
+      },
+      {
+        "id": "c",
+        "text": "Hamlet"
+      },
+      {
+        "id": "d",
+        "text": "Julius Caesar"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Hamlet is one of Shakespeare's greatest tragedies. The play follows Prince Hamlet of Denmark as he seeks revenge for his father's murder. 'To be, or not to be' is the opening of Hamlet's most famous soliloquy.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_107",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Shakespeare comedy features fairies, including Oberon and Titania, in an enchanted forest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Much Ado About Nothing"
+      },
+      {
+        "id": "b",
+        "text": "The Merchant of Venice"
+      },
+      {
+        "id": "c",
+        "text": "As You Like It"
+      },
+      {
+        "id": "d",
+        "text": "A Midsummer Night's Dream"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "A Midsummer Night's Dream is a comedy by Shakespeare set in an enchanted forest. It features the fairy king Oberon and queen Titania, along with the mischievous sprite Puck. It is one of Shakespeare's most frequently performed plays.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_108",
+    "topic_id": "topic_traditions_3",
+    "question_text": "The Beatles were a rock band from which English city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manchester"
+      },
+      {
+        "id": "b",
+        "text": "London"
+      },
+      {
+        "id": "c",
+        "text": "Liverpool"
+      },
+      {
+        "id": "d",
+        "text": "Birmingham"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Beatles were from Liverpool. Formed in 1960, they became the most commercially successful and critically acclaimed band in popular music history. Their members were John Lennon, Paul McCartney, George Harrison, and Ringo Starr.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_109",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Charles Dickens wrote which of the following novels about a boy in a workhouse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "David Copperfield"
+      },
+      {
+        "id": "b",
+        "text": "Oliver Twist"
+      },
+      {
+        "id": "c",
+        "text": "A Tale of Two Cities"
+      },
+      {
+        "id": "d",
+        "text": "Bleak House"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Oliver Twist (1838) by Charles Dickens tells the story of an orphan boy who escapes a workhouse and falls in with a gang of thieves in London. It exposed the harsh conditions of the Victorian poor and child labour.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_110",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Dickens novel follows the life of an orphan named Pip and his journey from humble beginnings?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oliver Twist"
+      },
+      {
+        "id": "b",
+        "text": "Nicholas Nickleby"
+      },
+      {
+        "id": "c",
+        "text": "Great Expectations"
+      },
+      {
+        "id": "d",
+        "text": "The Pickwick Papers"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Great Expectations (1861) by Charles Dickens follows Pip, an orphan who rises from humble origins with the help of a mysterious benefactor. It is one of Dickens' most popular and widely studied novels.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_111",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which museum on London's Exhibition Road houses an extensive collection of art and design spanning 5,000 years?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The British Museum"
+      },
+      {
+        "id": "b",
+        "text": "The Natural History Museum"
+      },
+      {
+        "id": "c",
+        "text": "The Victoria and Albert Museum (V&A)"
+      },
+      {
+        "id": "d",
+        "text": "The Science Museum"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Victoria and Albert Museum (V&A) in South Kensington is the world's largest museum of decorative arts and design, housing a collection of over 2.3 million objects spanning 5,000 years of human creativity.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_112",
+    "topic_id": "topic_traditions_3",
+    "question_text": "The British Museum in London is best known for housing which type of collection?",
+    "options": [
+      {
+        "id": "a",
+        "text": "British paintings and watercolours only"
+      },
+      {
+        "id": "b",
+        "text": "Artefacts of human history, art, and culture from around the world"
+      },
+      {
+        "id": "c",
+        "text": "Natural history specimens and dinosaur skeletons"
+      },
+      {
+        "id": "d",
+        "text": "Modern and contemporary art installations"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The British Museum, established in 1753, holds a vast collection of artefacts from around the world covering human history, art, and culture. It includes famous exhibits such as the Rosetta Stone and the Elgin Marbles. Admission is free.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_113",
+    "topic_id": "topic_traditions_3",
+    "question_text": "The National Gallery in London houses a collection of over 2,300 paintings. Where is it located?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buckingham Palace Road"
+      },
+      {
+        "id": "b",
+        "text": "Trafalgar Square"
+      },
+      {
+        "id": "c",
+        "text": "Exhibition Road, South Kensington"
+      },
+      {
+        "id": "d",
+        "text": "Bankside, Southwark"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The National Gallery is located on the north side of Trafalgar Square in London. It houses a collection of Western European paintings from the 13th to the 19th centuries, including works by Leonardo da Vinci, Van Gogh, and Turner. Entry is free.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_114",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Tate Modern, a major gallery of modern and contemporary art, is located in a converted building on the South Bank of the Thames. What was the building originally?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A warehouse"
+      },
+      {
+        "id": "b",
+        "text": "A power station"
+      },
+      {
+        "id": "c",
+        "text": "A railway station"
+      },
+      {
+        "id": "d",
+        "text": "A theatre"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Tate Modern is housed in the former Bankside Power Station on the South Bank of the Thames. It opened in 2000 and is one of the largest museums of modern and contemporary art in the world. Entry to the main collection is free.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_115",
+    "topic_id": "topic_traditions_3",
+    "question_text": "The Natural History Museum in London is famous for its collections in which fields?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Art and sculpture from the Renaissance"
+      },
+      {
+        "id": "b",
+        "text": "Life sciences and earth sciences, including dinosaur skeletons"
+      },
+      {
+        "id": "c",
+        "text": "Military history and weaponry"
+      },
+      {
+        "id": "d",
+        "text": "Maritime exploration and navigation"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Natural History Museum in South Kensington holds collections of specimens in life and earth sciences, including botany, entomology, mineralogy, and palaeontology. Its famous dinosaur gallery and the blue whale skeleton in the main hall are major attractions. Entry is free.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_116",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Edinburgh Festival Fringe is the largest festival of which type in the world?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Music"
+      },
+      {
+        "id": "b",
+        "text": "Film"
+      },
+      {
+        "id": "c",
+        "text": "Arts (theatre, comedy, dance, and performance)"
+      },
+      {
+        "id": "d",
+        "text": "Food and drink"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Edinburgh Festival Fringe, held each August, is the world's largest arts festival. It features thousands of performances of theatre, comedy, dance, and music across hundreds of venues in Edinburgh.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_117",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Notting Hill Carnival takes place annually in London during which period?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Easter weekend"
+      },
+      {
+        "id": "b",
+        "text": "The August bank holiday weekend"
+      },
+      {
+        "id": "c",
+        "text": "New Year's Eve"
+      },
+      {
+        "id": "d",
+        "text": "The May bank holiday weekend"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Notting Hill Carnival takes place on the August bank holiday weekend in west London. It celebrates Caribbean culture with music, dancing, steel bands, and colourful costumes. It is one of the largest street festivals in Europe.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_118",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Glastonbury Festival, one of the world's best-known music festivals, is held in which county?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Devon"
+      },
+      {
+        "id": "b",
+        "text": "Somerset"
+      },
+      {
+        "id": "c",
+        "text": "Dorset"
+      },
+      {
+        "id": "d",
+        "text": "Wiltshire"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Glastonbury Festival is held at Worthy Farm in Pilton, Somerset. It is one of the largest and most famous greenfield music and performing arts festivals in the world, attracting around 200,000 people.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_119",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which British band, formed in London in 1962, featured Mick Jagger as lead vocalist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Beatles"
+      },
+      {
+        "id": "b",
+        "text": "The Rolling Stones"
+      },
+      {
+        "id": "c",
+        "text": "The Who"
+      },
+      {
+        "id": "d",
+        "text": "The Kinks"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Rolling Stones were formed in London in 1962 with Mick Jagger as lead vocalist and Keith Richards as guitarist. They became one of the most influential rock bands of all time.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_120",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The oratorio Messiah, which includes the famous Hallelujah chorus, was composed by which German-born composer who later became a British citizen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johann Sebastian Bach"
+      },
+      {
+        "id": "b",
+        "text": "George Frideric Handel"
+      },
+      {
+        "id": "c",
+        "text": "Ludwig van Beethoven"
+      },
+      {
+        "id": "d",
+        "text": "Joseph Haydn"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "George Frideric Handel was born in Germany but spent most of his adult life in England and became a British citizen. His oratorio Messiah, first performed in Dublin in 1742, includes the famous Hallelujah chorus and is regularly performed in the UK.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_121",
+    "topic_id": "topic_traditions_2",
+    "question_text": "What happens at the Last Night of the Proms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A jazz concert in Hyde Park"
+      },
+      {
+        "id": "b",
+        "text": "A patriotic concert at the Royal Albert Hall featuring Land of Hope and Glory and Rule Britannia"
+      },
+      {
+        "id": "c",
+        "text": "A rock music festival at Wembley Stadium"
+      },
+      {
+        "id": "d",
+        "text": "An opera performance at the Royal Opera House"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Last Night of the Proms is the final concert of the BBC Proms season at the Royal Albert Hall. It is famous for its patriotic atmosphere, with the audience waving flags and singing along to works including Land of Hope and Glory, Rule Britannia, and Jerusalem.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_122",
+    "topic_id": "topic_traditions_2",
+    "question_text": "St Andrews in Scotland is famous as the home of which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rugby"
+      },
+      {
+        "id": "b",
+        "text": "Cricket"
+      },
+      {
+        "id": "c",
+        "text": "Golf"
+      },
+      {
+        "id": "d",
+        "text": "Football"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "St Andrews in Fife, Scotland, is known as the 'home of golf'. The Royal and Ancient Golf Club of St Andrews, founded in 1754, is one of the oldest and most prestigious golf clubs in the world. The Old Course at St Andrews is one of the most famous golf courses.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_123",
+    "topic_id": "topic_traditions_2",
+    "question_text": "In which year was the FA Cup first held, making it the oldest football cup competition in the world?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1862"
+      },
+      {
+        "id": "b",
+        "text": "1872"
+      },
+      {
+        "id": "c",
+        "text": "1888"
+      },
+      {
+        "id": "d",
+        "text": "1900"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The FA Cup was first held in 1871-72, making it the oldest football cup competition in the world. The final is traditionally played at Wembley Stadium in London.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_124",
+    "topic_id": "topic_traditions_3",
+    "question_text": "In which town was William Shakespeare born?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oxford"
+      },
+      {
+        "id": "b",
+        "text": "Stratford-upon-Avon"
+      },
+      {
+        "id": "c",
+        "text": "Coventry"
+      },
+      {
+        "id": "d",
+        "text": "Warwick"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "William Shakespeare was born in Stratford-upon-Avon in 1564. He is widely regarded as the greatest writer in the English language.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_125",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which theatre is most closely associated with William Shakespeare's plays in London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Old Vic"
+      },
+      {
+        "id": "b",
+        "text": "The Lyceum Theatre"
+      },
+      {
+        "id": "c",
+        "text": "The Globe Theatre"
+      },
+      {
+        "id": "d",
+        "text": "The Royal Opera House"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Globe Theatre on the South Bank of the Thames is closely associated with Shakespeare. A reconstruction of the original Globe opened in 1997.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_126",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which of the following is a play written by William Shakespeare?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Importance of Being Earnest"
+      },
+      {
+        "id": "b",
+        "text": "A Midsummer Night's Dream"
+      },
+      {
+        "id": "c",
+        "text": "The Rivals"
+      },
+      {
+        "id": "d",
+        "text": "She Stoops to Conquer"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A Midsummer Night's Dream is one of Shakespeare's most famous comedies. The other plays listed were written by Oscar Wilde, Richard Sheridan, and Oliver Goldsmith respectively.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_127",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Jane Austen is best known for writing which of the following novels?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wuthering Heights"
+      },
+      {
+        "id": "b",
+        "text": "Jane Eyre"
+      },
+      {
+        "id": "c",
+        "text": "Pride and Prejudice"
+      },
+      {
+        "id": "d",
+        "text": "Middlemarch"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Jane Austen wrote Pride and Prejudice, published in 1813. It remains one of the best-loved novels in the English language.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_128",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which novelist wrote Oliver Twist and A Christmas Carol?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Thomas Hardy"
+      },
+      {
+        "id": "b",
+        "text": "Charles Dickens"
+      },
+      {
+        "id": "c",
+        "text": "Anthony Trollope"
+      },
+      {
+        "id": "d",
+        "text": "William Makepeace Thackeray"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Charles Dickens wrote Oliver Twist and A Christmas Carol, among many other celebrated works. His novels often highlighted the social problems of Victorian England.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_129",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which of the Bronte sisters wrote Wuthering Heights?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Charlotte Bronte"
+      },
+      {
+        "id": "b",
+        "text": "Anne Bronte"
+      },
+      {
+        "id": "c",
+        "text": "Emily Bronte"
+      },
+      {
+        "id": "d",
+        "text": "Maria Bronte"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Wuthering Heights was written by Emily Bronte and published in 1847. Her sister Charlotte wrote Jane Eyre in the same year.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_130",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Robert Burns is celebrated as the national poet of which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ireland"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "Scotland"
+      },
+      {
+        "id": "d",
+        "text": "England"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Robert Burns is Scotland's national poet. His birthday on 25 January is celebrated as Burns Night across Scotland and by Scots around the world.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_131",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which British painter is famous for landscapes such as The Hay Wain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "J.M.W. Turner"
+      },
+      {
+        "id": "b",
+        "text": "John Constable"
+      },
+      {
+        "id": "c",
+        "text": "Thomas Gainsborough"
+      },
+      {
+        "id": "d",
+        "text": "Joshua Reynolds"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "John Constable painted The Hay Wain in 1821. It depicts the English countryside of the Stour Valley and is one of the most recognised paintings in British art.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_132",
+    "topic_id": "topic_traditions_3",
+    "question_text": "J.M.W. Turner is best known for which style of painting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Portraiture"
+      },
+      {
+        "id": "b",
+        "text": "Abstract expressionism"
+      },
+      {
+        "id": "c",
+        "text": "Romantic landscapes and seascapes"
+      },
+      {
+        "id": "d",
+        "text": "Surrealism"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "J.M.W. Turner was a Romantic painter celebrated for his dramatic landscapes and seascapes. The Turner Prize, awarded annually to a British contemporary artist, is named after him.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_133",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which artistic movement included painters such as Dante Gabriel Rossetti and John Everett Millais?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Impressionists"
+      },
+      {
+        "id": "b",
+        "text": "The Pre-Raphaelites"
+      },
+      {
+        "id": "c",
+        "text": "The Surrealists"
+      },
+      {
+        "id": "d",
+        "text": "The Cubists"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Pre-Raphaelite Brotherhood was founded in 1848 and included Rossetti, Millais, and Holman Hunt. They aimed to return to the detail and colour of Italian art before Raphael.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_134",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Henry Moore is famous for his contribution to which art form?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Watercolour painting"
+      },
+      {
+        "id": "b",
+        "text": "Sculpture"
+      },
+      {
+        "id": "c",
+        "text": "Architecture"
+      },
+      {
+        "id": "d",
+        "text": "Photography"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Henry Moore was a British sculptor best known for his large semi-abstract bronze figures. His works can be found in public spaces and galleries across the world.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_135",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Damien Hirst is associated with which artistic movement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Impressionism"
+      },
+      {
+        "id": "b",
+        "text": "The Young British Artists"
+      },
+      {
+        "id": "c",
+        "text": "The Bloomsbury Group"
+      },
+      {
+        "id": "d",
+        "text": "Romanticism"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Damien Hirst is a leading figure among the Young British Artists who rose to prominence in the 1990s. He is known for works such as The Physical Impossibility of Death in the Mind of Someone Living.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_136",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which famous poem begins with the line 'I wandered lonely as a cloud'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Rime of the Ancient Mariner by Coleridge"
+      },
+      {
+        "id": "b",
+        "text": "Daffodils by William Wordsworth"
+      },
+      {
+        "id": "c",
+        "text": "Ode to a Nightingale by Keats"
+      },
+      {
+        "id": "d",
+        "text": "The Waste Land by T.S. Eliot"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Daffodils, also known as I Wandered Lonely as a Cloud, was written by William Wordsworth in 1804. Wordsworth was one of the leading Romantic poets.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_137",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which author created the fictional detective Sherlock Holmes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agatha Christie"
+      },
+      {
+        "id": "b",
+        "text": "Wilkie Collins"
+      },
+      {
+        "id": "c",
+        "text": "Arthur Conan Doyle"
+      },
+      {
+        "id": "d",
+        "text": "G.K. Chesterton"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Sherlock Holmes was created by Sir Arthur Conan Doyle. The character first appeared in 1887 and remains one of the most famous fictional detectives in literature.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_138",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which British band is known as 'the Fab Four' and is from Liverpool?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Rolling Stones"
+      },
+      {
+        "id": "b",
+        "text": "The Beatles"
+      },
+      {
+        "id": "c",
+        "text": "The Who"
+      },
+      {
+        "id": "d",
+        "text": "Led Zeppelin"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Beatles, from Liverpool, are often called the Fab Four. They are widely regarded as the most influential band in the history of popular music.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_139",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Rolling Stones were formed in which British city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Manchester"
+      },
+      {
+        "id": "b",
+        "text": "Liverpool"
+      },
+      {
+        "id": "c",
+        "text": "London"
+      },
+      {
+        "id": "d",
+        "text": "Birmingham"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Rolling Stones were formed in London in 1962. Along with The Beatles, they were central to the British Invasion of American popular music in the 1960s.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_140",
+    "topic_id": "topic_traditions_2",
+    "question_text": "What is the name of the annual BBC classical music festival held at the Royal Albert Hall in London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Edinburgh Festival"
+      },
+      {
+        "id": "b",
+        "text": "The Proms"
+      },
+      {
+        "id": "c",
+        "text": "Glastonbury"
+      },
+      {
+        "id": "d",
+        "text": "The Eisteddfod"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Proms (BBC Promenade Concerts) is an annual series of classical music concerts held at the Royal Albert Hall each summer. The Last Night of the Proms is a famous patriotic event.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_141",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Edward Elgar composed which famous piece that is traditionally played at British ceremonies and graduations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Water Music"
+      },
+      {
+        "id": "b",
+        "text": "Jerusalem"
+      },
+      {
+        "id": "c",
+        "text": "Pomp and Circumstance March No. 1"
+      },
+      {
+        "id": "d",
+        "text": "Rule Britannia"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Edward Elgar composed Pomp and Circumstance March No. 1, also known as Land of Hope and Glory, which is played at many British graduation ceremonies and the Last Night of the Proms.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_142",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Benjamin Britten is best known for which type of musical composition?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jazz"
+      },
+      {
+        "id": "b",
+        "text": "Opera and orchestral music"
+      },
+      {
+        "id": "c",
+        "text": "Folk music"
+      },
+      {
+        "id": "d",
+        "text": "Rock and roll"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Benjamin Britten was a celebrated 20th-century British composer best known for operas such as Peter Grimes and Billy Budd, as well as orchestral and choral works.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_143",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which sport is traditionally associated with the Wimbledon Championships held in London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Golf"
+      },
+      {
+        "id": "b",
+        "text": "Cricket"
+      },
+      {
+        "id": "c",
+        "text": "Tennis"
+      },
+      {
+        "id": "d",
+        "text": "Bowls"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Wimbledon, held in south-west London, is the world's oldest tennis tournament. It takes place every summer and is one of the four Grand Slam tennis events.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_144",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The FA Cup is a famous knockout competition in which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rugby union"
+      },
+      {
+        "id": "b",
+        "text": "Cricket"
+      },
+      {
+        "id": "c",
+        "text": "Association football (soccer)"
+      },
+      {
+        "id": "d",
+        "text": "Hockey"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The FA Cup (Football Association Challenge Cup) is the oldest football cup competition in the world, first held in 1872. The final is traditionally played at Wembley Stadium.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_145",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Six Nations is an annual international competition in which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Football"
+      },
+      {
+        "id": "b",
+        "text": "Rugby union"
+      },
+      {
+        "id": "c",
+        "text": "Cricket"
+      },
+      {
+        "id": "d",
+        "text": "Athletics"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Six Nations Championship is an annual rugby union competition between England, Scotland, Wales, Ireland, France, and Italy. It is one of the most watched rugby events in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_146",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The sport of golf is widely believed to have originated in which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Ireland"
+      },
+      {
+        "id": "c",
+        "text": "Scotland"
+      },
+      {
+        "id": "d",
+        "text": "Netherlands"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Golf is widely considered to have originated in Scotland during the 15th century. The Royal and Ancient Golf Club of St Andrews in Scotland is one of the oldest golf clubs in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_147",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Ashes is a famous sporting rivalry in cricket between England and which other country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "India"
+      },
+      {
+        "id": "b",
+        "text": "Australia"
+      },
+      {
+        "id": "c",
+        "text": "South Africa"
+      },
+      {
+        "id": "d",
+        "text": "West Indies"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Ashes is a Test cricket series played between England and Australia. It dates back to 1882 and is one of cricket's most celebrated rivalries.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_148",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which famous horse racing event is held annually at Epsom Downs in Surrey?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Grand National"
+      },
+      {
+        "id": "b",
+        "text": "Royal Ascot"
+      },
+      {
+        "id": "c",
+        "text": "The Derby"
+      },
+      {
+        "id": "d",
+        "text": "The Cheltenham Gold Cup"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Derby is a flat horse race held at Epsom Downs, Surrey, and is one of the five British Classic races. It was first run in 1780 and is a major social event.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_149",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which charity pop single format, pioneered in the UK, raised money through a chart-topping song by famous artists?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Band Aid"
+      },
+      {
+        "id": "b",
+        "text": "Live Aid"
+      },
+      {
+        "id": "c",
+        "text": "Comic Relief"
+      },
+      {
+        "id": "d",
+        "text": "Children in Need"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "Band Aid was a charity supergroup organised by Bob Geldof in 1984, recording Do They Know It's Christmas? to raise money for the Ethiopian famine. It pioneered the charity record format.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_150",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Notting Hill Carnival in London celebrates the culture of which community?",
+    "options": [
+      {
+        "id": "a",
+        "text": "South Asian communities"
+      },
+      {
+        "id": "b",
+        "text": "Caribbean communities"
+      },
+      {
+        "id": "c",
+        "text": "East African communities"
+      },
+      {
+        "id": "d",
+        "text": "Chinese communities"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Notting Hill Carnival celebrates Caribbean culture and takes place in London every August bank holiday weekend. It is one of the largest street festivals in Europe.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_151",
+    "topic_id": "topic_traditions_3",
+    "question_text": "What is the patron saint and associated day for England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "St Andrew, 30 November"
+      },
+      {
+        "id": "b",
+        "text": "St David, 1 March"
+      },
+      {
+        "id": "c",
+        "text": "St George, 23 April"
+      },
+      {
+        "id": "d",
+        "text": "St Patrick, 17 March"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "St George is the patron saint of England and St George's Day is celebrated on 23 April. The red cross on a white background on the English flag represents St George.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_152",
+    "topic_id": "topic_traditions_3",
+    "question_text": "On which date is St Andrew's Day, the patron saint's day of Scotland, celebrated?",
+    "options": [
+      {
+        "id": "a",
+        "text": "25 January"
+      },
+      {
+        "id": "b",
+        "text": "17 March"
+      },
+      {
+        "id": "c",
+        "text": "1 March"
+      },
+      {
+        "id": "d",
+        "text": "30 November"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "St Andrew's Day is celebrated on 30 November. St Andrew is the patron saint of Scotland and his cross (the Saltire) forms the basis of the Scottish flag.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_153",
+    "topic_id": "topic_traditions_3",
+    "question_text": "St David's Day, celebrating the patron saint of Wales, falls on which date?",
+    "options": [
+      {
+        "id": "a",
+        "text": "23 April"
+      },
+      {
+        "id": "b",
+        "text": "1 March"
+      },
+      {
+        "id": "c",
+        "text": "17 March"
+      },
+      {
+        "id": "d",
+        "text": "30 November"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "St David's Day is celebrated on 1 March. St David is the patron saint of Wales, and the Welsh often wear daffodils or leeks to mark the occasion.",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_154",
+    "topic_id": "topic_traditions_3",
+    "question_text": "What is the national flower of Scotland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rose"
+      },
+      {
+        "id": "b",
+        "text": "Daffodil"
+      },
+      {
+        "id": "c",
+        "text": "Shamrock"
+      },
+      {
+        "id": "d",
+        "text": "Thistle"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "The thistle is the national flower (and emblem) of Scotland. According to legend, Norse invaders were detected when one stepped on a thistle, alerting the Scots.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_155",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which flower is the national emblem of Wales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Thistle"
+      },
+      {
+        "id": "b",
+        "text": "Rose"
+      },
+      {
+        "id": "c",
+        "text": "Daffodil"
+      },
+      {
+        "id": "d",
+        "text": "Shamrock"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The daffodil is the national flower of Wales and is worn on St David's Day. The leek is also a symbol of Wales with ancient origins.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_156",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Bonfire Night on 5 November commemorates which historical event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Great Fire of London in 1666"
+      },
+      {
+        "id": "b",
+        "text": "The failed Gunpowder Plot to blow up Parliament in 1605"
+      },
+      {
+        "id": "c",
+        "text": "The defeat of the Spanish Armada in 1588"
+      },
+      {
+        "id": "d",
+        "text": "The signing of the Magna Carta in 1215"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Bonfire Night (Guy Fawkes Night) on 5 November commemorates the failed Gunpowder Plot of 1605, when Guy Fawkes and his co-conspirators attempted to blow up the Houses of Parliament.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_157",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Remembrance Day is observed on which date each year?",
+    "options": [
+      {
+        "id": "a",
+        "text": "11 November"
+      },
+      {
+        "id": "b",
+        "text": "4 August"
+      },
+      {
+        "id": "c",
+        "text": "25 December"
+      },
+      {
+        "id": "d",
+        "text": "1 July"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "Remembrance Day is on 11 November, marking the armistice that ended World War One in 1918. A two-minute silence is observed at 11am to honour those who died in conflict.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_158",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Burns Night, celebrating Scottish poet Robert Burns, is observed on which date?",
+    "options": [
+      {
+        "id": "a",
+        "text": "30 November"
+      },
+      {
+        "id": "b",
+        "text": "25 January"
+      },
+      {
+        "id": "c",
+        "text": "1 March"
+      },
+      {
+        "id": "d",
+        "text": "23 April"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Burns Night is celebrated on 25 January, the birthday of Robert Burns. Celebrations typically include haggis, neeps and tatties, the recitation of Burns' poems, and Scottish dancing.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_159",
+    "topic_id": "topic_traditions_3",
+    "question_text": "What is Hogmanay?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Welsh folk festival"
+      },
+      {
+        "id": "b",
+        "text": "A traditional Scottish New Year celebration"
+      },
+      {
+        "id": "c",
+        "text": "An Irish harvest festival"
+      },
+      {
+        "id": "d",
+        "text": "An English midsummer celebration"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hogmanay is the Scottish word for New Year's Eve and encompasses a series of traditional celebrations. It is a major event in Scotland, with the Edinburgh celebrations being particularly famous.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_160",
+    "topic_id": "topic_traditions_3",
+    "question_text": "The Eisteddfod is a traditional festival of music and poetry associated with which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland"
+      },
+      {
+        "id": "b",
+        "text": "Ireland"
+      },
+      {
+        "id": "c",
+        "text": "England"
+      },
+      {
+        "id": "d",
+        "text": "Wales"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "The Eisteddfod is a Welsh festival celebrating poetry, music, and performance. The National Eisteddfod of Wales is conducted in the Welsh language and is held annually.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_161",
+    "topic_id": "topic_traditions_3",
+    "question_text": "The Edinburgh Festival is primarily known for which type of event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A sporting competition"
+      },
+      {
+        "id": "b",
+        "text": "Arts, theatre, comedy, and cultural performances"
+      },
+      {
+        "id": "c",
+        "text": "A traditional Highland Games event"
+      },
+      {
+        "id": "d",
+        "text": "A food and drink exhibition"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Edinburgh Festival, held in August, is a major international celebration of arts and culture. The Edinburgh Fringe is the largest arts festival in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_162",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which public holiday in the UK falls on 25 December?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Boxing Day"
+      },
+      {
+        "id": "b",
+        "text": "Easter Monday"
+      },
+      {
+        "id": "c",
+        "text": "Christmas Day"
+      },
+      {
+        "id": "d",
+        "text": "New Year's Day"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Christmas Day on 25 December is a public holiday in the UK. It is a Christian celebration of the birth of Jesus Christ and is also widely celebrated as a cultural festival.",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_163",
+    "topic_id": "topic_traditions_3",
+    "question_text": "What is the name of the public holiday immediately after Christmas Day in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "New Year's Eve"
+      },
+      {
+        "id": "b",
+        "text": "Twelfth Night"
+      },
+      {
+        "id": "c",
+        "text": "Boxing Day"
+      },
+      {
+        "id": "d",
+        "text": "St Stephen's Day"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Boxing Day is a public holiday on 26 December. It is thought to have originated as a day when employers gave gifts to their staff, though today it is associated with shopping and sporting events.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_164",
+    "topic_id": "topic_traditions_3",
+    "question_text": "How many bank holidays does England and Wales typically have per year?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Six"
+      },
+      {
+        "id": "b",
+        "text": "Eight"
+      },
+      {
+        "id": "c",
+        "text": "Ten"
+      },
+      {
+        "id": "d",
+        "text": "Twelve"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "England and Wales have eight bank holidays per year. Scotland and Northern Ireland have slightly different sets of bank holidays.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_165",
+    "topic_id": "topic_traditions_3",
+    "question_text": "What flower is traditionally worn in the UK on Remembrance Day?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Daffodil"
+      },
+      {
+        "id": "b",
+        "text": "Lily"
+      },
+      {
+        "id": "c",
+        "text": "Red poppy"
+      },
+      {
+        "id": "d",
+        "text": "White rose"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The red poppy is worn as a symbol of remembrance on and around 11 November. It was inspired by the poem In Flanders Fields, which described poppies growing over the graves of soldiers in World War One.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_166",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which dish is traditionally served at a Burns Night supper?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fish and chips"
+      },
+      {
+        "id": "b",
+        "text": "Haggis with neeps and tatties"
+      },
+      {
+        "id": "c",
+        "text": "Beef Wellington"
+      },
+      {
+        "id": "d",
+        "text": "Chicken tikka masala"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Haggis served with neeps (turnips) and tatties (potatoes) is the traditional Burns Night supper. A poem is recited before eating the haggis.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_167",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Fish and chips became a popular British takeaway food during which century?",
+    "options": [
+      {
+        "id": "a",
+        "text": "17th century"
+      },
+      {
+        "id": "b",
+        "text": "18th century"
+      },
+      {
+        "id": "c",
+        "text": "19th century"
+      },
+      {
+        "id": "d",
+        "text": "20th century"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Fish and chips became a popular dish in the 19th century, with the first fish and chip shop believed to have opened in the 1860s. It became a staple affordable meal for working-class families.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_168",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The pub (public house) is an important part of British culture. What is a traditional pub activity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Playing cricket"
+      },
+      {
+        "id": "b",
+        "text": "Playing darts"
+      },
+      {
+        "id": "c",
+        "text": "Playing polo"
+      },
+      {
+        "id": "d",
+        "text": "Playing squash"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Darts is a traditional pub game in the UK. Pubs are central to British social life and have been an important institution for centuries, serving as meeting places for local communities.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_169",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which hot drink is most associated with British culture?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Coffee"
+      },
+      {
+        "id": "b",
+        "text": "Hot chocolate"
+      },
+      {
+        "id": "c",
+        "text": "Tea"
+      },
+      {
+        "id": "d",
+        "text": "Herbal infusions"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Tea is the drink most closely associated with British culture. The British drink approximately 100 million cups of tea per day, and the tradition of afternoon tea dates back to the early 19th century.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_170",
+    "topic_id": "topic_traditions_4",
+    "question_text": "What is a 'full English breakfast' traditionally composed of?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Croissants, jam, and coffee"
+      },
+      {
+        "id": "b",
+        "text": "Bacon, eggs, sausages, toast, and baked beans"
+      },
+      {
+        "id": "c",
+        "text": "Porridge, fruit, and yoghurt"
+      },
+      {
+        "id": "d",
+        "text": "Kippers and brown bread"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A full English breakfast typically includes bacon, eggs, sausages, baked beans, toast, and often tomatoes or mushrooms. It is a traditional British morning meal, particularly enjoyed at weekends.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_171",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which country does the dish chicken tikka masala most closely resemble in origin, despite being a very popular British favourite?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Thailand"
+      },
+      {
+        "id": "b",
+        "text": "Pakistan/Bangladesh"
+      },
+      {
+        "id": "c",
+        "text": "Jamaica"
+      },
+      {
+        "id": "d",
+        "text": "Malaysia"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Chicken tikka masala is considered one of Britain's most popular dishes and is thought to have been developed by South Asian chefs in Britain, drawing on the traditions of Indian subcontinent cuisine.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_172",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Houses of Parliament in London include which famous clock tower?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Shard"
+      },
+      {
+        "id": "b",
+        "text": "Big Ben (Elizabeth Tower)"
+      },
+      {
+        "id": "c",
+        "text": "The Gherkin"
+      },
+      {
+        "id": "d",
+        "text": "St Paul's Cathedral"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Elizabeth Tower, commonly known as Big Ben after its famous bell, is part of the Palace of Westminster (Houses of Parliament). The tower was renamed Elizabeth Tower in 2012 to mark the Queen's Diamond Jubilee.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_173",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Tower of London has historically served as what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A royal palace, prison, and treasury"
+      },
+      {
+        "id": "b",
+        "text": "A naval headquarters"
+      },
+      {
+        "id": "c",
+        "text": "A parliament building"
+      },
+      {
+        "id": "d",
+        "text": "A cathedral and monastery"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "The Tower of London has served many purposes throughout history, including as a royal palace, a prison, and a place to store the Crown Jewels. It is now a UNESCO World Heritage Site and major tourist attraction.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_174",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Edinburgh Castle sits on top of what geographical feature in the city centre?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A river island"
+      },
+      {
+        "id": "b",
+        "text": "An extinct volcano"
+      },
+      {
+        "id": "c",
+        "text": "A man-made mound"
+      },
+      {
+        "id": "d",
+        "text": "A chalk cliff"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Edinburgh Castle is built on Castle Rock, which is the remnant of an ancient extinct volcano. The castle has dominated the Edinburgh skyline for centuries and houses the Scottish Crown Jewels.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_175",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which poet wrote the famous lines 'To be, or not to be, that is the question'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "John Milton"
+      },
+      {
+        "id": "b",
+        "text": "Geoffrey Chaucer"
+      },
+      {
+        "id": "c",
+        "text": "William Shakespeare"
+      },
+      {
+        "id": "d",
+        "text": "John Donne"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The line 'To be, or not to be, that is the question' is from Shakespeare's play Hamlet. It is one of the most quoted lines in the English language.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_176",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which English composer wrote the Sea Symphony and the Lark Ascending?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Edward Elgar"
+      },
+      {
+        "id": "b",
+        "text": "Ralph Vaughan Williams"
+      },
+      {
+        "id": "c",
+        "text": "Gustav Holst"
+      },
+      {
+        "id": "d",
+        "text": "Frederick Delius"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Ralph Vaughan Williams composed A Sea Symphony and The Lark Ascending. He is one of England's most celebrated composers and drew heavily on English folk music for inspiration.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_177",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which symbol is associated with the national flower of Ireland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Four-leaf clover"
+      },
+      {
+        "id": "b",
+        "text": "Shamrock (three-leaf clover)"
+      },
+      {
+        "id": "c",
+        "text": "White rose"
+      },
+      {
+        "id": "d",
+        "text": "Bluebell"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The shamrock, a three-leaf clover, is the national plant of Ireland. St Patrick is said to have used the shamrock to explain the concept of the Holy Trinity to the Irish people.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_178",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which traditional British custom involves neighbours and communities celebrating together with fireworks on 5 November?",
+    "options": [
+      {
+        "id": "a",
+        "text": "May Day celebrations"
+      },
+      {
+        "id": "b",
+        "text": "Bonfire Night (Guy Fawkes Night)"
+      },
+      {
+        "id": "c",
+        "text": "Midsummer celebrations"
+      },
+      {
+        "id": "d",
+        "text": "Apple bobbing at Halloween"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Bonfire Night on 5 November is celebrated across the UK with bonfires and fireworks displays. Effigies of Guy Fawkes are traditionally burned on the bonfire to mark the foiling of the 1605 Gunpowder Plot.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_179",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Robert Louis Stevenson, the author of 'Treasure Island' and 'Strange Case of Dr Jekyll and Mr Hyde', was from which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Scotland"
+      },
+      {
+        "id": "c",
+        "text": "Wales"
+      },
+      {
+        "id": "d",
+        "text": "Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Robert Louis Stevenson (1850-1894) was a Scottish novelist, essayist, and travel writer. His most famous works include 'Treasure Island', 'Kidnapped', and 'Strange Case of Dr Jekyll and Mr Hyde'. He was born in Edinburgh.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_180",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which British author wrote 'Charlie and the Chocolate Factory' and 'Matilda'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enid Blyton"
+      },
+      {
+        "id": "b",
+        "text": "Roald Dahl"
+      },
+      {
+        "id": "c",
+        "text": "C.S. Lewis"
+      },
+      {
+        "id": "d",
+        "text": "J.R.R. Tolkien"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Roald Dahl (1916-1990) was a British author of Welsh-Norwegian descent, born in Cardiff. He is one of the world's most beloved children's writers, known for 'Charlie and the Chocolate Factory', 'Matilda', 'James and the Giant Peach', 'The BFG', and many other stories.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_181",
+    "topic_id": "topic_traditions_3",
+    "question_text": "J.K. Rowling is famous for writing which series of books?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Chronicles of Narnia"
+      },
+      {
+        "id": "b",
+        "text": "The Lord of the Rings"
+      },
+      {
+        "id": "c",
+        "text": "The Harry Potter series"
+      },
+      {
+        "id": "d",
+        "text": "His Dark Materials"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "J.K. Rowling is the author of the Harry Potter series of seven books about a young wizard. The series has sold over 500 million copies worldwide and has been translated into over 80 languages, making it one of the best-selling book series in history.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_182",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Dylan Thomas, the poet who wrote 'Under Milk Wood' and 'Do not go gentle into that good night', was from which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Ireland"
+      },
+      {
+        "id": "c",
+        "text": "Wales"
+      },
+      {
+        "id": "d",
+        "text": "Scotland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Dylan Thomas (1914-1953) was a Welsh poet and writer, born in Swansea. He is one of the most important Welsh poets of the 20th century. His famous works include the radio play 'Under Milk Wood' and the poem 'Do not go gentle into that good night'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_183",
+    "topic_id": "topic_traditions_3",
+    "question_text": "W.B. Yeats, the Nobel Prize-winning poet, was from which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Scotland"
+      },
+      {
+        "id": "c",
+        "text": "Ireland"
+      },
+      {
+        "id": "d",
+        "text": "Wales"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "William Butler Yeats (1865-1939) was an Irish poet and playwright who won the Nobel Prize in Literature in 1923. He was a central figure in the Irish literary revival and is considered one of the greatest poets of the 20th century.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_184",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which novelist wrote 'The Lord of the Rings' and 'The Hobbit'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "C.S. Lewis"
+      },
+      {
+        "id": "b",
+        "text": "J.R.R. Tolkien"
+      },
+      {
+        "id": "c",
+        "text": "Philip Pullman"
+      },
+      {
+        "id": "d",
+        "text": "Terry Pratchett"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "J.R.R. Tolkien (1892-1973) was an English author and academic who wrote 'The Hobbit' and 'The Lord of the Rings'. His works created a richly detailed fantasy world and have had an enormous influence on modern fantasy literature.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_185",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which British author wrote 'The Chronicles of Narnia'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "J.R.R. Tolkien"
+      },
+      {
+        "id": "b",
+        "text": "C.S. Lewis"
+      },
+      {
+        "id": "c",
+        "text": "Roald Dahl"
+      },
+      {
+        "id": "d",
+        "text": "J.K. Rowling"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "C.S. Lewis (1898-1963) was a British author born in Belfast, Northern Ireland. He wrote 'The Chronicles of Narnia', a series of seven fantasy novels for children. He was also a close friend of J.R.R. Tolkien, and both were members of the literary group known as the Inklings.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_186",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Welsh author wrote the short story collection 'Tales of the Unexpected' and the children's novel 'The BFG'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dylan Thomas"
+      },
+      {
+        "id": "b",
+        "text": "Roald Dahl"
+      },
+      {
+        "id": "c",
+        "text": "R.S. Thomas"
+      },
+      {
+        "id": "d",
+        "text": "Philip Pullman"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Roald Dahl, born in Cardiff to Norwegian parents, wrote both the adult short story collection 'Tales of the Unexpected' (adapted for television) and beloved children's books including 'The BFG' (Big Friendly Giant), 'Danny, the Champion of the World', and 'Fantastic Mr Fox'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_187",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Robert Louis Stevenson's novel 'Kidnapped' is set in which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Scotland"
+      },
+      {
+        "id": "c",
+        "text": "Ireland"
+      },
+      {
+        "id": "d",
+        "text": "France"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Stevenson's 'Kidnapped' (1886) is set in Scotland in the aftermath of the 1745 Jacobite rising. It follows the adventures of David Balfour and is considered one of the great Scottish novels.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_188",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Irish poet wrote 'The Lake Isle of Innisfree' and 'Easter 1916'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Seamus Heaney"
+      },
+      {
+        "id": "b",
+        "text": "W.B. Yeats"
+      },
+      {
+        "id": "c",
+        "text": "Oscar Wilde"
+      },
+      {
+        "id": "d",
+        "text": "James Joyce"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "W.B. Yeats wrote many famous poems including 'The Lake Isle of Innisfree' and 'Easter 1916', which commemorated the Easter Rising in Dublin. He was a key figure in the Irish Literary Revival and the first Irishman to win the Nobel Prize in Literature.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_189",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The British Grand Prix, part of the Formula 1 World Championship, is traditionally held at which circuit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brands Hatch"
+      },
+      {
+        "id": "b",
+        "text": "Silverstone"
+      },
+      {
+        "id": "c",
+        "text": "Donington Park"
+      },
+      {
+        "id": "d",
+        "text": "Goodwood"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The British Grand Prix is traditionally held at Silverstone Circuit in Northamptonshire. Silverstone hosted the very first Formula 1 World Championship race in 1950 and remains one of the most iconic circuits in motorsport.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_190",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The annual Boat Race is a rowing competition between which two universities?",
+    "options": [
+      {
+        "id": "a",
+        "text": "London and Edinburgh"
+      },
+      {
+        "id": "b",
+        "text": "Oxford and Cambridge"
+      },
+      {
+        "id": "c",
+        "text": "Durham and St Andrews"
+      },
+      {
+        "id": "d",
+        "text": "Bristol and Bath"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Boat Race is an annual rowing race between the University of Oxford and the University of Cambridge. It has been held since 1829 and takes place on the River Thames in London. It is one of the most famous sporting events in the British calendar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_191",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Highland Games are traditional sporting events associated with which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "England"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "Scotland"
+      },
+      {
+        "id": "d",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Highland Games are traditional Scottish events featuring athletics, dancing, and music. Events include tossing the caber, throwing the hammer, and Highland dancing. The most famous gathering is the Braemar Highland Games, traditionally attended by the Royal Family.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_192",
+    "topic_id": "topic_traditions_2",
+    "question_text": "What event involves competitors tossing a large wooden pole at the Highland Games?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Shot put"
+      },
+      {
+        "id": "b",
+        "text": "Tossing the caber"
+      },
+      {
+        "id": "c",
+        "text": "Hammer throw"
+      },
+      {
+        "id": "d",
+        "text": "Javelin"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Tossing the caber is one of the most iconic events at the Highland Games. Competitors lift and toss a large tapered log (the caber), aiming to have it land in a straight line. The caber can be up to 19 feet long and weigh around 175 pounds.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_193",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which British sport involves two teams of 15 players and originated in a school in Warwickshire?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Football"
+      },
+      {
+        "id": "b",
+        "text": "Cricket"
+      },
+      {
+        "id": "c",
+        "text": "Rugby"
+      },
+      {
+        "id": "d",
+        "text": "Hockey"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Rugby union is said to have originated at Rugby School in Warwickshire in 1823. According to legend, William Webb Ellis picked up the ball during a football game and ran with it. Each team has 15 players (in rugby union). The UK has separate national teams for England, Scotland, Wales, and Ireland.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_194",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Grand National is a famous British event in which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Motor racing"
+      },
+      {
+        "id": "b",
+        "text": "Horse racing"
+      },
+      {
+        "id": "c",
+        "text": "Athletics"
+      },
+      {
+        "id": "d",
+        "text": "Cycling"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Grand National is a world-famous horse race held annually at Aintree Racecourse near Liverpool. It is a steeplechase over about 4 miles with 30 fences. It is one of the most watched sporting events in the UK and has been run since 1839.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_195",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which of the following is a traditional British boxing venue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wembley Stadium"
+      },
+      {
+        "id": "b",
+        "text": "York Hall, Bethnal Green"
+      },
+      {
+        "id": "c",
+        "text": "Lords Cricket Ground"
+      },
+      {
+        "id": "d",
+        "text": "The Oval"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "York Hall in Bethnal Green, East London, is one of Britain's most famous boxing venues. Boxing has a long tradition in the UK, with many world champions including Lennox Lewis, Anthony Joshua, and Tyson Fury. The Queensberry Rules, which form the basis of modern boxing, were written in London in 1867.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_196",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which annual sporting event takes place on the River Thames between Putney and Mortlake?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The London Marathon"
+      },
+      {
+        "id": "b",
+        "text": "The Oxford and Cambridge Boat Race"
+      },
+      {
+        "id": "c",
+        "text": "The Henley Royal Regatta"
+      },
+      {
+        "id": "d",
+        "text": "The Great River Race"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Oxford and Cambridge Boat Race takes place on the Thames between Putney and Mortlake, covering a course of about 4.2 miles (6.8 km). It is a major event in the British sporting calendar, attracting large crowds along the riverbanks and millions of television viewers.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_197",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Henley Royal Regatta is a famous British event in which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sailing"
+      },
+      {
+        "id": "b",
+        "text": "Rowing"
+      },
+      {
+        "id": "c",
+        "text": "Swimming"
+      },
+      {
+        "id": "d",
+        "text": "Canoeing"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Henley Royal Regatta is an annual rowing event held on the River Thames at Henley-on-Thames in Oxfordshire. It was first held in 1839 and is one of the most prestigious rowing events in the world, attracting competitors from many countries.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_198",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Queensberry Rules, published in 1867, established the modern rules for which sport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wrestling"
+      },
+      {
+        "id": "b",
+        "text": "Boxing"
+      },
+      {
+        "id": "c",
+        "text": "Fencing"
+      },
+      {
+        "id": "d",
+        "text": "Judo"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Marquess of Queensberry Rules were published in 1867 and established the modern rules of boxing, including the use of gloves, three-minute rounds, and a ten-second count for knockdowns. They replaced the earlier bare-knuckle rules.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_199",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Buckingham Palace is the official London residence of which person?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "b",
+        "text": "The British monarch"
+      },
+      {
+        "id": "c",
+        "text": "The Archbishop of Canterbury"
+      },
+      {
+        "id": "d",
+        "text": "The Speaker of the House of Commons"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Buckingham Palace in London is the official residence and administrative headquarters of the British monarch. It has served as the official London residence of Britain's sovereigns since 1837. The Changing of the Guard ceremony at the Palace is a major tourist attraction.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_200",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Windsor Castle is significant because it is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "The largest museum in the UK"
+      },
+      {
+        "id": "b",
+        "text": "The oldest and largest occupied castle in the world, and a residence of the Royal Family"
+      },
+      {
+        "id": "c",
+        "text": "The headquarters of the British Army"
+      },
+      {
+        "id": "d",
+        "text": "A medieval ruin with no current use"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Windsor Castle in Berkshire is the oldest and largest occupied castle in the world. It has been a royal residence for over 900 years and is one of the official residences of the British monarch. It was originally built by William the Conqueror after the Norman Conquest.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_201",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Stonehenge is a prehistoric monument located on Salisbury Plain. What type of structure is it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A Roman fort"
+      },
+      {
+        "id": "b",
+        "text": "A stone circle believed to have been used for ceremonies and astronomical observations"
+      },
+      {
+        "id": "c",
+        "text": "A medieval castle"
+      },
+      {
+        "id": "d",
+        "text": "A Viking burial ground"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Stonehenge is a prehistoric stone circle on Salisbury Plain in Wiltshire. It was built in stages over about 1,500 years, starting around 3000 BC. It is believed to have been used for ceremonial and astronomical purposes. It is a UNESCO World Heritage Site.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_202",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Giant's Causeway is a famous natural landmark in which part of the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scotland"
+      },
+      {
+        "id": "b",
+        "text": "Wales"
+      },
+      {
+        "id": "c",
+        "text": "Northern Ireland"
+      },
+      {
+        "id": "d",
+        "text": "South West England"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Giant's Causeway is a UNESCO World Heritage Site on the coast of County Antrim, Northern Ireland. It consists of about 40,000 interlocking basalt columns formed by an ancient volcanic eruption. According to legend, it was built by the giant Finn McCool.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_203",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Hadrian's Wall stretches across the north of England. What was its original purpose?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To mark the border between England and Scotland"
+      },
+      {
+        "id": "b",
+        "text": "To mark the northern boundary of the Roman Empire in Britain"
+      },
+      {
+        "id": "c",
+        "text": "To serve as a road for Roman legions"
+      },
+      {
+        "id": "d",
+        "text": "To protect against Viking invasions"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hadrian's Wall was built on the orders of Emperor Hadrian around AD 122 to mark and defend the northern boundary of the Roman Empire in Britain. Stretching 73 miles from the River Tyne to the Solway Firth, it is a UNESCO World Heritage Site.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_204",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Lake District in north-west England is famous for its association with which poet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lord Byron"
+      },
+      {
+        "id": "b",
+        "text": "William Wordsworth"
+      },
+      {
+        "id": "c",
+        "text": "John Keats"
+      },
+      {
+        "id": "d",
+        "text": "T.S. Eliot"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Lake District is closely associated with the Romantic poet William Wordsworth (1770-1850), who lived there for most of his adult life. His famous poem 'I Wandered Lonely as a Cloud' (Daffodils) was inspired by the Lake District landscape. Other writers associated with the area include Beatrix Potter and Samuel Taylor Coleridge.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_205",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which London landmark is a fortress that has served as a royal palace, prison, and treasury, and now houses the Crown Jewels?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buckingham Palace"
+      },
+      {
+        "id": "b",
+        "text": "The Tower of London"
+      },
+      {
+        "id": "c",
+        "text": "Westminster Abbey"
+      },
+      {
+        "id": "d",
+        "text": "Hampton Court Palace"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Tower of London is a historic fortress on the north bank of the River Thames. Founded by William the Conqueror in 1066, it has served as a royal palace, prison, place of execution, armoury, and treasury. Today it houses the Crown Jewels and is guarded by the Yeoman Warders (Beefeaters).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_206",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Edinburgh Castle is built on top of what geological feature?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A hill above the River Forth"
+      },
+      {
+        "id": "b",
+        "text": "An extinct volcanic rock called Castle Rock"
+      },
+      {
+        "id": "c",
+        "text": "A cliff overlooking the North Sea"
+      },
+      {
+        "id": "d",
+        "text": "An island in the Firth of Forth"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Edinburgh Castle sits on Castle Rock, an extinct volcanic plug in the centre of Edinburgh. The castle has been a royal fortress since at least the 12th century and dominates the city's skyline. It is Scotland's most-visited paid tourist attraction.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_207",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Westminster Abbey in London is famous for what ceremonies?",
+    "options": [
+      {
+        "id": "a",
+        "text": "State opening of Parliament only"
+      },
+      {
+        "id": "b",
+        "text": "Coronations and royal weddings"
+      },
+      {
+        "id": "c",
+        "text": "Criminal trials"
+      },
+      {
+        "id": "d",
+        "text": "Military parades"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Westminster Abbey is a large Gothic church in London where coronations of British monarchs have taken place since 1066. It has also been the venue for many royal weddings and is the burial place of many kings, queens, poets, and other notable figures.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_208",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Big Ben nickname actually refers to what?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The clock tower at the Houses of Parliament"
+      },
+      {
+        "id": "b",
+        "text": "The Great Bell inside the Elizabeth Tower at the Houses of Parliament"
+      },
+      {
+        "id": "c",
+        "text": "The entire Palace of Westminster"
+      },
+      {
+        "id": "d",
+        "text": "The clock face on the tower"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Big Ben is actually the nickname for the Great Bell inside the Elizabeth Tower at the north end of the Palace of Westminster. The tower itself was renamed the Elizabeth Tower in 2012 to mark Queen Elizabeth II's Diamond Jubilee. The bell was first rung in 1859.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_209",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Ashes cricket series between England and Australia got its name from which event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A fire at Lord's Cricket Ground"
+      },
+      {
+        "id": "b",
+        "text": "A satirical obituary stating English cricket had died and the ashes would be taken to Australia"
+      },
+      {
+        "id": "c",
+        "text": "The burning of a cricket bat after a famous match"
+      },
+      {
+        "id": "d",
+        "text": "An Australian bush fire during a touring match"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "After Australia beat England at The Oval in 1882, a satirical obituary in The Sporting Times declared that English cricket had died and 'the body will be cremated and the ashes taken to Australia.' This led to the subsequent series being called The Ashes.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_210",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Wimbledon is the oldest tennis tournament in the world. In which year was it first held?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1867"
+      },
+      {
+        "id": "b",
+        "text": "1877"
+      },
+      {
+        "id": "c",
+        "text": "1887"
+      },
+      {
+        "id": "d",
+        "text": "1901"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Wimbledon Championships were first held in 1877 at the All England Lawn Tennis and Croquet Club in south-west London. It remains the only Grand Slam tournament played on grass courts.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_211",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which surface is the Wimbledon tennis championship played on?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Clay"
+      },
+      {
+        "id": "b",
+        "text": "Hard court"
+      },
+      {
+        "id": "c",
+        "text": "Grass"
+      },
+      {
+        "id": "d",
+        "text": "Carpet"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Wimbledon is played on grass courts, making it the only Grand Slam tennis tournament played on this surface. The tournament's traditions include a strict white clothing rule for players and the serving of strawberries and cream to spectators.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_212",
+    "topic_id": "topic_traditions_2",
+    "question_text": "According to legend, rugby originated in 1823 at which school when a pupil picked up the ball and ran with it during a football game?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eton College"
+      },
+      {
+        "id": "b",
+        "text": "Harrow School"
+      },
+      {
+        "id": "c",
+        "text": "Rugby School"
+      },
+      {
+        "id": "d",
+        "text": "Winchester College"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "According to legend, rugby originated at Rugby School in Warwickshire in 1823 when William Webb Ellis picked up the ball during a football game and ran with it. The Rugby World Cup trophy is named the Webb Ellis Cup in his honour.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_213",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Cricket's most famous ground, Lord's, is located in which city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Birmingham"
+      },
+      {
+        "id": "b",
+        "text": "Manchester"
+      },
+      {
+        "id": "c",
+        "text": "London"
+      },
+      {
+        "id": "d",
+        "text": "Leeds"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Lord's Cricket Ground is in St John's Wood, London. It is known as 'the Home of Cricket' and is the home of the Marylebone Cricket Club (MCC), which was the custodian of the Laws of Cricket.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_214",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The FA Cup final is traditionally played at which stadium?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Old Trafford"
+      },
+      {
+        "id": "b",
+        "text": "Wembley Stadium"
+      },
+      {
+        "id": "c",
+        "text": "Twickenham"
+      },
+      {
+        "id": "d",
+        "text": "Hampden Park"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The FA Cup final is traditionally played at Wembley Stadium in London. Wembley is the national football stadium of England and is also used for other major sporting events and concerts.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_215",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Tower of London is guarded by the Yeoman Warders. What are they popularly known as?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Redcoats"
+      },
+      {
+        "id": "b",
+        "text": "Beefeaters"
+      },
+      {
+        "id": "c",
+        "text": "Grenadiers"
+      },
+      {
+        "id": "d",
+        "text": "Coldstreamers"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Yeoman Warders of the Tower of London are popularly known as Beefeaters. They have guarded the Tower since the Tudor period and also act as tour guides. They live within the Tower grounds.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_216",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Windsor Castle was originally built by which ruler?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Henry VIII"
+      },
+      {
+        "id": "b",
+        "text": "William the Conqueror"
+      },
+      {
+        "id": "c",
+        "text": "Edward I"
+      },
+      {
+        "id": "d",
+        "text": "Queen Victoria"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Windsor Castle was originally built by William the Conqueror after the Norman Conquest of 1066. Over the centuries it has been extensively rebuilt and expanded. It is the oldest and largest occupied castle in the world.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_217",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Jane Austen lived most of her life in which part of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yorkshire"
+      },
+      {
+        "id": "b",
+        "text": "Hampshire"
+      },
+      {
+        "id": "c",
+        "text": "Cornwall"
+      },
+      {
+        "id": "d",
+        "text": "Norfolk"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Jane Austen (1775-1817) was born in Steventon, Hampshire, and spent most of her life in the Hampshire area. Her novels, including Pride and Prejudice, Sense and Sensibility, and Emma, are set in the English gentry of the Regency period.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_218",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Jane Austen novel tells the story of the Dashwood sisters, Elinor and Marianne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pride and Prejudice"
+      },
+      {
+        "id": "b",
+        "text": "Emma"
+      },
+      {
+        "id": "c",
+        "text": "Sense and Sensibility"
+      },
+      {
+        "id": "d",
+        "text": "Persuasion"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Sense and Sensibility (1811) was Jane Austen's first published novel. It follows the fortunes of the Dashwood sisters after their father's death leaves them in reduced circumstances.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_219",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Charlotte Bronte wrote which famous novel, published in 1847?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wuthering Heights"
+      },
+      {
+        "id": "b",
+        "text": "The Tenant of Wildfell Hall"
+      },
+      {
+        "id": "c",
+        "text": "Jane Eyre"
+      },
+      {
+        "id": "d",
+        "text": "Agnes Grey"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Charlotte Bronte wrote Jane Eyre, published in 1847 under the pen name Currer Bell. The novel tells the story of its title character's life from childhood to adulthood and her love for Mr Rochester. Charlotte's sister Emily wrote Wuthering Heights in the same year.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_220",
+    "topic_id": "topic_traditions_3",
+    "question_text": "In which Yorkshire village did the Bronte sisters grow up?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Whitby"
+      },
+      {
+        "id": "b",
+        "text": "Haworth"
+      },
+      {
+        "id": "c",
+        "text": "Helmsley"
+      },
+      {
+        "id": "d",
+        "text": "Grassington"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Bronte sisters (Charlotte, Emily, and Anne) grew up in Haworth, a village on the edge of the Yorkshire moors. The parsonage where they lived is now a museum dedicated to their lives and works.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_221",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Robert Burns wrote which poem that is traditionally sung on New Year's Eve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tam o' Shanter"
+      },
+      {
+        "id": "b",
+        "text": "To a Mouse"
+      },
+      {
+        "id": "c",
+        "text": "A Red, Red Rose"
+      },
+      {
+        "id": "d",
+        "text": "Auld Lang Syne"
+      }
+    ],
+    "correct_option_ids": [
+      "d"
+    ],
+    "explanation": "Auld Lang Syne was written by Robert Burns in 1788 and is traditionally sung at midnight on New Year's Eve (Hogmanay) across the UK and in many other countries. The title can be translated as 'old long since' or 'days gone by'.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_222",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Dylan Thomas, who wrote the radio play 'Under Milk Wood', was born in which Welsh city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cardiff"
+      },
+      {
+        "id": "b",
+        "text": "Newport"
+      },
+      {
+        "id": "c",
+        "text": "Swansea"
+      },
+      {
+        "id": "d",
+        "text": "Bangor"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Dylan Thomas (1914-1953) was born in Swansea. He is one of Wales's most celebrated poets. His works include 'Under Milk Wood', 'Do not go gentle into that good night', and 'A Child's Christmas in Wales'.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_223",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Roald Dahl, the author of 'Charlie and the Chocolate Factory', was born in which UK city?",
+    "options": [
+      {
+        "id": "a",
+        "text": "London"
+      },
+      {
+        "id": "b",
+        "text": "Cardiff"
+      },
+      {
+        "id": "c",
+        "text": "Edinburgh"
+      },
+      {
+        "id": "d",
+        "text": "Manchester"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Roald Dahl (1916-1990) was born in Cardiff, Wales, to Norwegian immigrant parents. He became one of the world's best-selling children's authors, with books including 'Charlie and the Chocolate Factory', 'Matilda', 'The BFG', and 'James and the Giant Peach'.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_224",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Edward Elgar's 'Pomp and Circumstance March No. 1' is also known by which title?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rule Britannia"
+      },
+      {
+        "id": "b",
+        "text": "God Save the King"
+      },
+      {
+        "id": "c",
+        "text": "Land of Hope and Glory"
+      },
+      {
+        "id": "d",
+        "text": "Jerusalem"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Elgar's Pomp and Circumstance March No. 1 is commonly known as 'Land of Hope and Glory'. The words were written by A.C. Benson. It is performed at the Last Night of the Proms and at many graduation ceremonies.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_225",
+    "topic_id": "topic_traditions_2",
+    "question_text": "George Frideric Handel composed 'Water Music' for a royal barge trip on the River Thames for which king?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Charles II"
+      },
+      {
+        "id": "b",
+        "text": "George I"
+      },
+      {
+        "id": "c",
+        "text": "George III"
+      },
+      {
+        "id": "d",
+        "text": "William IV"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Handel composed the Water Music suites for King George I. The music was first performed in 1717 during a royal barge trip on the River Thames. Handel was one of the most important composers of the Baroque period and spent most of his career in London.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_226",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Palace of Westminster, home to the Houses of Parliament, is located on the banks of which river?",
+    "options": [
+      {
+        "id": "a",
+        "text": "River Severn"
+      },
+      {
+        "id": "b",
+        "text": "River Thames"
+      },
+      {
+        "id": "c",
+        "text": "River Mersey"
+      },
+      {
+        "id": "d",
+        "text": "River Tyne"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Palace of Westminster, which houses the UK Parliament, stands on the north bank of the River Thames in central London. It is a UNESCO World Heritage Site and includes the famous Elizabeth Tower (Big Ben).",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_227",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which London landmark was originally built by William the Conqueror in 1066 and has served as a prison, armoury, and royal mint?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Westminster Abbey"
+      },
+      {
+        "id": "b",
+        "text": "Hampton Court Palace"
+      },
+      {
+        "id": "c",
+        "text": "The Tower of London"
+      },
+      {
+        "id": "d",
+        "text": "Kensington Palace"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The Tower of London was founded by William the Conqueror in 1066. Over the centuries, it has served as a royal palace, a prison (holding figures such as Sir Walter Raleigh and Guy Fawkes), an armoury, a royal mint, and a treasury. It now houses the Crown Jewels.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_228",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which castle in Edinburgh houses the Scottish Crown Jewels (the Honours of Scotland)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stirling Castle"
+      },
+      {
+        "id": "b",
+        "text": "Edinburgh Castle"
+      },
+      {
+        "id": "c",
+        "text": "Holyrood Palace"
+      },
+      {
+        "id": "d",
+        "text": "Glamis Castle"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Edinburgh Castle houses the Honours of Scotland, the oldest set of crown jewels in the British Isles. The castle sits on Castle Rock, an extinct volcanic plug, and is Scotland's most visited paid tourist attraction.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_229",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Shakespeare play tells the story of a Scottish general who murders the king to seize the throne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hamlet"
+      },
+      {
+        "id": "b",
+        "text": "Othello"
+      },
+      {
+        "id": "c",
+        "text": "Macbeth"
+      },
+      {
+        "id": "d",
+        "text": "Richard III"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Macbeth is a tragedy by Shakespeare set in Scotland. It follows the Scottish general Macbeth, who, encouraged by his wife Lady Macbeth, murders King Duncan to take the throne, leading to guilt and madness.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_230",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Shakespeare play features the merchant Antonio and the moneylender Shylock?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Taming of the Shrew"
+      },
+      {
+        "id": "b",
+        "text": "The Merchant of Venice"
+      },
+      {
+        "id": "c",
+        "text": "The Comedy of Errors"
+      },
+      {
+        "id": "d",
+        "text": "Much Ado About Nothing"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Merchant of Venice is a play by Shakespeare that features the merchant Antonio and the Jewish moneylender Shylock. It explores themes of justice, mercy, and prejudice.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_231",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What type of pudding is traditionally eaten on Christmas Day in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sticky toffee pudding"
+      },
+      {
+        "id": "b",
+        "text": "Christmas pudding (a rich, dark fruit pudding)"
+      },
+      {
+        "id": "c",
+        "text": "Bread and butter pudding"
+      },
+      {
+        "id": "d",
+        "text": "Rice pudding"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Christmas pudding is a traditional dessert served on Christmas Day. It is a rich, dark, steamed pudding made with dried fruits, suet, and spices. It is often served with brandy butter or cream and sometimes set alight with brandy before serving.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_232",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What is traditionally eaten on Shrove Tuesday (Pancake Day) in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hot cross buns"
+      },
+      {
+        "id": "b",
+        "text": "Mince pies"
+      },
+      {
+        "id": "c",
+        "text": "Pancakes"
+      },
+      {
+        "id": "d",
+        "text": "Simnel cake"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Shrove Tuesday, also known as Pancake Day, falls before the start of Lent. People traditionally make and eat pancakes to use up rich foods like eggs, sugar, and butter before the fasting period of Lent begins.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_233",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which member of The Beatles wrote the song 'Imagine'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paul McCartney"
+      },
+      {
+        "id": "b",
+        "text": "George Harrison"
+      },
+      {
+        "id": "c",
+        "text": "John Lennon"
+      },
+      {
+        "id": "d",
+        "text": "Ringo Starr"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "John Lennon wrote and recorded 'Imagine' in 1971 after The Beatles had disbanded. The song became one of the best-selling singles of all time and is considered Lennon's signature solo work.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_234",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which museum in London was originally established in 1753 and houses objects such as the Rosetta Stone and the Elgin Marbles?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Victoria and Albert Museum"
+      },
+      {
+        "id": "b",
+        "text": "The National Gallery"
+      },
+      {
+        "id": "c",
+        "text": "The British Museum"
+      },
+      {
+        "id": "d",
+        "text": "The Imperial War Museum"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The British Museum was established in 1753 and is one of the oldest public museums in the world. It holds over 8 million objects including the Rosetta Stone, the Elgin Marbles from the Parthenon, and Egyptian mummies.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_235",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Mothering Sunday in the UK is traditionally observed on which day?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The first Sunday in May"
+      },
+      {
+        "id": "b",
+        "text": "The fourth Sunday of Lent"
+      },
+      {
+        "id": "c",
+        "text": "The second Sunday in March"
+      },
+      {
+        "id": "d",
+        "text": "The last Sunday in February"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Mothering Sunday is observed on the fourth Sunday of Lent. It has Christian origins related to visiting one's 'mother church', but today it is an occasion when people give cards and gifts to their mothers.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_236",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which novel by Jane Austen features the character Elizabeth Bennet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Northanger Abbey"
+      },
+      {
+        "id": "b",
+        "text": "Mansfield Park"
+      },
+      {
+        "id": "c",
+        "text": "Pride and Prejudice"
+      },
+      {
+        "id": "d",
+        "text": "Persuasion"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Elizabeth Bennet is the protagonist of Pride and Prejudice (1813) by Jane Austen. The novel charts her relationship with Mr Darcy and is one of the most widely read novels in English literature.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_237",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which country's national rugby union team plays at Twickenham Stadium?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wales"
+      },
+      {
+        "id": "b",
+        "text": "Scotland"
+      },
+      {
+        "id": "c",
+        "text": "England"
+      },
+      {
+        "id": "d",
+        "text": "Ireland"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Twickenham Stadium in south-west London is the home of England Rugby. It is the largest dedicated rugby union venue in the world, with a capacity of over 82,000.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_238",
+    "topic_id": "topic_traditions_4",
+    "question_text": "St Paul's Cathedral in London was designed by which famous architect after the Great Fire of London?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inigo Jones"
+      },
+      {
+        "id": "b",
+        "text": "Sir Christopher Wren"
+      },
+      {
+        "id": "c",
+        "text": "Robert Adam"
+      },
+      {
+        "id": "d",
+        "text": "Charles Barry"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "St Paul's Cathedral was designed by Sir Christopher Wren and built between 1675 and 1710 after the original cathedral was destroyed in the Great Fire of London in 1666. Its dome is one of the most recognisable features of the London skyline.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_239",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Halloween is celebrated on which date in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "5 November"
+      },
+      {
+        "id": "b",
+        "text": "31 October"
+      },
+      {
+        "id": "c",
+        "text": "1 November"
+      },
+      {
+        "id": "d",
+        "text": "30 September"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Halloween is celebrated on 31 October. It has its roots in the ancient Celtic festival of Samhain. In the UK, children often dress up in costumes and go trick-or-treating. Pumpkins are carved into lanterns.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_240",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Dickens novel, set during the French Revolution, begins with the famous line 'It was the best of times, it was the worst of times'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "David Copperfield"
+      },
+      {
+        "id": "b",
+        "text": "A Tale of Two Cities"
+      },
+      {
+        "id": "c",
+        "text": "Bleak House"
+      },
+      {
+        "id": "d",
+        "text": "Our Mutual Friend"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A Tale of Two Cities (1859) by Charles Dickens is set in London and Paris before and during the French Revolution. Its opening line is one of the most famous in English literature.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_241",
+    "topic_id": "topic_traditions_2",
+    "question_text": "In cricket, what is 'The Oval' in London primarily known as?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A rugby ground"
+      },
+      {
+        "id": "b",
+        "text": "An international cricket ground"
+      },
+      {
+        "id": "c",
+        "text": "A football stadium"
+      },
+      {
+        "id": "d",
+        "text": "A tennis venue"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Oval (officially the Kia Oval) is an international cricket ground in Kennington, south London. It is the home ground of Surrey County Cricket Club and regularly hosts Test matches and international cricket.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_242",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which famous Scottish poem by Robert Burns begins 'My luve is like a red, red rose'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auld Lang Syne"
+      },
+      {
+        "id": "b",
+        "text": "Address to a Haggis"
+      },
+      {
+        "id": "c",
+        "text": "A Red, Red Rose"
+      },
+      {
+        "id": "d",
+        "text": "To a Mouse"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "A Red, Red Rose is one of Robert Burns' most famous love poems, first published in 1794. It compares the poet's love to a fresh red rose and to a sweet melody. Burns' poetry has influenced songwriters and poets for over 200 years.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_243",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Changing of the Guard ceremony takes place outside which London palace?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kensington Palace"
+      },
+      {
+        "id": "b",
+        "text": "Buckingham Palace"
+      },
+      {
+        "id": "c",
+        "text": "St James's Palace"
+      },
+      {
+        "id": "d",
+        "text": "Hampton Court Palace"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Changing of the Guard is a formal ceremony in which the Old Guard (soldiers currently on duty) are replaced by the New Guard at Buckingham Palace. It is a major tourist attraction and a famous British tradition.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_244",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which annual London event, first held in 1981, is one of the largest marathon races in the world?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Great North Run"
+      },
+      {
+        "id": "b",
+        "text": "The London Marathon"
+      },
+      {
+        "id": "c",
+        "text": "The Brighton Marathon"
+      },
+      {
+        "id": "d",
+        "text": "The Edinburgh Marathon"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The London Marathon, first held in 1981, is one of the largest marathon races in the world. It takes place each spring and attracts elite runners as well as thousands of charity fundraisers. The course passes many London landmarks.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_245",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which British author, born in Cardiff, wrote 'James and the Giant Peach'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enid Blyton"
+      },
+      {
+        "id": "b",
+        "text": "Beatrix Potter"
+      },
+      {
+        "id": "c",
+        "text": "Roald Dahl"
+      },
+      {
+        "id": "d",
+        "text": "A.A. Milne"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Roald Dahl, born in Cardiff in 1916 to Norwegian parents, wrote 'James and the Giant Peach' (1961). It is one of many beloved children's books by Dahl, alongside 'Charlie and the Chocolate Factory', 'Matilda', and 'The Witches'.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_246",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which traditional UK holiday on 1 May has ancient origins associated with the start of summer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Harvest Festival"
+      },
+      {
+        "id": "b",
+        "text": "May Day"
+      },
+      {
+        "id": "c",
+        "text": "Midsummer's Day"
+      },
+      {
+        "id": "d",
+        "text": "Lammas Day"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "May Day (1 May) has ancient origins as a celebration of the start of summer. Traditional activities include dancing around a Maypole and crowning a May Queen. The first Monday in May is a bank holiday in the UK.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_247",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which renowned London museum houses exhibits on science, technology, industry, and medicine, and is located next to the Natural History Museum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The British Museum"
+      },
+      {
+        "id": "b",
+        "text": "The Science Museum"
+      },
+      {
+        "id": "c",
+        "text": "The Imperial War Museum"
+      },
+      {
+        "id": "d",
+        "text": "The Design Museum"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Science Museum in South Kensington sits next to the Natural History Museum. It holds collections on science, technology, industry, and medicine. Notable exhibits include Stephenson's Rocket and early computing machinery. Entry is free.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_248",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which football event is the oldest football league competition in the world, founded in 1888?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The FA Cup"
+      },
+      {
+        "id": "b",
+        "text": "The English Football League"
+      },
+      {
+        "id": "c",
+        "text": "The Premier League"
+      },
+      {
+        "id": "d",
+        "text": "The Champions League"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The English Football League was founded in 1888, making it the oldest football league competition in the world. England has a rich football heritage and the sport is the most popular in the country.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_249",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which of the following is a UNESCO World Heritage Site stretching across the north of England, built by the Romans?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Antonine Wall"
+      },
+      {
+        "id": "b",
+        "text": "Hadrian's Wall"
+      },
+      {
+        "id": "c",
+        "text": "Offa's Dyke"
+      },
+      {
+        "id": "d",
+        "text": "The Ridgeway"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hadrian's Wall is a UNESCO World Heritage Site stretching 73 miles across northern England from the River Tyne to the Solway Firth. It was built on the orders of Emperor Hadrian around AD 122 to mark the northern frontier of the Roman Empire in Britain.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_250",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Shakespeare play features three witches who prophesy that the title character will become king?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Tempest"
+      },
+      {
+        "id": "b",
+        "text": "King Lear"
+      },
+      {
+        "id": "c",
+        "text": "Macbeth"
+      },
+      {
+        "id": "d",
+        "text": "Hamlet"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "In Macbeth, three witches (the 'Weird Sisters') prophesy that the Scottish general Macbeth will become King of Scotland. This prophecy, combined with encouragement from Lady Macbeth, leads him to commit murder to fulfil the prediction.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_251",
+    "topic_id": "topic_traditions_1",
+    "question_text": "In which month of the year does Remembrance Sunday typically fall?",
+    "options": [
+      {
+        "id": "a",
+        "text": "October"
+      },
+      {
+        "id": "b",
+        "text": "November"
+      },
+      {
+        "id": "c",
+        "text": "December"
+      },
+      {
+        "id": "d",
+        "text": "January"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Remembrance Sunday is held on the second Sunday in November, close to 11 November (Armistice Day). The main national ceremony takes place at the Cenotaph in Whitehall, London, where wreaths are laid in honour of those who died in conflict.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_252",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Cenotaph war memorial, where the main Remembrance Sunday ceremony takes place, is located on which London street?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Mall"
+      },
+      {
+        "id": "b",
+        "text": "Whitehall"
+      },
+      {
+        "id": "c",
+        "text": "Downing Street"
+      },
+      {
+        "id": "d",
+        "text": "Parliament Square"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Cenotaph is located on Whitehall in central London. It is the UK's primary war memorial and the focal point of the annual Remembrance Sunday ceremony, attended by the monarch, political leaders, and veterans.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_253",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Bronte sister wrote 'The Tenant of Wildfell Hall' and 'Agnes Grey'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Charlotte Bronte"
+      },
+      {
+        "id": "b",
+        "text": "Emily Bronte"
+      },
+      {
+        "id": "c",
+        "text": "Anne Bronte"
+      },
+      {
+        "id": "d",
+        "text": "Maria Bronte"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Anne Bronte (1820-1849) wrote 'Agnes Grey' (1847) and 'The Tenant of Wildfell Hall' (1848). She was the youngest of the three Bronte sisters. The Tenant of Wildfell Hall is considered one of the first feminist novels.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_254",
+    "topic_id": "topic_traditions_2",
+    "question_text": "What traditional food is associated with attending a cricket match in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fish and chips"
+      },
+      {
+        "id": "b",
+        "text": "Tea and sandwiches"
+      },
+      {
+        "id": "c",
+        "text": "Haggis"
+      },
+      {
+        "id": "d",
+        "text": "Roast dinner"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Tea intervals and sandwiches are a traditional part of watching cricket. Cricket matches, particularly Test matches, can last up to five days, and a tea break is taken during each day's play.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_255",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which symbolic emblem is the national flower of England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Daffodil"
+      },
+      {
+        "id": "b",
+        "text": "Thistle"
+      },
+      {
+        "id": "c",
+        "text": "Rose"
+      },
+      {
+        "id": "d",
+        "text": "Shamrock"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "The rose is the national flower of England. The Tudor rose, combining the red rose of Lancaster and the white rose of York, became the emblem of England after the Wars of the Roses ended in 1485.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_256",
+    "topic_id": "topic_traditions_2",
+    "question_text": "The Six Nations Championship includes teams from England, Scotland, Wales, Ireland, France, and which other country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spain"
+      },
+      {
+        "id": "b",
+        "text": "Germany"
+      },
+      {
+        "id": "c",
+        "text": "Italy"
+      },
+      {
+        "id": "d",
+        "text": "Portugal"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Italy joined the Five Nations (as it was then known) in 2000, expanding it to the Six Nations Championship. It is an annual rugby union competition and one of the oldest international rugby tournaments.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_257",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which Shakespeare play is set on a remote island where the magician Prospero lives with his daughter Miranda?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Twelfth Night"
+      },
+      {
+        "id": "b",
+        "text": "The Tempest"
+      },
+      {
+        "id": "c",
+        "text": "The Winter's Tale"
+      },
+      {
+        "id": "d",
+        "text": "Pericles"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Tempest is one of Shakespeare's last plays. It is set on a remote island where the exiled Duke of Milan, Prospero, uses magic to conjure a storm and bring his enemies ashore. It is thought to have been written around 1610-11.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_258",
+    "topic_id": "topic_traditions_4",
+    "question_text": "Which famous building in London, designed by Sir Christopher Wren, has a dome that became a symbol of British resilience during the Blitz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Westminster Abbey"
+      },
+      {
+        "id": "b",
+        "text": "The Tower of London"
+      },
+      {
+        "id": "c",
+        "text": "St Paul's Cathedral"
+      },
+      {
+        "id": "d",
+        "text": "The Royal Exchange"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "St Paul's Cathedral, with its iconic dome designed by Sir Christopher Wren, survived the Blitz largely intact and became a symbol of British resilience during World War Two. The famous photograph of the dome rising above smoke and flames became one of the most iconic images of the war.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_259",
+    "topic_id": "topic_traditions_1",
+    "question_text": "What are hot cross buns traditionally eaten to mark in the UK?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Christmas Day"
+      },
+      {
+        "id": "b",
+        "text": "Good Friday (Easter)"
+      },
+      {
+        "id": "c",
+        "text": "Bonfire Night"
+      },
+      {
+        "id": "d",
+        "text": "Burns Night"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Hot cross buns are spiced sweet rolls marked with a cross on top. They are traditionally eaten on Good Friday. The cross represents the crucifixion of Jesus and the spices are said to represent those used to embalm him.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q_traditions_260",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Which British composer wrote the 'Enigma Variations', a set of orchestral variations composed in 1899?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Benjamin Britten"
+      },
+      {
+        "id": "b",
+        "text": "Ralph Vaughan Williams"
+      },
+      {
+        "id": "c",
+        "text": "Edward Elgar"
+      },
+      {
+        "id": "d",
+        "text": "Gustav Holst"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Edward Elgar composed the Enigma Variations in 1899. Each variation is a musical portrait of one of Elgar's friends. Elgar was born in Worcestershire and is considered one of England's greatest composers.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_261",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which famous author wrote 'A Christmas Carol', a story about Ebenezer Scrooge visited by three ghosts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Robert Louis Stevenson"
+      },
+      {
+        "id": "b",
+        "text": "Charles Dickens"
+      },
+      {
+        "id": "c",
+        "text": "Thomas Hardy"
+      },
+      {
+        "id": "d",
+        "text": "William Makepeace Thackeray"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "A Christmas Carol (1843) was written by Charles Dickens. The novella tells the story of the miserly Ebenezer Scrooge who is visited by the ghosts of Christmas Past, Present, and Yet to Come, and learns the importance of generosity and kindness.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_262",
+    "topic_id": "topic_traditions_4",
+    "question_text": "The Angel of the North, a large sculpture near Gateshead in Tyne and Wear, was created by which artist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Damien Hirst"
+      },
+      {
+        "id": "b",
+        "text": "Antony Gormley"
+      },
+      {
+        "id": "c",
+        "text": "Henry Moore"
+      },
+      {
+        "id": "d",
+        "text": "Barbara Hepworth"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "The Angel of the North is a steel sculpture by Antony Gormley, completed in 1998. Standing 20 metres tall with a wingspan of 54 metres, it is one of the most iconic pieces of public art in the UK and is seen by millions of travellers each year.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_263",
+    "topic_id": "topic_traditions_1",
+    "question_text": "Which Christian festival, also a public holiday, falls on the Friday before Easter Sunday?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ash Wednesday"
+      },
+      {
+        "id": "b",
+        "text": "Whit Friday"
+      },
+      {
+        "id": "c",
+        "text": "Good Friday"
+      },
+      {
+        "id": "d",
+        "text": "Palm Sunday"
+      }
+    ],
+    "correct_option_ids": [
+      "c"
+    ],
+    "explanation": "Good Friday is the Friday before Easter Sunday and is a public holiday in the UK. It commemorates the crucifixion of Jesus Christ. Hot cross buns are traditionally eaten on this day.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q_traditions_264",
+    "topic_id": "topic_traditions_2",
+    "question_text": "Gustav Holst, composer of 'The Planets' orchestral suite, was born in which English town?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cheltenham"
+      },
+      {
+        "id": "b",
+        "text": "Bath"
+      },
+      {
+        "id": "c",
+        "text": "Worcester"
+      },
+      {
+        "id": "d",
+        "text": "Oxford"
+      }
+    ],
+    "correct_option_ids": [
+      "a"
+    ],
+    "explanation": "Gustav Holst (1874-1934) was born in Cheltenham, Gloucestershire. His most famous work, The Planets (1914-1916), is a seven-movement orchestral suite, with each movement named after a planet in the solar system. He was a close friend of fellow English composer Ralph Vaughan Williams.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q_traditions_265",
+    "topic_id": "topic_traditions_3",
+    "question_text": "Which of the following literary figures is considered the father of English literature and wrote 'The Canterbury Tales'?",
+    "options": [
+      {
+        "id": "a",
+        "text": "William Shakespeare"
+      },
+      {
+        "id": "b",
+        "text": "Geoffrey Chaucer"
+      },
+      {
+        "id": "c",
+        "text": "John Milton"
+      },
+      {
+        "id": "d",
+        "text": "Edmund Spenser"
+      }
+    ],
+    "correct_option_ids": [
+      "b"
+    ],
+    "explanation": "Geoffrey Chaucer (c.1343-1400) is often called the father of English literature. His most famous work, The Canterbury Tales, is a collection of stories told by pilgrims travelling from London to Canterbury. It provides a vivid picture of medieval English society.",
+    "handbook_ref": "Chapter 4: A modern, thriving society",
+    "frequently_tested": true,
+    "difficulty": "medium"
+  }
+]

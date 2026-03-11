@@ -1,0 +1,882 @@
+[
+  {
+    "id": "topic_history_1",
+    "category": "history",
+    "title": "Early Britain",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The First People of Britain"
+        },
+        {
+          "type": "paragraph",
+          "content": "The first people to live in Britain were hunter-gatherers, arriving around 10,000 years ago after the last Ice Age. Britain was connected to the continent by a land bridge, which was later submerged as sea levels rose, creating the island nation we know today."
+        },
+        {
+          "type": "image",
+          "content": "1 ROMAN BRITAIN.png"
+        },
+        {
+          "type": "key_fact",
+          "content": "Stonehenge, one of the most famous prehistoric monuments in the world, was built in several stages between about 3000 BC and 1500 BC. It is located in Wiltshire, England."
+        },
+        {
+          "type": "paragraph",
+          "content": "The Bronze Age began around 2000 BC when people learned to make bronze tools. The Iron Age followed around 800 BC. During the Iron Age, Celtic tribes from central Europe settled in Britain, bringing their language and culture."
+        },
+        {
+          "type": "key_fact",
+          "content": "The Romans, led by Julius Caesar, first attempted to invade Britain in 55 BC. The successful Roman invasion came in AD 43 under Emperor Claudius. The Romans built roads, public baths, and Hadrian's Wall."
+        },
+        {
+          "type": "list",
+          "content": "Key features of Roman Britain:",
+          "items": [
+            "Hadrian's Wall was built on the orders of Emperor Hadrian to keep out the Picts (the ancestors of the Scottish people)",
+            "The Romans built a network of roads, many of which still exist today as major routes",
+            "Roman rule in Britain lasted until AD 410, when the Roman army left to defend other parts of the Empire",
+            "The Romans introduced new plants and animals, new roads and public buildings"
+          ]
+        }
+      ]
+    },
+    "display_order": 1,
+    "icon": "castle",
+    "color": "#8B4513"
+  },
+  {
+    "id": "topic_history_2",
+    "category": "history",
+    "title": "The Anglo-Saxons and Vikings",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Anglo-Saxon Britain"
+        },
+        {
+          "type": "paragraph",
+          "content": "After the Romans left Britain around AD 410, tribes from northern Europe began to invade and settle. The Jutes, Angles, and Saxons came from areas that are now Denmark and Germany. The Angles gave England its name ('Angle-land'). They established several kingdoms including Wessex, Mercia, and Northumbria."
+        },
+        {
+          "type": "image",
+          "content": "3 VIKING AGE.png"
+        },
+        {
+          "type": "key_fact",
+          "content": "The Anglo-Saxons were not Christians when they first came to Britain. The Christian Church sent St Augustine to Canterbury to convert them in AD 597. He became the first Archbishop of Canterbury."
+        },
+        {
+          "type": "paragraph",
+          "content": "The Vikings came from Denmark and Norway, first raiding the coast of Britain in AD 789. They eventually settled in large parts of eastern and northern England in an area known as the Danelaw. King Alfred the Great of Wessex fought against the Vikings and is the only English king to be called 'Great'."
+        },
+        {
+          "type": "list",
+          "content": "Key Anglo-Saxon and Viking facts:",
+          "items": [
+            "King Alfred the Great united the Anglo-Saxon kingdoms against the Vikings",
+            "The Sutton Hoo treasure, discovered in 1939, revealed the richness of Anglo-Saxon culture",
+            "The Anglo-Saxons created the Witan, a council of elders that advised the king",
+            "In 1066, the last Anglo-Saxon king, Harold II, was defeated at the Battle of Hastings"
+          ]
+        }
+      ]
+    },
+    "display_order": 2,
+    "icon": "shield",
+    "color": "#4A6741"
+  },
+  {
+    "id": "topic_history_3",
+    "category": "history",
+    "title": "The Norman Conquest and Middle Ages",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "1066: The Norman Conquest"
+        },
+        {
+          "type": "paragraph",
+          "content": "In 1066, William, Duke of Normandy (known as William the Conqueror), invaded England and defeated King Harold II at the Battle of Hastings. Harold was killed during the battle. William was crowned King of England on Christmas Day 1066 at Westminster Abbey. The Norman Conquest was the last successful foreign invasion of England."
+        },
+        {
+          "type": "image",
+          "content": "15 MAGNA CARTA.png"
+        },
+        {
+          "type": "key_fact",
+          "content": "The Domesday Book was commissioned by William I in 1086. It was a detailed survey of all the land and property in England, used to determine how much tax people owed. It still exists today and is kept at the National Archives."
+        },
+        {
+          "type": "paragraph",
+          "content": "During the Middle Ages, England was frequently at war. The Crusades (1096-1291) were a series of wars fought over the Holy Land. The Hundred Years War (1337-1453) was fought between England and France. The Black Death (1348) killed approximately one-third of the population of England."
+        },
+        {
+          "type": "key_fact",
+          "content": "Magna Carta was signed by King John in 1215 at Runnymede. It established the principle that even the king was subject to the law. It is one of the most important documents in constitutional history."
+        },
+        {
+          "type": "list",
+          "content": "Important medieval developments:",
+          "items": [
+            "The feudal system was introduced by the Normans, where the king owned all the land",
+            "Parliament began to develop, with the first English Parliament called in 1264 by Simon de Montfort",
+            "The Wars of the Roses (1455-1485) were civil wars between the House of Lancaster and the House of York",
+            "The English legal system, including trial by jury, developed during this period"
+          ]
+        }
+      ]
+    },
+    "display_order": 3,
+    "icon": "crown",
+    "color": "#8B0000"
+  },
+  {
+    "id": "topic_history_4",
+    "category": "history",
+    "title": "Tudors and Stuarts",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The Tudor Dynasty (1485-1603)"
+        },
+        {
+          "type": "paragraph",
+          "content": "Henry VII became king after defeating Richard III at the Battle of Bosworth Field in 1485, ending the Wars of the Roses. His son, Henry VIII, is one of the most famous English monarchs. Henry VIII is best known for breaking away from the Catholic Church and establishing the Church of England so he could divorce his first wife, Catherine of Aragon."
+        },
+        {
+          "type": "image",
+          "content": "6 TUDOR ENGLAND.png"
+        },
+        {
+          "type": "key_fact",
+          "content": "Henry VIII had six wives: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, and Catherine Parr. He established the Church of England in 1534 through the Act of Supremacy."
+        },
+        {
+          "type": "paragraph",
+          "content": "Elizabeth I, daughter of Henry VIII and Anne Boleyn, became queen in 1558. Her reign is known as the Elizabethan era, a time of great cultural achievement. William Shakespeare (1564-1616) wrote his famous plays during this period. Elizabeth I never married and was known as the 'Virgin Queen'. The state of Virginia in America was named after her."
+        },
+        {
+          "type": "key_fact",
+          "content": "The defeat of the Spanish Armada in 1588 was one of the great English military victories. The Spanish fleet was sent by Philip II of Spain to invade England, but was defeated by the English navy and bad weather."
+        },
+        {
+          "type": "heading",
+          "content": "The Stuart Period"
+        },
+        {
+          "type": "paragraph",
+          "content": "When Elizabeth I died in 1603 without an heir, King James VI of Scotland became King James I of England, uniting the crowns. The English Civil War (1642-1651) was fought between the Royalists (Cavaliers) who supported King Charles I and the Parliamentarians (Roundheads) led by Oliver Cromwell. Charles I was executed in 1649 and England became a republic called the Commonwealth."
+        }
+      ]
+    },
+    "display_order": 4,
+    "icon": "book-open",
+    "color": "#6B3FA0"
+  },
+  {
+    "id": "topic_history_5",
+    "category": "history",
+    "title": "Modern Britain (18th-21st Century)",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The Industrial Revolution and Empire"
+        },
+        {
+          "type": "paragraph",
+          "content": "The Industrial Revolution began in Britain in the late 18th century and transformed the country from a largely agricultural society to an industrial one. Innovations such as the steam engine (James Watt), the spinning jenny, and power looms revolutionised manufacturing. Britain became known as 'the workshop of the world'."
+        },
+        {
+          "type": "key_fact",
+          "content": "The slave trade was abolished in the British Empire in 1807, and slavery itself was abolished in most of the British Empire in 1833. William Wilberforce was a key campaigner for abolition."
+        },
+        {
+          "type": "paragraph",
+          "content": "The two World Wars of the 20th century had a profound impact on Britain. In World War I (1914-1918), over 2 million British casualties were sustained. World War II (1939-1945) saw Britain stand alone against Nazi Germany after the fall of France in 1940, until joined by the Soviet Union and the United States."
+        },
+        {
+          "type": "key_fact",
+          "content": "Winston Churchill was Prime Minister during most of World War II (1940-1945). He is remembered for his inspirational leadership and speeches. He was voted the greatest Briton of all time in a 2002 BBC poll."
+        },
+        {
+          "type": "list",
+          "content": "Key modern developments:",
+          "items": [
+            "The NHS was established in 1948 by Clement Attlee's Labour government",
+            "The welfare state was created based on the Beveridge Report of 1942",
+            "Britain joined the European Economic Community (EEC) in 1973",
+            "The UK voted to leave the European Union in a referendum held on 23 June 2016"
+          ]
+        }
+      ]
+    },
+    "display_order": 5,
+    "icon": "factory",
+    "color": "#2F4F4F"
+  },
+  {
+    "id": "topic_government_1",
+    "category": "government",
+    "title": "The UK Parliament",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The Houses of Parliament"
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK Parliament is based at the Palace of Westminster in London. It is the supreme legislative authority in the UK and is made up of two chambers: the House of Commons and the House of Lords. The House of Commons is the more important of the two, as it is elected by the people."
+        },
+        {
+          "type": "key_fact",
+          "content": "The House of Commons has 650 Members of Parliament (MPs), each representing a constituency. The political party with the most MPs usually forms the government, and its leader becomes the Prime Minister."
+        },
+        {
+          "type": "paragraph",
+          "content": "The House of Lords is the second chamber of Parliament. Members include life peers (appointed by the monarch on advice of the Prime Minister), hereditary peers, and bishops of the Church of England. The House of Lords can suggest amendments to legislation and delay bills, but cannot block them indefinitely."
+        },
+        {
+          "type": "key_fact",
+          "content": "The Speaker of the House of Commons is an MP chosen by other MPs to chair debates. The Speaker is politically neutral and does not vote on issues."
+        },
+        {
+          "type": "list",
+          "content": "Key facts about Parliament:",
+          "items": [
+            "General elections must be held at least every 5 years",
+            "The party in power is called the government; the second largest party is the Opposition",
+            "The Leader of the Opposition leads the second largest party in the House of Commons",
+            "Prime Minister's Questions (PMQs) take place every Wednesday when Parliament is sitting"
+          ]
+        }
+      ]
+    },
+    "display_order": 1,
+    "icon": "landmark",
+    "color": "#1B4332"
+  },
+  {
+    "id": "topic_government_2",
+    "category": "government",
+    "title": "The Constitution and the Monarchy",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The UK Constitution"
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK does not have a single written constitution like many other countries. Instead, the constitution is made up of laws passed by Parliament (statute law), common law, conventions, and works of authority. This means it can be changed by an Act of Parliament, unlike constitutions that require a special process to amend."
+        },
+        {
+          "type": "key_fact",
+          "content": "The UK is a constitutional monarchy. The monarch is the head of state but has limited powers. The real political power lies with the Prime Minister and Cabinet. The monarch must give Royal Assent to all new laws, but this is a formality."
+        },
+        {
+          "type": "paragraph",
+          "content": "King Charles III became King in September 2022 following the death of Queen Elizabeth II, who reigned for over 70 years. The monarch has important ceremonial duties, including the State Opening of Parliament, and acts as a symbol of national unity."
+        },
+        {
+          "type": "list",
+          "content": "The monarch's constitutional role:",
+          "items": [
+            "Opening and dissolving Parliament",
+            "Giving Royal Assent to bills passed by Parliament",
+            "Appointing the Prime Minister (by convention, the leader of the majority party)",
+            "Representing the UK at state occasions and on diplomatic visits"
+          ]
+        }
+      ]
+    },
+    "display_order": 2,
+    "icon": "scroll",
+    "color": "#14532D"
+  },
+  {
+    "id": "topic_government_3",
+    "category": "government",
+    "title": "Voting and Elections",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The Electoral System"
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK uses a system called 'first past the post' for general elections. The country is divided into 650 constituencies, and voters in each constituency choose one MP. The candidate with the most votes wins, even if they do not have more than half the total votes."
+        },
+        {
+          "type": "key_fact",
+          "content": "To vote in a UK general election, you must be 18 or over on the day of the election, be a British citizen, a qualifying Commonwealth citizen, or a citizen of the Irish Republic, be registered on the electoral register, and not be legally excluded from voting."
+        },
+        {
+          "type": "paragraph",
+          "content": "The Representation of the People Acts of 1918 and 1928 were landmarks in voting rights. In 1918, women over 30 and all men over 21 gained the vote. In 1928, women gained equal voting rights with men at age 21. The voting age was lowered to 18 in 1969."
+        },
+        {
+          "type": "key_fact",
+          "content": "The suffragettes, led by Emmeline Pankhurst, campaigned for women's right to vote in the early 20th century. Their campaign included protests, hunger strikes, and civil disobedience."
+        },
+        {
+          "type": "list",
+          "content": "Types of elections in the UK:",
+          "items": [
+            "General elections: to choose MPs for the House of Commons",
+            "Local elections: to choose councillors for local government",
+            "Elections to the devolved parliaments/assemblies in Scotland, Wales, and Northern Ireland",
+            "Police and Crime Commissioner elections",
+            "European Parliament elections (before Brexit)"
+          ]
+        }
+      ]
+    },
+    "display_order": 3,
+    "icon": "vote",
+    "color": "#065F46"
+  },
+  {
+    "id": "topic_government_4",
+    "category": "government",
+    "title": "The Legal System and Courts",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The UK Legal System"
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK has three separate legal systems: one for England and Wales, one for Scotland, and one for Northern Ireland. The legal system in England and Wales is based on common law, which has developed over centuries through the decisions of judges (case law) and Acts of Parliament (statute law)."
+        },
+        {
+          "type": "key_fact",
+          "content": "The Supreme Court of the United Kingdom is the highest court of appeal in the UK for civil cases, and for criminal cases in England, Wales, and Northern Ireland. It replaced the judicial function of the House of Lords in 2009."
+        },
+        {
+          "type": "paragraph",
+          "content": "Criminal cases are tried in Magistrates' Courts for less serious offences and Crown Courts for more serious offences. Civil cases are usually dealt with in County Courts or the High Court. Everyone is entitled to a fair trial and is innocent until proven guilty."
+        },
+        {
+          "type": "list",
+          "content": "Key principles of the UK legal system:",
+          "items": [
+            "Everyone is equal before the law",
+            "The judiciary is independent of the government",
+            "A person is innocent until proven guilty",
+            "The police must follow strict rules about the treatment of suspects",
+            "Legal aid is available for those who cannot afford a lawyer"
+          ]
+        }
+      ]
+    },
+    "display_order": 4,
+    "icon": "scale",
+    "color": "#064E3B"
+  },
+  {
+    "id": "topic_traditions_1",
+    "category": "traditions",
+    "title": "UK Holidays and Celebrations",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Bank Holidays and National Celebrations"
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK has several public holidays known as 'bank holidays'. These include New Year's Day, Easter Monday, Early May bank holiday, Spring bank holiday, Summer bank holiday, Christmas Day, and Boxing Day. Scotland and Northern Ireland have some additional bank holidays."
+        },
+        {
+          "type": "key_fact",
+          "content": "Christmas Day (25 December) is one of the most important celebrations in the UK. It celebrates the birth of Jesus Christ. Traditions include exchanging gifts, eating Christmas dinner (traditionally turkey), pulling crackers, and watching the King's Christmas broadcast on television."
+        },
+        {
+          "type": "paragraph",
+          "content": "Bonfire Night (5 November) commemorates the failed Gunpowder Plot of 1605, when Guy Fawkes and a group of Catholic conspirators attempted to blow up the Houses of Parliament. It is celebrated with fireworks and bonfires."
+        },
+        {
+          "type": "key_fact",
+          "content": "Remembrance Day (11 November) honours members of the armed forces who have died in the line of duty. People wear poppies and observe a two-minute silence at 11am. The main ceremony takes place at the Cenotaph in Whitehall, London."
+        },
+        {
+          "type": "list",
+          "content": "Other important UK celebrations:",
+          "items": [
+            "St David's Day (1 March) - patron saint of Wales",
+            "St Patrick's Day (17 March) - patron saint of Northern Ireland",
+            "St George's Day (23 April) - patron saint of England",
+            "St Andrew's Day (30 November) - patron saint of Scotland",
+            "Burns Night (25 January) - celebrating Scottish poet Robert Burns",
+            "Hogmanay - Scottish New Year celebration"
+          ]
+        }
+      ]
+    },
+    "display_order": 1,
+    "icon": "gift",
+    "color": "#B91C1C"
+  },
+  {
+    "id": "topic_traditions_2",
+    "category": "traditions",
+    "title": "Sports in the UK",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "British Sporting Traditions"
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK has a rich sporting heritage and many popular sports originated in Britain. Football (soccer) is the most popular sport, with the Football Association (FA) founded in 1863 being the oldest football association in the world. The English Premier League is watched by millions worldwide."
+        },
+        {
+          "type": "key_fact",
+          "content": "Cricket originated in England and the first cricket club was formed in Hambledon, Hampshire, in the 18th century. The Ashes is a famous cricket series played between England and Australia."
+        },
+        {
+          "type": "paragraph",
+          "content": "Rugby was invented at Rugby School in Warwickshire in 1823. The story goes that William Webb Ellis picked up the ball during a football match and ran with it. There are two forms: Rugby Union (15 players) and Rugby League (13 players). The Six Nations Championship is a major rugby union tournament."
+        },
+        {
+          "type": "key_fact",
+          "content": "Wimbledon is the oldest tennis tournament in the world, first held in 1877. It is one of the four Grand Slam tournaments and is the only one still played on grass courts."
+        },
+        {
+          "type": "list",
+          "content": "Other important UK sports and events:",
+          "items": [
+            "Golf originated in Scotland; the Royal and Ancient Golf Club of St Andrews was founded in 1754",
+            "The Grand National is a famous horse race held at Aintree, Liverpool",
+            "The London Marathon, first held in 1981, is a major annual event",
+            "The Highland Games are traditional Scottish sporting events",
+            "Rowing is popular, with the Oxford and Cambridge Boat Race held annually on the Thames"
+          ]
+        }
+      ]
+    },
+    "display_order": 2,
+    "icon": "trophy",
+    "color": "#DC2626"
+  },
+  {
+    "id": "topic_traditions_3",
+    "category": "traditions",
+    "title": "Arts, Music, and Literature",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "British Cultural Achievements"
+        },
+        {
+          "type": "paragraph",
+          "content": "Britain has produced some of the world's greatest writers, artists, and musicians. William Shakespeare (1564-1616) is widely regarded as the greatest writer in the English language. His works include Hamlet, Romeo and Juliet, A Midsummer Night's Dream, and Macbeth. The Globe Theatre in London is a reconstruction of the theatre where many of his plays were first performed."
+        },
+        {
+          "type": "image",
+          "content": "patron-saints.png"
+        },
+        {
+          "type": "key_fact",
+          "content": "Charles Dickens, Jane Austen, the Bronte sisters, Thomas Hardy, and Sir Arthur Conan Doyle are among Britain's most famous authors. Their works continue to be read and adapted worldwide."
+        },
+        {
+          "type": "paragraph",
+          "content": "In music, Britain has made enormous contributions. The Beatles, from Liverpool, are the best-selling music group of all time. Classical composers include Henry Purcell, Edward Elgar (who wrote the Pomp and Circumstance Marches including 'Land of Hope and Glory'), Gustav Holst, and Benjamin Britten."
+        },
+        {
+          "type": "list",
+          "content": "Major UK cultural institutions and achievements:",
+          "items": [
+            "The British Museum, founded in 1753, houses a vast collection of world art and antiquities",
+            "The National Gallery in Trafalgar Square contains one of the world's greatest collections of paintings",
+            "The Proms (BBC Promenade Concerts) are held at the Royal Albert Hall every summer",
+            "The Edinburgh Festival is the world's largest arts festival",
+            "The Turner Prize is an important contemporary art award named after painter J.M.W. Turner"
+          ]
+        }
+      ]
+    },
+    "display_order": 3,
+    "icon": "palette",
+    "color": "#E11D48"
+  },
+  {
+    "id": "topic_traditions_4",
+    "category": "traditions",
+    "title": "British Food and Customs",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Traditional British Food and Customs"
+        },
+        {
+          "type": "paragraph",
+          "content": "Britain has many traditional foods and customs associated with them. The 'Full English breakfast' or 'fry-up' includes bacon, eggs, sausages, toast, baked beans, tomatoes, and mushrooms. Fish and chips has been a popular takeaway food since the 19th century. The traditional Sunday roast includes roast meat, roast potatoes, Yorkshire pudding, and vegetables."
+        },
+        {
+          "type": "key_fact",
+          "content": "Afternoon tea is a British tradition said to have been started by Anna, Duchess of Bedford, in the 1840s. It typically includes sandwiches, scones with jam and cream, and cakes, served with tea."
+        },
+        {
+          "type": "paragraph",
+          "content": "Each nation of the UK has its own traditional dishes. Scotland is known for haggis (a dish made from sheep's offal mixed with oatmeal), Wales for Welsh rarebit (a cheese sauce served on toast) and bara brith (a type of fruit loaf), and Northern Ireland for Ulster fry and soda bread."
+        },
+        {
+          "type": "list",
+          "content": "Important customs and traditions:",
+          "items": [
+            "Tipping is customary in restaurants, usually 10-15% of the bill",
+            "Queuing (waiting in line) is considered very important in British culture",
+            "Pub culture is an important part of British social life",
+            "The Notting Hill Carnival is Europe's largest street festival, celebrating Caribbean culture",
+            "Morris dancing is a traditional English folk dance"
+          ]
+        }
+      ]
+    },
+    "display_order": 4,
+    "icon": "utensils",
+    "color": "#F59E0B"
+  },
+  {
+    "id": "topic_values_1",
+    "category": "values",
+    "title": "Democracy and the Rule of Law",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Fundamental British Values: Democracy"
+        },
+        {
+          "type": "paragraph",
+          "content": "Democracy is a fundamental value of British society. The UK is a parliamentary democracy, meaning that the people elect representatives (Members of Parliament) to make decisions on their behalf. Everyone has the right to vote, to stand for election, and to express their political views freely."
+        },
+        {
+          "type": "key_fact",
+          "content": "The development of democracy in the UK was a gradual process. Key milestones include Magna Carta (1215), the Bill of Rights (1689), the Reform Acts of the 19th century, and the Representation of the People Acts (1918 and 1928) which gave all adults the right to vote."
+        },
+        {
+          "type": "heading",
+          "content": "The Rule of Law"
+        },
+        {
+          "type": "paragraph",
+          "content": "The rule of law means that no one is above the law. Everyone, including the government and public officials, must obey the law. The law protects people from unfair treatment and ensures that disputes are resolved fairly. The judiciary is independent of the government, ensuring impartial justice."
+        },
+        {
+          "type": "list",
+          "content": "Key principles of democracy and rule of law in the UK:",
+          "items": [
+            "Free and fair elections held regularly",
+            "Freedom of speech and freedom of the press",
+            "An independent judiciary that upholds the law impartially",
+            "The government is accountable to Parliament and the people",
+            "The police and armed forces are accountable to elected representatives"
+          ]
+        }
+      ]
+    },
+    "display_order": 1,
+    "icon": "landmark",
+    "color": "#1E40AF"
+  },
+  {
+    "id": "topic_values_2",
+    "category": "values",
+    "title": "Individual Liberty and Human Rights",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Individual Liberty"
+        },
+        {
+          "type": "paragraph",
+          "content": "Individual liberty is the principle that everyone should be free to make their own choices, as long as they do not break the law or harm others. This includes freedom of speech, freedom of thought, freedom of religion, and freedom of association. These rights are protected by law."
+        },
+        {
+          "type": "key_fact",
+          "content": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law. This means that UK courts can hear human rights cases rather than people having to go to the European Court of Human Rights in Strasbourg."
+        },
+        {
+          "type": "paragraph",
+          "content": "The Equality Act 2010 brought together and strengthened previous anti-discrimination laws. It protects people from discrimination based on age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation."
+        },
+        {
+          "type": "list",
+          "content": "Rights and responsibilities of UK residents:",
+          "items": [
+            "The right to a fair trial and the presumption of innocence",
+            "Freedom from torture and inhuman treatment",
+            "The right to respect for private and family life",
+            "Freedom of thought, conscience, and religion",
+            "The responsibility to obey the law and respect the rights of others"
+          ]
+        }
+      ]
+    },
+    "display_order": 2,
+    "icon": "shield-check",
+    "color": "#1D4ED8"
+  },
+  {
+    "id": "topic_values_3",
+    "category": "values",
+    "title": "Tolerance and Mutual Respect",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Mutual Respect and Tolerance"
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK is a diverse and multicultural society. People from different backgrounds, cultures, and religions live and work together. Mutual respect and tolerance of those with different faiths and beliefs are fundamental British values. This means accepting that other people may have different views and ways of life."
+        },
+        {
+          "type": "key_fact",
+          "content": "The UK has a long history of welcoming people from other countries. The Huguenots (French Protestants) came in the 17th century, Jewish refugees came in the 19th and 20th centuries, and people from the Commonwealth countries came after World War II, particularly from the Caribbean (the Windrush generation) and South Asia."
+        },
+        {
+          "type": "paragraph",
+          "content": "Discrimination on the basis of race, sex, religion, sexual orientation, disability, or age is illegal in the UK. Hate crimes, which are crimes motivated by prejudice against someone's identity, are treated very seriously by the police and courts."
+        },
+        {
+          "type": "list",
+          "content": "How tolerance is promoted in the UK:",
+          "items": [
+            "Anti-discrimination laws protect everyone equally",
+            "Schools teach about different faiths and cultures",
+            "Community organisations promote integration and understanding",
+            "The Equality and Human Rights Commission monitors and enforces equality laws",
+            "Freedom of religion is protected, and people can practise their faith freely"
+          ]
+        }
+      ]
+    },
+    "display_order": 3,
+    "icon": "handshake",
+    "color": "#2563EB"
+  },
+  {
+    "id": "topic_values_4",
+    "category": "values",
+    "title": "Responsibilities of UK Citizens",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Rights and Responsibilities"
+        },
+        {
+          "type": "paragraph",
+          "content": "Living in the UK comes with both rights and responsibilities. While the law protects your rights, you are also expected to obey the law, respect the rights of others, treat others with fairness, and contribute to the community. Being a good citizen means participating in democratic processes and contributing to society."
+        },
+        {
+          "type": "key_fact",
+          "content": "Volunteering is an important part of British culture. Millions of people in the UK regularly volunteer, contributing to charities, community projects, and public services. This is known as 'civic participation'."
+        },
+        {
+          "type": "paragraph",
+          "content": "If you become a British citizen, you will be invited to attend a citizenship ceremony. At the ceremony, you will swear or affirm loyalty to the monarch and pledge to respect the rights, freedoms, and laws of the UK. You will receive a certificate of British citizenship."
+        },
+        {
+          "type": "list",
+          "content": "Key responsibilities of UK residents and citizens:",
+          "items": [
+            "Obeying and respecting the law",
+            "Paying taxes honestly and on time",
+            "Serving on a jury if called to do so",
+            "Treating others with fairness and respect",
+            "Looking after yourself and your family",
+            "Voting in elections (though not legally required)"
+          ]
+        }
+      ]
+    },
+    "display_order": 4,
+    "icon": "check-circle",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "topic_everyday_1",
+    "category": "everyday",
+    "title": "The National Health Service (NHS)",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Healthcare in the UK"
+        },
+        {
+          "type": "paragraph",
+          "content": "The National Health Service (NHS) was established in 1948 and provides healthcare that is free at the point of use for all UK residents. It is funded through taxation. The NHS is one of the largest employers in the world and is a source of great national pride."
+        },
+        {
+          "type": "key_fact",
+          "content": "To access NHS services, you should register with a local GP (General Practitioner) surgery. Your GP is usually your first point of contact for non-emergency health issues. For emergencies, you should call 999 or go to the nearest Accident and Emergency (A&E) department."
+        },
+        {
+          "type": "paragraph",
+          "content": "While most NHS services are free, there are charges for prescriptions (in England), dental treatment, and eye tests, although many people are exempt from these charges, including children, people over 60, and those on low incomes. Prescriptions are free in Scotland, Wales, and Northern Ireland."
+        },
+        {
+          "type": "list",
+          "content": "Key NHS services and numbers:",
+          "items": [
+            "999: Emergency services (police, fire, ambulance)",
+            "111: NHS non-emergency medical helpline",
+            "GPs provide primary care and referrals to specialists",
+            "Hospitals provide emergency care, surgery, and specialist treatment",
+            "Pharmacies can provide advice and sell over-the-counter medicines"
+          ]
+        }
+      ]
+    },
+    "display_order": 1,
+    "icon": "heart-pulse",
+    "color": "#0891B2"
+  },
+  {
+    "id": "topic_everyday_2",
+    "category": "everyday",
+    "title": "Education in the UK",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "The Education System"
+        },
+        {
+          "type": "paragraph",
+          "content": "Education is compulsory in the UK for all children between the ages of 5 and 18 (in England; slightly different in other parts of the UK). State schools are funded by the government and are free. There are also independent (private) schools which charge fees. The education system is divided into primary school (ages 5-11) and secondary school (ages 11-16/18)."
+        },
+        {
+          "type": "key_fact",
+          "content": "At age 16, students in England take GCSE (General Certificate of Secondary Education) examinations. After GCSEs, students can continue to A-levels (Advanced levels), vocational qualifications, or apprenticeships. In Scotland, the equivalent qualifications are National 5s and Highers."
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK has some of the world's oldest and most prestigious universities. The University of Oxford and the University of Cambridge (collectively known as Oxbridge) were founded in the 12th and 13th centuries respectively. Other notable universities include St Andrews, Edinburgh, University College London, and Imperial College London."
+        },
+        {
+          "type": "list",
+          "content": "Key facts about UK education:",
+          "items": [
+            "Children start primary school at age 4 or 5",
+            "Secondary school runs from age 11 to 16 (or 18)",
+            "Parents can choose to educate their children at home",
+            "The National Curriculum sets out what must be taught in state schools in England",
+            "University tuition fees in England can be up to £9,250 per year; Scottish students studying in Scotland do not pay tuition fees"
+          ]
+        }
+      ]
+    },
+    "display_order": 2,
+    "icon": "graduation-cap",
+    "color": "#0E7490"
+  },
+  {
+    "id": "topic_everyday_3",
+    "category": "everyday",
+    "title": "Housing, Employment, and Taxes",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Housing in the UK"
+        },
+        {
+          "type": "paragraph",
+          "content": "Housing options in the UK include buying a home (with a mortgage), renting from a private landlord, or renting from the local council or a housing association (social housing). Most people either rent or buy their home. Tenants have legal rights, including protection from unfair eviction and the right to live in a property that is safe and in good condition."
+        },
+        {
+          "type": "key_fact",
+          "content": "Council Tax is a local tax collected by local authorities to pay for local services such as education, roads, rubbish collection, and libraries. The amount depends on the value of your property and the area you live in."
+        },
+        {
+          "type": "heading",
+          "content": "Employment and Taxes"
+        },
+        {
+          "type": "paragraph",
+          "content": "Everyone in the UK who works must have a National Insurance number. National Insurance contributions help pay for state benefits and the NHS. Income tax is collected by HM Revenue and Customs (HMRC). Most employees pay tax through the PAYE (Pay As You Earn) system, where tax is automatically deducted from wages."
+        },
+        {
+          "type": "list",
+          "content": "Key employment rights:",
+          "items": [
+            "The National Minimum Wage/National Living Wage sets the minimum hourly rate employers must pay",
+            "Employees are entitled to a minimum of 28 days paid holiday per year (including bank holidays)",
+            "Employers cannot discriminate against employees based on protected characteristics",
+            "Employees have the right to a written statement of employment",
+            "Statutory Sick Pay (SSP) is available if you are too ill to work"
+          ]
+        }
+      ]
+    },
+    "display_order": 3,
+    "icon": "home",
+    "color": "#155E75"
+  },
+  {
+    "id": "topic_everyday_4",
+    "category": "everyday",
+    "title": "Driving, Travel, and Community Life",
+    "study_content": {
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Driving and Transport"
+        },
+        {
+          "type": "paragraph",
+          "content": "To drive in the UK, you must be at least 17 years old, have a valid driving licence, have appropriate insurance, and ensure your vehicle has a valid MOT certificate (if over 3 years old) and is taxed. People in the UK drive on the left-hand side of the road."
+        },
+        {
+          "type": "key_fact",
+          "content": "The legal limit for alcohol while driving is 80mg of alcohol per 100ml of blood in England, Wales, and Northern Ireland, and 50mg per 100ml in Scotland. It is safest not to drink any alcohol if you plan to drive."
+        },
+        {
+          "type": "paragraph",
+          "content": "The UK has an extensive public transport network including buses, trains, the London Underground (the Tube), and trams in some cities. The Oyster card and contactless payment are used for public transport in London."
+        },
+        {
+          "type": "heading",
+          "content": "Community Life"
+        },
+        {
+          "type": "paragraph",
+          "content": "Getting involved in community life is encouraged in the UK. You can volunteer, join local clubs and societies, attend local council meetings, become a school governor, or participate in neighbourhood watch schemes. Many communities have local events and festivals throughout the year."
+        },
+        {
+          "type": "list",
+          "content": "Important practical information:",
+          "items": [
+            "The emergency telephone number is 999 (or 112)",
+            "You can register to vote at www.gov.uk/register-to-vote",
+            "The Citizens Advice Bureau provides free advice on legal, financial, and other matters",
+            "Public libraries provide free access to books, computers, and internet",
+            "You must have a TV licence to watch or record live TV programmes"
+          ]
+        }
+      ]
+    },
+    "display_order": 4,
+    "icon": "car",
+    "color": "#164E63"
+  }
+]

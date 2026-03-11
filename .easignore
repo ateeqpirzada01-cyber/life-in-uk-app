@@ -1,0 +1,13 @@
+node_modules
+.expo
+dist
+timeline-web
+.git
+.vscode
+.claude
+.idea
+*.tsbuildinfo
+android
+ios
+*.png.bak
+ChatGPT*

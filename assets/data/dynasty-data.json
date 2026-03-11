@@ -1,0 +1,103 @@
+[
+  {
+    "id": "normans",
+    "name": "Normans",
+    "period": "1066–1154",
+    "color": "#dc2626",
+    "image": "dynasty-normans.png",
+    "monarchs": [
+      { "id": "m_william1", "name": "William I (the Conqueror)", "reign": "1066–1087", "key_fact": "Won the Battle of Hastings in 1066; commissioned the Domesday Book", "notable": true },
+      { "id": "m_william2", "name": "William II", "reign": "1087–1100", "key_fact": "Third son of William I; killed in a hunting accident in the New Forest", "notable": false },
+      { "id": "m_henry1", "name": "Henry I", "reign": "1100–1135", "key_fact": "Youngest son of William I; established the Charter of Liberties", "notable": false },
+      { "id": "m_stephen", "name": "Stephen", "reign": "1135–1154", "key_fact": "His reign saw civil war (The Anarchy) with Matilda", "notable": false }
+    ]
+  },
+  {
+    "id": "plantagenets",
+    "name": "Plantagenets",
+    "period": "1154–1399",
+    "color": "#ea580c",
+    "image": "dynasty-plantagenets.png",
+    "monarchs": [
+      { "id": "m_henry2", "name": "Henry II", "reign": "1154–1189", "key_fact": "Established common law; conflict with Thomas Becket", "notable": true },
+      { "id": "m_richard1", "name": "Richard I (the Lionheart)", "reign": "1189–1199", "key_fact": "Spent most of his reign on Crusades; famous warrior king", "notable": true },
+      { "id": "m_john", "name": "John", "reign": "1199–1216", "key_fact": "Forced to sign the Magna Carta in 1215", "notable": true },
+      { "id": "m_henry3", "name": "Henry III", "reign": "1216–1272", "key_fact": "Rebuilt Westminster Abbey; faced baronial opposition", "notable": false },
+      { "id": "m_edward1", "name": "Edward I", "reign": "1272–1307", "key_fact": "Conquered Wales; attempted to conquer Scotland", "notable": true },
+      { "id": "m_edward2", "name": "Edward II", "reign": "1307–1327", "key_fact": "Defeated by Robert the Bruce at Bannockburn (1314)", "notable": false },
+      { "id": "m_edward3", "name": "Edward III", "reign": "1327–1377", "key_fact": "Started the Hundred Years War with France; Black Death struck 1348", "notable": true },
+      { "id": "m_richard2", "name": "Richard II", "reign": "1377–1399", "key_fact": "Faced the Peasants' Revolt of 1381; deposed by Henry IV", "notable": false }
+    ]
+  },
+  {
+    "id": "lancasters",
+    "name": "House of Lancaster",
+    "period": "1399–1461",
+    "color": "#e11d48",
+    "image": "dynasty-lancaster.png",
+    "monarchs": [
+      { "id": "m_henry4", "name": "Henry IV", "reign": "1399–1413", "key_fact": "First Lancastrian king; took the throne from Richard II", "notable": false },
+      { "id": "m_henry5", "name": "Henry V", "reign": "1413–1422", "key_fact": "Won the Battle of Agincourt in 1415", "notable": true },
+      { "id": "m_henry6", "name": "Henry VI", "reign": "1422–1461", "key_fact": "Lost the Hundred Years War; his reign saw the Wars of the Roses begin", "notable": true }
+    ]
+  },
+  {
+    "id": "yorks",
+    "name": "House of York",
+    "period": "1461–1485",
+    "color": "#f5f5f5",
+    "image": "dynasty-york.png",
+    "monarchs": [
+      { "id": "m_edward4", "name": "Edward IV", "reign": "1461–1483", "key_fact": "First Yorkist king; established relative peace and prosperity", "notable": false },
+      { "id": "m_edward5", "name": "Edward V", "reign": "1483", "key_fact": "One of the Princes in the Tower; reigned only 2 months", "notable": false },
+      { "id": "m_richard3", "name": "Richard III", "reign": "1483–1485", "key_fact": "Last Plantagenet king; killed at the Battle of Bosworth Field", "notable": true }
+    ]
+  },
+  {
+    "id": "tudors",
+    "name": "Tudors",
+    "period": "1485–1603",
+    "color": "#059669",
+    "image": "dynasty-tudors.png",
+    "monarchs": [
+      { "id": "m_henry7", "name": "Henry VII", "reign": "1485–1509", "key_fact": "Won Battle of Bosworth; united Lancaster and York by marrying Elizabeth of York", "notable": true },
+      { "id": "m_henry8", "name": "Henry VIII", "reign": "1509–1547", "key_fact": "Had 6 wives; broke with Rome and established the Church of England", "notable": true },
+      { "id": "m_edward6", "name": "Edward VI", "reign": "1547–1553", "key_fact": "Son of Henry VIII; Protestant reforms continued", "notable": false },
+      { "id": "m_mary1", "name": "Mary I (Bloody Mary)", "reign": "1553–1558", "key_fact": "Restored Catholicism; persecuted Protestants", "notable": true },
+      { "id": "m_elizabeth1", "name": "Elizabeth I", "reign": "1558–1603", "key_fact": "The Virgin Queen; defeated the Spanish Armada in 1588; golden age of English culture", "notable": true }
+    ]
+  },
+  {
+    "id": "stuarts_hanoverians",
+    "name": "Stuarts & Hanoverians",
+    "period": "1603–1901",
+    "color": "#2563eb",
+    "image": "dynasty-stuarts.png",
+    "monarchs": [
+      { "id": "m_james1", "name": "James I (James VI of Scotland)", "reign": "1603–1625", "key_fact": "United the crowns of England and Scotland; Gunpowder Plot 1605", "notable": true },
+      { "id": "m_charles1", "name": "Charles I", "reign": "1625–1649", "key_fact": "English Civil War; executed in 1649", "notable": true },
+      { "id": "m_cromwell", "name": "Oliver Cromwell (Lord Protector)", "reign": "1653–1658", "key_fact": "Led the Commonwealth; not a king but ruled as Lord Protector", "notable": true },
+      { "id": "m_charles2", "name": "Charles II", "reign": "1660–1685", "key_fact": "The Restoration; Great Fire of London 1666", "notable": true },
+      { "id": "m_james2", "name": "James II", "reign": "1685–1688", "key_fact": "Catholic king; overthrown in the Glorious Revolution", "notable": true },
+      { "id": "m_william_mary", "name": "William III & Mary II", "reign": "1689–1702", "key_fact": "Glorious Revolution; Bill of Rights 1689", "notable": true },
+      { "id": "m_anne", "name": "Anne", "reign": "1702–1714", "key_fact": "Act of Union 1707 united England and Scotland", "notable": true },
+      { "id": "m_george1", "name": "George I", "reign": "1714–1727", "key_fact": "First Hanoverian king; spoke little English", "notable": false },
+      { "id": "m_george3", "name": "George III", "reign": "1760–1820", "key_fact": "Lost the American colonies; Napoleonic Wars", "notable": true },
+      { "id": "m_victoria", "name": "Victoria", "reign": "1837–1901", "key_fact": "Longest-reigning monarch until Elizabeth II; British Empire at its peak", "notable": true }
+    ]
+  },
+  {
+    "id": "windsors",
+    "name": "Windsors",
+    "period": "1917–present",
+    "color": "#7c3aed",
+    "image": "dynasty-windsors.png",
+    "monarchs": [
+      { "id": "m_george5", "name": "George V", "reign": "1910–1936", "key_fact": "Changed the royal family name from Saxe-Coburg-Gotha to Windsor in 1917", "notable": true },
+      { "id": "m_edward8", "name": "Edward VIII", "reign": "1936", "key_fact": "Abdicated to marry Wallis Simpson", "notable": true },
+      { "id": "m_george6", "name": "George VI", "reign": "1936–1952", "key_fact": "Led Britain through World War II", "notable": true },
+      { "id": "m_elizabeth2", "name": "Elizabeth II", "reign": "1952–2022", "key_fact": "Longest-reigning British monarch (70 years)", "notable": true },
+      { "id": "m_charles3", "name": "Charles III", "reign": "2022–present", "key_fact": "Current reigning monarch", "notable": true }
+    ]
+  }
+]
