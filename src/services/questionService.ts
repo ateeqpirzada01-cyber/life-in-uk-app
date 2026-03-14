@@ -25,10 +25,19 @@ export const questionService = {
     return row ? parseTopicRow(row) : null;
   },
 
+  async getQuestionCountByTopic(topicId: string): Promise<number> {
+    const db = await getDatabase();
+    const result = await db.getFirstAsync<{ count: number }>(
+      'SELECT COUNT(*) as count FROM questions WHERE topic_id = ?',
+      [topicId]
+    );
+    return result?.count ?? 0;
+  },
+
   async getQuestionsByTopic(topicId: string): Promise<Question[]> {
     const db = await getDatabase();
     const rows = await db.getAllAsync<any>(
-      'SELECT * FROM questions WHERE topic_id = ?',
+      'SELECT * FROM questions WHERE topic_id = ? ORDER BY RANDOM()',
       [topicId]
     );
     return rows.map(parseQuestionRow);

@@ -123,6 +123,7 @@ body {
   align-items: flex-start;
   cursor: pointer;
   transition: top 0.3s ease, opacity 0.3s;
+  overflow: hidden;
 }
 
 .event-dot-wrapper {
@@ -191,7 +192,7 @@ body {
 }
 .event-desc {
   font-size: 13px; color: #94a3b8; line-height: 1.6;
-  display: none; margin-top: 8px;
+  display: none; margin-top: 10px;
 }
 .event-card.active .event-desc { display: block; }
 
@@ -265,8 +266,8 @@ let imageMap = {};
 let scrollY = 0;
 let targetScrollY = 0;
 let activeIndex = -1;
+let activeNodeHeight = 0;
 const NODE_HEIGHT = 130;
-const ACTIVE_EXTRA = 140;
 
 // Map image filenames to emoji fallbacks for categories
 const catEmoji = {
@@ -315,7 +316,10 @@ function formatYear(year) {
 }
 
 function getNodeHeight(index) {
-  return index === activeIndex ? NODE_HEIGHT + ACTIVE_EXTRA : NODE_HEIGHT;
+  if (index === activeIndex && activeNodeHeight > 0) {
+    return Math.max(NODE_HEIGHT, activeNodeHeight);
+  }
+  return NODE_HEIGHT;
 }
 
 function getNodeTop(index) {
@@ -418,13 +422,22 @@ function toggleEvent(index) {
   if (activeIndex === index) {
     document.getElementById('card-' + index).classList.remove('active');
     activeIndex = -1;
+    activeNodeHeight = 0;
   } else {
     if (activeIndex >= 0) {
       const prev = document.getElementById('card-' + activeIndex);
       if (prev) prev.classList.remove('active');
     }
-    document.getElementById('card-' + index).classList.add('active');
+    var card = document.getElementById('card-' + index);
+    card.classList.add('active');
     activeIndex = index;
+
+    // Measure actual content height after active styles apply
+    var node = document.getElementById('node-' + index);
+    node.style.height = 'auto';
+    activeNodeHeight = card.offsetHeight + 28;
+    node.style.height = activeNodeHeight + 'px';
+
     targetScrollY = getNodeTop(index) - window.innerHeight / 3;
   }
   updateLayout();

@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useMemo, useRef } from 'react';
 import {
   View,
   Text,
@@ -26,6 +26,7 @@ export default function TopicDetailScreen() {
   const [topic, setTopic] = useState<Topic | null>(null);
   const [questionCount, setQuestionCount] = useState(0);
   const [loading, setLoading] = useState(true);
+  const readMarked = useRef(false);
 
   useEffect(() => {
     loadTopic();
@@ -35,18 +36,18 @@ export default function TopicDetailScreen() {
     try {
       if (!topicId) return;
       setLoading(true);
-      const t = await questionService.getTopic(topicId);
+      const [t, count] = await Promise.all([
+        questionService.getTopic(topicId),
+        questionService.getQuestionCountByTopic(topicId),
+      ]);
       setTopic(t);
+      setQuestionCount(count);
 
-      if (t) {
-        const questions = await questionService.getQuestionsByTopic(t.id);
-        setQuestionCount(questions.length);
-      }
-
-      // Mark as read
-      if (user && topicId) {
-        await progressService.markTopicRead(user.id, topicId);
-        await progressService.awardXP(user.id, 'read_topic');
+      // Mark as read (only once per mount)
+      if (user && topicId && !readMarked.current) {
+        readMarked.current = true;
+        progressService.markTopicRead(user.id, topicId).catch(() => {});
+        progressService.awardXP(user.id, 'read_topic').catch(() => {});
       }
     } catch (e) {
       console.warn('Failed to load topic:', e);
@@ -93,6 +94,9 @@ export default function TopicDetailScreen() {
       case 'list':
         return (
           <View key={index} style={styles.listContainer}>
+            {section.content ? (
+              <Text style={[styles.listTitle, { color: colors.text }]}>{section.content}</Text>
+            ) : null}
             {section.items?.map((item, i) => (
               <View key={i} style={styles.listItem}>
                 <Text style={[styles.bullet, { color: categoryColor }]}>•</Text>
@@ -123,7 +127,7 @@ export default function TopicDetailScreen() {
 
         {/* Study content */}
         <View style={styles.studyContent}>
-          {topic.study_content.sections?.map(renderSection)}
+          {topic.study_content.sections?.map((section, index) => renderSection(section, index))}
         </View>
 
         {/* Test yourself */}
@@ -187,6 +191,7 @@ const styles = StyleSheet.create({
   keyFactIcon: { marginRight: 10, marginTop: 2 },
   keyFactText: { flex: 1, fontSize: 14, lineHeight: 22 },
   listContainer: { gap: 6, paddingLeft: 4 },
+  listTitle: { fontSize: 15, fontWeight: '600', marginBottom: 4 },
   listItem: { flexDirection: 'row', gap: 8 },
   bullet: { fontSize: 16, lineHeight: 22 },
   listText: { flex: 1, fontSize: 15, lineHeight: 22 },
