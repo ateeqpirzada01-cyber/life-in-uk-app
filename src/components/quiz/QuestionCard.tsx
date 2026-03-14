@@ -19,6 +19,7 @@ interface QuestionCardProps {
   showFeedback?: boolean;
   isStarred?: boolean;
   onToggleStar?: () => void;
+  previousAnswer?: string[];
 }
 
 export const QuestionCard = memo(function QuestionCard({
@@ -29,6 +30,7 @@ export const QuestionCard = memo(function QuestionCard({
   showFeedback = true,
   isStarred,
   onToggleStar,
+  previousAnswer,
 }: QuestionCardProps) {
   const colors = useTheme();
   const [selectedId, setSelectedId] = useState<string | null>(null);
@@ -38,17 +40,22 @@ export const QuestionCard = memo(function QuestionCard({
   const xpAnim = useRef(new Animated.Value(0)).current;
   const xpOpacity = useRef(new Animated.Value(0)).current;
 
-  // Reset animations when question changes
+  // Reset or restore state when question changes
   useEffect(() => {
-    setSelectedId(null);
-    setAnswered(false);
+    if (previousAnswer && previousAnswer.length > 0) {
+      setSelectedId(previousAnswer[0]);
+      setAnswered(true);
+    } else {
+      setSelectedId(null);
+      setAnswered(false);
+    }
     fadeAnim.setValue(0);
     Animated.timing(fadeAnim, {
       toValue: 1,
       duration: 300,
       useNativeDriver: true,
     }).start();
-  }, [question.id]);
+  }, [question.id, previousAnswer]);
 
   const handleSelect = (optionId: string) => {
     if (answered && showFeedback) return;

@@ -32,10 +32,9 @@ export default function QuizScreen() {
   const user = useAuthStore((s) => s.user);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [correctCount, setCorrectCount] = useState(0);
-  const [wrongCount, setWrongCount] = useState(0);
+  const [answers, setAnswers] = useState<Record<string, { selectedOptionIds: string[]; isCorrect: boolean }>>({});
+  const [recordedQuestions, setRecordedQuestions] = useState<Set<string>>(new Set());
   const [isComplete, setIsComplete] = useState(false);
-  const [answered, setAnswered] = useState(false);
   const [starredIds, setStarredIds] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -48,7 +47,6 @@ export default function QuizScreen() {
     loadQuestions();
     if (user) {
       starredService.getStarredIds(user.id).then(setStarredIds);
-      // Increment daily quiz count for free tier tracking
       if (!isPremium) {
         subscriptionService.incrementQuizCount(user.id).then(() => {
           refreshDailyUsage(user.id);
@@ -80,15 +78,15 @@ export default function QuizScreen() {
 
   const handleAnswer = async (questionId: string, selectedOptionIds: string[], isCorrect: boolean) => {
     if (!user) return;
-    setAnswered(true);
+
+    // Store the answer
+    setAnswers((prev) => ({ ...prev, [questionId]: { selectedOptionIds, isCorrect } }));
+
+    // Only record to backend on first answer (prevent XP inflation on revisit)
+    if (recordedQuestions.has(questionId)) return;
+    setRecordedQuestions((prev) => new Set(prev).add(questionId));
 
     const timeSpent = Math.round((Date.now() - startTime.current) / 1000);
-
-    if (isCorrect) {
-      setCorrectCount((c) => c + 1);
-    } else {
-      setWrongCount((c) => c + 1);
-    }
 
     try {
       await progressService.awardXP(user.id, isCorrect ? 'correct_answer' : 'wrong_answer');
@@ -100,21 +98,19 @@ export default function QuizScreen() {
     }
   };
 
-  const handleNext = () => {
-    if (currentIndex < questions.length - 1) {
-      setCurrentIndex((i) => i + 1);
-      setAnswered(false);
-      startTime.current = Date.now();
-    } else {
-      finishQuiz();
-    }
-  };
+  const handleConfirmSubmit = () => {
+    const answeredCount = Object.keys(answers).length;
+    const unanswered = questions.length - answeredCount;
 
-  const handleSkip = () => {
-    if (currentIndex < questions.length - 1) {
-      setCurrentIndex((i) => i + 1);
-      setAnswered(false);
-      startTime.current = Date.now();
+    if (unanswered > 0) {
+      Alert.alert(
+        'Unanswered Questions',
+        `You have ${unanswered} unanswered question${unanswered > 1 ? 's' : ''}. Finish anyway?`,
+        [
+          { text: 'Continue Quiz', style: 'cancel' },
+          { text: 'Finish', onPress: finishQuiz, style: 'destructive' },
+        ]
+      );
     } else {
       finishQuiz();
     }
@@ -142,6 +138,10 @@ export default function QuizScreen() {
     });
   };
 
+  const correctCount = Object.values(answers).filter((a) => a.isCorrect).length;
+  const wrongCount = Object.values(answers).filter((a) => !a.isCorrect).length;
+  const answeredCount = Object.keys(answers).length;
+
   if (loading) {
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
@@ -161,7 +161,6 @@ export default function QuizScreen() {
   }
 
   if (isComplete) {
-    const totalAnswered = correctCount + wrongCount;
     const total = questions.length;
     const xpEarned = calculateQuizXP(correctCount, wrongCount, true);
 
@@ -181,7 +180,7 @@ export default function QuizScreen() {
             </Text>
             <Text style={[styles.resultsPercent, { color: colors.textSecondary }]}>
               {total > 0 ? Math.round((correctCount / total) * 100) : 0}% correct
-              {total > totalAnswered ? ` (${total - totalAnswered} skipped)` : ''}
+              {total > answeredCount ? ` (${total - answeredCount} skipped)` : ''}
             </Text>
             <View style={[styles.xpBadge, { backgroundColor: colors.primary + '15' }]}>
               <Ionicons name="flash" size={16} color={colors.primary} />
@@ -203,10 +202,9 @@ export default function QuizScreen() {
               style={[styles.actionButton, { backgroundColor: colors.primary }]}
               onPress={() => {
                 setCurrentIndex(0);
-                setCorrectCount(0);
-                setWrongCount(0);
+                setAnswers({});
+                setRecordedQuestions(new Set());
                 setIsComplete(false);
-                setAnswered(false);
                 loadQuestions();
               }}
             >
@@ -225,10 +223,57 @@ export default function QuizScreen() {
   }
 
   const currentQuestion = questions[currentIndex];
+  const currentAnswer = answers[currentQuestion.id];
 
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
       <Stack.Screen options={{ title: topicTitle || 'Quiz' }} />
+
+      {/* Navigation dots */}
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.dotsContainer}>
+        <View style={styles.dots}>
+          {questions.map((q, i) => {
+            const isAnswered = !!answers[q.id];
+            const isCurrent = i === currentIndex;
+
+            return (
+              <TouchableOpacity
+                key={i}
+                style={[
+                  styles.dot,
+                  {
+                    backgroundColor: isCurrent
+                      ? colors.primary
+                      : isAnswered
+                      ? colors.primary + '40'
+                      : colors.surfaceSecondary,
+                  },
+                ]}
+                onPress={() => {
+                  startTime.current = Date.now();
+                  setCurrentIndex(i);
+                }}
+              >
+                <Text
+                  style={[
+                    styles.dotText,
+                    {
+                      color: isCurrent
+                        ? '#fff'
+                        : isAnswered
+                        ? colors.primary
+                        : colors.textTertiary,
+                    },
+                  ]}
+                >
+                  {i + 1}
+                </Text>
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+      </ScrollView>
+
       <ScrollView contentContainerStyle={styles.scrollContent}>
         <QuestionCard
           question={currentQuestion}
@@ -238,28 +283,51 @@ export default function QuizScreen() {
           showFeedback={true}
           isStarred={starredIds.has(currentQuestion.id)}
           onToggleStar={() => handleToggleStar(currentQuestion.id)}
+          previousAnswer={currentAnswer?.selectedOptionIds}
         />
       </ScrollView>
 
+      {/* Footer with Previous / Next navigation */}
       <View style={[styles.footer, { backgroundColor: colors.surface, borderTopColor: colors.border }]}>
-        {!answered ? (
+        <View style={styles.footerNav}>
           <TouchableOpacity
-            style={[styles.skipButton, { borderColor: colors.border }]}
-            onPress={handleSkip}
+            style={[styles.navButton, { borderColor: colors.border }]}
+            onPress={() => {
+              startTime.current = Date.now();
+              setCurrentIndex((i) => Math.max(0, i - 1));
+            }}
+            disabled={currentIndex === 0}
           >
-            <Text style={[styles.skipText, { color: colors.textSecondary }]}>Skip</Text>
+            <Ionicons
+              name="arrow-back"
+              size={20}
+              color={currentIndex === 0 ? colors.textTertiary : colors.text}
+            />
           </TouchableOpacity>
-        ) : (
-          <TouchableOpacity
-            style={[styles.nextButton, { backgroundColor: colors.primary }]}
-            onPress={handleNext}
-          >
-            <Text style={styles.nextText}>
-              {currentIndex < questions.length - 1 ? 'Next Question' : 'Finish'}
-            </Text>
-            <Ionicons name="arrow-forward" size={18} color="#fff" />
-          </TouchableOpacity>
-        )}
+
+          <Text style={[styles.footerInfo, { color: colors.textSecondary }]}>
+            {answeredCount}/{questions.length} answered
+          </Text>
+
+          {currentIndex < questions.length - 1 ? (
+            <TouchableOpacity
+              style={[styles.navButton, { borderColor: colors.border }]}
+              onPress={() => {
+                startTime.current = Date.now();
+                setCurrentIndex((i) => Math.min(questions.length - 1, i + 1));
+              }}
+            >
+              <Ionicons name="arrow-forward" size={20} color={colors.text} />
+            </TouchableOpacity>
+          ) : (
+            <TouchableOpacity
+              style={[styles.submitButton, { backgroundColor: colors.primary }]}
+              onPress={handleConfirmSubmit}
+            >
+              <Text style={styles.submitText}>Finish</Text>
+            </TouchableOpacity>
+          )}
+        </View>
       </View>
     </SafeAreaView>
   );
@@ -268,29 +336,62 @@ export default function QuizScreen() {
 const styles = StyleSheet.create({
   container: { flex: 1 },
   scrollContent: { flexGrow: 1 },
-  emptyState: { flex: 1, justifyContent: 'center', alignItems: 'center' },
-  emptyText: { fontSize: 16 },
+  dotsContainer: {
+    maxHeight: 44,
+    borderBottomWidth: StyleSheet.hairlineWidth,
+    borderBottomColor: '#e5e7eb',
+  },
+  dots: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    gap: 6,
+  },
+  dot: {
+    width: 30,
+    height: 30,
+    borderRadius: 15,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  dotText: {
+    fontSize: 12,
+    fontWeight: '600',
+  },
   footer: {
     padding: 16,
     borderTopWidth: 1,
   },
-  skipButton: {
-    height: 48,
-    borderRadius: 12,
-    borderWidth: 1.5,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  skipText: { fontSize: 16, fontWeight: '600' },
-  nextButton: {
-    height: 48,
-    borderRadius: 12,
+  footerNav: {
     flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  navButton: {
+    width: 44,
+    height: 44,
+    borderRadius: 12,
+    borderWidth: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    gap: 8,
   },
-  nextText: { color: '#fff', fontSize: 16, fontWeight: '600' },
+  footerInfo: {
+    fontSize: 14,
+    fontWeight: '500',
+  },
+  submitButton: {
+    height: 44,
+    paddingHorizontal: 20,
+    borderRadius: 12,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  submitText: {
+    color: '#fff',
+    fontSize: 15,
+    fontWeight: '600',
+  },
   resultsContent: { flexGrow: 1, justifyContent: 'center', padding: 24 },
   resultsCard: {
     alignItems: 'center',

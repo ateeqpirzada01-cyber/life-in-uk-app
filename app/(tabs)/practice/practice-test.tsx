@@ -358,6 +358,7 @@ export default function PracticeTestScreen() {
           showFeedback={true}
           isStarred={starredIds.has(currentQuestion.id)}
           onToggleStar={() => handleToggleStar(currentQuestion.id)}
+          previousAnswer={answers[currentQuestion.id]}
         />
       </ScrollView>
 

@@ -397,6 +397,7 @@ export default function MockExamScreen() {
           showFeedback={false}
           isStarred={starredIds.has(currentQuestion.id)}
           onToggleStar={() => handleToggleStar(currentQuestion.id)}
+          previousAnswer={answers[currentQuestion.id]}
         />
       </ScrollView>
 
