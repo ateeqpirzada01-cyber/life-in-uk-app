@@ -18,11 +18,9 @@ export default ({ config }: ConfigContext): ExpoConfig => {
         color: '#4f46e5',
       },
     ],
+    'react-native-iap',
+    '@sentry/react-native/expo',
   ];
-
-  if (hasSentryBuildCredentials) {
-    plugins.push('@sentry/react-native/expo');
-  }
 
   return {
     ...config,
