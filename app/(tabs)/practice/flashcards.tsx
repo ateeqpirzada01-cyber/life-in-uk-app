@@ -71,7 +71,11 @@ export default function FlashcardsScreen() {
   if (flashcards.length === 0) {
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-        <Stack.Screen options={{ title: 'Flashcards' }} />
+        <Stack.Screen options={{ title: 'Flashcards', headerLeft: () => (
+          <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+            <Ionicons name="arrow-back" size={24} color={colors.text} />
+          </TouchableOpacity>
+        ) }} />
         <View style={styles.center}>
           <Ionicons name="copy" size={64} color={colors.primary} />
           <Text style={[styles.emptyTitle, { color: colors.text }]}>No flashcards due</Text>
@@ -93,7 +97,11 @@ export default function FlashcardsScreen() {
     const xp = reviewed * 10;
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-        <Stack.Screen options={{ title: 'Session Complete' }} />
+        <Stack.Screen options={{ title: 'Session Complete', headerLeft: () => (
+          <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+            <Ionicons name="arrow-back" size={24} color={colors.text} />
+          </TouchableOpacity>
+        ) }} />
         <View style={styles.center}>
           <Ionicons name="checkmark-circle" size={64} color={colors.success} />
           <Text style={[styles.completeTitle, { color: colors.text }]}>Session Complete!</Text>
@@ -117,7 +125,11 @@ export default function FlashcardsScreen() {
 
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-      <Stack.Screen options={{ title: 'Flashcards' }} />
+      <Stack.Screen options={{ title: 'Flashcards', headerLeft: () => (
+        <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+          <Ionicons name="arrow-back" size={24} color={colors.text} />
+        </TouchableOpacity>
+      ) }} />
       <FlashcardCard
         key={currentIndex}
         flashcard={flashcards[currentIndex]}

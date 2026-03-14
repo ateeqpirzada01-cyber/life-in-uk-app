@@ -106,7 +106,11 @@ export default function SpacedReviewScreen() {
   if (questions.length === 0) {
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-        <Stack.Screen options={{ title: 'Spaced Review' }} />
+        <Stack.Screen options={{ title: 'Spaced Review', headerLeft: () => (
+          <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+            <Ionicons name="arrow-back" size={24} color={colors.text} />
+          </TouchableOpacity>
+        ) }} />
         <View style={styles.center}>
           <Ionicons name="checkmark-circle" size={64} color={colors.success} />
           <Text style={[styles.emptyTitle, { color: colors.text }]}>All caught up!</Text>
@@ -128,7 +132,11 @@ export default function SpacedReviewScreen() {
     const xp = calculateQuizXP(correctCount, wrongCount, true);
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-        <Stack.Screen options={{ title: 'Review Complete' }} />
+        <Stack.Screen options={{ title: 'Review Complete', headerLeft: () => (
+          <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+            <Ionicons name="arrow-back" size={24} color={colors.text} />
+          </TouchableOpacity>
+        ) }} />
         <View style={styles.center}>
           <Ionicons name="ribbon" size={64} color={colors.primary} />
           <Text style={[styles.completeTitle, { color: colors.text }]}>Review Complete!</Text>
@@ -152,7 +160,11 @@ export default function SpacedReviewScreen() {
 
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-      <Stack.Screen options={{ title: 'Spaced Review' }} />
+      <Stack.Screen options={{ title: 'Spaced Review', headerLeft: () => (
+        <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+          <Ionicons name="arrow-back" size={24} color={colors.text} />
+        </TouchableOpacity>
+      ) }} />
       <ScrollView contentContainerStyle={styles.scrollContent}>
         <QuestionCard
           question={questions[currentIndex]}

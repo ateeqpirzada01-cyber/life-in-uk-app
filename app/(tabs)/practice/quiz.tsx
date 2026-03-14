@@ -145,7 +145,11 @@ export default function QuizScreen() {
   if (loading) {
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-        <Stack.Screen options={{ title: topicTitle || 'Quiz' }} />
+        <Stack.Screen options={{ title: topicTitle || 'Quiz', headerLeft: () => (
+          <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+            <Ionicons name="arrow-back" size={24} color={colors.text} />
+          </TouchableOpacity>
+        ) }} />
         <LoadingScreen message="Loading questions..." />
       </SafeAreaView>
     );
@@ -154,7 +158,11 @@ export default function QuizScreen() {
   if (error || questions.length === 0) {
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-        <Stack.Screen options={{ title: topicTitle || 'Quiz' }} />
+        <Stack.Screen options={{ title: topicTitle || 'Quiz', headerLeft: () => (
+          <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+            <Ionicons name="arrow-back" size={24} color={colors.text} />
+          </TouchableOpacity>
+        ) }} />
         <ErrorFallback message={error || 'No questions available'} onRetry={loadQuestions} />
       </SafeAreaView>
     );
@@ -166,7 +174,11 @@ export default function QuizScreen() {
 
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-        <Stack.Screen options={{ title: 'Quiz Complete' }} />
+        <Stack.Screen options={{ title: 'Quiz Complete', headerLeft: () => (
+          <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+            <Ionicons name="arrow-back" size={24} color={colors.text} />
+          </TouchableOpacity>
+        ) }} />
         <ScrollView contentContainerStyle={styles.resultsContent}>
           <View style={[styles.resultsCard, { backgroundColor: colors.card, borderColor: colors.border }]}>
             <Ionicons
@@ -227,7 +239,11 @@ export default function QuizScreen() {
 
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-      <Stack.Screen options={{ title: topicTitle || 'Quiz' }} />
+      <Stack.Screen options={{ title: topicTitle || 'Quiz', headerLeft: () => (
+        <TouchableOpacity onPress={() => router.back()} hitSlop={8} style={{ marginRight: 8 }}>
+          <Ionicons name="arrow-back" size={24} color={colors.text} />
+        </TouchableOpacity>
+      ) }} />
 
       {/* Navigation dots */}
       <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.dotsContainer}>
