@@ -30,6 +30,7 @@ export default function ProfileScreen() {
   const router = useRouter();
   const user = useAuthStore((s) => s.user);
   const signOut = useAuthStore((s) => s.signOut);
+  const deleteAccount = useAuthStore((s) => s.deleteAccount);
   const profile = useProgressStore((s) => s.profile);
   const setProfile = useProgressStore((s) => s.setProfile);
   const darkMode = useSettingsStore((s) => s.darkMode);
@@ -102,6 +103,39 @@ export default function ProfileScreen() {
       { text: 'Cancel', style: 'cancel' },
       { text: 'Sign Out', onPress: signOut, style: 'destructive' },
     ]);
+  };
+
+  const handleDeleteAccount = () => {
+    Alert.alert(
+      'Delete Account',
+      'This will permanently delete your account and all your data including progress, achievements, and streaks. This cannot be undone.',
+      [
+        { text: 'Cancel', style: 'cancel' },
+        {
+          text: 'Delete',
+          style: 'destructive',
+          onPress: () => {
+            Alert.alert(
+              'Are you absolutely sure?',
+              'All your data will be permanently deleted. This action cannot be reversed.',
+              [
+                { text: 'Cancel', style: 'cancel' },
+                {
+                  text: 'Delete My Account',
+                  style: 'destructive',
+                  onPress: async () => {
+                    const { error } = await deleteAccount();
+                    if (error) {
+                      Alert.alert('Error', error);
+                    }
+                  },
+                },
+              ]
+            );
+          },
+        },
+      ]
+    );
   };
 
   const level = calculateLevel(profile?.total_xp ?? 0);
@@ -313,6 +347,16 @@ export default function ProfileScreen() {
           <Text style={[styles.signOutText, { color: colors.error }]}>Sign Out</Text>
         </TouchableOpacity>
 
+        <TouchableOpacity
+          style={styles.deleteAccountButton}
+          onPress={handleDeleteAccount}
+        >
+          <Ionicons name="trash-outline" size={16} color={colors.textTertiary} />
+          <Text style={[styles.deleteAccountText, { color: colors.textTertiary }]}>
+            Delete Account
+          </Text>
+        </TouchableOpacity>
+
         <Text style={[styles.brandFooter, { color: colors.textTertiary }]}>
           Made by Quantara Technologies
         </Text>
@@ -445,6 +489,14 @@ const styles = StyleSheet.create({
     marginTop: 8,
   },
   signOutText: { fontSize: 15, fontWeight: '600' },
+  deleteAccountButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 6,
+    marginTop: 16,
+  },
+  deleteAccountText: { fontSize: 13 },
   achievementBadge: {
     paddingHorizontal: 8,
     paddingVertical: 2,

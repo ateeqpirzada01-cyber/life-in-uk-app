@@ -26,7 +26,7 @@ export default ({ config }: ConfigContext): ExpoConfig => {
 
   return {
     ...config,
-    name: 'Life in the UK',
+    name: 'Life in the UK Test 2026',
     slug: 'life-in-uk-app',
     version: '1.0.0',
     orientation: 'portrait',

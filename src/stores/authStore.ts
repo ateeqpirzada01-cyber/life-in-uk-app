@@ -13,6 +13,7 @@ interface AuthState {
   signUp: (email: string, password: string, displayName: string) => Promise<{ error: string | null }>;
   signOut: () => Promise<void>;
   resetPassword: (email: string) => Promise<{ error: string | null }>;
+  deleteAccount: () => Promise<{ error: string | null }>;
 }
 
 export const useAuthStore = create<AuthState>((set, get) => ({
@@ -76,5 +77,41 @@ export const useAuthStore = create<AuthState>((set, get) => ({
   resetPassword: async (email) => {
     const { error } = await supabase.auth.resetPasswordForEmail(email);
     return { error: error?.message ?? null };
+  },
+
+  deleteAccount: async () => {
+    const user = get().user;
+    if (!user) return { error: 'Not signed in' };
+
+    try {
+      // Delete all user data from tables (RLS policies ensure user can only delete own data)
+      const userIdTables = [
+        'question_attempts',
+        'exam_sessions',
+        'spaced_repetition_cards',
+        'daily_streaks',
+        'user_achievements',
+        'topics_read',
+        'starred_questions',
+        'flashcard_progress',
+        'practice_test_results',
+        'user_subscription',
+        'daily_usage',
+        'feedback',
+      ];
+
+      for (const table of userIdTables) {
+        await supabase.from(table).delete().eq('user_id', user.id);
+      }
+
+      // Profile uses 'id' column, not 'user_id'
+      await supabase.from('profiles').delete().eq('id', user.id);
+
+      await supabase.auth.signOut();
+      set({ session: null, user: null });
+      return { error: null };
+    } catch (e: any) {
+      return { error: e.message ?? 'Failed to delete account' };
+    }
   },
 }));
