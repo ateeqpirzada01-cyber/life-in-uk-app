@@ -131,7 +131,7 @@ export default function HomeScreen() {
         <View style={styles.quickAccessGrid}>
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: '#4f46e510' }]}
-            onPress={() => { router.navigate('/(tabs)/practice'); setTimeout(() => router.push('/(tabs)/practice/quiz'), 50); }}
+            onPress={() => router.push('/(tabs)/practice/quiz')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: '#4f46e520' }]}>
               <Ionicons name="help-circle" size={24} color="#4f46e5" />
@@ -141,7 +141,7 @@ export default function HomeScreen() {
 
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: '#ef444410' }]}
-            onPress={() => { router.navigate('/(tabs)/practice'); setTimeout(() => router.push('/(tabs)/practice/mock-exam'), 50); }}
+            onPress={() => router.push('/(tabs)/practice/mock-exam')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: '#ef444420' }]}>
               <Ionicons name="timer" size={24} color="#ef4444" />
@@ -151,7 +151,7 @@ export default function HomeScreen() {
 
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: '#06b6d410' }]}
-            onPress={() => { router.navigate('/(tabs)/practice'); setTimeout(() => router.push('/(tabs)/practice/practice-tests'), 50); }}
+            onPress={() => router.push('/(tabs)/practice/practice-tests')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: '#06b6d420' }]}>
               <Ionicons name="document-text" size={24} color="#06b6d4" />
@@ -161,7 +161,7 @@ export default function HomeScreen() {
 
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: '#8b5cf610' }]}
-            onPress={() => { router.navigate('/(tabs)/practice'); setTimeout(() => router.push('/(tabs)/practice/flashcards'), 50); }}
+            onPress={() => router.push('/(tabs)/practice/flashcards')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: '#8b5cf620' }]}>
               <Ionicons name="copy" size={24} color="#8b5cf6" />
@@ -174,13 +174,10 @@ export default function HomeScreen() {
         {weakestCategory ? (
           <TouchableOpacity
             style={[styles.focusCard, { backgroundColor: colors.card, borderColor: colors.warning + '40' }]}
-            onPress={() => {
-              router.navigate('/(tabs)/practice');
-              setTimeout(() => router.push({
-                pathname: '/(tabs)/practice/category-select',
-                params: { preselect: weakestCategory.category },
-              }), 50);
-            }}
+            onPress={() => router.push({
+              pathname: '/(tabs)/practice/category-select',
+              params: { preselect: weakestCategory.category },
+            })}
           >
             <View style={styles.focusHeader}>
               <Ionicons name="locate" size={18} color={colors.warning} />
