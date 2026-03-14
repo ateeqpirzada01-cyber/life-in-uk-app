@@ -6,6 +6,7 @@ import {
   TouchableOpacity,
   StyleSheet,
   RefreshControl,
+  ActivityIndicator,
 } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useFocusEffect } from '@react-navigation/native';
@@ -33,6 +34,7 @@ export default function HomeScreen() {
   const setCategoryStats = useProgressStore((s) => s.setCategoryStats);
   const setStats = useProgressStore((s) => s.setStats);
   const [refreshing, setRefreshing] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [dueCards, setDueCards] = useState(0);
 
   const loadData = useCallback(async () => {
@@ -53,8 +55,8 @@ export default function HomeScreen() {
         current_streak: profileData.current_streak,
         longest_streak: profileData.longest_streak,
         exam_readiness_score: readiness,
-        created_at: '',
-        updated_at: '',
+        created_at: profileData.created_at ?? '',
+        updated_at: profileData.updated_at ?? '',
       });
       setCategoryStats(catStats);
       setStats({
@@ -66,6 +68,8 @@ export default function HomeScreen() {
       setDueCards(due);
     } catch (e) {
       console.warn('Failed to load dashboard data:', e);
+    } finally {
+      setLoading(false);
     }
   }, [user]);
 
@@ -92,6 +96,18 @@ export default function HomeScreen() {
     .sort((a: CategoryStats, b: CategoryStats) => a.accuracy - b.accuracy)[0] ?? null,
     [categoryStats]);
 
+  const readinessBg = readiness >= 75 ? colors.success : readiness >= 50 ? colors.warning : colors.primary;
+
+  if (loading && !profile) {
+    return (
+      <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
+        <View style={styles.loadingContainer}>
+          <ActivityIndicator size="large" color={colors.primary} />
+        </View>
+      </SafeAreaView>
+    );
+  }
+
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
       <ScrollView
@@ -111,9 +127,7 @@ export default function HomeScreen() {
         </View>
 
         {/* Compact Readiness Score */}
-        <View style={[styles.readinessCompact, {
-          backgroundColor: readiness >= 75 ? '#16a34a' : readiness >= 50 ? '#d97706' : colors.primary,
-        }]}>
+        <View style={[styles.readinessCompact, { backgroundColor: readinessBg }]}>
           <View style={styles.readinessLeft}>
             <Text style={styles.readinessLabel}>Exam Readiness</Text>
             <Text style={styles.readinessHint}>
@@ -130,41 +144,41 @@ export default function HomeScreen() {
         {/* Quick Access Grid */}
         <View style={styles.quickAccessGrid}>
           <TouchableOpacity
-            style={[styles.quickCard, { backgroundColor: '#4f46e510' }]}
+            style={[styles.quickCard, { backgroundColor: colors.primary + '10' }]}
             onPress={() => router.push('/(tabs)/practice/quiz')}
           >
-            <View style={[styles.quickIconWrap, { backgroundColor: '#4f46e520' }]}>
-              <Ionicons name="help-circle" size={24} color="#4f46e5" />
+            <View style={[styles.quickIconWrap, { backgroundColor: colors.primary + '20' }]}>
+              <Ionicons name="help-circle" size={24} color={colors.primary} />
             </View>
             <Text style={[styles.quickLabel, { color: colors.text }]}>Quick Quiz</Text>
           </TouchableOpacity>
 
           <TouchableOpacity
-            style={[styles.quickCard, { backgroundColor: '#ef444410' }]}
+            style={[styles.quickCard, { backgroundColor: colors.error + '10' }]}
             onPress={() => router.push('/(tabs)/practice/mock-exam')}
           >
-            <View style={[styles.quickIconWrap, { backgroundColor: '#ef444420' }]}>
-              <Ionicons name="timer" size={24} color="#ef4444" />
+            <View style={[styles.quickIconWrap, { backgroundColor: colors.error + '20' }]}>
+              <Ionicons name="timer" size={24} color={colors.error} />
             </View>
             <Text style={[styles.quickLabel, { color: colors.text }]}>Mock Exam</Text>
           </TouchableOpacity>
 
           <TouchableOpacity
-            style={[styles.quickCard, { backgroundColor: '#06b6d410' }]}
+            style={[styles.quickCard, { backgroundColor: colors.info + '10' }]}
             onPress={() => router.push('/(tabs)/practice/practice-tests')}
           >
-            <View style={[styles.quickIconWrap, { backgroundColor: '#06b6d420' }]}>
-              <Ionicons name="document-text" size={24} color="#06b6d4" />
+            <View style={[styles.quickIconWrap, { backgroundColor: colors.info + '20' }]}>
+              <Ionicons name="document-text" size={24} color={colors.info} />
             </View>
             <Text style={[styles.quickLabel, { color: colors.text }]}>Practice Tests</Text>
           </TouchableOpacity>
 
           <TouchableOpacity
-            style={[styles.quickCard, { backgroundColor: '#8b5cf610' }]}
+            style={[styles.quickCard, { backgroundColor: colors.primaryLight + '10' }]}
             onPress={() => router.push('/(tabs)/practice/flashcards')}
           >
-            <View style={[styles.quickIconWrap, { backgroundColor: '#8b5cf620' }]}>
-              <Ionicons name="copy" size={24} color="#8b5cf6" />
+            <View style={[styles.quickIconWrap, { backgroundColor: colors.primaryLight + '20' }]}>
+              <Ionicons name="copy" size={24} color={colors.primaryLight} />
             </View>
             <Text style={[styles.quickLabel, { color: colors.text }]}>Flashcards</Text>
           </TouchableOpacity>
@@ -271,6 +285,7 @@ export default function HomeScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1 },
+  loadingContainer: { flex: 1, justifyContent: 'center', alignItems: 'center' },
   scrollContent: { padding: 20, paddingBottom: 40 },
   header: {
     flexDirection: 'row',
@@ -298,8 +313,8 @@ const styles = StyleSheet.create({
     marginBottom: 12,
   },
   readinessLeft: { flex: 1 },
-  readinessLabel: { color: '#ffffffcc', fontSize: 13, marginBottom: 2 },
-  readinessHint: { color: '#ffffff99', fontSize: 12 },
+  readinessLabel: { color: 'rgba(255,255,255,0.8)', fontSize: 13, marginBottom: 2 },
+  readinessHint: { color: 'rgba(255,255,255,0.6)', fontSize: 12 },
   readinessScore: { color: '#fff', fontSize: 36, fontWeight: '700' },
 
   // Quick Access

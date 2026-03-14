@@ -9,7 +9,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import { useRouter } from 'expo-router';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useTheme } from '@/src/hooks/useTheme';
 import { useAuthStore } from '@/src/stores/authStore';
@@ -40,6 +40,7 @@ export default function PremiumScreen() {
   const isPremium = usePremiumStore((s) => s.isPremium());
   const isRestoring = usePremiumStore((s) => s.isRestoring);
   const setRestoring = usePremiumStore((s) => s.setRestoring);
+  const insets = useSafeAreaInsets();
   const [purchasing, setPurchasing] = useState(false);
 
   const handlePurchase = async () => {
@@ -103,6 +104,9 @@ export default function PremiumScreen() {
   if (isPremium) {
     return (
       <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
+        <TouchableOpacity style={[styles.closeButton, { top: insets.top + 12 }]} onPress={() => router.back()}>
+          <Ionicons name="close" size={28} color={colors.text} />
+        </TouchableOpacity>
         <ScrollView contentContainerStyle={styles.scrollContent}>
           <View style={styles.crownSection}>
             <Ionicons name="checkmark-circle" size={64} color={colors.success} />
@@ -124,7 +128,7 @@ export default function PremiumScreen() {
 
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-      <TouchableOpacity style={styles.closeButton} onPress={() => router.back()}>
+      <TouchableOpacity style={[styles.closeButton, { top: insets.top + 12 }]} onPress={() => router.back()}>
         <Ionicons name="close" size={28} color={colors.text} />
       </TouchableOpacity>
 
@@ -211,7 +215,6 @@ const styles = StyleSheet.create({
   container: { flex: 1 },
   closeButton: {
     position: 'absolute',
-    top: 60,
     right: 20,
     zIndex: 10,
     padding: 4,

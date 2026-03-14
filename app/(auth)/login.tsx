@@ -9,6 +9,7 @@ import {
   Alert,
   Image,
   ImageBackground,
+  Dimensions,
 } from 'react-native';
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';
 import { Link } from 'expo-router';
@@ -16,12 +17,8 @@ import { Ionicons } from '@expo/vector-icons';
 import { useAuthStore } from '@/src/stores/authStore';
 import { useTheme } from '@/src/hooks/useTheme';
 
-// Will use login-bg.png when available, falls back to solid color
-let loginBgImage: any = null;
-try {
-  loginBgImage = require('@/assets/images/login-bg.png');
-} catch {}
-
+const { width } = Dimensions.get('window');
+const flagBg = require('@/assets/images/login-bg.png');
 
 export default function LoginScreen() {
   const [email, setEmail] = useState('');
@@ -46,33 +43,17 @@ export default function LoginScreen() {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]}>
-      {/* Curved header with optional background image */}
-      {loginBgImage ? (
-        <ImageBackground
-          source={loginBgImage}
-          style={styles.headerCurve}
-          imageStyle={styles.headerBgImage}
-        >
-          <View style={styles.headerOverlay} />
-          <View style={styles.headerContent}>
-            <View style={styles.logoCircle}>
-              <Text style={styles.logoText}>UK</Text>
-            </View>
-            <Text style={styles.headerTitle}>Life in the UK</Text>
-            <Text style={styles.headerSubtitle}>Your path to citizenship</Text>
+      {/* Header with flag background */}
+      <ImageBackground source={flagBg} style={styles.header} imageStyle={styles.headerImage}>
+        <View style={styles.headerOverlay} />
+        <View style={styles.headerContent}>
+          <View style={styles.iconBadge}>
+            <Image source={flagBg} style={styles.flagIcon} />
           </View>
-        </ImageBackground>
-      ) : (
-        <View style={styles.headerCurve}>
-          <View style={styles.headerContent}>
-            <View style={styles.logoCircle}>
-              <Text style={styles.logoText}>UK</Text>
-            </View>
-            <Text style={styles.headerTitle}>Life in the UK</Text>
-            <Text style={styles.headerSubtitle}>Your path to citizenship</Text>
-          </View>
+          <Text style={styles.appName}>Life in the UK</Text>
+          <Text style={styles.appTagline}>Test Prep 2026</Text>
         </View>
-      )}
+      </ImageBackground>
 
       <KeyboardAwareScrollView
         enableOnAndroid
@@ -81,8 +62,26 @@ export default function LoginScreen() {
         contentContainerStyle={styles.scrollContent}
         showsVerticalScrollIndicator={false}
       >
-        <Text style={[styles.socialProof, { color: colors.textSecondary }]}>
-          Join thousands of successful test-takers
+        {/* Feature pills */}
+        <View style={styles.featurePills}>
+          <View style={[styles.pill, { backgroundColor: colors.primary + '12' }]}>
+            <Ionicons name="book" size={13} color={colors.primary} />
+            <Text style={[styles.pillText, { color: colors.primary }]}>1000+ Questions</Text>
+          </View>
+          <View style={[styles.pill, { backgroundColor: colors.primary + '12' }]}>
+            <Ionicons name="trophy" size={13} color={colors.primary} />
+            <Text style={[styles.pillText, { color: colors.primary }]}>Mock Exams</Text>
+          </View>
+          <View style={[styles.pill, { backgroundColor: colors.primary + '12' }]}>
+            <Ionicons name="trending-up" size={13} color={colors.primary} />
+            <Text style={[styles.pillText, { color: colors.primary }]}>Track Progress</Text>
+          </View>
+        </View>
+
+        {/* Welcome text */}
+        <Text style={[styles.welcomeTitle, { color: colors.text }]}>Welcome back</Text>
+        <Text style={[styles.welcomeSub, { color: colors.textSecondary }]}>
+          Sign in to continue your preparation
         </Text>
 
         <View style={styles.form}>
@@ -128,37 +127,48 @@ export default function LoginScreen() {
             </TouchableOpacity>
           </View>
 
+          <Link href="/(auth)/forgot-password" asChild>
+            <TouchableOpacity style={styles.forgotRow}>
+              <Text style={[styles.forgotText, { color: colors.primary }]}>Forgot password?</Text>
+            </TouchableOpacity>
+          </Link>
+
           <TouchableOpacity
-            style={[styles.button, { backgroundColor: colors.primary, shadowColor: colors.primary }]}
+            style={[styles.button, { backgroundColor: colors.primary }]}
             onPress={handleLogin}
             disabled={isLoading}
+            activeOpacity={0.85}
           >
             {isLoading ? (
               <ActivityIndicator color="#fff" />
             ) : (
-              <Text style={styles.buttonText}>Sign In</Text>
+              <>
+                <Text style={styles.buttonText}>Sign In</Text>
+                <Ionicons name="arrow-forward" size={18} color="#fff" />
+              </>
             )}
           </TouchableOpacity>
-
-          <Link href="/(auth)/forgot-password" asChild>
-            <TouchableOpacity style={styles.linkButton}>
-              <Text style={[styles.linkText, { color: colors.primary }]}>
-                Forgot password?
-              </Text>
-            </TouchableOpacity>
-          </Link>
-
-          <View style={styles.registerRow}>
-            <Text style={[styles.registerText, { color: colors.textSecondary }]}>
-              Don't have an account?{' '}
-            </Text>
-            <Link href="/(auth)/register" asChild>
-              <TouchableOpacity>
-                <Text style={[styles.linkText, { color: colors.primary }]}>Sign Up</Text>
-              </TouchableOpacity>
-            </Link>
-          </View>
         </View>
+
+        {/* Divider */}
+        <View style={styles.dividerRow}>
+          <View style={[styles.dividerLine, { backgroundColor: colors.border }]} />
+          <Text style={[styles.dividerText, { color: colors.textTertiary }]}>New here?</Text>
+          <View style={[styles.dividerLine, { backgroundColor: colors.border }]} />
+        </View>
+
+        <Link href="/(auth)/register" asChild>
+          <TouchableOpacity
+            style={[styles.registerButton, { borderColor: colors.primary }]}
+            activeOpacity={0.85}
+          >
+            <Text style={[styles.registerButtonText, { color: colors.primary }]}>Create an Account</Text>
+          </TouchableOpacity>
+        </Link>
+
+        <Text style={[styles.footer, { color: colors.textTertiary }]}>
+          Join thousands preparing for the Life in the UK test
+        </Text>
       </KeyboardAwareScrollView>
     </View>
   );
@@ -168,86 +178,96 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  headerCurve: {
-    backgroundColor: '#1D4ED8',
-    paddingTop: 60,
-    paddingBottom: 40,
-    borderBottomLeftRadius: 40,
-    borderBottomRightRadius: 40,
+  header: {
+    paddingTop: 56,
+    paddingBottom: 32,
+    borderBottomLeftRadius: 32,
+    borderBottomRightRadius: 32,
     overflow: 'hidden',
   },
-  headerBgImage: {
-    borderBottomLeftRadius: 40,
-    borderBottomRightRadius: 40,
+  headerImage: {
+    borderBottomLeftRadius: 32,
+    borderBottomRightRadius: 32,
   },
   headerOverlay: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: 'rgba(29, 78, 216, 0.65)',
-    borderBottomLeftRadius: 40,
-    borderBottomRightRadius: 40,
+    backgroundColor: 'rgba(15, 23, 42, 0.75)',
+    borderBottomLeftRadius: 32,
+    borderBottomRightRadius: 32,
   },
   headerContent: {
     alignItems: 'center',
     zIndex: 1,
   },
-  logoCircle: {
-    width: 120,
-    height: 120,
-    borderRadius: 60,
-    backgroundColor: '#fff',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: 16,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.15,
-    shadowRadius: 12,
-    elevation: 8,
+  iconBadge: {
+    width: 56,
+    height: 56,
+    borderRadius: 16,
+    overflow: 'hidden',
+    marginBottom: 12,
+    borderWidth: 2,
+    borderColor: 'rgba(255,255,255,0.3)',
   },
-  logoText: {
-    color: '#1D4ED8',
-    fontSize: 40,
-    fontWeight: '800',
-    letterSpacing: 2,
+  flagIcon: {
+    width: '100%',
+    height: '100%',
+    resizeMode: 'cover',
   },
-  headerTitle: {
+  appName: {
     color: '#fff',
-    fontSize: 28,
+    fontSize: 24,
     fontWeight: '700',
-    marginBottom: 4,
-    textShadowColor: 'rgba(0,0,0,0.3)',
-    textShadowOffset: { width: 0, height: 1 },
-    textShadowRadius: 4,
+    letterSpacing: 0.5,
   },
-  headerSubtitle: {
-    color: '#ffffffcc',
-    fontSize: 15,
+  appTagline: {
+    color: 'rgba(255,255,255,0.7)',
+    fontSize: 14,
     fontWeight: '500',
-    textShadowColor: 'rgba(0,0,0,0.3)',
-    textShadowOffset: { width: 0, height: 1 },
-    textShadowRadius: 4,
+    marginTop: 2,
   },
   scrollContent: {
     flexGrow: 1,
     paddingHorizontal: 24,
-    paddingTop: 24,
+    paddingTop: 20,
     paddingBottom: 40,
   },
-  socialProof: {
-    fontSize: 13,
-    textAlign: 'center',
-    marginBottom: 28,
+  featurePills: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    gap: 8,
+    marginBottom: 24,
+  },
+  pill: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 4,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    borderRadius: 20,
+  },
+  pillText: {
+    fontSize: 11,
+    fontWeight: '600',
+  },
+  welcomeTitle: {
+    fontSize: 22,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  welcomeSub: {
+    fontSize: 14,
+    marginBottom: 20,
   },
   form: {
-    gap: 16,
+    gap: 14,
   },
   inputRow: {
     flexDirection: 'row',
     alignItems: 'center',
     height: 52,
-    borderRadius: 12,
+    borderRadius: 14,
     borderWidth: 1,
-    paddingHorizontal: 12,
+    paddingHorizontal: 14,
   },
   inputIcon: {
     marginRight: 10,
@@ -260,36 +280,60 @@ const styles = StyleSheet.create({
   eyeButton: {
     padding: 8,
   },
+  forgotRow: {
+    alignSelf: 'flex-end',
+    marginTop: -4,
+  },
+  forgotText: {
+    fontSize: 13,
+    fontWeight: '600',
+  },
   button: {
     height: 52,
-    borderRadius: 12,
+    borderRadius: 14,
+    flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 8,
+    gap: 8,
+    shadowColor: '#1D4ED8',
     shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.2,
+    shadowOpacity: 0.25,
     shadowRadius: 8,
     elevation: 4,
   },
   buttonText: {
     color: '#fff',
     fontSize: 16,
-    fontWeight: '600',
+    fontWeight: '700',
   },
-  linkButton: {
-    alignItems: 'center',
-    paddingVertical: 8,
-  },
-  linkText: {
-    fontSize: 14,
-    fontWeight: '600',
-  },
-  registerRow: {
+  dividerRow: {
     flexDirection: 'row',
-    justifyContent: 'center',
-    marginTop: 16,
+    alignItems: 'center',
+    marginVertical: 24,
+    gap: 12,
   },
-  registerText: {
-    fontSize: 14,
+  dividerLine: {
+    flex: 1,
+    height: 1,
+  },
+  dividerText: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  registerButton: {
+    height: 52,
+    borderRadius: 14,
+    borderWidth: 1.5,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  registerButtonText: {
+    fontSize: 16,
+    fontWeight: '600',
+  },
+  footer: {
+    fontSize: 12,
+    textAlign: 'center',
+    marginTop: 20,
   },
 });

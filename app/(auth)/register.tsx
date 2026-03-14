@@ -7,12 +7,16 @@ import {
   StyleSheet,
   ActivityIndicator,
   Alert,
+  Image,
+  ImageBackground,
 } from 'react-native';
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';
 import { Link, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { useAuthStore } from '@/src/stores/authStore';
 import { useTheme } from '@/src/hooks/useTheme';
+
+const flagBg = require('@/assets/images/login-bg.png');
 
 export default function RegisterScreen() {
   const [displayName, setDisplayName] = useState('');
@@ -56,16 +60,17 @@ export default function RegisterScreen() {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background }]}>
-      {/* Compact curved header */}
-      <View style={styles.headerCurve}>
+      {/* Header with flag background */}
+      <ImageBackground source={flagBg} style={styles.header} imageStyle={styles.headerImage}>
+        <View style={styles.headerOverlay} />
         <View style={styles.headerContent}>
-          <View style={styles.logoCircle}>
-            <Text style={styles.logoText}>UK</Text>
+          <View style={styles.iconBadge}>
+            <Image source={flagBg} style={styles.flagIcon} />
           </View>
-          <Text style={styles.headerTitle}>Create Account</Text>
-          <Text style={styles.headerSubtitle}>Start your journey to passing the test</Text>
+          <Text style={styles.appName}>Create Account</Text>
+          <Text style={styles.appTagline}>Start your journey to citizenship</Text>
         </View>
-      </View>
+      </ImageBackground>
 
       <KeyboardAwareScrollView
         enableOnAndroid
@@ -160,28 +165,37 @@ export default function RegisterScreen() {
           </View>
 
           <TouchableOpacity
-            style={[styles.button, { backgroundColor: colors.primary, shadowColor: colors.primary }]}
+            style={[styles.button, { backgroundColor: colors.primary }]}
             onPress={handleRegister}
             disabled={isLoading}
+            activeOpacity={0.85}
           >
             {isLoading ? (
               <ActivityIndicator color="#fff" />
             ) : (
-              <Text style={styles.buttonText}>Create Account</Text>
+              <>
+                <Text style={styles.buttonText}>Create Account</Text>
+                <Ionicons name="arrow-forward" size={18} color="#fff" />
+              </>
             )}
           </TouchableOpacity>
-
-          <View style={styles.loginRow}>
-            <Text style={[styles.loginText, { color: colors.textSecondary }]}>
-              Already have an account?{' '}
-            </Text>
-            <Link href="/(auth)/login" asChild>
-              <TouchableOpacity>
-                <Text style={[styles.linkText, { color: colors.primary }]}>Sign In</Text>
-              </TouchableOpacity>
-            </Link>
-          </View>
         </View>
+
+        {/* Divider */}
+        <View style={styles.dividerRow}>
+          <View style={[styles.dividerLine, { backgroundColor: colors.border }]} />
+          <Text style={[styles.dividerText, { color: colors.textTertiary }]}>Already registered?</Text>
+          <View style={[styles.dividerLine, { backgroundColor: colors.border }]} />
+        </View>
+
+        <Link href="/(auth)/login" asChild>
+          <TouchableOpacity
+            style={[styles.signInButton, { borderColor: colors.primary }]}
+            activeOpacity={0.85}
+          >
+            <Text style={[styles.signInButtonText, { color: colors.primary }]}>Sign In</Text>
+          </TouchableOpacity>
+        </Link>
       </KeyboardAwareScrollView>
     </View>
   );
@@ -191,46 +205,52 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  headerCurve: {
-    backgroundColor: '#1D4ED8',
-    paddingTop: 50,
-    paddingBottom: 30,
-    borderBottomLeftRadius: 40,
-    borderBottomRightRadius: 40,
+  header: {
+    paddingTop: 48,
+    paddingBottom: 24,
+    borderBottomLeftRadius: 32,
+    borderBottomRightRadius: 32,
+    overflow: 'hidden',
+  },
+  headerImage: {
+    borderBottomLeftRadius: 32,
+    borderBottomRightRadius: 32,
+  },
+  headerOverlay: {
+    ...StyleSheet.absoluteFillObject,
+    backgroundColor: 'rgba(15, 23, 42, 0.75)',
+    borderBottomLeftRadius: 32,
+    borderBottomRightRadius: 32,
   },
   headerContent: {
     alignItems: 'center',
+    zIndex: 1,
   },
-  logoCircle: {
-    width: 80,
-    height: 80,
-    borderRadius: 40,
-    backgroundColor: '#fff',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: 12,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.15,
-    shadowRadius: 12,
-    elevation: 8,
+  iconBadge: {
+    width: 48,
+    height: 48,
+    borderRadius: 14,
+    overflow: 'hidden',
+    marginBottom: 10,
+    borderWidth: 2,
+    borderColor: 'rgba(255,255,255,0.3)',
   },
-  logoText: {
-    color: '#1D4ED8',
-    fontSize: 28,
-    fontWeight: '800',
-    letterSpacing: 2,
+  flagIcon: {
+    width: '100%',
+    height: '100%',
+    resizeMode: 'cover',
   },
-  headerTitle: {
+  appName: {
     color: '#fff',
-    fontSize: 24,
+    fontSize: 22,
     fontWeight: '700',
-    marginBottom: 4,
+    letterSpacing: 0.5,
   },
-  headerSubtitle: {
-    color: '#ffffffcc',
-    fontSize: 14,
+  appTagline: {
+    color: 'rgba(255,255,255,0.7)',
+    fontSize: 13,
     fontWeight: '500',
+    marginTop: 2,
   },
   scrollContent: {
     flexGrow: 1,
@@ -239,15 +259,15 @@ const styles = StyleSheet.create({
     paddingBottom: 40,
   },
   form: {
-    gap: 16,
+    gap: 14,
   },
   inputRow: {
     flexDirection: 'row',
     alignItems: 'center',
     height: 52,
-    borderRadius: 12,
+    borderRadius: 14,
     borderWidth: 1,
-    paddingHorizontal: 12,
+    paddingHorizontal: 14,
   },
   inputIcon: {
     marginRight: 10,
@@ -262,30 +282,46 @@ const styles = StyleSheet.create({
   },
   button: {
     height: 52,
-    borderRadius: 12,
+    borderRadius: 14,
+    flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 8,
+    gap: 8,
+    marginTop: 4,
+    shadowColor: '#1D4ED8',
     shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.2,
+    shadowOpacity: 0.25,
     shadowRadius: 8,
     elevation: 4,
   },
   buttonText: {
     color: '#fff',
     fontSize: 16,
-    fontWeight: '600',
+    fontWeight: '700',
   },
-  loginRow: {
+  dividerRow: {
     flexDirection: 'row',
+    alignItems: 'center',
+    marginVertical: 24,
+    gap: 12,
+  },
+  dividerLine: {
+    flex: 1,
+    height: 1,
+  },
+  dividerText: {
+    fontSize: 13,
+    fontWeight: '500',
+  },
+  signInButton: {
+    height: 52,
+    borderRadius: 14,
+    borderWidth: 1.5,
     justifyContent: 'center',
-    marginTop: 16,
+    alignItems: 'center',
   },
-  loginText: {
-    fontSize: 14,
-  },
-  linkText: {
-    fontSize: 14,
+  signInButtonText: {
+    fontSize: 16,
     fontWeight: '600',
   },
 });

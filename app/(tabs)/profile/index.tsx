@@ -7,6 +7,7 @@ import {
   StyleSheet,
   Alert,
   RefreshControl,
+  Switch,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
@@ -64,8 +65,8 @@ export default function ProfileScreen() {
         current_streak: profileData.current_streak,
         longest_streak: profileData.longest_streak,
         exam_readiness_score: profileData.exam_readiness_score,
-        created_at: '',
-        updated_at: '',
+        created_at: profileData.created_at ?? '',
+        updated_at: profileData.updated_at ?? '',
       });
       setOverallStats({
         totalAnswered: stats.totalAnswered,
@@ -183,7 +184,7 @@ export default function ProfileScreen() {
           {sortedCategories.map((stat) => (
             <View key={stat.category} style={styles.categoryRow}>
               <View style={[styles.categoryDot, { backgroundColor: CATEGORY_COLORS[stat.category] }]} />
-              <Text style={[styles.categoryName, { color: colors.text }]}>
+              <Text style={[styles.categoryName, { color: colors.text }]} numberOfLines={1}>
                 {CATEGORY_LABELS[stat.category]}
               </Text>
               <View style={styles.categoryBarContainer}>
@@ -300,16 +301,21 @@ export default function ProfileScreen() {
                   },
                 ]}
               >
-                <Text style={styles.achievementIcon}>
-                  {achievement.icon === 'star' ? '⭐' :
-                   achievement.icon === 'trophy' ? '🏆' :
-                   achievement.icon === 'crown' ? '👑' :
-                   achievement.icon === 'flame' ? '🔥' :
-                   achievement.icon === 'target' ? '🎯' :
-                   achievement.icon === 'brain' ? '🧠' :
-                   achievement.icon === 'zap' ? '⚡' :
-                   achievement.icon === 'book-open' ? '📖' : '🏅'}
-                </Text>
+                <Ionicons
+                  name={
+                    achievement.icon === 'star' ? 'star' :
+                    achievement.icon === 'trophy' ? 'trophy' :
+                    achievement.icon === 'crown' ? 'ribbon' :
+                    achievement.icon === 'flame' ? 'flame' :
+                    achievement.icon === 'target' ? 'locate' :
+                    achievement.icon === 'brain' ? 'bulb' :
+                    achievement.icon === 'zap' ? 'flash' :
+                    achievement.icon === 'book-open' ? 'book' : 'medal'
+                  }
+                  size={28}
+                  color={unlocked ? colors.primary : colors.textTertiary}
+                  style={styles.achievementIcon}
+                />
                 <Text style={[styles.achievementName, { color: colors.text }]} numberOfLines={1}>
                   {achievement.name}
                 </Text>
@@ -330,13 +336,16 @@ export default function ProfileScreen() {
         {/* Settings */}
         <Text style={[styles.sectionTitle, { color: colors.text }]}>Settings</Text>
         <View style={[styles.card, { backgroundColor: colors.card, borderColor: colors.border }]}>
-          <TouchableOpacity style={styles.settingRow} onPress={toggleDarkMode}>
+          <View style={styles.settingRow}>
             <Ionicons name={darkMode ? 'moon' : 'sunny'} size={20} color={colors.text} />
             <Text style={[styles.settingText, { color: colors.text }]}>Dark Mode</Text>
-            <View style={[styles.toggle, { backgroundColor: darkMode ? colors.primary : colors.surfaceSecondary }]}>
-              <View style={[styles.toggleDot, { left: darkMode ? 20 : 2 }]} />
-            </View>
-          </TouchableOpacity>
+            <Switch
+              value={darkMode}
+              onValueChange={toggleDarkMode}
+              trackColor={{ false: colors.surfaceSecondary, true: colors.primary }}
+              thumbColor="#fff"
+            />
+          </View>
         </View>
 
         <TouchableOpacity
@@ -432,7 +441,7 @@ const styles = StyleSheet.create({
     gap: 10,
   },
   categoryDot: { width: 10, height: 10, borderRadius: 5 },
-  categoryName: { fontSize: 13, width: 100 },
+  categoryName: { fontSize: 13, flexShrink: 1, maxWidth: 120 },
   categoryBarContainer: { flex: 1 },
   categoryBar: { height: 8, borderRadius: 4 },
   categoryBarFill: { height: '100%', borderRadius: 4 },
@@ -455,9 +464,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderWidth: 1,
   },
-  achievementIcon: { fontSize: 28, marginBottom: 6 },
-  achievementName: { fontSize: 12, fontWeight: '600', textAlign: 'center' },
-  achievementDesc: { fontSize: 10, textAlign: 'center', marginTop: 2 },
+  achievementIcon: { marginBottom: 6 },
+  achievementName: { fontSize: 13, fontWeight: '600', textAlign: 'center' },
+  achievementDesc: { fontSize: 12, textAlign: 'center', marginTop: 2 },
   settingRow: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -465,19 +474,6 @@ const styles = StyleSheet.create({
     paddingVertical: 4,
   },
   settingText: { flex: 1, fontSize: 15 },
-  toggle: {
-    width: 40,
-    height: 22,
-    borderRadius: 11,
-    justifyContent: 'center',
-  },
-  toggleDot: {
-    position: 'absolute',
-    width: 18,
-    height: 18,
-    borderRadius: 9,
-    backgroundColor: '#fff',
-  },
   signOutButton: {
     flexDirection: 'row',
     alignItems: 'center',
