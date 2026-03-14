@@ -72,7 +72,7 @@ export default ({ config }: ConfigContext): ExpoConfig => {
       supabaseAnonKey: process.env.EXPO_PUBLIC_SUPABASE_ANON_KEY ?? '',
       sentryDsn: process.env.EXPO_PUBLIC_SENTRY_DSN ?? '',
       eas: {
-        projectId: '9d26fe63-bcd9-45cd-b8dc-f0b40e11763f',
+        projectId: 'a90876be-7d9b-4325-a962-244b16f870b6',
       },
     },
   };
