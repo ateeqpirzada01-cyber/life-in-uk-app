@@ -71,7 +71,7 @@ export const usePremiumStore = create<PremiumState>((set, get) => ({
 
   isPremium: () => {
     const { subscription } = get();
-    return subscription?.is_premium === true;
+    return Boolean(subscription?.is_premium);
   },
 
   canAccessFeature: (feature: PremiumFeature) => {

@@ -30,16 +30,32 @@ export default function HomeScreen() {
   const navigation = useNavigation();
   const user = useAuthStore((s) => s.user);
 
-  // Navigate to a practice screen by switching to the Practice tab first,
-  // so the screen lives in the Practice tab's stack (not the Home tab's).
+  // Navigate to a practice screen by resetting the Practice tab's stack
+  // to [index, screen]. This ensures back always pops to Practice index,
+  // even if the Practice tab hasn't been visited yet.
   const navigateToPractice = useCallback((screen: string, params?: Record<string, string>) => {
+    const state = navigation.getState();
+    const practiceTabIndex = state.routes.findIndex((r: any) => r.name === 'practice');
+
     navigation.dispatch(
-      CommonActions.navigate({
-        name: 'practice',
-        params: {
-          screen,
-          params,
-        },
+      CommonActions.reset({
+        ...state,
+        index: practiceTabIndex,
+        routes: state.routes.map((route: any) => {
+          if (route.name === 'practice') {
+            return {
+              ...route,
+              state: {
+                index: 1,
+                routes: [
+                  { name: 'index' },
+                  { name: screen, params },
+                ],
+              },
+            };
+          }
+          return route;
+        }),
       })
     );
   }, [navigation]);

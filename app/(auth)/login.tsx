@@ -9,7 +9,6 @@ import {
   Alert,
   Image,
   ImageBackground,
-  Dimensions,
 } from 'react-native';
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view';
 import { Link } from 'expo-router';
@@ -17,8 +16,8 @@ import { Ionicons } from '@expo/vector-icons';
 import { useAuthStore } from '@/src/stores/authStore';
 import { useTheme } from '@/src/hooks/useTheme';
 
-const { width } = Dimensions.get('window');
 const flagBg = require('@/assets/images/login-bg.png');
+const appIcon = require('@/assets/images/icon.png');
 
 export default function LoginScreen() {
   const [email, setEmail] = useState('');
@@ -48,7 +47,7 @@ export default function LoginScreen() {
         <View style={styles.headerOverlay} />
         <View style={styles.headerContent}>
           <View style={styles.iconBadge}>
-            <Image source={flagBg} style={styles.flagIcon} />
+            <Image source={appIcon} style={styles.appIconImage} />
           </View>
           <Text style={styles.appName}>Life in the UK</Text>
           <Text style={styles.appTagline}>Test Prep 2026</Text>
@@ -62,26 +61,10 @@ export default function LoginScreen() {
         contentContainerStyle={styles.scrollContent}
         showsVerticalScrollIndicator={false}
       >
-        {/* Feature pills */}
-        <View style={styles.featurePills}>
-          <View style={[styles.pill, { backgroundColor: colors.primary + '12' }]}>
-            <Ionicons name="book" size={13} color={colors.primary} />
-            <Text style={[styles.pillText, { color: colors.primary }]}>1000+ Questions</Text>
-          </View>
-          <View style={[styles.pill, { backgroundColor: colors.primary + '12' }]}>
-            <Ionicons name="trophy" size={13} color={colors.primary} />
-            <Text style={[styles.pillText, { color: colors.primary }]}>Mock Exams</Text>
-          </View>
-          <View style={[styles.pill, { backgroundColor: colors.primary + '12' }]}>
-            <Ionicons name="trending-up" size={13} color={colors.primary} />
-            <Text style={[styles.pillText, { color: colors.primary }]}>Track Progress</Text>
-          </View>
-        </View>
-
         {/* Welcome text */}
-        <Text style={[styles.welcomeTitle, { color: colors.text }]}>Welcome back</Text>
+        <Text style={[styles.welcomeTitle, { color: colors.text }]}>Get Started</Text>
         <Text style={[styles.welcomeSub, { color: colors.textSecondary }]}>
-          Sign in to continue your preparation
+          Sign in or create an account to begin
         </Text>
 
         <View style={styles.form}>
@@ -153,7 +136,7 @@ export default function LoginScreen() {
         {/* Divider */}
         <View style={styles.dividerRow}>
           <View style={[styles.dividerLine, { backgroundColor: colors.border }]} />
-          <Text style={[styles.dividerText, { color: colors.textTertiary }]}>New here?</Text>
+          <Text style={[styles.dividerText, { color: colors.textTertiary }]}>or</Text>
           <View style={[styles.dividerLine, { backgroundColor: colors.border }]} />
         </View>
 
@@ -165,10 +148,6 @@ export default function LoginScreen() {
             <Text style={[styles.registerButtonText, { color: colors.primary }]}>Create an Account</Text>
           </TouchableOpacity>
         </Link>
-
-        <Text style={[styles.footer, { color: colors.textTertiary }]}>
-          Join thousands preparing for the Life in the UK test
-        </Text>
       </KeyboardAwareScrollView>
     </View>
   );
@@ -179,8 +158,8 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header: {
-    paddingTop: 56,
-    paddingBottom: 32,
+    paddingTop: 60,
+    paddingBottom: 36,
     borderBottomLeftRadius: 32,
     borderBottomRightRadius: 32,
     overflow: 'hidden',
@@ -200,63 +179,45 @@ const styles = StyleSheet.create({
     zIndex: 1,
   },
   iconBadge: {
-    width: 56,
-    height: 56,
-    borderRadius: 16,
+    width: 88,
+    height: 88,
+    borderRadius: 22,
     overflow: 'hidden',
-    marginBottom: 12,
+    marginBottom: 14,
     borderWidth: 2,
     borderColor: 'rgba(255,255,255,0.3)',
   },
-  flagIcon: {
+  appIconImage: {
     width: '100%',
     height: '100%',
     resizeMode: 'cover',
   },
   appName: {
     color: '#fff',
-    fontSize: 24,
+    fontSize: 26,
     fontWeight: '700',
     letterSpacing: 0.5,
   },
   appTagline: {
     color: 'rgba(255,255,255,0.7)',
-    fontSize: 14,
+    fontSize: 15,
     fontWeight: '500',
-    marginTop: 2,
+    marginTop: 4,
   },
   scrollContent: {
     flexGrow: 1,
     paddingHorizontal: 24,
-    paddingTop: 20,
+    paddingTop: 28,
     paddingBottom: 40,
   },
-  featurePills: {
-    flexDirection: 'row',
-    justifyContent: 'center',
-    gap: 8,
-    marginBottom: 24,
-  },
-  pill: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 4,
-    paddingHorizontal: 10,
-    paddingVertical: 6,
-    borderRadius: 20,
-  },
-  pillText: {
-    fontSize: 11,
-    fontWeight: '600',
-  },
   welcomeTitle: {
-    fontSize: 22,
+    fontSize: 24,
     fontWeight: '700',
-    marginBottom: 4,
+    marginBottom: 6,
   },
   welcomeSub: {
-    fontSize: 14,
-    marginBottom: 20,
+    fontSize: 15,
+    marginBottom: 24,
   },
   form: {
     gap: 14,
@@ -309,7 +270,7 @@ const styles = StyleSheet.create({
   dividerRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginVertical: 24,
+    marginVertical: 28,
     gap: 12,
   },
   dividerLine: {
@@ -330,10 +291,5 @@ const styles = StyleSheet.create({
   registerButtonText: {
     fontSize: 16,
     fontWeight: '600',
-  },
-  footer: {
-    fontSize: 12,
-    textAlign: 'center',
-    marginTop: 20,
   },
 });
