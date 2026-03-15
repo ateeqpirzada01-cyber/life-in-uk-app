@@ -1,6 +1,7 @@
 import { create } from 'zustand';
 import { Session, User } from '@supabase/supabase-js';
 import { supabase } from '@/src/lib/supabase';
+import { getDatabase } from '@/src/lib/database';
 
 interface AuthState {
   session: Session | null;
@@ -70,6 +71,9 @@ export const useAuthStore = create<AuthState>((set, get) => ({
   },
 
   signOut: async () => {
+    // Clean up auth state change subscription
+    (useAuthStore as any)._authSubscription?.unsubscribe();
+    (useAuthStore as any)._authSubscription = null;
     await supabase.auth.signOut();
     set({ session: null, user: null });
   },
@@ -84,8 +88,8 @@ export const useAuthStore = create<AuthState>((set, get) => ({
     if (!user) return { error: 'Not signed in' };
 
     try {
-      // Delete all user data from tables (RLS policies ensure user can only delete own data)
-      const userIdTables = [
+      // Delete from Supabase (tables that exist in Supabase with RLS)
+      const supabaseTables = [
         'question_attempts',
         'exam_sessions',
         'spaced_repetition_cards',
@@ -95,17 +99,32 @@ export const useAuthStore = create<AuthState>((set, get) => ({
         'starred_questions',
         'flashcard_progress',
         'practice_test_results',
-        'user_subscription',
-        'daily_usage',
         'feedback',
       ];
 
-      for (const table of userIdTables) {
+      for (const table of supabaseTables) {
         await supabase.from(table).delete().eq('user_id', user.id);
       }
 
       // Profile uses 'id' column, not 'user_id'
       await supabase.from('profiles').delete().eq('id', user.id);
+
+      // Also clean up local SQLite data
+      const db = await getDatabase();
+      const localTables = [
+        'question_attempts', 'exam_sessions', 'spaced_repetition_cards',
+        'daily_streaks', 'user_achievements', 'topics_read',
+        'starred_questions', 'flashcard_progress', 'practice_test_results',
+        'user_subscription', 'daily_usage', 'feedback',
+      ];
+      for (const table of localTables) {
+        await db.runAsync(`DELETE FROM ${table} WHERE user_id = ?`, [user.id]);
+      }
+      await db.runAsync('DELETE FROM user_profile WHERE id = ?', [user.id]);
+
+      // Clean up auth subscription
+      (useAuthStore as any)._authSubscription?.unsubscribe();
+      (useAuthStore as any)._authSubscription = null;
 
       await supabase.auth.signOut();
       set({ session: null, user: null });

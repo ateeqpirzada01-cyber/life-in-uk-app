@@ -8,7 +8,7 @@ import { progressService } from '@/src/services/progressService';
 import { spacedRepetitionService } from '@/src/services/spacedRepetitionService';
 import { getDatabase, safeParse } from '@/src/lib/database';
 import { Question } from '@/src/types';
-import { format } from 'date-fns';
+import { format, addDays } from 'date-fns';
 import * as Crypto from 'expo-crypto';
 
 export function DailyChallenge() {
@@ -34,10 +34,12 @@ export function DailyChallenge() {
 
     // Check if daily challenge already completed today using question_attempts context
     const db = await getDatabase();
+    const tomorrow = format(addDays(new Date(), 1), 'yyyy-MM-dd');
     const existing = await db.getFirstAsync<{ count: number }>(
       `SELECT COUNT(*) as count FROM question_attempts
-       WHERE user_id = ? AND attempt_context = 'daily_challenge' AND DATE(created_at) = ?`,
-      [user.id, today]
+       WHERE user_id = ? AND attempt_context = 'daily_challenge'
+       AND created_at >= ? AND created_at < ?`,
+      [user.id, today, tomorrow]
     );
 
     if (existing && existing.count > 0) {

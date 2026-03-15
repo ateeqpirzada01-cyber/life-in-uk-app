@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, memo } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Pressable } from 'react-native';
 import Animated, {
   useSharedValue,
@@ -17,7 +17,7 @@ interface FlashcardCardProps {
   totalCards: number;
 }
 
-export function FlashcardCard({ flashcard, onRate, cardNumber, totalCards }: FlashcardCardProps) {
+export const FlashcardCard = memo(function FlashcardCard({ flashcard, onRate, cardNumber, totalCards }: FlashcardCardProps) {
   const colors = useTheme();
   const [flipped, setFlipped] = useState(false);
   const rotation = useSharedValue(0);
@@ -102,7 +102,7 @@ export function FlashcardCard({ flashcard, onRate, cardNumber, totalCards }: Fla
       )}
     </View>
   );
-}
+});
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 20 },

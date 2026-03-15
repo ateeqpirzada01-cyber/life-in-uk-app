@@ -4,7 +4,7 @@ import { XP_VALUES, APP_CONFIG, READINESS_WEIGHTS } from '@/src/constants/config
 import * as Crypto from 'expo-crypto';
 import { format } from 'date-fns';
 
-const CACHE_TTL_MS = 2 * 60 * 1000; // 2 minutes
+const CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
 
 let categoryStatsCache: {
   userId: string;

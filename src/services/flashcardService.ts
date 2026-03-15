@@ -22,15 +22,18 @@ export const flashcardService = {
     const remaining = limit - dueRows.length;
     let unseenRows: any[] = [];
     if (remaining > 0) {
-      unseenRows = await db.getAllAsync<any>(
+      const allUnseen = await db.getAllAsync<any>(
         `SELECT f.* FROM flashcards f
-         WHERE f.id NOT IN (
-           SELECT flashcard_id FROM flashcard_progress WHERE user_id = ?
-         )
-         ORDER BY RANDOM()
-         LIMIT ?`,
-        [userId, remaining]
+         LEFT JOIN flashcard_progress fp ON f.id = fp.flashcard_id AND fp.user_id = ?
+         WHERE fp.id IS NULL`,
+        [userId]
       );
+      // Shuffle in-memory instead of ORDER BY RANDOM()
+      for (let i = allUnseen.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [allUnseen[i], allUnseen[j]] = [allUnseen[j], allUnseen[i]];
+      }
+      unseenRows = allUnseen.slice(0, remaining);
     }
 
     return [...dueRows, ...unseenRows].map(parseFlashcardRow);
@@ -40,19 +43,17 @@ export const flashcardService = {
     const db = await getDatabase();
     const today = format(new Date(), 'yyyy-MM-dd');
 
-    const dueResult = await db.getFirstAsync<{ count: number }>(
-      `SELECT COUNT(*) as count FROM flashcard_progress
-       WHERE user_id = ? AND next_review_date <= ?`,
-      [userId, today]
+    // Single query: count due + unseen flashcards
+    const result = await db.getFirstAsync<{ due: number; unseen: number }>(
+      `SELECT
+         (SELECT COUNT(*) FROM flashcard_progress WHERE user_id = ? AND next_review_date <= ?) as due,
+         (SELECT COUNT(*) FROM flashcards WHERE id NOT IN (
+           SELECT flashcard_id FROM flashcard_progress WHERE user_id = ?
+         )) as unseen`,
+      [userId, today, userId]
     );
 
-    const unseenResult = await db.getFirstAsync<{ count: number }>(
-      `SELECT COUNT(*) as count FROM flashcards
-       WHERE id NOT IN (SELECT flashcard_id FROM flashcard_progress WHERE user_id = ?)`,
-      [userId]
-    );
-
-    return (dueResult?.count ?? 0) + (unseenResult?.count ?? 0);
+    return (result?.due ?? 0) + (result?.unseen ?? 0);
   },
 
   async processAnswer(

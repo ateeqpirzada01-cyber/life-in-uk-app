@@ -25,6 +25,9 @@ export const iap = {
     if (connected) return;
 
     try {
+      // Clean up any stale listeners before re-registering
+      this.finalize();
+
       await initConnection();
       connected = true;
 

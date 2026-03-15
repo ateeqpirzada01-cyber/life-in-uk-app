@@ -2,7 +2,7 @@ import { useState, useCallback, useMemo } from 'react';
 import {
   View,
   Text,
-  ScrollView,
+  SectionList,
   TouchableOpacity,
   StyleSheet,
 } from 'react-native';
@@ -77,13 +77,74 @@ export default function StudyScreen() {
     return '#ef4444';
   };
 
-  const groupedTopics = useMemo(() => CATEGORY_ORDER.map((category) => ({
+  const sections = useMemo(() => CATEGORY_ORDER.map((category) => ({
     category,
     label: CATEGORY_LABELS[category],
     color: CATEGORY_COLORS[category],
     icon: CATEGORY_ICON_MAP[category],
-    topics: topics.filter((t) => t.category === category),
+    data: topics.filter((t) => t.category === category),
   })), [topics]);
+
+  const renderSectionHeader = useCallback(({ section }: { section: typeof sections[0] }) => (
+    <View style={[styles.categoryHeader, { backgroundColor: colors.background }]}>
+      <View style={[styles.categoryIcon, { backgroundColor: section.color + '20' }]}>
+        <Ionicons name={section.icon} size={20} color={section.color} />
+      </View>
+      <Text style={[styles.categoryTitle, { color: colors.text }]}>{section.label}</Text>
+      <Text style={[styles.categoryCount, { color: colors.textSecondary }]}>
+        {section.data.filter((t) => topicsRead.includes(t.id)).length}/{section.data.length}
+      </Text>
+    </View>
+  ), [colors, topicsRead]);
+
+  const renderItem = useCallback(({ item: topic }: { item: Topic }) => {
+    const isRead = topicsRead.includes(topic.id);
+    const stat = getTopicStat(topic.id);
+    const accuracy = stat ? Math.round(stat.accuracy) : -1;
+    const borderLeftColor = stat ? getAccuracyColor(stat.accuracy) : colors.border;
+
+    return (
+      <TouchableOpacity
+        style={[styles.topicCard, {
+          backgroundColor: colors.card,
+          borderColor: colors.border,
+          borderLeftColor: stat ? borderLeftColor : colors.border,
+          borderLeftWidth: stat ? 3 : 1,
+        }]}
+        onPress={() => router.push(`/(tabs)/study/${topic.id}`)}
+      >
+        <View style={styles.topicContent}>
+          <Text style={[styles.topicTitle, { color: colors.text }]}>{topic.title}</Text>
+          <Text style={[styles.topicSections, { color: colors.textSecondary }]}>
+            {topic.study_content.sections?.length ?? 0} sections
+          </Text>
+          {stat && (
+            <View style={styles.topicProgressRow}>
+              <View style={[styles.topicProgressBar, { backgroundColor: colors.surfaceSecondary }]}>
+                <View
+                  style={[styles.topicProgressFill, {
+                    backgroundColor: getAccuracyColor(stat.accuracy),
+                    width: `${Math.min(100, accuracy)}%`,
+                  }]}
+                />
+              </View>
+              <Text style={[styles.topicAccuracy, { color: colors.textSecondary }]}>
+                {accuracy}%
+              </Text>
+            </View>
+          )}
+        </View>
+        <View style={styles.topicRight}>
+          {isRead && (
+            <View style={[styles.readBadge, { backgroundColor: colors.success + '20' }]}>
+              <Ionicons name="checkmark" size={14} color={colors.success} />
+            </View>
+          )}
+          <Ionicons name="chevron-forward" size={20} color={colors.textTertiary} />
+        </View>
+      </TouchableOpacity>
+    );
+  }, [colors, topicsRead, topicStats]);
 
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
@@ -107,73 +168,17 @@ export default function StudyScreen() {
         </View>
       </View>
 
-      <ScrollView contentContainerStyle={styles.scrollContent}>
-        {groupedTopics.map(({ category, label, color, icon, topics: categoryTopics }) => (
-          <View key={category} style={styles.categorySection}>
-            <View style={styles.categoryHeader}>
-              <View style={[styles.categoryIcon, { backgroundColor: color + '20' }]}>
-                <Ionicons name={icon} size={20} color={color} />
-              </View>
-              <Text style={[styles.categoryTitle, { color: colors.text }]}>{label}</Text>
-              <Text style={[styles.categoryCount, { color: colors.textSecondary }]}>
-                {categoryTopics.filter((t) => topicsRead.includes(t.id)).length}/{categoryTopics.length}
-              </Text>
-            </View>
-
-            {categoryTopics.map((topic) => {
-              const isRead = topicsRead.includes(topic.id);
-              const stat = getTopicStat(topic.id);
-              const accuracy = stat ? Math.round(stat.accuracy) : -1;
-              const borderLeftColor = stat
-                ? getAccuracyColor(stat.accuracy)
-                : colors.border;
-
-              return (
-                <TouchableOpacity
-                  key={topic.id}
-                  style={[styles.topicCard, {
-                    backgroundColor: colors.card,
-                    borderColor: colors.border,
-                    borderLeftColor: stat ? borderLeftColor : colors.border,
-                    borderLeftWidth: stat ? 3 : 1,
-                  }]}
-                  onPress={() => router.push(`/(tabs)/study/${topic.id}`)}
-                >
-                  <View style={styles.topicContent}>
-                    <Text style={[styles.topicTitle, { color: colors.text }]}>{topic.title}</Text>
-                    <Text style={[styles.topicSections, { color: colors.textSecondary }]}>
-                      {topic.study_content.sections?.length ?? 0} sections
-                    </Text>
-                    {stat && (
-                      <View style={styles.topicProgressRow}>
-                        <View style={[styles.topicProgressBar, { backgroundColor: colors.surfaceSecondary }]}>
-                          <View
-                            style={[styles.topicProgressFill, {
-                              backgroundColor: getAccuracyColor(stat.accuracy),
-                              width: `${Math.min(100, accuracy)}%`,
-                            }]}
-                          />
-                        </View>
-                        <Text style={[styles.topicAccuracy, { color: colors.textSecondary }]}>
-                          {accuracy}%
-                        </Text>
-                      </View>
-                    )}
-                  </View>
-                  <View style={styles.topicRight}>
-                    {isRead && (
-                      <View style={[styles.readBadge, { backgroundColor: colors.success + '20' }]}>
-                        <Ionicons name="checkmark" size={14} color={colors.success} />
-                      </View>
-                    )}
-                    <Ionicons name="chevron-forward" size={20} color={colors.textTertiary} />
-                  </View>
-                </TouchableOpacity>
-              );
-            })}
-          </View>
-        ))}
-      </ScrollView>
+      <SectionList
+        sections={sections}
+        keyExtractor={(item) => item.id}
+        renderSectionHeader={renderSectionHeader}
+        renderItem={renderItem}
+        contentContainerStyle={styles.scrollContent}
+        stickySectionHeadersEnabled={false}
+        initialNumToRender={10}
+        maxToRenderPerBatch={10}
+        SectionSeparatorComponent={() => <View style={styles.sectionSeparator} />}
+      />
     </SafeAreaView>
   );
 }
@@ -200,12 +205,13 @@ const styles = StyleSheet.create({
   },
   headerButtonText: { fontSize: 13, fontWeight: '600' },
   timelineText: { color: '#fff', fontSize: 13, fontWeight: '600' },
-  scrollContent: { padding: 20, paddingTop: 0, paddingBottom: 40 },
-  categorySection: { marginBottom: 24 },
+  scrollContent: { paddingHorizontal: 20, paddingBottom: 40 },
+  sectionSeparator: { height: 8 },
   categoryHeader: {
     flexDirection: 'row',
     alignItems: 'center',
     marginBottom: 12,
+    marginTop: 16,
     gap: 10,
   },
   categoryIcon: {

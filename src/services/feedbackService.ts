@@ -27,11 +27,11 @@ export const feedbackService = {
     );
   },
 
-  async getUserFeedback(userId: string): Promise<FeedbackEntry[]> {
+  async getUserFeedback(userId: string, limit: number = 50): Promise<FeedbackEntry[]> {
     const db = await getDatabase();
     return db.getAllAsync<FeedbackEntry>(
-      'SELECT * FROM feedback WHERE user_id = ? ORDER BY created_at DESC',
-      [userId]
+      'SELECT * FROM feedback WHERE user_id = ? ORDER BY created_at DESC LIMIT ?',
+      [userId, limit]
     );
   },
 

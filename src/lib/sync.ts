@@ -5,8 +5,10 @@ import { monitoring } from '@/src/lib/monitoring';
 const BATCH_SIZE = 50;
 const MAX_RETRIES = 2;
 const RETRY_DELAYS = [1000, 2000];
+const SYNC_TIMEOUT_MS = 60000; // 60 seconds max sync duration
 
-let isSyncing = false;
+let syncPromise: Promise<void> | null = null;
+let syncStartTime = 0;
 
 function chunk<T>(arr: T[], size: number): T[][] {
   const chunks: T[][] = [];
@@ -28,12 +30,15 @@ async function upsertWithRetry(
     const { error } = await supabase.from(table).upsert(rows);
     if (!error) return true;
 
+    // Unique constraint violations mean data already exists — treat as success
+    if (error.code === '23505') return true;
+
     if (attempt < MAX_RETRIES) {
       await delay(RETRY_DELAYS[attempt]);
     } else {
       monitoring.captureException(
         new Error(`Sync failed for ${table} after ${MAX_RETRIES + 1} attempts: ${error.message}`),
-        { table, rowCount: rows.length }
+        { table, rowCount: rows.length, errorCode: error.code }
       );
     }
   }
@@ -84,32 +89,41 @@ async function markSynced(table: string, ids: string[]): Promise<void> {
 
 export const syncService = {
   async syncAll(userId: string): Promise<void> {
-    if (isSyncing) return;
-    isSyncing = true;
+    // If a sync is already running and hasn't timed out, wait for it
+    if (syncPromise && Date.now() - syncStartTime < SYNC_TIMEOUT_MS) {
+      return syncPromise;
+    }
+
+    syncStartTime = Date.now();
+    syncPromise = this._doSync(userId);
 
     try {
-      const results = await Promise.allSettled([
-        this.syncAttempts(userId),
-        this.syncExamSessions(userId),
-        this.syncSRCards(userId),
-        this.syncStreaks(userId),
-        this.syncProfile(userId),
-        this.syncAchievements(userId),
-        this.syncTopicsRead(userId),
-        this.syncStarred(userId),
-        this.syncFlashcardProgress(userId),
-        this.syncPracticeTestResults(userId),
-        this.syncSubscription(userId),
-        this.syncDailyUsage(userId),
-        this.syncFeedback(userId),
-      ]);
-
-      const failures = results.filter((r) => r.status === 'rejected');
-      if (failures.length > 0) {
-        monitoring.captureMessage(`Sync: ${failures.length}/13 operations failed`, 'warning');
-      }
+      await syncPromise;
     } finally {
-      isSyncing = false;
+      syncPromise = null;
+    }
+  },
+
+  async _doSync(userId: string): Promise<void> {
+    const results = await Promise.allSettled([
+      this.syncAttempts(userId),
+      this.syncExamSessions(userId),
+      this.syncSRCards(userId),
+      this.syncStreaks(userId),
+      this.syncProfile(userId),
+      this.syncAchievements(userId),
+      this.syncTopicsRead(userId),
+      this.syncStarred(userId),
+      this.syncFlashcardProgress(userId),
+      this.syncPracticeTestResults(userId),
+      this.syncSubscription(userId),
+      this.syncDailyUsage(userId),
+      this.syncFeedback(userId),
+    ]);
+
+    const failures = results.filter((r) => r.status === 'rejected');
+    if (failures.length > 0) {
+      monitoring.captureMessage(`Sync: ${failures.length}/13 operations failed`, 'warning');
     }
   },
 

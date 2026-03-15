@@ -87,11 +87,11 @@ export const practiceTestService = {
     return results;
   },
 
-  async getAllResults(userId: string): Promise<PracticeTestResult[]> {
+  async getAllResults(userId: string, limit: number = 100): Promise<PracticeTestResult[]> {
     const db = await getDatabase();
     const rows = await db.getAllAsync<any>(
-      'SELECT * FROM practice_test_results WHERE user_id = ? ORDER BY completed_at DESC',
-      [userId]
+      'SELECT * FROM practice_test_results WHERE user_id = ? ORDER BY completed_at DESC LIMIT ?',
+      [userId, limit]
     );
     return rows.map((row) => ({
       ...row,
