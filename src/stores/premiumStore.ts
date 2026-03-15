@@ -2,6 +2,7 @@ import { create } from 'zustand';
 import { SubscriptionStatus, DailyUsage, PremiumFeature } from '@/src/types';
 import { FREE_TIER_LIMITS } from '@/src/constants/config';
 import { subscriptionService } from '@/src/services/subscriptionService';
+import { supabase } from '@/src/lib/supabase';
 
 interface PremiumState {
   subscription: SubscriptionStatus | null;
@@ -33,6 +34,34 @@ export const usePremiumStore = create<PremiumState>((set, get) => ({
         subscriptionService.getSubscription(userId),
         subscriptionService.getDailyUsage(userId),
       ]);
+
+      // If not premium locally, check Supabase (allows granting premium server-side)
+      if (!sub?.is_premium) {
+        try {
+          const { data } = await supabase
+            .from('user_subscription')
+            .select('*')
+            .eq('user_id', userId)
+            .single();
+          if (data?.is_premium) {
+            await subscriptionService.saveSubscription({
+              user_id: userId,
+              is_premium: true,
+              product_id: data.product_id ?? 'lifeinuk_premium',
+              purchase_date: data.purchase_date ?? new Date().toISOString(),
+              platform: data.platform ?? 'android',
+              expires_at: data.expires_at ?? null,
+              restored_at: data.restored_at ?? null,
+            });
+            const updatedSub = await subscriptionService.getSubscription(userId);
+            set({ subscription: updatedSub, dailyUsage: usage, initialized: true });
+            return;
+          }
+        } catch {
+          // Supabase check failed (offline etc.) — continue with local data
+        }
+      }
+
       set({ subscription: sub, dailyUsage: usage, initialized: true });
     } catch (e) {
       console.warn('Failed to initialize premium store:', e);
