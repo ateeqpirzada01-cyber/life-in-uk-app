@@ -1,4 +1,5 @@
 import { Tabs } from 'expo-router';
+import { CommonActions } from '@react-navigation/native';
 import { Ionicons } from '@expo/vector-icons';
 import { useTheme } from '@/src/hooks/useTheme';
 
@@ -12,14 +13,23 @@ export default function TabLayout() {
           const state = navigation.getState();
           const targetRoute = state.routes.find((r: any) => r.key === e.target);
 
-          // If this tab's top screen isn't index, reset to index.
-          // This handles screens pushed from other tabs (e.g. Home shortcuts).
+          // If this tab's top screen isn't index, fully reset its stack to index.
+          // This clears orphaned screens pushed from other tabs (e.g. Home shortcuts).
           const nestedState = targetRoute?.state;
           if (nestedState) {
             const topScreen = nestedState.routes[nestedState.index ?? 0];
             if (topScreen?.name !== 'index') {
               e.preventDefault();
-              navigation.navigate(route.name, { screen: 'index' });
+              if (nestedState.key) {
+                navigation.dispatch({
+                  ...CommonActions.reset({
+                    index: 0,
+                    routes: [{ name: 'index' }],
+                  }),
+                  target: nestedState.key,
+                });
+              }
+              navigation.navigate(route.name);
             }
           }
         },
