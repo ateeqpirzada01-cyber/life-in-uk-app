@@ -7,6 +7,18 @@ export default function TabLayout() {
 
   return (
     <Tabs
+      screenListeners={({ route, navigation }) => ({
+        tabPress: (e) => {
+          const state = navigation.getState();
+          const targetRoute = state.routes.find((r: any) => r.key === e.target);
+
+          // If this tab has nested screens beyond root, reset to root
+          if (targetRoute?.state?.index !== undefined && targetRoute.state.index > 0) {
+            e.preventDefault();
+            navigation.navigate(route.name, { screen: 'index' });
+          }
+        },
+      })}
       screenOptions={{
         tabBarActiveTintColor: colors.primary,
         tabBarInactiveTintColor: colors.textTertiary,
