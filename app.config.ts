@@ -63,6 +63,12 @@ export default ({ config }: ConfigContext): ExpoConfig => {
       output: 'static',
       favicon: './assets/images/favicon.png',
     },
+    updates: {
+      url: 'https://u.expo.dev/a90876be-7d9b-4325-a962-244b16f870b6',
+    },
+    runtimeVersion: {
+      policy: 'appVersion',
+    },
     plugins,
     experiments: {
       typedRoutes: true,
