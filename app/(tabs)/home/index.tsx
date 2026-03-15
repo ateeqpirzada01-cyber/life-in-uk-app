@@ -9,7 +9,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import { useRouter } from 'expo-router';
-import { useFocusEffect } from '@react-navigation/native';
+import { CommonActions, useFocusEffect, useNavigation } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useTheme } from '@/src/hooks/useTheme';
@@ -27,7 +27,22 @@ import { CategoryStats } from '@/src/types';
 export default function HomeScreen() {
   const colors = useTheme();
   const router = useRouter();
+  const navigation = useNavigation();
   const user = useAuthStore((s) => s.user);
+
+  // Navigate to a practice screen by switching to the Practice tab first,
+  // so the screen lives in the Practice tab's stack (not the Home tab's).
+  const navigateToPractice = useCallback((screen: string, params?: Record<string, string>) => {
+    navigation.dispatch(
+      CommonActions.navigate({
+        name: 'practice',
+        params: {
+          screen,
+          params,
+        },
+      })
+    );
+  }, [navigation]);
   const profile = useProgressStore((s) => s.profile);
   const setProfile = useProgressStore((s) => s.setProfile);
   const categoryStats = useProgressStore((s) => s.categoryStats);
@@ -145,7 +160,7 @@ export default function HomeScreen() {
         <View style={styles.quickAccessGrid}>
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: colors.primary + '10' }]}
-            onPress={() => router.push('/(tabs)/practice/quiz')}
+            onPress={() => navigateToPractice('quiz')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: colors.primary + '20' }]}>
               <Ionicons name="help-circle" size={24} color={colors.primary} />
@@ -155,7 +170,7 @@ export default function HomeScreen() {
 
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: colors.error + '10' }]}
-            onPress={() => router.push('/(tabs)/practice/mock-exam')}
+            onPress={() => navigateToPractice('mock-exam')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: colors.error + '20' }]}>
               <Ionicons name="timer" size={24} color={colors.error} />
@@ -165,7 +180,7 @@ export default function HomeScreen() {
 
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: colors.info + '10' }]}
-            onPress={() => router.push('/(tabs)/practice/practice-tests')}
+            onPress={() => navigateToPractice('practice-tests')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: colors.info + '20' }]}>
               <Ionicons name="document-text" size={24} color={colors.info} />
@@ -175,7 +190,7 @@ export default function HomeScreen() {
 
           <TouchableOpacity
             style={[styles.quickCard, { backgroundColor: colors.primaryLight + '10' }]}
-            onPress={() => router.push('/(tabs)/practice/flashcards')}
+            onPress={() => navigateToPractice('flashcards')}
           >
             <View style={[styles.quickIconWrap, { backgroundColor: colors.primaryLight + '20' }]}>
               <Ionicons name="copy" size={24} color={colors.primaryLight} />
@@ -188,10 +203,7 @@ export default function HomeScreen() {
         {weakestCategory ? (
           <TouchableOpacity
             style={[styles.focusCard, { backgroundColor: colors.card, borderColor: colors.warning + '40' }]}
-            onPress={() => router.push({
-              pathname: '/(tabs)/practice/category-select',
-              params: { preselect: weakestCategory.category },
-            })}
+            onPress={() => navigateToPractice('category-select', { preselect: weakestCategory.category })}
           >
             <View style={styles.focusHeader}>
               <Ionicons name="locate" size={18} color={colors.warning} />
