@@ -9,7 +9,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import { useRouter } from 'expo-router';
-import { CommonActions, useFocusEffect, useNavigation } from '@react-navigation/native';
+import { useFocusEffect } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useTheme } from '@/src/hooks/useTheme';
@@ -27,21 +27,13 @@ import { CategoryStats } from '@/src/types';
 export default function HomeScreen() {
   const colors = useTheme();
   const router = useRouter();
-  const navigation = useNavigation();
   const user = useAuthStore((s) => s.user);
 
-  // Navigate to a practice screen: first ensure Practice tab is at index,
-  // then push the target screen on top. This way back pops to Practice index.
+  // Navigate to a practice screen instantly via router.push.
+  // The tab layout's tabPress listener handles cleanup when Practice tab is tapped.
   const navigateToPractice = useCallback((screen: string, params?: Record<string, string>) => {
-    // Step 1: Navigate to Practice tab at its index screen
-    navigation.dispatch(
-      CommonActions.navigate({ name: 'practice', params: { screen: 'index' } })
-    );
-    // Step 2: Push the target screen on top after a tick
-    setTimeout(() => {
-      router.push({ pathname: `/(tabs)/practice/${screen}` as any, params });
-    }, 50);
-  }, [navigation, router]);
+    router.push({ pathname: `/(tabs)/practice/${screen}` as any, params });
+  }, [router]);
   const profile = useProgressStore((s) => s.profile);
   const setProfile = useProgressStore((s) => s.setProfile);
   const categoryStats = useProgressStore((s) => s.categoryStats);

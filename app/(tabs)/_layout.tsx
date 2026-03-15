@@ -12,10 +12,15 @@ export default function TabLayout() {
           const state = navigation.getState();
           const targetRoute = state.routes.find((r: any) => r.key === e.target);
 
-          // If this tab has nested screens beyond root, reset to root
-          if (targetRoute?.state?.index !== undefined && targetRoute.state.index > 0) {
-            e.preventDefault();
-            navigation.navigate(route.name, { screen: 'index' });
+          // If this tab's top screen isn't index, reset to index.
+          // This handles screens pushed from other tabs (e.g. Home shortcuts).
+          const nestedState = targetRoute?.state;
+          if (nestedState) {
+            const topScreen = nestedState.routes[nestedState.index ?? 0];
+            if (topScreen?.name !== 'index') {
+              e.preventDefault();
+              navigation.navigate(route.name, { screen: 'index' });
+            }
           }
         },
       })}
