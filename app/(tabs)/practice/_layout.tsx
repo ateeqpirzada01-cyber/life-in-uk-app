@@ -10,6 +10,7 @@ export default function PracticeLayout() {
         headerStyle: { backgroundColor: colors.surface },
         headerTintColor: colors.text,
         headerShadowVisible: false,
+        animation: 'slide_from_right',
       }}
     >
       <Stack.Screen name="index" options={{ title: 'Practice', headerShown: false }} />
